@@ -21,7 +21,6 @@ const filteredProjects = () =>
       project.description,
       project.sector,
       project.duration,
-      project.budget,
       project.deliverables,
       project.clientGoal,
       project.challenge,
@@ -120,7 +119,6 @@ const openCase = (project) => {
   appendFacts(facts, [
     { label: "Sector", value: project.sector },
     { label: "Fecha", value: project.duration },
-    { label: "Inversión", value: project.budget },
     { label: "Referencia", value: project.startedAt },
   ]);
 
@@ -188,7 +186,6 @@ const renderProjects = () => {
     appendFacts(facts, [
       { label: "Sector", value: project.sector },
       { label: "Fecha", value: project.duration },
-      { label: "Desde", value: project.budget },
     ]);
     appendTags(tags, project.tags);
 

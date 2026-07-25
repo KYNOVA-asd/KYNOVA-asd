@@ -8,16 +8,16 @@ export const portfolio = {
   },
   stats: [
     {
-      value: "Links",
-      label: "recursos externos y evidencia organizada por cada caso.",
+      value: "Web",
+      label: "sitios claros para presentar servicios y generar contacto.",
     },
     {
-      value: "Fotos",
-      label: "presentación visual para mostrar mejor cada trabajo.",
+      value: "Sistemas",
+      label: "herramientas internas para ordenar procesos y datos.",
     },
     {
-      value: "Simple",
-      label: "contacto directo y navegación clara para tus clientes.",
+      value: "Marketing",
+      label: "presencia visual y mensajes listos para compartir.",
     },
   ],
   projects,

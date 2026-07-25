@@ -98,7 +98,7 @@ export const renderPortfolio = ({ contact, stats, projects, services, skills }) 
     statsContainer.append(card);
   });
 
-  projects.forEach((project) => {
+  projects.slice(0, 3).forEach((project) => {
     const card = createElement("article", "project-card");
     const image = createElement("img", "project-card__image");
     const body = createElement("div", "project-card__body");

@@ -119,9 +119,9 @@ const openCase = (project) => {
 
   appendFacts(facts, [
     { label: "Sector", value: project.sector },
-    { label: "Duración", value: project.duration },
+    { label: "Fecha", value: project.duration },
     { label: "Inversión", value: project.budget },
-    { label: "Inicio", value: project.startedAt },
+    { label: "Referencia", value: project.startedAt },
   ]);
 
   appendSections(sections, [
@@ -187,7 +187,7 @@ const renderProjects = () => {
     meta.append(createElement("span", "", project.category));
     appendFacts(facts, [
       { label: "Sector", value: project.sector },
-      { label: "Duración", value: project.duration },
+      { label: "Fecha", value: project.duration },
       { label: "Desde", value: project.budget },
     ]);
     appendTags(tags, project.tags);

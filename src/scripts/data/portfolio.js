@@ -4,7 +4,7 @@ export const portfolio = {
   contact: {
     phoneLabel: "+52 998 744 9856",
     whatsapp: "529987449856",
-    github: "https://github.com/1Don2angello",
+    github: "https://github.com/KYNOVA-asd",
   },
   stats: [
     {

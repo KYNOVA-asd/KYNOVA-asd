@@ -80,6 +80,7 @@ export const projects = [
     details: ["Flujo de respuestas.", "Consulta básica.", "Datos de ejemplo."],
     clientFit: "Ideal para demos de atención básica o soporte inicial.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. No incluye SQL real.",
+    logo: "https://www.google.com/s2/favicons?domain=utcancun.edu.mx&sz=128",
     image: "./assets/projects/dev/chatbot.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
@@ -107,6 +108,7 @@ export const projects = [
     details: ["Panel visual.", "Apoyo operativo.", "Configuración sanitizada."],
     clientFit: "Ideal para equipos que necesitan herramientas simples de apoyo interno.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. Revisar scripts antes de publicar.",
+    logo: "https://www.google.com/s2/favicons?domain=peromec.com&sz=128",
     image: "./assets/projects/dev/call-center.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?auto=format&fit=crop&w=1200&q=80",
@@ -134,6 +136,7 @@ export const projects = [
     details: ["Interfaz web.", "Módulos administrativos.", "Endpoint demo local."],
     clientFit: "Ideal para hoteles o empresas con operación por módulos.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. No incluye endpoint privado.",
+    logo: "https://www.google.com/s2/favicons?domain=krystal-cancun.com&sz=128",
     image: "./assets/projects/dev/hera-hotels.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
@@ -161,6 +164,7 @@ export const projects = [
     details: ["API .NET.", "Modelos y controladores.", "Conexión demo."],
     clientFit: "Ideal para sistemas internos con backend separado.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. Configuración real eliminada.",
+    logo: "https://www.google.com/s2/favicons?domain=krystal-cancun.com&sz=128",
     image: "./assets/projects/dev/backend-api.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80",
@@ -188,6 +192,7 @@ export const projects = [
     details: ["Tickets.", "Roles.", "Seguimiento de incidencias."],
     clientFit: "Ideal para empresas con soporte interno o mantenimiento por áreas.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. No incluye base real.",
+    logo: "https://www.google.com/s2/favicons?domain=krystal-cancun.com&sz=128",
     image: "./assets/projects/dev/saira-hotels.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80",
@@ -215,6 +220,7 @@ export const projects = [
     details: ["Endpoints.", "Usuarios y roles.", "Historial de tickets."],
     clientFit: "Ideal para sistemas que necesitan backend separado del frontend.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. Revisar de nuevo antes de hacerlo público.",
+    logo: "https://www.google.com/s2/favicons?domain=krystal-cancun.com&sz=128",
     image: "./assets/projects/dev/saira-api.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
@@ -242,6 +248,7 @@ export const projects = [
     details: ["Python.", "Interfaz interna.", "Automatización de capturas."],
     clientFit: "Ideal para equipos que necesitan utilidades internas a medida.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. No incluye ejecutables generados.",
+    logo: "https://www.google.com/s2/favicons?domain=mindata.es&sz=128",
     image: "./assets/projects/dev/autoscreen.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
@@ -269,6 +276,7 @@ export const projects = [
     details: ["Panel web.", "Firebase demo.", "Interfaz administrativa."],
     clientFit: "Ideal para propuestas, concursos o MVPs de operación urbana.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. Keys reemplazadas por placeholders.",
+    logo: "https://www.google.com/s2/favicons?domain=imoveqroo.qroo.gob.mx&sz=128",
     image: "./assets/projects/dev/gocity-panel.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80",
@@ -296,6 +304,7 @@ export const projects = [
     details: ["Ionic.", "Angular.", "Capacitor."],
     clientFit: "Ideal para MVPs móviles y prototipos de concurso.",
     confidentiality: "Repositorio pendiente en GitHub KYNOVA. API key reemplazada por placeholder.",
+    logo: "https://www.google.com/s2/favicons?domain=imoveqroo.qroo.gob.mx&sz=128",
     image: "./assets/projects/dev/gocity-app.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?auto=format&fit=crop&w=1200&q=80",
@@ -323,6 +332,7 @@ export const projects = [
     details: ["Sitio web publicado.", "Mensaje comercial.", "Apoyo de redes sociales."],
     clientFit: "Ideal para marcas personales que quieren verse profesionales y cercanas.",
     confidentiality: "Caso público con sitio activo.",
+    logo: "https://www.google.com/s2/favicons?domain=marlentucoach.com&sz=128",
     image: "./assets/projects/marketing/marlen-brand.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1557838923-2985c318be48?auto=format&fit=crop&w=1200&q=80",

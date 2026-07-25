@@ -50,6 +50,35 @@ const appendTags = (container, tags) => {
   tags.forEach((tag) => container.append(createElement("span", "tag", tag)));
 };
 
+const getBrandInitials = (project) => {
+  const words = (project.company || project.title)
+    .replace(/[^\p{L}\p{N}\s]/gu, " ")
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean);
+
+  return words
+    .slice(0, 2)
+    .map((word) => word[0])
+    .join("")
+    .toUpperCase();
+};
+
+const appendBrandMark = (brand, project) => {
+  if (project.logo) {
+    const logo = createElement("img", "case-card__logo");
+    logo.src = resolvePageImage(project.logo);
+    logo.alt = `Logo de ${project.company}`;
+    logo.onerror = () => {
+      logo.replaceWith(createElement("span", "case-card__mark", getBrandInitials(project)));
+    };
+    brand.append(logo);
+    return;
+  }
+
+  brand.append(createElement("span", "case-card__mark", getBrandInitials(project)));
+};
+
 const appendFacts = (container, facts) => {
   container.replaceChildren();
   facts
@@ -173,13 +202,7 @@ const renderProjects = () => {
     const button = createElement("button", "button button--primary", "Ver caso");
 
     fillImage(image, project, "case-card__image");
-    if (project.logo) {
-      const logo = createElement("img", "case-card__logo");
-      logo.src = resolvePageImage(project.logo);
-      logo.alt = `Logo de ${project.company}`;
-      brand.append(logo);
-    }
-
+    appendBrandMark(brand, project);
     brand.append(createElement("span", "", project.company));
     meta.append(createElement("span", "", project.involvement || project.owner));
     meta.append(createElement("span", "", project.category));

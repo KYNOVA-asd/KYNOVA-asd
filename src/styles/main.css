@@ -948,12 +948,27 @@ textarea {
   font-weight: 900;
 }
 
-.case-card__logo {
+.case-card__logo,
+.case-card__mark {
   width: 34px;
   height: 34px;
   border: 1px solid var(--line);
   border-radius: 50%;
+  flex: 0 0 auto;
+}
+
+.case-card__logo {
   object-fit: cover;
+}
+
+.case-card__mark {
+  display: grid;
+  place-items: center;
+  background: var(--surface-strong);
+  color: #fffdf8;
+  font-size: 0.74rem;
+  font-weight: 900;
+  letter-spacing: 0;
 }
 
 .case-card__body h2 {

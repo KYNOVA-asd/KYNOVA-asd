@@ -19,6 +19,14 @@ const filteredProjects = () =>
       project.company,
       project.category,
       project.description,
+      project.sector,
+      project.duration,
+      project.budget,
+      project.deliverables,
+      project.clientGoal,
+      project.challenge,
+      project.solution,
+      project.result,
       project.owner,
       project.involvement,
       project.tags.join(" "),
@@ -43,6 +51,30 @@ const appendTags = (container, tags) => {
   tags.forEach((tag) => container.append(createElement("span", "tag", tag)));
 };
 
+const appendFacts = (container, facts) => {
+  container.replaceChildren();
+  facts
+    .filter((fact) => fact.value)
+    .forEach((fact) => {
+      const item = createElement("div", "case-fact");
+      item.append(createElement("span", "", fact.label));
+      item.append(createElement("strong", "", fact.value));
+      container.append(item);
+    });
+};
+
+const appendSections = (container, sections) => {
+  container.replaceChildren();
+  sections
+    .filter((section) => section.text)
+    .forEach((section) => {
+      const block = createElement("section", "case-section");
+      block.append(createElement("h3", "", section.title));
+      block.append(createElement("p", "", section.text));
+      container.append(block);
+    });
+};
+
 const openCase = (project) => {
   const modal = select("[data-case-modal]");
   const image = select("[data-case-image]");
@@ -50,13 +82,30 @@ const openCase = (project) => {
   const title = select("[data-case-title]");
   const company = select("[data-case-company]");
   const summary = select("[data-case-summary]");
+  const facts = select("[data-case-facts]");
+  const sections = select("[data-case-sections]");
   const bullets = select("[data-case-bullets]");
   const fit = select("[data-case-fit]");
   const note = select("[data-case-note]");
   const tags = select("[data-case-tags]");
   const link = select("[data-case-link]");
 
-  if (!modal || !image || !area || !title || !company || !summary || !bullets || !fit || !note || !tags || !link) return;
+  if (
+    !modal ||
+    !image ||
+    !area ||
+    !title ||
+    !company ||
+    !summary ||
+    !facts ||
+    !sections ||
+    !bullets ||
+    !fit ||
+    !note ||
+    !tags ||
+    !link
+  )
+    return;
 
   fillImage(image, project, "case-modal__image");
   area.textContent = project.involvement || project.owner;
@@ -66,6 +115,21 @@ const openCase = (project) => {
   fit.textContent = project.clientFit;
   note.textContent = project.confidentiality || "";
   link.href = project.link;
+  link.textContent = project.link.includes("github.com") ? "Ver repositorio" : "Ver sitio";
+
+  appendFacts(facts, [
+    { label: "Sector", value: project.sector },
+    { label: "Duración", value: project.duration },
+    { label: "Inversión", value: project.budget },
+    { label: "Inicio", value: project.startedAt },
+  ]);
+
+  appendSections(sections, [
+    { title: "Objetivo", text: project.clientGoal },
+    { title: "Reto", text: project.challenge },
+    { title: "Solución", text: project.solution },
+    { title: "Resultado", text: project.result },
+  ]);
 
   bullets.replaceChildren();
   project.details.forEach((item) => bullets.append(createElement("li", "", item)));
@@ -106,6 +170,7 @@ const renderProjects = () => {
     const body = createElement("div", "case-card__body");
     const brand = createElement("div", "case-card__brand");
     const meta = createElement("div", "project-row__meta");
+    const facts = createElement("div", "case-card__facts");
     const tags = createElement("div", "project-card__meta");
     const button = createElement("button", "button button--primary", "Ver caso");
 
@@ -120,6 +185,11 @@ const renderProjects = () => {
     brand.append(createElement("span", "", project.company));
     meta.append(createElement("span", "", project.involvement || project.owner));
     meta.append(createElement("span", "", project.category));
+    appendFacts(facts, [
+      { label: "Sector", value: project.sector },
+      { label: "Duración", value: project.duration },
+      { label: "Desde", value: project.budget },
+    ]);
     appendTags(tags, project.tags);
 
     button.type = "button";
@@ -129,6 +199,7 @@ const renderProjects = () => {
     body.append(meta);
     body.append(createElement("h2", "", project.title));
     body.append(createElement("p", "", project.description));
+    body.append(facts);
     body.append(tags);
     body.append(button);
     card.append(image, body);

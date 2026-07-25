@@ -5,9 +5,22 @@ export const projects = [
     owner: "Dev",
     involvement: "Solo dev",
     category: "Sistema interno",
+    sector: "Agro / operaciones",
+    duration: "3 a 4 semanas",
+    budget: "Desde $350 USD",
+    startedAt: "2026",
+    deliverables: "Sistema web, flujo de registros y repositorio de referencia.",
     description: "Herramienta para ordenar registros y apoyar la operación diaria.",
     summary:
-      "Sistema creado para un uso específico en ganadería. El caso se presenta sin marca comercial para cuidar la información del cliente.",
+      "Sistema web para ordenar la información principal de un negocio ganadero. El objetivo fue dejar registros sueltos y pasar a una consulta más clara para la operación diaria.",
+    clientGoal:
+      "Tener una herramienta sencilla para revisar información del ganado, dar seguimiento a registros y mantener todo en un mismo lugar.",
+    challenge:
+      "La información debía organizarse sin volver pesado el uso diario. También se cuidó que el caso pudiera mostrarse sin datos reales del cliente.",
+    solution:
+      "Se preparó una estructura web con navegación simple, pantallas de consulta y una base lista para crecer según nuevas necesidades.",
+    result:
+      "El proyecto dejó una forma más práctica de revisar datos y una versión pública útil para mostrar la estructura sin exponer información privada.",
     details: [
       "Registro y consulta de información operativa.",
       "Flujo simple para uso interno.",
@@ -28,9 +41,22 @@ export const projects = [
     owner: "Dev",
     involvement: "Solo dev",
     category: "Sistema interno",
+    sector: "Automotriz / servicios",
+    duration: "2 a 3 semanas",
+    budget: "Desde $300 USD",
+    startedAt: "2026",
+    deliverables: "Agenda interna, control de citas y repo alterno.",
     description: "Agenda y control de citas con información protegida.",
     summary:
-      "Proyecto interno para organizar citas y seguimiento. Por manejo de datos sensibles, se comparte un repositorio alterno sin base de datos real.",
+      "Proyecto interno para organizar citas y dar seguimiento a solicitudes de servicio. Se comparte una versión alterna para mostrar la estructura sin datos sensibles.",
+    clientGoal:
+      "Ordenar citas, revisar estados y reducir mensajes dispersos entre atención y operación.",
+    challenge:
+      "El proyecto manejaba información privada, por lo que la evidencia pública debía ser clara sin revelar base de datos ni clientes reales.",
+    solution:
+      "Se separó la lógica visible del proyecto y se preparó un repositorio alterno que permite revisar organización, pantallas y flujo general.",
+    result:
+      "La operación quedó más ordenada y el caso se puede presentar de forma profesional cuidando la privacidad de la marca.",
     details: [
       "Agenda de citas y estados básicos.",
       "Estructura separada de información confidencial.",
@@ -52,9 +78,22 @@ export const projects = [
     owner: "Dev",
     involvement: "Solo dev",
     category: "Sistema privado",
+    sector: "Salud / administración",
+    duration: "Proyecto privado",
+    budget: "Según alcance",
+    startedAt: "2026",
+    deliverables: "Sistema interno y flujo de consulta privada.",
     description: "Solución interna para control y consulta de información médica.",
     summary:
-      "Caso privado con descripción breve. Se muestra el enfoque general sin exponer datos, usuarios ni estructura sensible.",
+      "Caso privado orientado a ordenar información interna en un entorno médico. La descripción se mantiene general por el tipo de datos del proyecto.",
+    clientGoal:
+      "Contar con una herramienta interna para consultar registros y apoyar procesos administrativos.",
+    challenge:
+      "El contenido del sistema no podía exponerse. La presentación del caso debía comunicar valor sin mostrar información sensible.",
+    solution:
+      "Se trabajó una estructura privada con accesos y vistas enfocadas en consulta rápida para usuarios autorizados.",
+    result:
+      "El cliente obtuvo una base interna más ordenada y el caso se mantiene documentado de forma segura.",
     details: [
       "Gestión interna de registros.",
       "Consulta rápida para usuarios autorizados.",
@@ -75,9 +114,22 @@ export const projects = [
     owner: "Marketing",
     involvement: "Solo marketing",
     category: "Contenido digital",
+    sector: "Marketing / redes",
+    duration: "1 a 2 semanas",
+    budget: "Desde $150 USD",
+    startedAt: "2026",
+    deliverables: "Concepto, piezas visuales y calendario breve.",
     description: "Caso para presentar estrategia, piezas visuales y resultados de campaña.",
     summary:
-      "Espacio pensado para mostrar trabajos de marketing sin mezclarlo con desarrollo web.",
+      "Trabajo de marketing pensado para ordenar el mensaje de una marca y convertirlo en piezas claras para redes o promoción.",
+    clientGoal:
+      "Comunicar mejor una oferta, mantener una línea visual y tener contenido listo para publicar.",
+    challenge:
+      "La marca necesitaba verse más clara sin saturar el mensaje ni depender de textos largos.",
+    solution:
+      "Se propuso una línea visual simple, mensajes directos y piezas organizadas por objetivo.",
+    result:
+      "El contenido queda más fácil de publicar, presentar y mantener en futuras campañas.",
     details: [
       "Objetivo de campaña y enfoque visual.",
       "Piezas para redes o promoción.",
@@ -98,9 +150,22 @@ export const projects = [
     owner: "Ambos",
     involvement: "Dev + marketing",
     category: "Marca personal",
+    sector: "Marca personal / servicios",
+    duration: "2 a 4 semanas",
+    budget: "Desde $450 USD",
+    startedAt: "2026",
+    deliverables: "Sitio web, mensaje, estructura de secciones y contacto.",
     description: "Sitio web y comunicación digital para presentar una marca personal.",
     summary:
-      "Caso combinado de desarrollo y marketing: estructura web, mensaje, secciones, imagen y contacto directo.",
+      "Caso combinado para presentar una marca personal con sitio web, mensaje claro y contacto directo.",
+    clientGoal:
+      "Mostrar servicios, generar confianza y facilitar que una persona interesada pueda contactar rápido.",
+    challenge:
+      "La marca necesitaba verse profesional y cercana al mismo tiempo, sin cargar la página con información innecesaria.",
+    solution:
+      "Se trabajó la estructura del sitio, textos breves, secciones comerciales y una ruta directa hacia contacto.",
+    result:
+      "La marca tiene una presencia digital más clara, lista para compartir y conectar con nuevos clientes.",
     details: [
       "Sitio web publicado para presentar servicios.",
       "Mensaje breve, claro y orientado a contacto.",

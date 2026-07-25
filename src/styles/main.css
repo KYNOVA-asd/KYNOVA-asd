@@ -967,6 +967,38 @@ textarea {
   line-height: 1.62;
 }
 
+.case-card__facts,
+.case-facts {
+  display: grid;
+  gap: 8px;
+}
+
+.case-card__facts {
+  margin-top: 14px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 12px 0;
+}
+
+.case-fact {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 14px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.35;
+}
+
+.case-fact span {
+  flex: 0 0 auto;
+}
+
+.case-fact strong {
+  color: var(--surface-strong);
+  text-align: right;
+}
+
 .case-card__body .button {
   width: 100%;
   margin-top: 18px;
@@ -1049,6 +1081,58 @@ textarea {
 .case-modal__content p {
   color: var(--muted);
   line-height: 1.72;
+}
+
+.case-facts {
+  grid-template-columns: repeat(4, 1fr);
+  margin: 20px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 16px 0;
+}
+
+.case-facts .case-fact {
+  display: grid;
+  gap: 5px;
+  justify-content: initial;
+  border-right: 1px solid var(--line);
+  padding-right: 14px;
+}
+
+.case-facts .case-fact:last-child {
+  border-right: 0;
+}
+
+.case-facts .case-fact strong {
+  text-align: left;
+}
+
+.case-sections {
+  display: grid;
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.case-section {
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
+.case-section h3,
+.case-modal__subhead {
+  margin: 0 0 6px;
+  color: var(--surface-strong);
+  font-size: 0.88rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.case-section p {
+  margin: 0;
+}
+
+.case-modal__subhead {
+  margin-top: 18px;
 }
 
 .case-modal__company {
@@ -1146,6 +1230,15 @@ textarea {
   }
 
   .case-modal__content {
+    padding-right: 0;
+  }
+
+  .case-facts {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .case-facts .case-fact {
+    border-right: 0;
     padding-right: 0;
   }
 

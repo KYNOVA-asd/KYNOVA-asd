@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Casos de KYNOVA por área, empresa, resultados, enlaces y evidencia visual." />
+    <title>Proyectos | KYNOVA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../src/styles/main.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header" data-header>
+        <a class="brand" href="../">
+          <img class="brand__logo" src="../assets/brand/LOGO-kynova.webp" alt="KYNOVA" />
+        </a>
+        <button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" data-nav-toggle>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav class="site-nav" aria-label="Navegación principal" data-nav>
+          <a href="../nosotros/">Nosotros</a>
+          <a href="../proyectos/">Proyectos</a>
+          <a href="../costos/">Costos</a>
+          <a href="../contacto/">Contacto</a>
+          <a href="../llamanos/">Llámanos</a>
+        </nav>
+      </header>
+
+      <main class="simple-page project-directory">
+        <p class="eyebrow">Proyectos</p>
+        <h1>Casos por área, empresa y objetivo.</h1>
+        <p>
+          Elige lo que buscas y revisa trabajos con contexto, objetivos y evidencia visual.
+        </p>
+
+        <section class="project-browser" aria-label="Buscador de proyectos">
+          <div class="project-tools">
+            <div class="project-filters" aria-label="Filtros de proyectos">
+              <button class="project-filter is-active" type="button" data-project-filter="Todos">
+                <strong>Todos</strong>
+                <span>Vista completa</span>
+              </button>
+              <button class="project-filter" type="button" data-project-filter="Dev">
+                <strong>Solo dev</strong>
+                <span>Sistemas y estructura</span>
+              </button>
+              <button class="project-filter" type="button" data-project-filter="Marketing">
+                <strong>Solo marketing</strong>
+                <span>Campañas y contenido</span>
+              </button>
+              <button class="project-filter" type="button" data-project-filter="Ambos">
+                <strong>Dev + marketing</strong>
+                <span>Sitio, marca y contacto</span>
+              </button>
+            </div>
+            <label class="project-search">
+              Buscar
+              <input data-project-search type="search" placeholder="Empresa, tipo, tecnología..." />
+            </label>
+            <span class="project-count" data-project-count></span>
+          </div>
+
+          <div class="case-grid" data-project-list></div>
+        </section>
+      </main>
+    </div>
+
+    <div class="case-modal" data-case-modal aria-hidden="true">
+      <div class="case-modal__backdrop" data-case-close></div>
+      <article class="case-modal__sheet" role="dialog" aria-modal="true" aria-labelledby="case-modal-title">
+        <button class="project-modal__close" type="button" aria-label="Cerrar caso" data-case-close>×</button>
+        <img class="case-modal__image" src="" alt="" data-case-image />
+        <div class="case-modal__content">
+          <p class="eyebrow" data-case-area></p>
+          <h2 id="case-modal-title" data-case-title></h2>
+          <p class="case-modal__company" data-case-company></p>
+          <p data-case-summary></p>
+          <ul class="project-detail__bullets" data-case-bullets></ul>
+          <p class="project-detail__fit" data-case-fit></p>
+          <p class="case-modal__note" data-case-note></p>
+          <div class="project-modal__tags" data-case-tags></div>
+          <a class="button button--primary" href="#" target="_blank" rel="noreferrer" data-case-link>
+            Ver recurso externo
+          </a>
+        </div>
+      </article>
+    </div>
+
+    <script type="module" src="../src/scripts/site.js"></script>
+    <script type="module" src="../src/scripts/projectPage.js"></script>
+  </body>
+</html>

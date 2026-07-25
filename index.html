@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Portafolio comercial de KYNOVA con proyectos de desarrollo web, marketing digital y contacto directo."
+    />
+    <title>KYNOVA | Portafolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header" data-header>
+        <a class="brand" href="#inicio" aria-label="Ir al inicio">
+          <img class="brand__logo" src="./assets/brand/LOGO-kynova.webp" alt="KYNOVA" />
+        </a>
+
+        <button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" data-nav-toggle>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <nav class="site-nav" aria-label="Navegación principal" data-nav>
+          <a href="./nosotros/">Nosotros</a>
+          <a href="./proyectos/">Proyectos</a>
+          <a href="./costos/">Costos</a>
+          <a href="./contacto/">Contacto</a>
+          <a href="./llamanos/">Llámanos</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="brand-banner" aria-label="Banner KYNOVA">
+          <img src="./assets/brand/banner-kynova.webp" alt="KYNOVA soluciones digitales" />
+        </section>
+
+        <section class="hero section" id="inicio">
+          <div class="hero__content">
+            <p class="eyebrow">Desarrollo web / marketing digital</p>
+            <h1>Soluciones digitales para marcas que quieren verse profesionales.</h1>
+            <p class="hero__lead">
+              Desarrollo web y marketing digital en una experiencia clara:
+              proyectos, imagen y contacto directo.
+            </p>
+            <div class="hero__actions">
+              <a class="button button--primary" href="./proyectos/">Ver proyectos</a>
+              <a class="button button--ghost" href="./contacto/">Contactar</a>
+            </div>
+          </div>
+
+          <div class="hero-summary" aria-label="Resumen de servicios">
+            <article>
+              <span>01</span>
+              <h2>Desarrollo web</h2>
+              <p>Sitios, sistemas y portafolios claros, rápidos y listos para crecer.</p>
+            </article>
+            <article>
+              <span>02</span>
+              <h2>Marketing digital</h2>
+              <p>Contenido, campañas y presencia visual para comunicar mejor tu marca.</p>
+            </article>
+            <article>
+              <span>03</span>
+              <h2>Contacto directo</h2>
+              <p>Una ruta simple para iniciar conversación y recibir una propuesta clara.</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section section--compact">
+          <div class="stats" data-stats></div>
+        </section>
+
+        <section class="section" id="proyectos">
+          <div class="catalog-heading">
+            <div>
+              <p class="eyebrow">Trabajo destacado</p>
+              <h2>Casos seleccionados de desarrollo y marketing.</h2>
+            </div>
+            <p>
+              Explora trabajos con contexto, objetivos y resultados. Cada caso presenta
+              primero el valor entregado y después los recursos relacionados.
+            </p>
+          </div>
+          <div class="projects" data-projects></div>
+          <div class="section-action">
+            <a class="button button--ghost" href="./proyectos/">Explorar todos los casos</a>
+          </div>
+        </section>
+
+        <section class="section services" id="servicios">
+          <div class="section-heading">
+            <p class="eyebrow">Servicios</p>
+            <h2>Desarrollo y marketing en un solo lugar.</h2>
+          </div>
+          <div class="services-grid" data-services></div>
+        </section>
+
+        <section class="section" id="habilidades">
+          <div class="section-heading">
+            <p class="eyebrow">Stack y fortalezas</p>
+            <h2>Herramientas justas para resolver bien.</h2>
+          </div>
+          <div class="skills-grid" data-skills></div>
+        </section>
+
+        <section class="section contact" id="contacto">
+          <div>
+            <p class="eyebrow">Contacto</p>
+            <h2>Cuéntanos qué quieres construir.</h2>
+            <p>
+              Comparte una idea breve y te contactamos para aterrizar alcance,
+              tiempos y siguiente paso.
+            </p>
+            <div class="contact-links" data-contact-links></div>
+          </div>
+          <form class="contact-card" data-contact-form>
+            <label>
+              Nombre
+              <input name="name" type="text" placeholder="Tu nombre" required />
+            </label>
+            <label>
+              Mensaje
+              <input
+                name="message"
+                type="text"
+                maxlength="40"
+                placeholder="Me gustaría cotizar"
+                required
+              />
+              <small class="field-hint">Máximo 40 caracteres.</small>
+            </label>
+            <button class="button button--primary" type="submit">Cotizar por WhatsApp</button>
+            <p class="form-note" data-form-note role="status"></p>
+          </form>
+        </section>
+      </main>
+    </div>
+
+    <div class="project-modal" data-project-modal aria-hidden="true">
+      <div class="project-modal__backdrop" data-modal-close></div>
+      <article class="project-modal__sheet" role="dialog" aria-modal="true" aria-labelledby="project-modal-title">
+        <button class="project-modal__close" type="button" aria-label="Cerrar detalle" data-modal-close>×</button>
+        <img class="project-modal__image" src="" alt="" data-modal-image />
+        <div class="project-modal__content">
+          <p class="eyebrow" data-modal-category></p>
+          <h2 id="project-modal-title" data-modal-title></h2>
+          <p data-modal-description></p>
+          <ul class="project-detail__bullets" data-modal-details></ul>
+          <p class="project-detail__fit" data-modal-fit></p>
+          <p class="case-modal__note" data-modal-note></p>
+          <div class="project-modal__tags" data-modal-tags></div>
+          <a class="button button--primary" href="#" target="_blank" rel="noreferrer" data-modal-link>Ver recurso externo</a>
+        </div>
+      </article>
+    </div>
+
+    <script type="module" src="./src/scripts/app.js"></script>
+  </body>
+</html>

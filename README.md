@@ -1,16 +1,25 @@
-## Hi there 👋
+# KYNOVA Portfolio
 
-<!--
-**KYNOVA-asd/KYNOVA-asd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portafolio creado con HTML, CSS y JavaScript vanilla. La estructura separa datos,
+estilos y comportamiento para mantener el proyecto fácil de editar sin depender
+de Angular ni de un framework pesado.
 
-Here are some ideas to get you started:
+## Estructura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `index.html`: maqueta principal del sitio.
+- `src/styles/main.css`: estilos globales, responsive y componentes visuales.
+- `src/scripts/data/portfolio.js`: contenido editable de proyectos, skills y proceso.
+- `src/scripts/data/projects.js`: links, textos e imágenes de cada proyecto.
+- `assets/projects`: carpeta para subir capturas o imágenes de los proyectos.
+- `assets/brand/LOGO-kynova.webp`: logo principal.
+- `assets/brand/banner-kynova.webp`: banner principal del home.
+- `src/scripts/features`: modulos de navegacion, formulario, renderizado y canvas.
+- `src/scripts/core`: utilidades pequenas compartidas.
+
+## Uso local
+
+```bash
+npm run dev
+```
+
+Luego abre `http://localhost:5173`.

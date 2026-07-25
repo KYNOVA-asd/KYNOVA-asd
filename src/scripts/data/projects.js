@@ -1,0 +1,118 @@
+export const projects = [
+  {
+    title: "Sistema para ganadería",
+    company: "Proyecto ganadero",
+    owner: "Dev",
+    involvement: "Solo dev",
+    category: "Sistema interno",
+    description: "Herramienta para ordenar registros y apoyar la operación diaria.",
+    summary:
+      "Sistema creado para un uso específico en ganadería. El caso se presenta sin marca comercial para cuidar la información del cliente.",
+    details: [
+      "Registro y consulta de información operativa.",
+      "Flujo simple para uso interno.",
+      "Estructura adaptable a otros negocios del sector.",
+    ],
+    clientFit: "Ideal para negocios que necesitan control interno sin complicar su operación.",
+    confidentiality: "Caso mostrado con datos generales por privacidad del cliente.",
+    image: "./assets/projects/dev/sistema-ganaderia.jpg",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=1200&q=80",
+    link: "https://github.com/1Don2angello/sistema-para-la-ganaderia.git",
+    accent: "#0f766e",
+    tags: ["Gestión", "Operación", "Uso interno"],
+  },
+  {
+    title: "Sistema de citas",
+    company: "Autocar",
+    owner: "Dev",
+    involvement: "Solo dev",
+    category: "Sistema interno",
+    description: "Agenda y control de citas con información protegida.",
+    summary:
+      "Proyecto interno para organizar citas y seguimiento. Por manejo de datos sensibles, se comparte un repositorio alterno sin base de datos real.",
+    details: [
+      "Agenda de citas y estados básicos.",
+      "Estructura separada de información confidencial.",
+      "Repositorio alterno para revisar organización del proyecto.",
+    ],
+    clientFit: "Ideal para empresas que requieren orden en procesos internos y cuidado de datos.",
+    confidentiality: "El repositorio público no incluye base de datos ni información sensible.",
+    logo: "./assets/projects/clients/autocar-logo.jpg",
+    image: "./assets/projects/dev/autocar-citas.jpg",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80",
+    link: "https://github.com/1Don2angello/sistemas-citas-clinicas",
+    accent: "#315b94",
+    tags: ["Citas", "Repo alterno", "Datos protegidos"],
+  },
+  {
+    title: "Sistema médico interno",
+    company: "Cliente confidencial",
+    owner: "Dev",
+    involvement: "Solo dev",
+    category: "Sistema privado",
+    description: "Solución interna para control y consulta de información médica.",
+    summary:
+      "Caso privado con descripción breve. Se muestra el enfoque general sin exponer datos, usuarios ni estructura sensible.",
+    details: [
+      "Gestión interna de registros.",
+      "Consulta rápida para usuarios autorizados.",
+      "Presentación limitada por confidencialidad.",
+    ],
+    clientFit: "Ideal para organizaciones que necesitan sistemas privados y seguros.",
+    confidentiality: "Información reservada por privacidad del cliente y sus usuarios.",
+    image: "./assets/projects/dev/sistema-medico.jpg",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+    link: "https://github.com/1Don2angello",
+    accent: "#0f766e",
+    tags: ["Salud", "Interno", "Confidencial"],
+  },
+  {
+    title: "Campaña de contenido",
+    company: "Equipo de marketing",
+    owner: "Marketing",
+    involvement: "Solo marketing",
+    category: "Contenido digital",
+    description: "Caso para presentar estrategia, piezas visuales y resultados de campaña.",
+    summary:
+      "Espacio pensado para mostrar trabajos de marketing sin mezclarlo con desarrollo web.",
+    details: [
+      "Objetivo de campaña y enfoque visual.",
+      "Piezas para redes o promoción.",
+      "Resultados o aprendizajes principales.",
+    ],
+    clientFit: "Ideal para marcas que quieren comunicar mejor y generar más conversación.",
+    confidentiality: "Información editable según cada cliente o campaña.",
+    image: "./assets/projects/marketing/campana-marketing.jpg",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1557838923-2985c318be48?auto=format&fit=crop&w=1200&q=80",
+    link: "https://github.com/1Don2angello",
+    accent: "#c8a24a",
+    tags: ["Marketing", "Contenido", "Campaña"],
+  },
+  {
+    title: "Sitio y presencia digital",
+    company: "Marlen",
+    owner: "Ambos",
+    involvement: "Dev + marketing",
+    category: "Marca personal",
+    description: "Sitio web y comunicación digital para presentar una marca personal.",
+    summary:
+      "Caso combinado de desarrollo y marketing: estructura web, mensaje, secciones, imagen y contacto directo.",
+    details: [
+      "Sitio web publicado para presentar servicios.",
+      "Mensaje breve, claro y orientado a contacto.",
+      "Base visual preparada para campañas y contenido.",
+    ],
+    clientFit: "Ideal para marcas personales que quieren verse profesionales y cercanas.",
+    confidentiality: "Se muestra información pública y general de marca.",
+    image: "./assets/projects/marketing/marlen-brand.jpg",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1557838923-2985c318be48?auto=format&fit=crop&w=1200&q=80",
+    link: "https://marlentucoach.com/",
+    accent: "#c2415b",
+    tags: ["Marca", "Marketing", "Contenido"],
+  },
+];

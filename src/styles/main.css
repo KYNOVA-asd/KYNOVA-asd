@@ -1168,6 +1168,13 @@ textarea {
   margin-top: 22px;
 }
 
+@media (max-width: 1024px) {
+  .projects,
+  .case-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 @media (max-width: 760px) {
   .page-shell {
     width: min(100% - 22px, var(--max-width));

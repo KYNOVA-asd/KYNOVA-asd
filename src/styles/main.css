@@ -592,6 +592,21 @@ textarea {
   margin-top: 22px;
 }
 
+.modal-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.modal-actions .button {
+  margin-top: 0;
+}
+
+.modal-actions [hidden] {
+  display: none;
+}
+
 .simple-page {
   display: grid;
   align-content: center;

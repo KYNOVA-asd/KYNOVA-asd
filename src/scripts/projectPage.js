@@ -117,6 +117,7 @@ const openCase = (project) => {
   const note = select("[data-case-note]");
   const tags = select("[data-case-tags]");
   const link = select("[data-case-link]");
+  const site = select("[data-case-site]");
 
   if (
     !modal ||
@@ -131,7 +132,8 @@ const openCase = (project) => {
     !fit ||
     !note ||
     !tags ||
-    !link
+    !link ||
+    !site
   )
     return;
 
@@ -143,7 +145,14 @@ const openCase = (project) => {
   fit.textContent = project.clientFit;
   note.textContent = project.confidentiality || "";
   link.href = project.link;
-  link.textContent = project.link.includes("github.com") ? "Ver repositorio" : "Ver sitio";
+  link.textContent = "Ver repositorio";
+  if (project.siteLink) {
+    site.href = project.siteLink;
+    site.hidden = false;
+  } else {
+    site.hidden = true;
+    site.removeAttribute("href");
+  }
 
   appendFacts(facts, [
     { label: "Sector", value: project.sector },

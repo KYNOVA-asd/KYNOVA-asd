@@ -57,6 +57,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/sistema-citas-autocar`,
+    siteLink: "https://www.facebook.com/SomosAutocarCancun?locale=es_LA",
     accent: "#315b94",
     tags: ["Autocar", "Citas", "Demo"],
   },
@@ -85,6 +86,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/chatbot-apoyo-estudiantil`,
+    siteLink: "https://utcancun.edu.mx/",
     accent: "#586f9f",
     tags: ["Chatbot", "Educación", "Demo"],
   },
@@ -113,6 +115,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/perome-call-center-tools`,
+    siteLink: "https://peromec.com/",
     accent: "#475569",
     tags: ["Perome", "Herramienta", "Operación"],
   },
@@ -141,6 +144,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/krystal-hera-hotels-web`,
+    siteLink: "https://www.krystal-cancun.com/",
     accent: "#b08935",
     tags: ["Krystal", "Frontend", "Hoteles"],
   },
@@ -169,6 +173,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/krystal-hera-hotels-backend`,
+    siteLink: "https://www.krystal-cancun.com/",
     accent: "#334155",
     tags: ["Krystal", "Backend", "API"],
   },
@@ -197,6 +202,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/krystal-saira-hotels`,
+    siteLink: "https://www.krystal-cancun.com/",
     accent: "#0f766e",
     tags: ["Krystal", "Tickets", "Soporte"],
   },
@@ -225,6 +231,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/krystal-saira-api`,
+    siteLink: "https://www.krystal-cancun.com/",
     accent: "#2563eb",
     tags: ["Krystal", "API", "Tickets"],
   },
@@ -253,6 +260,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/mindata-autoscreen-interno`,
+    siteLink: "https://mindata.es/",
     accent: "#64748b",
     tags: ["Mindata", "Python", "Interno"],
   },
@@ -281,6 +289,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/inmoveqroo-gocity-panel`,
+    siteLink: "https://imoveqroo.qroo.gob.mx/",
     accent: "#0ea5e9",
     tags: ["GoCity", "Panel", "Concurso"],
   },
@@ -309,6 +318,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/inmoveqroo-gocity-app`,
+    siteLink: "https://imoveqroo.qroo.gob.mx/",
     accent: "#0891b2",
     tags: ["GoCity", "App", "Ionic"],
   },
@@ -337,6 +347,7 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1557838923-2985c318be48?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/marlen-tu-coach-web-marketing`,
+    siteLink: "https://marlentucoach.com/",
     accent: "#c2415b",
     tags: ["Marca", "Marketing", "Web"],
   },

@@ -17,8 +17,9 @@ const openProjectModal = (project) => {
   const note = select("[data-modal-note]");
   const tags = select("[data-modal-tags]");
   const link = select("[data-modal-link]");
+  const site = select("[data-modal-site]");
 
-  if (!modal || !image || !title || !category || !description || !details || !fit || !note || !tags || !link) {
+  if (!modal || !image || !title || !category || !description || !details || !fit || !note || !tags || !link || !site) {
     return;
   }
 
@@ -34,6 +35,14 @@ const openProjectModal = (project) => {
   fit.textContent = project.clientFit || "";
   note.textContent = project.confidentiality || "";
   link.href = project.link;
+  link.textContent = "Ver repositorio";
+  if (project.siteLink) {
+    site.href = project.siteLink;
+    site.hidden = false;
+  } else {
+    site.hidden = true;
+    site.removeAttribute("href");
+  }
   details.replaceChildren();
   tags.replaceChildren();
   project.details.forEach((item) => {

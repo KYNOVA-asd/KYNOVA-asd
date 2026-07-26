@@ -28,7 +28,7 @@ export const projects = [
     image: "./assets/projects/dev/sistema-ganaderia.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=1200&q=80",
-    link: `${githubBase}/sistema-ganaderia-gerardo-demo`,
+    link: `${githubBase}/sistema-ganaderia-demo`,
     accent: "#0f766e",
     tags: ["Agro", "Sistema interno", "Demo"],
   },
@@ -56,7 +56,7 @@ export const projects = [
     image: "./assets/projects/dev/autocar-citas.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80",
-    link: `${githubBase}/sistema-citas-autocar-demo`,
+    link: `${githubBase}/sistema-citas-autocar`,
     accent: "#315b94",
     tags: ["Autocar", "Citas", "Demo"],
   },
@@ -84,7 +84,7 @@ export const projects = [
     image: "./assets/projects/dev/chatbot.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
-    link: `${githubBase}/chatbot-apoyo-estudiantil-ut-cancun`,
+    link: `${githubBase}/chatbot-apoyo-estudiantil`,
     accent: "#586f9f",
     tags: ["Chatbot", "Educación", "Demo"],
   },
@@ -331,12 +331,12 @@ export const projects = [
     result: "La marca cuenta con una presencia digital lista para compartir con clientes.",
     details: ["Sitio web publicado.", "Mensaje comercial.", "Apoyo de redes sociales."],
     clientFit: "Ideal para marcas personales que quieren verse profesionales y cercanas.",
-    confidentiality: "Caso público con sitio activo.",
+    confidentiality: "Caso público con sitio activo y repositorio de referencia.",
     logo: "https://www.google.com/s2/favicons?domain=marlentucoach.com&sz=128",
     image: "./assets/projects/marketing/marlen-brand.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1557838923-2985c318be48?auto=format&fit=crop&w=1200&q=80",
-    link: "https://marlentucoach.com/",
+    link: `${githubBase}/marlen-tu-coach-web-marketing`,
     accent: "#c2415b",
     tags: ["Marca", "Marketing", "Web"],
   },

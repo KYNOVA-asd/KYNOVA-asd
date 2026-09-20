@@ -9,6 +9,7 @@ const entries = [
   "assets",
   "contacto",
   "costos",
+  "demos",
   "llamanos",
   "nosotros",
   "proyectos",

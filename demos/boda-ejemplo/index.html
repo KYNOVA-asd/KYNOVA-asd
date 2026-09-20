@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Invitación digital de boda de Andrea y Daniel." />
+    <title>Andrea &amp; Daniel | Nuestra boda</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Montserrat:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main>
+      <section class="invitation-hero" aria-labelledby="invitation-title">
+        <p class="invitation-kicker">Nos casamos</p>
+        <h1 id="invitation-title">Andrea <span>&amp;</span> Daniel</h1>
+        <p class="invitation-date">24 · 10 · 2027</p>
+        <a class="invitation-button" href="#detalles">Ver detalles</a>
+      </section>
+
+      <section class="invitation-section" id="detalles">
+        <p class="invitation-kicker">Acompáñanos</p>
+        <h2>Un día para celebrar juntos</h2>
+        <p class="invitation-copy">
+          Nos hará muy felices compartir este momento contigo. Guarda la fecha y acompáñanos
+          a comenzar esta nueva historia.
+        </p>
+
+        <div class="event-grid">
+          <article class="event-card">
+            <p class="event-card__number">01</p>
+            <h3>Ceremonia</h3>
+            <p>4:00 p. m.</p>
+            <p>Capilla San Miguel</p>
+            <a href="#" aria-label="Ver ubicación de la ceremonia">Ver ubicación</a>
+          </article>
+          <article class="event-card">
+            <p class="event-card__number">02</p>
+            <h3>Recepción</h3>
+            <p>6:00 p. m.</p>
+            <p>Jardín Casa Blanca</p>
+            <a href="#" aria-label="Ver ubicación de la recepción">Ver ubicación</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="rsvp-section" aria-labelledby="rsvp-title">
+        <p class="invitation-kicker">Confirma tu asistencia</p>
+        <h2 id="rsvp-title">Esperamos celebrar contigo</h2>
+        <p>Confirma antes del 30 de septiembre.</p>
+        <a
+          class="invitation-button invitation-button--light"
+          href="https://wa.me/520000000000?text=Hola,%20confirmo%20mi%20asistencia%20a%20la%20boda"
+          target="_blank"
+          rel="noreferrer"
+        >Confirmar por WhatsApp</a>
+      </section>
+    </main>
+
+    <script src="./script.js" defer></script>
+  </body>
+</html>

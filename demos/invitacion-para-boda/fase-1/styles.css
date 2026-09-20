@@ -1,0 +1,209 @@
+:root {
+  --paper: #fbf8f3;
+  --ink: #4d3154;
+  --plum: #62346e;
+  --plum-deep: #43234f;
+  --rose: #c58c9a;
+  --gold: #b38a51;
+  --muted: #77676f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  min-height: 100vh;
+  margin: 0;
+  place-items: center;
+  padding: 24px 12px;
+  background: #eae2e9;
+  color: var(--ink);
+  font-family: "DM Sans", sans-serif;
+}
+
+.pass {
+  position: relative;
+  overflow: hidden;
+  width: min(100%, 520px);
+  min-height: 720px;
+  padding: 58px 30px 38px;
+  border: 1px solid #e9dfe5;
+  background: radial-gradient(circle at 85% 9%, #f3edf5 0, transparent 30%), var(--paper);
+  box-shadow: 0 22px 60px #4d31542b;
+  text-align: center;
+}
+
+.pass--arched {
+  border-radius: 220px 220px 14px 14px;
+}
+
+.eyebrow {
+  margin: 0 0 16px;
+  color: var(--gold);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.27em;
+  text-transform: uppercase;
+}
+
+.names {
+  margin: 0;
+  color: var(--plum);
+  font: 400 clamp(3rem, 11vw, 4.4rem)/1.05 "Great Vibes", cursive;
+}
+
+.title {
+  margin: 12px 0 8px;
+  font: 500 clamp(1.5rem, 6vw, 2.1rem) "Playfair Display", serif;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.date {
+  margin: 0 0 28px;
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+}
+
+.envelope-action {
+  display: block;
+  width: 100%;
+  margin: 35px auto 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  text-decoration: none;
+}
+
+.envelope {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 1.75;
+  overflow: hidden;
+  border-radius: 7px;
+  background: linear-gradient(135deg, #824b91, var(--plum-deep));
+  box-shadow: 0 15px 26px #39203b35;
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.envelope::before {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(150deg, transparent 49.7%, #8b6484 50%, transparent 50.5%) left / 50% 100% no-repeat,
+    linear-gradient(210deg, transparent 49.7%, #8b6484 50%, transparent 50.5%) right / 50% 100% no-repeat;
+  content: "";
+}
+
+.flap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 62%;
+  background: linear-gradient(165deg, #92559c, #683672);
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+  transform-origin: 50% 0;
+  transition: transform 0.55s;
+}
+
+.seal {
+  position: absolute;
+  top: 54%;
+  left: 50%;
+  display: grid;
+  width: 72px;
+  aspect-ratio: 1;
+  place-items: center;
+  transform: translate(-50%, -50%);
+  border: 4px double #f0d5a5;
+  border-radius: 50%;
+  background: radial-gradient(circle at 30% 25%, #e7c99c, #aa7b42 66%, #76522f);
+  color: #fff3dc;
+  font: 400 1.9rem "Great Vibes", cursive;
+  transition: opacity 0.25s;
+}
+
+.envelope-action:hover .envelope,
+.envelope-action:focus-visible .envelope {
+  transform: translateY(-5px);
+  box-shadow: 0 22px 30px #39203b40;
+}
+
+.envelope-action.is-open .flap {
+  transform: rotateX(180deg);
+}
+
+.envelope-action.is-open .seal {
+  opacity: 0;
+}
+
+.instruction {
+  margin: 17px 0 0;
+  color: var(--plum);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.guest {
+  margin: 34px 0 0;
+  font: 400 1.25rem/1.5 "Playfair Display", serif;
+}
+
+.guest strong {
+  color: var(--plum);
+}
+
+.phase-link {
+  display: inline-flex;
+  min-height: 46px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+  padding: 12px 20px;
+  background: var(--plum);
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.reveal {
+  display: none;
+}
+
+.reveal.is-visible {
+  display: block;
+}
+
+@media (max-width: 440px) {
+  body {
+    padding: 0;
+    background: var(--paper);
+  }
+
+  .pass {
+    width: 100%;
+    min-height: 100svh;
+    padding: 48px 22px 32px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
+}

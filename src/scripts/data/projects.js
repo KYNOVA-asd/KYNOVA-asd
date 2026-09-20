@@ -2,6 +2,46 @@ const githubBase = "https://github.com/KYNOVA-asd";
 
 export const projects = [
   {
+    title: "Pase de boda interactivo o compacto",
+    company: "Alejandro & Fátima",
+    owner: "Ambos",
+    involvement: "Dev + diseño",
+    category: "Invitación digital",
+    sector: "Eventos / bodas",
+    duration: "Ago 2026",
+    startedAt: "Ago 2026",
+    deliverables: "Pase digital, invitación interactiva y landing completa.",
+    description:
+      "Invitación de boda para Alejandro & Fátima con pase de sobre interactivo o formato compacto. 28 de agosto de 2026.",
+    summary:
+      "Experiencia digital de boda dividida en un pase inicial y una landing con todos los detalles del evento.",
+    clientGoal:
+      "Compartir la invitación de forma elegante, clara y accesible desde cualquier dispositivo.",
+    challenge:
+      "Conectar una primera experiencia breve con una landing completa sin perder continuidad visual.",
+    solution:
+      "Se prepararon dos variantes de pase para la Fase 1 y una ruta independiente para desarrollar la Fase 2.",
+    result:
+      "Una estructura reutilizable que permite personalizar nuevas invitaciones sin modificar el resto del portafolio.",
+    details: [
+      "Pase con sobre interactivo.",
+      "Pase compacto con acceso directo.",
+      "Diseño responsivo para celular y escritorio.",
+      "Acceso directo a la landing completa.",
+    ],
+    clientFit: "Ideal para bodas y celebraciones que necesitan una invitación digital personalizada.",
+    confidentiality: "Proyecto demostrativo con nombres y datos de ejemplo.",
+    image: "./demos/invitacion-para-boda/img/portada.webp",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    link: "/demos/invitacion-para-boda/fase-1/pase/",
+    linkLabel: "Ver pase interactivo",
+    siteLink: "/demos/invitacion-para-boda/fase-1/invitacion/",
+    siteLabel: "Ver pase compacto",
+    accent: "#8f6a20",
+    tags: ["Boda", "Invitación digital", "Landing", "Demo"],
+  },
+  {
     title: "Sistema para ganadería",
     company: "Gerardo González",
     owner: "Dev",

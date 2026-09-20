@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Pase de invitación para la boda de Alejandro y Fátima." />
+    <title>Pase de invitación | Alejandro &amp; Fátima</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Great+Vibes&family=Playfair+Display:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <main class="pass" aria-label="Pase de invitación de boda">
+      <p class="eyebrow">Celebramos el amor</p>
+      <h1 class="names">Alejandro &amp; Fátima</h1>
+      <h2 class="title">Nuestra boda</h2>
+      <p class="date"><time datetime="2026-08-28">28 · AGOSTO · 2026</time></p>
+
+      <button class="envelope-action" type="button" data-envelope aria-expanded="false">
+        <span class="envelope" aria-hidden="true">
+          <span class="flap"></span>
+          <span class="seal">AF</span>
+        </span>
+        <span class="instruction" data-instruction>Toca el sobre para abrir</span>
+      </button>
+
+      <p class="guest">Hemos reservado en tu honor<br /><strong>1 lugar especial</strong></p>
+      <div class="reveal" data-reveal>
+        <a class="phase-link" href="../../fase-2/">Ver invitación completa</a>
+      </div>
+    </main>
+
+    <script>
+      const envelope = document.querySelector("[data-envelope]");
+      const reveal = document.querySelector("[data-reveal]");
+      const instruction = document.querySelector("[data-instruction]");
+
+      envelope.addEventListener(
+        "click",
+        () => {
+          envelope.classList.add("is-open");
+          envelope.setAttribute("aria-expanded", "true");
+          instruction.textContent = "Tu pase está abierto";
+          reveal.classList.add("is-visible");
+        },
+        { once: true },
+      );
+    </script>
+  </body>
+</html>

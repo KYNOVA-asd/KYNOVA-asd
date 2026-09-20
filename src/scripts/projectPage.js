@@ -145,9 +145,10 @@ const openCase = (project) => {
   fit.textContent = project.clientFit;
   note.textContent = project.confidentiality || "";
   link.href = project.link;
-  link.textContent = "Ver repositorio";
+  link.textContent = project.linkLabel || "Ver repositorio";
   if (project.siteLink) {
     site.href = project.siteLink;
+    site.textContent = project.siteLabel || "Ver sitio";
     site.hidden = false;
   } else {
     site.hidden = true;

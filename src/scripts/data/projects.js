@@ -8,11 +8,11 @@ export const projects = [
     involvement: "Dev + diseño",
     category: "Invitación digital",
     sector: "Eventos / bodas",
-    duration: "Ago 2026",
-    startedAt: "Ago 2026",
+    duration: "Nov 2026",
+    startedAt: "Nov 2026",
     deliverables: "Pase digital, invitación interactiva y landing completa.",
     description:
-      "Invitación de boda para Alejandro & Fátima con pase de sobre interactivo o formato compacto. 28 de agosto de 2026.",
+      "Invitación de boda para Alejandro & Fátima con pase de sobre interactivo y landing completa. 28 de noviembre de 2026.",
     summary:
       "Experiencia digital de boda dividida en un pase inicial y una landing con todos los detalles del evento.",
     clientGoal:
@@ -20,7 +20,7 @@ export const projects = [
     challenge:
       "Conectar una primera experiencia breve con una landing completa sin perder continuidad visual.",
     solution:
-      "Se prepararon dos variantes de pase para la Fase 1 y una ruta independiente para desarrollar la Fase 2.",
+      "Se crearon dos variantes de pase y una landing con música, itinerario, ubicaciones, cuenta regresiva y confirmación por WhatsApp.",
     result:
       "Una estructura reutilizable que permite personalizar nuevas invitaciones sin modificar el resto del portafolio.",
     details: [
@@ -31,13 +31,13 @@ export const projects = [
     ],
     clientFit: "Ideal para bodas y celebraciones que necesitan una invitación digital personalizada.",
     confidentiality: "Proyecto demostrativo con nombres y datos de ejemplo.",
-    image: "./demos/invitacion-para-boda/img/portada.webp",
+    image: "./demos/invitacion-para-boda/demo-1/assets/img/foto novios.jpg",
     fallbackImage:
       "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
-    link: "/demos/invitacion-para-boda/fase-1/pase/",
+    link: "/demos/invitacion-para-boda/demo-1/fase-1/pase/",
     linkLabel: "Ver pase interactivo",
-    siteLink: "/demos/invitacion-para-boda/fase-1/invitacion/",
-    siteLabel: "Ver pase compacto",
+    siteLink: "/demos/invitacion-para-boda/demo-1/fase-2/",
+    siteLabel: "Ver invitación completa",
     accent: "#8f6a20",
     tags: ["Boda", "Invitación digital", "Landing", "Demo"],
   },

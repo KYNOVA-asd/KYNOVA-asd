@@ -28,6 +28,7 @@ body {
   border: 0;
   pointer-events: none;
   transform: scale(1.02);
+  contain: strict;
 }
 
 .garden-shade {
@@ -181,23 +182,8 @@ time {
   font-size: .75rem;
 }
 
-.petals { position: fixed; z-index: 2; inset: 0; overflow: hidden; pointer-events: none; }
-.petals i { position: absolute; top: -10%; width: 13px; height: 20px; border-radius: 100% 0 100% 0; background: #dd8ca8; opacity: 0; animation: petal-fall 8s linear infinite; }
-.petals i:nth-child(1) { left: 12%; animation-delay: 1s; }
-.petals i:nth-child(2) { left: 28%; animation-delay: 4.3s; transform: scale(.7); }
-.petals i:nth-child(3) { left: 45%; animation-delay: 2.6s; }
-.petals i:nth-child(4) { left: 64%; animation-delay: 5.4s; transform: scale(.75); }
-.petals i:nth-child(5) { left: 81%; animation-delay: 3.5s; }
-.petals i:nth-child(6) { left: 92%; animation-delay: 6.2s; transform: scale(.6); }
-
 body.is-leaving .invitation-card { opacity: 0; filter: blur(8px); transform: scale(1.06); }
 body.is-leaving .garden-shade { background: var(--paper); transition: background 1s ease .35s; }
-
-@keyframes petal-fall {
-  0% { opacity: 0; transform: translate3d(0, -10vh, 0) rotate(0); }
-  12% { opacity: .8; }
-  100% { opacity: 0; transform: translate3d(70px, 115vh, 0) rotate(620deg); }
-}
 
 @media (max-height: 720px) {
   .invitation-card { padding-top: 32px; padding-bottom: 30px; transform: translateY(45px) scale(.82); }
@@ -209,5 +195,4 @@ body.is-leaving .garden-shade { background: var(--paper); transition: background
 @media (prefers-reduced-motion: reduce) {
   .prelude { display: none; }
   .invitation-card { opacity: 1; transform: none; transition: none; }
-  .petals { display: none; }
 }

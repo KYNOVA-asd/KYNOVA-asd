@@ -5,6 +5,7 @@ const root = path.resolve(__dirname, "..");
 const outDir = path.join(root, "dist");
 
 const entries = [
+  'linktree',
   '404.html',
   '500.html',
   "index.html",

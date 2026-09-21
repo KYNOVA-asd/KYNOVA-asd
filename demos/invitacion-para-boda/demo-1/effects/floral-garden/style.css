@@ -1983,3 +1983,29 @@ body {
     opacity: 1;
   }
 }
+
+/* Embedded performance mode: preserve the main blooming flowers while
+   removing the most expensive decorative animation layers. */
+.is-embed {
+  contain: layout paint style;
+}
+
+.is-embed .flowers > :not(.flower),
+.is-embed .flower--4,
+.is-embed .flower__light,
+.is-embed .bubbles {
+  display: none !important;
+}
+
+.is-embed .night {
+  filter: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .is-embed *,
+  .is-embed *::before,
+  .is-embed *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

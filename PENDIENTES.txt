@@ -1,0 +1,78 @@
+KYNOVA — LISTA DE PENDIENTES
+Actualizada: 20 de septiembre de 2026
+
+PRIORIDAD ALTA
+
+[ ] Publicar y probar las nuevas páginas 404 y 500 en Vercel.
+[ ] Abrir una URL inexistente para confirmar que Vercel muestre 404.html.
+[ ] Revisar cómo se ve la página 404 en celular, tablet y escritorio.
+[ ] Revisar cómo se ve la página 500 en celular, tablet y escritorio.
+[ ] Confirmar si fase-1 y fase-2 deben eliminarse definitivamente.
+[ ] Si se eliminan las fases, quitar sus tres tarjetas de demos/index.html.
+[ ] Quitar la referencia inexistente a main.js en la demo de flores.
+[ ] Corregir la estructura HTML duplicada de la demo de flores (body y cierres).
+[ ] Probar todos los botones y enlaces del sitio para detectar rutas 404.
+
+CONTENIDO Y PORTAFOLIO
+
+[ ] Decidir qué demos sí representan el nivel actual de KYNOVA.
+[ ] Ocultar o reemplazar las demos incompletas, vacías o antiguas.
+[ ] Agregar capturas atractivas para cada proyecto del portafolio.
+[ ] Añadir una descripción breve, tecnologías y resultado a cada proyecto.
+[ ] Incluir una llamada a la acción clara en cada demo.
+[ ] Crear una demo completa de invitación para boda.
+[ ] Preparar ejemplos para otros eventos: XV años, cumpleaños y bautizo.
+[ ] Agregar testimonios reales cuando estén disponibles.
+
+DISEÑO Y EXPERIENCIA
+
+[ ] Revisar que encabezados, botones y colores sean consistentes en todas las páginas.
+[ ] Mejorar estados hover, focus y active de botones y enlaces.
+[ ] Comprobar contraste de texto y accesibilidad.
+[ ] Añadir mensajes de carga y error donde hagan falta.
+[ ] Revisar navegación móvil y menú hamburguesa.
+[ ] Crear un favicon y verificar que aparezca en todas las páginas.
+[ ] Añadir una transición suave al entrar a las páginas 404 y 500.
+[ ] Evaluar una versión más ligera del SVG 404 para acelerar la carga.
+
+SEO Y REDES SOCIALES
+
+[ ] Revisar títulos y descripciones meta de todas las páginas.
+[ ] Agregar imagen Open Graph para compartir KYNOVA en WhatsApp y redes.
+[ ] Crear sitemap.xml.
+[ ] Crear o revisar robots.txt.
+[ ] Agregar datos estructurados básicos de negocio o servicio.
+[ ] Confirmar que las páginas 404 y 500 tengan noindex.
+
+CALIDAD TÉCNICA
+
+[ ] Automatizar una revisión de enlaces rotos durante el build.
+[ ] Validar el HTML de las páginas principales y las demos.
+[ ] Optimizar imágenes grandes y usar formatos WebP o AVIF cuando convenga.
+[ ] Revisar Core Web Vitals después de publicar.
+[ ] Verificar que no existan archivos temporales dentro de dist.
+[ ] Añadir una prueba rápida que confirme la generación de 404.html y 500.html.
+[ ] Revisar en Vercel los logs del build y posibles advertencias.
+
+CONTACTO Y MEDICIÓN
+
+[ ] Probar el formulario o los enlaces de contacto de principio a fin.
+[ ] Confirmar que WhatsApp, teléfono y correo abran correctamente.
+[ ] Definir una herramienta de analítica respetuosa con la privacidad.
+[ ] Medir clics en contacto, proyectos y llamadas a la acción.
+[ ] Preparar un mensaje de confirmación después de enviar un contacto.
+
+IDEAS PARA DESPUÉS
+
+[ ] Añadir modo oscuro si encaja con la identidad visual.
+[ ] Crear una sección de preguntas frecuentes.
+[ ] Añadir filtros por tipo de proyecto en el portafolio.
+[ ] Crear una página breve de proceso de trabajo.
+[ ] Mostrar paquetes o rangos de precio de forma más visual.
+[ ] Añadir una página de mantenimiento personalizada.
+
+NOTAS
+
+- Marcar una tarea terminada cambiando [ ] por [x].
+- Revisar primero PRIORIDAD ALTA antes de agregar nuevas funciones.
+- No publicar demos incompletas únicamente para llenar el catálogo.

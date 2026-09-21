@@ -1,55 +1,41 @@
 <!doctype html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Pase de invitación para la boda de Alejandro y Fátima." />
-    <title>Pase de invitación | Alejandro &amp; Fátima</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Great+Vibes&family=Playfair+Display:wght@400;500;600&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="../styles.css" />
-  </head>
-  <body>
-    <main class="pass" aria-label="Pase de invitación de boda">
-      <p class="eyebrow">Celebramos el amor</p>
-      <h1 class="names">Alejandro &amp; Fátima</h1>
-      <h2 class="title">Nuestra boda</h2>
-      <p class="date"><time datetime="2026-11-28">28 · NOVIEMBRE · 2026</time></p>
+<html lang='es'>
+<head>
+  <meta charset='UTF-8' />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+  <meta name='description' content='Pase floral interactivo para la boda de Alejandro y Fátima.' />
+  <title>Un amor que florece | Alejandro &amp; Fátima</title>
+  <link rel='preconnect' href='https://fonts.googleapis.com' />
+  <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+  <link href='https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&amp;family=Great+Vibes&amp;family=Playfair+Display:wght@400;500;600&amp;display=swap' rel='stylesheet' />
+  <link rel='stylesheet' href='./styles.css' />
+</head>
+<body>
+  <iframe class='garden' src='../../effects/floral-garden/index.html' title='Jardín de flores animadas' tabindex='-1' aria-hidden='true'></iframe>
+  <div class='garden-shade' aria-hidden='true'></div>
 
-      <button class="envelope-action" type="button" data-envelope aria-expanded="false">
-        <span class="envelope" aria-hidden="true">
-          <span class="flap"></span>
-          <span class="seal">AF</span>
-        </span>
-        <span class="instruction" data-instruction>Toca el sobre para abrir</span>
+  <main class='invitation' data-invitation>
+    <p class='prelude' data-prelude>Hay historias que nacen despacio…</p>
+
+    <article class='invitation-card' data-card aria-labelledby='couple-names'>
+      <div class='invitation-card__glow' aria-hidden='true'></div>
+      <p class='eyebrow'>Un amor que florece</p>
+      <p class='monogram' aria-hidden='true'>A <span>&amp;</span> F</p>
+      <h1 id='couple-names'>Alejandro <span>&amp;</span> Fátima</h1>
+      <p class='message'>Con mucha alegría queremos compartir contigo el comienzo de nuestra nueva historia.</p>
+      <time datetime='2026-11-28'>28 · NOVIEMBRE · 2026</time>
+      <button class='open-invitation' type='button' data-open>
+        <span class='open-invitation__seal' aria-hidden='true'>AF</span>
+        <span>Descubrir la invitación</span>
       </button>
+      <p class='hint'>Toca el sello cuando las flores hayan despertado</p>
+    </article>
+  </main>
 
-      <p class="guest">Hemos reservado en tu honor<br /><strong>1 lugar especial</strong></p>
-      <div class="reveal" data-reveal>
-        <a class="phase-link" href="../../fase-2/">Ver invitación completa</a>
-      </div>
-    </main>
+  <div class='petals' aria-hidden='true'>
+    <i></i><i></i><i></i><i></i><i></i><i></i>
+  </div>
 
-    <script>
-      const envelope = document.querySelector("[data-envelope]");
-      const reveal = document.querySelector("[data-reveal]");
-      const instruction = document.querySelector("[data-instruction]");
-
-      envelope.addEventListener(
-        "click",
-        () => {
-          envelope.classList.add("is-open");
-          envelope.setAttribute("aria-expanded", "true");
-          instruction.textContent = "Tu pase está abierto";
-          reveal.classList.add("is-visible");
-        },
-        { once: true },
-      );
-    </script>
-    <script src='../transition.js'></script>
-  </body>
+  <script src='./script.js'></script>
+</body>
 </html>

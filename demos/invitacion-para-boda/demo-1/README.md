@@ -8,6 +8,7 @@ Esta carpeta contiene un estilo completo y autosuficiente de invitación.
 - `fase-2/`: landing completa de la boda.
 - `assets/img/`: fotografías, fondos, adornos e iconos exclusivos de esta demo.
 - `assets/audio/`: música exclusiva de esta demo.
+- `effects/`: animaciones autocontenidas reutilizadas por la experiencia.
 
 ## Convenciones para próximas demos
 

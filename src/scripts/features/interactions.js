@@ -35,7 +35,7 @@ const setupClipboard = () => {
 
 const setupReveal = () => {
   const targets = document.querySelectorAll(
-    "main > section, .simple-page > section, .catalog-heading, .project-card, .team-card, .pricing-card",
+    "main > section:not(.project-browser), .simple-page > section:not(.project-browser), .catalog-heading, .project-card, .team-card, .pricing-card",
   );
 
   targets.forEach((target, index) => {

@@ -206,6 +206,7 @@ const renderProjects = () => {
     const body = createElement("div", "case-card__body");
     const brand = createElement("div", "case-card__brand");
     const meta = createElement("div", "project-row__meta");
+    const summary = createElement("p", "case-card__summary", project.description);
     const actions = createElement("div", "project-card__actions");
     const button = createElement("button", "button button--primary", "Ver ficha");
 
@@ -227,6 +228,7 @@ const renderProjects = () => {
     body.append(brand);
     body.append(meta);
     body.append(createElement("h2", "", project.title));
+    body.append(summary);
     body.append(actions);
     card.append(image, body);
     list.append(card);

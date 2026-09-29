@@ -1088,6 +1088,10 @@ textarea {
   margin-top: 18px;
 }
 
+.case-card__body .project-card__actions .button {
+  margin-top: 0;
+}
+
 .project-detail__bullets {
   display: grid;
   gap: 10px;

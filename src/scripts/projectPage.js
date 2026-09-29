@@ -209,7 +209,9 @@ const renderProjects = () => {
     const meta = createElement("div", "project-row__meta");
     const facts = createElement("div", "case-card__facts");
     const tags = createElement("div", "project-card__meta");
+    const actions = createElement("div", "project-card__actions");
     const button = createElement("button", "button button--primary", "Ver caso");
+    const repositoryLink = createElement("a", "button button--ghost", project.linkLabel || "Ver repositorio");
 
     fillImage(image, project, "case-card__image");
     appendBrandMark(brand, project);
@@ -224,6 +226,20 @@ const renderProjects = () => {
 
     button.type = "button";
     button.addEventListener("click", () => openCase(project));
+    repositoryLink.href = project.link;
+    repositoryLink.target = "_blank";
+    repositoryLink.rel = "noreferrer";
+    actions.append(button);
+
+    if (project.siteLink) {
+      const siteLink = createElement("a", "button button--ghost", project.siteLabel || "Ver sitio");
+      siteLink.href = project.siteLink;
+      siteLink.target = "_blank";
+      siteLink.rel = "noreferrer";
+      actions.append(siteLink);
+    }
+
+    actions.append(repositoryLink);
 
     body.append(brand);
     body.append(meta);
@@ -231,7 +247,7 @@ const renderProjects = () => {
     body.append(createElement("p", "", project.description));
     body.append(facts);
     body.append(tags);
-    body.append(button);
+    body.append(actions);
     card.append(image, body);
     list.append(card);
   });

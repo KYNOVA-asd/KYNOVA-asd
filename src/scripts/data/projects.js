@@ -35,6 +35,8 @@ export const projects = [
     fallbackImage:
       "https://images.unsplash.com/photo-1566206091558-7f218b696731?auto=format&fit=crop&w=1200&q=80",
     link: `${githubBase}/Lun-a-Intimates-Lencer-a-canc-n`,
+    siteLink: "https://luna-intimates-cancun.vercel.app/#inicio",
+    siteLabel: "Ver demo",
     accent: "#b76e79",
     tags: ["HTML5", "CSS3", "JavaScript", "LocalStorage", "E-Commerce", "Responsive"],
   },

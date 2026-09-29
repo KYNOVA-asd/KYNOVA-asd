@@ -54,14 +54,14 @@ KYNOVA-asd/
 |   |-- index.html                     Catálogo de demos
 |   |-- styles.css                     Estilos propios del catálogo
 |   |-- README.md
-|   `-- invitacion-para-boda/demo-1/
-|       |-- README.md
-|       |-- assets/audio/               Audio de la invitación
-|       |-- assets/img/                 Imágenes y recursos gráficos
-|       |-- effects/floral-garden/      Efecto visual (HTML, CSS y JS)
-|       |-- fase-1/pase/                Pase interactivo
-|       |-- fase-1/invitacion/          Pase compacto / invitación
-|       `-- fase-2/                     Landing completa
+|   `-- README.md
+|-- export-kynova-boda-demo/            Exportación standalone para repositorio/Vercel propio
+|   |-- index.html                      Entrada a las tres experiencias
+|   |-- assets/                         Imágenes y audio exclusivos
+|   |-- effects/floral-garden/          Efecto visual corregido
+|   |-- fase-1/                         Pase interactivo y pase compacto
+|   |-- fase-2/                         Landing completa
+|   `-- vercel.json                     Configuración del despliegue independiente
 |-- linktree/
 |   |-- index.html
 |   |-- angel.couoh.html
@@ -240,8 +240,8 @@ Base de GitHub utilizada: https://github.com/KYNOVA-asd
     Descripción: Invitación de boda para Alejandro & Fátima con pase de sobre interactivo y
     landing completa. 28 de noviembre de 2026.
     Tags: Boda, Invitación digital, Landing, Demo.
-    Pase interactivo: /demos/invitacion-para-boda/demo-1/fase-1/pase/
-    Pase compacto: /demos/invitacion-para-boda/demo-1/fase-1/invitacion/
+    Demo externa: https://kynova-boda-demo.vercel.app
+    Miniatura local: /assets/projects/boda-demo-thumbnail.jpg
 
 03. Sistema para ganadería
     Descripción: Sistema web para ordenar registros y consultas de un negocio ganadero.

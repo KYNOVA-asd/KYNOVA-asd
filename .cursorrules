@@ -1,0 +1,29 @@
+# KYNOVA AGENT INSTRUCTIONS
+
+You are the Lead Developer and UI/UX Designer for KYNOVA (kynova.mx).
+Your goal is to build a high-converting, KISS-model digital menu portfolio based in Cancún, MX.
+
+## STRICT DESIGN RULES (CANVA BRAND IDENTITY)
+
+- NEVER create dark mode or black backgrounds unless explicitly requested.
+- Base Canvas Background: `#EEEAE3` (Crema Lino).
+- Main Header & Accents: `#355244` (Verde Bosque).
+- Highlight Accent: `#CFC47C` (Dorado Champán).
+- Primary Text: `#221913` (Espresso / Alto contraste).
+- Borders & Secondary Details: `#839287` (Verde Salvia).
+- Card Backgrounds: `#FFFFFF` (Blanco puro con `border-radius` de `16px` a `20px`).
+
+## TYPOGRAPHY & LAYOUT (ZERENO KISS MODEL)
+
+- NEVER use stretched, wide, or tech/crypto fonts (no `font-stretch: expanded`).
+- Use Google Fonts `Playfair Display` or `Syne` (normal weight) for H1/H2 headings.
+- Use `Inter` for body, navigation, and buttons.
+- Keep the layout minimal, clean, and scannable like a digital menu (Zereno MX style).
+- Display a maximum of 4 featured projects on the homepage grid. Hide generic stock-photo projects.
+
+## AGENT AUTONOMY & WORKFLOW
+
+- When given a task, inspect files directly using workspace tools.
+- Edit HTML, CSS, and JS files directly in place.
+- After modifying code, run `npm run build` to verify there are no syntax or build errors.
+- Respect local Cancún SEO meta tags and JSON-LD structure.

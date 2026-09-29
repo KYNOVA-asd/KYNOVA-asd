@@ -45,115 +45,110 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./src/styles/main.css" />
   </head>
-  <body>
+  <body class="home-page">
     <div class="page-shell">
       <header class="site-header" data-header>
         <a class="brand" href="#inicio" aria-label="Ir al inicio">
-          <img class="brand__logo" src="./assets/brand/LOGO-kynova.webp" alt="KYNOVA" />
+          <img class="brand__logo" src="./assets/brand/logo-kynova-official.png" alt="KYNOVA, agencia de soluciones digitales" />
         </a>
-
         <button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" data-nav-toggle>
           <span></span>
           <span></span>
           <span></span>
         </button>
-
         <nav class="site-nav" aria-label="Navegación principal" data-nav>
           <a href="./nosotros/">Nosotros</a>
           <a href="./proyectos/">Proyectos</a>
           <a href="./costos/">Costos</a>
           <a href="./contacto/">Contacto</a>
+          <a
+            class="header-whatsapp"
+            href="https://wa.me/529987449856?text=Hola,%20me%20gustaría%20cotizar%20un%20proyecto"
+            target="_blank"
+            rel="noreferrer"
+          >Cotizar por WhatsApp</a>
         </nav>
       </header>
 
-      <main>
-        <section class="brand-banner" aria-label="Banner KYNOVA">
-          <img src="./assets/brand/banner-kynova.webp" alt="KYNOVA soluciones digitales" />
+      <main class="menu-home" id="inicio">
+        <section class="menu-intro">
+          <p class="eyebrow">KYNOVA · Estudio digital en Cancún</p>
+          <h1>Soluciones digitales para marcas que quieren verse profesionales.</h1>
+          <p>Explora nuestros servicios y descubre proyectos reales creados desde Cancún.</p>
         </section>
 
-        <section class="hero section" id="inicio">
-          <div class="hero__content">
-            <p class="eyebrow">Desarrollo web / marketing digital</p>
-            <h1>Soluciones digitales para marcas que quieren verse profesionales.</h1>
-            <p class="hero__lead">
-              Desarrollo web y marketing digital en una experiencia clara:
-              proyectos, imagen y contacto directo.
-            </p>
-            <div class="hero__actions">
-              <a class="button button--primary" href="./proyectos/">Ver proyectos</a>
-              <a class="button button--ghost" href="./contacto/">Contactar</a>
-            </div>
-          </div>
-
-          <div class="hero-summary" aria-label="Resumen de servicios">
-            <article>
-              <span>01</span>
-              <h2>Desarrollo web</h2>
-              <p>Sitios, sistemas y portafolios claros, rápidos y listos para crecer.</p>
-            </article>
-            <article>
-              <span>02</span>
-              <h2>Marketing digital</h2>
-              <p>Contenido, campañas y presencia visual para comunicar mejor tu marca.</p>
-            </article>
-            <article>
-              <span>03</span>
-              <h2>Contacto directo</h2>
-              <p>Una ruta simple para iniciar conversación y recibir una propuesta clara.</p>
-            </article>
+        <section class="quick-access" aria-labelledby="quick-access-title">
+          <h2 class="sr-only" id="quick-access-title">Explorar por categoría</h2>
+          <div class="categories-grid" data-home-categories>
+            <button class="category-card" type="button" data-home-category="web">
+              <strong>Desarrollo Web &amp; E-Commerce</strong>
+            </button>
+            <button class="category-card" type="button" data-home-category="marketing">
+              <strong>Marketing &amp; Estrategia</strong>
+            </button>
+            <button class="category-card" type="button" data-home-category="events">
+              <strong>Demos &amp; Eventos</strong>
+            </button>
+            <button class="category-card" type="button" data-home-category="systems">
+              <strong>Sistemas &amp; Herramientas</strong>
+            </button>
           </div>
         </section>
 
-        <section class="section section--compact">
-          <div class="stats" data-stats></div>
-        </section>
-
-        <section class="section" id="proyectos">
-          <div class="catalog-heading">
+        <section class="favorites" id="proyectos">
+          <div class="favorites__heading">
             <div>
-              <p class="eyebrow">Trabajo destacado</p>
-              <h2>Casos seleccionados.</h2>
+              <p class="eyebrow" data-gallery-kicker>Portafolio KYNOVA</p>
+              <h2 data-gallery-title>Nuestros Proyectos</h2>
             </div>
-            <p>
-              Una muestra breve de proyectos recientes. Para revisar más trabajos,
-              entra al catálogo completo.
-            </p>
+            <p data-gallery-description>Cuatro proyectos seleccionados para conocer nuestro trabajo.</p>
           </div>
-          <div class="projects" data-projects></div>
-          <div class="section-action">
-            <a class="button button--ghost" href="./proyectos/">Ver más proyectos</a>
-          </div>
+          <div class="projects menu-projects" data-projects></div>
+          <a class="text-link" href="./proyectos/">Ver el catálogo completo <span aria-hidden="true">→</span></a>
         </section>
 
-        <section class="section services" id="servicios">
-          <div class="section-heading">
-            <p class="eyebrow">Servicios</p>
-            <h2>Desarrollo y marketing en un solo lugar.</h2>
+        <section class="menu-services" aria-labelledby="services-title">
+          <div class="menu-section-heading">
+            <p class="eyebrow">Lo que hacemos</p>
+            <h2 id="services-title">Servicios simples, resultados claros</h2>
           </div>
           <div class="services-grid" data-services></div>
         </section>
 
-        <section class="section" id="habilidades">
-          <div class="section-heading">
-            <p class="eyebrow">Stack y fortalezas</p>
-            <h2>Herramientas justas para resolver bien.</h2>
+        <section class="menu-team" aria-labelledby="team-title">
+          <div class="menu-section-heading">
+            <p class="eyebrow">Equipo KYNOVA</p>
+            <h2 id="team-title">Dos perfiles, una solución completa</h2>
           </div>
-          <div class="skills-grid" data-skills></div>
+          <div class="menu-team__grid">
+            <article class="menu-person">
+              <span class="menu-person__avatar" aria-hidden="true">A</span>
+              <div>
+                <h3>Ángel</h3>
+                <p>Desarrollo, arquitectura y productos digitales funcionales.</p>
+              </div>
+            </article>
+            <article class="menu-person">
+              <span class="menu-person__avatar" aria-hidden="true">J</span>
+              <div>
+                <h3>Jaz Báez</h3>
+                <p>Estrategia, contenido e identidad para conectar con clientes.</p>
+              </div>
+            </article>
+          </div>
+          <a class="text-link" href="./nosotros/">Conocer al equipo <span aria-hidden="true">→</span></a>
         </section>
 
-        <section class="section contact" id="contacto">
-          <div>
-            <p class="eyebrow">Contacto</p>
-            <h2>Cuéntanos qué quieres construir.</h2>
-            <p>
-              Comparte una idea breve y te contactamos para aterrizar alcance,
-              tiempos y siguiente paso.
-            </p>
+        <section class="menu-contact" id="contacto" aria-labelledby="contact-title">
+          <div class="menu-contact__copy">
+            <p class="eyebrow">Contacto rápido</p>
+            <h2 id="contact-title">Cuéntanos qué quieres construir</h2>
+            <p>Escribe una idea breve y continuamos la conversación directamente por WhatsApp.</p>
             <div class="contact-links" data-contact-links></div>
           </div>
           <form class="contact-card" data-contact-form>
@@ -162,14 +157,8 @@
               <input name="name" type="text" placeholder="Tu nombre" required />
             </label>
             <label>
-              Mensaje
-              <input
-                name="message"
-                type="text"
-                maxlength="40"
-                placeholder="Me gustaría cotizar"
-                required
-              />
+              ¿Qué necesitas?
+              <input name="message" type="text" maxlength="40" placeholder="Una tienda, sitio o sistema" required />
               <small class="field-hint">Máximo 40 caracteres.</small>
             </label>
             <button class="button button--primary" type="submit">Cotizar por WhatsApp</button>
@@ -193,8 +182,8 @@
           <p class="case-modal__note" data-modal-note></p>
           <div class="project-modal__tags" data-modal-tags></div>
           <div class="modal-actions">
-            <a class="button button--primary" href="#" target="_blank" rel="noreferrer" data-modal-link>Ver repositorio</a>
-            <a class="button button--ghost" href="#" target="_blank" rel="noreferrer" data-modal-site>Ver sitio</a>
+            <a class="button button--primary" href="#" target="_blank" rel="noreferrer" data-modal-link>Ver demo en vivo</a>
+            <a class="button button--ghost" href="#" target="_blank" rel="noreferrer" data-modal-site>Cotizar por WhatsApp</a>
           </div>
         </div>
       </article>

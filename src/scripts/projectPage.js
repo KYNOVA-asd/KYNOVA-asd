@@ -144,16 +144,11 @@ const openCase = (project) => {
   summary.textContent = project.summary;
   fit.textContent = project.clientFit;
   note.textContent = project.confidentiality || "";
-  link.href = project.link;
-  link.textContent = project.linkLabel || "Ver repositorio";
-  if (project.siteLink) {
-    site.href = project.siteLink;
-    site.textContent = project.siteLabel || "Ver sitio";
-    site.hidden = false;
-  } else {
-    site.hidden = true;
-    site.removeAttribute("href");
-  }
+  link.href = project.siteLink || project.link;
+  link.textContent = project.siteLink ? "🔗 Ver demo en vivo" : "🔗 Ver proyecto";
+  site.href = `https://wa.me/529987449856?text=${encodeURIComponent(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`)}`;
+  site.textContent = "💬 Cotizar uno similar";
+  site.hidden = false;
 
   appendFacts(facts, [
     { label: "Sector", value: project.sector },
@@ -194,7 +189,7 @@ const renderProjects = () => {
   if (!list || !count) return;
 
   list.replaceChildren();
-  count.textContent = `${items.length} caso${items.length === 1 ? "" : "s"} disponibles`;
+  count.textContent = `${items.length} proyecto${items.length === 1 ? "" : "s"}`;
 
   if (items.length === 0) {
     list.append(createElement("p", "project-detail__empty", "No hay casos con esa busqueda."));
@@ -207,46 +202,27 @@ const renderProjects = () => {
     const body = createElement("div", "case-card__body");
     const brand = createElement("div", "case-card__brand");
     const meta = createElement("div", "project-row__meta");
-    const facts = createElement("div", "case-card__facts");
-    const tags = createElement("div", "project-card__meta");
     const actions = createElement("div", "project-card__actions");
-    const button = createElement("button", "button button--primary", "Ver caso");
-    const repositoryLink = createElement("a", "button button--ghost", project.linkLabel || "Ver repositorio");
+    const button = createElement("button", "button button--primary", "Ver ficha");
 
     fillImage(image, project, "case-card__image");
+    if (project.isLive) {
+      const liveBadge = createElement("span", "live-badge", "LIVE DEMO");
+      liveBadge.prepend(createElement("span", "live-badge__dot"));
+      card.append(liveBadge);
+    }
     appendBrandMark(brand, project);
     brand.append(createElement("span", "", project.company));
     meta.append(createElement("span", "", project.involvement || project.owner));
     meta.append(createElement("span", "", project.category));
-    appendFacts(facts, [
-      { label: "Sector", value: project.sector },
-      { label: "Fecha", value: project.duration },
-    ]);
-    appendTags(tags, project.tags);
 
     button.type = "button";
     button.addEventListener("click", () => openCase(project));
-    repositoryLink.href = project.link;
-    repositoryLink.target = "_blank";
-    repositoryLink.rel = "noreferrer";
     actions.append(button);
-
-    if (project.siteLink) {
-      const siteLink = createElement("a", "button button--ghost", project.siteLabel || "Ver sitio");
-      siteLink.href = project.siteLink;
-      siteLink.target = "_blank";
-      siteLink.rel = "noreferrer";
-      actions.append(siteLink);
-    }
-
-    actions.append(repositoryLink);
 
     body.append(brand);
     body.append(meta);
     body.append(createElement("h2", "", project.title));
-    body.append(createElement("p", "", project.description));
-    body.append(facts);
-    body.append(tags);
     body.append(actions);
     card.append(image, body);
     list.append(card);

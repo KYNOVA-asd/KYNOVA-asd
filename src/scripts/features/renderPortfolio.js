@@ -34,16 +34,11 @@ const openProjectModal = (project) => {
   description.textContent = project.summary || project.description;
   fit.textContent = project.clientFit || "";
   note.textContent = project.confidentiality || "";
-  link.href = project.link;
-  link.textContent = project.linkLabel || "Ver repositorio";
-  if (project.siteLink) {
-    site.href = project.siteLink;
-    site.textContent = project.siteLabel || "Ver sitio";
-    site.hidden = false;
-  } else {
-    site.hidden = true;
-    site.removeAttribute("href");
-  }
+  link.href = project.siteLink || project.link;
+  link.textContent = project.siteLink ? "Ver demo en vivo" : "Ver proyecto";
+  site.href = `https://wa.me/529987449856?text=${encodeURIComponent(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`)}`;
+  site.textContent = "Cotizar por WhatsApp";
+  site.hidden = false;
   details.replaceChildren();
   tags.replaceChildren();
   project.details.forEach((item) => {
@@ -91,71 +86,130 @@ const renderContactLinks = (contact) => {
     link.href = item.href;
     link.target = "_blank";
     link.rel = "noreferrer";
+    if (item.label === "WhatsApp") {
+      link.dataset.copyValue = contact.phoneLabel;
+    }
     container.append(link);
   });
 };
 
-export const renderPortfolio = ({ contact, stats, projects, services, skills }) => {
-  const statsContainer = select("[data-stats]");
+const categoryCopy = {
+  web: ["Desarrollo Web & E-Commerce", "Sitios, tiendas y experiencias digitales pensadas para convertir."],
+  marketing: ["Marketing & Estrategia", "Presencia, contenido y comunicación para marcas con intención."],
+  events: ["Demos & Eventos", "Experiencias interactivas para momentos que merecen recordarse."],
+  systems: ["Sistemas & Herramientas", "Herramientas y aplicaciones que ordenan procesos reales."],
+};
+
+const getProjectCategories = (project) => {
+  const searchable = [project.title, project.category, project.sector, ...(project.tags || [])].join(" ").toLowerCase();
+  const categories = [];
+
+  if (/e-commerce|frontend|\bweb\b|marca personal/.test(searchable)) categories.push("web");
+  if (project.owner === "Marketing" || /marketing|marca personal/.test(searchable)) categories.push("marketing");
+  if (/boda|invitación|evento/.test(searchable)) categories.push("events");
+  if (!categories.length || /sistema|backend|api|app|panel|chatbot|herramienta|tickets|citas/.test(searchable)) {
+    categories.push("systems");
+  }
+
+  return [...new Set(categories)];
+};
+
+const createMenuProjectCard = (project) => {
+  const card = createElement("article", "project-card menu-project-card");
+  const image = createElement("img", "project-card__image");
+  const body = createElement("div", "menu-project-card__body");
+  const category = createElement("span", "menu-project-card__category", project.category);
+  const trigger = createElement("button", "menu-project-card__trigger", project.title);
+
+  image.onerror = () => {
+    image.onerror = null;
+    image.src = project.fallbackImage;
+  };
+  image.src = project.image;
+  image.alt = `Vista previa de ${project.title}`;
+  trigger.type = "button";
+  trigger.setAttribute("aria-label", `Ver detalles de ${project.title}`);
+  trigger.addEventListener("click", () => openProjectModal(project));
+  card.tabIndex = 0;
+  card.setAttribute("role", "button");
+  card.setAttribute("aria-label", `Ver ficha técnica de ${project.title}`);
+  card.addEventListener("click", (event) => {
+    if (event.target === trigger) return;
+    openProjectModal(project);
+  });
+  card.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter" && event.key !== " ") return;
+    event.preventDefault();
+    openProjectModal(project);
+  });
+
+  if (project.isLive) {
+    const liveBadge = createElement("span", "badge-live", "Demo disponible");
+    card.append(liveBadge);
+  }
+
+  body.append(category, trigger);
+  card.append(image, body);
+  return card;
+};
+
+export const renderPortfolio = ({ contact, projects, services }) => {
   const projectsContainer = select("[data-projects]");
   const servicesContainer = select("[data-services]");
-  const skillsContainer = select("[data-skills]");
+  const galleryTitle = select("[data-gallery-title]");
+  const galleryKicker = select("[data-gallery-kicker]");
+  const galleryDescription = select("[data-gallery-description]");
 
-  stats.forEach((item) => {
-    const card = createElement("article", "stat");
-    card.append(createElement("strong", "", item.value));
-    card.append(createElement("span", "", item.label));
-    statsContainer.append(card);
-  });
+  if (!projectsContainer) return;
 
-  projects.slice(0, 3).forEach((project) => {
-    const card = createElement("article", "project-card");
-    const image = createElement("img", "project-card__image");
-    const body = createElement("div", "project-card__body");
-    const meta = createElement("div", "project-card__meta");
-    const actions = createElement("div", "project-card__actions");
-  const detailsButton = createElement("button", "button button--primary", "Ver caso");
+  const renderGallery = (items, category = "favorites") => {
+    projectsContainer.replaceChildren(...items.map(createMenuProjectCard));
 
-    card.style.setProperty("--card-accent", project.accent);
-    image.onerror = () => {
-      image.onerror = null;
-      image.src = project.fallbackImage;
-    };
-    image.src = project.image;
-    image.alt = `Vista previa de ${project.title}`;
-    detailsButton.type = "button";
-    detailsButton.addEventListener("click", () => openProjectModal(project));
+    if (category === "all") {
+      galleryKicker.textContent = "Portafolio KYNOVA";
+      galleryTitle.textContent = "Nuestros Proyectos";
+      galleryDescription.textContent = "Cuatro proyectos seleccionados para conocer nuestro trabajo.";
+      return;
+    }
 
-    body.append(createElement("span", "project-card__category", project.involvement || project.category));
-    body.append(createElement("h3", "", project.title));
-    body.append(createElement("p", "", project.description));
-    appendTags(meta, project.tags);
-    actions.append(detailsButton);
-    body.append(meta, actions);
-    card.append(image, body);
-    projectsContainer.append(card);
-  });
+    galleryKicker.textContent = "Explorar categoría";
+    galleryTitle.textContent = categoryCopy[category][0];
+    galleryDescription.textContent = categoryCopy[category][1];
+  };
 
-  services.forEach((service) => {
-    const card = createElement("article", "service-card");
-    card.append(createElement("h3", "", service.title));
-    card.append(createElement("p", "", service.description));
-    servicesContainer.append(card);
-  });
+  const featuredProjects = [
+    projects.find((project) => project.title.startsWith("Lunéa Intimates")),
+    projects.find((project) => project.title.startsWith("Pase de boda")),
+    projects.find((project) => project.company === "Marlen tu coach"),
+    projects.find((project) => project.title === "Sistema de citas"),
+  ].filter(Boolean);
 
-  skills.forEach((skill) => {
-    const card = createElement("article", "skill-card");
-    const tags = createElement("div", "skill-card__tags");
+  renderGallery(featuredProjects, "all");
 
-    card.append(createElement("span", "skill-card__icon", skill.icon));
-    card.append(createElement("h3", "", skill.title));
-    card.append(createElement("p", "", skill.description));
-    appendTags(tags, skill.tags);
-    card.append(tags);
-    skillsContainer.append(card);
-  });
+  servicesContainer?.replaceChildren(
+    ...services.map((service) => {
+      const card = createElement("article", "service-card");
+      card.append(createElement("h3", "", service.title));
+      card.append(createElement("p", "", service.description));
+      return card;
+    }),
+  );
 
   renderContactLinks(contact);
+
+  document.querySelectorAll("[data-home-category]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const category = button.dataset.homeCategory;
+      const wasActive = button.classList.contains("is-active");
+      const matches = featuredProjects.filter((project) => getProjectCategories(project).includes(category));
+
+      document.querySelectorAll("[data-home-category]").forEach((item) => {
+        item.classList.toggle("is-active", !wasActive && item === button);
+      });
+      renderGallery(wasActive ? featuredProjects : matches.slice(0, 4), wasActive ? "all" : category);
+      select("#proyectos")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  });
 
   document.addEventListener("click", (event) => {
     if (event.target.matches("[data-modal-close]")) {

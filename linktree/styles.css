@@ -36,7 +36,7 @@ a { color: inherit; }
   text-align: center;
 }
 .kynova-mark { position: absolute; top: 22px; left: 22px; }
-.kynova-mark img { display: block; width: 42px; height: 42px; border: 2px solid #d4b86e; border-radius: 50%; background: white; object-fit: cover; padding: 2px; }
+.kynova-mark img { display: block; width: 58px; height: 58px; border: 2px solid #d4b86e; border-radius: 12px; background: white; object-fit: contain; padding: 2px; }
 .avatar, .mini-avatar {
   display: grid;
   place-items: center;

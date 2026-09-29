@@ -2,6 +2,43 @@ const githubBase = "https://github.com/KYNOVA-asd";
 
 export const projects = [
   {
+    title: "Lunéa Intimates Cancún | Lencería fina",
+    company: "Lunéa Intimates Cancún",
+    owner: "Dev",
+    involvement: "Solo dev",
+    category: "E-Commerce",
+    sector: "Moda / lencería",
+    duration: "Demo interactivo",
+    startedAt: "2026",
+    deliverables: "Catálogo responsivo, carrito persistente y experiencia de compra personalizada.",
+    description:
+      "Demo e-commerce interactivo de lencería fina en Cancún. Incluye catálogo responsivo, carrito de compras dinámico con persistencia en localStorage y diseño personalizado.",
+    summary:
+      "Experiencia de comercio electrónico creada para presentar una colección de lencería fina y facilitar la selección de productos desde cualquier dispositivo.",
+    clientGoal:
+      "Presentar el catálogo de forma elegante y ofrecer una experiencia de compra sencilla, fluida y adaptable a dispositivos móviles.",
+    challenge:
+      "Integrar catálogo y carrito en una experiencia ligera que conserve la selección del usuario sin requerir un backend.",
+    solution:
+      "Se desarrolló una interfaz responsiva en HTML5, CSS3 y JavaScript, con un carrito dinámico persistente mediante localStorage.",
+    result:
+      "Un demo e-commerce funcional y personalizado que permite explorar productos y mantener el carrito entre sesiones.",
+    details: [
+      "Catálogo responsivo de productos.",
+      "Carrito de compras dinámico.",
+      "Persistencia del carrito con localStorage.",
+      "Diseño personalizado para la marca.",
+    ],
+    clientFit: "Ideal para boutiques y marcas de moda que desean validar o presentar su tienda en línea.",
+    confidentiality: "Proyecto demostrativo con repositorio público de referencia.",
+    image: "./assets/projects/dev/lunea-intimates.jpg",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1566206091558-7f218b696731?auto=format&fit=crop&w=1200&q=80",
+    link: `${githubBase}/Lun-a-Intimates-Lencer-a-canc-n`,
+    accent: "#b76e79",
+    tags: ["HTML5", "CSS3", "JavaScript", "LocalStorage", "E-Commerce", "Responsive"],
+  },
+  {
     title: "Pase de boda interactivo o compacto",
     company: "Alejandro & Fátima",
     owner: "Ambos",

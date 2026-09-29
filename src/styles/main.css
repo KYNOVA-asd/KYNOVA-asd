@@ -4048,3 +4048,42 @@ h2,
     margin-top: 18px;
   }
 }
+
+/* Home section-heading rhythm */
+.home-page .menu-section-heading {
+  max-width: 760px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid var(--color-sage-soft);
+  padding: 0 4px 22px;
+}
+
+.home-page .menu-section-heading .eyebrow,
+.home-page .favorites__heading .eyebrow,
+.home-page .menu-contact__copy .eyebrow {
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+
+.home-page .menu-section-heading h2,
+.home-page .favorites__heading h2,
+.home-page .menu-contact__copy h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-wrap: balance;
+}
+
+.home-page .menu-services .services-grid,
+.home-page .menu-team__grid {
+  margin-top: 0;
+}
+
+@media (max-width: 620px) {
+  .home-page .menu-section-heading {
+    margin-bottom: 22px;
+    padding: 0 2px 17px;
+  }
+
+  .home-page .menu-section-heading .eyebrow {
+    margin-bottom: 9px;
+  }
+}

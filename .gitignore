@@ -5,3 +5,5 @@ demos/invitacion-para-boda/img/resultado_canva.txt
 demos/invitacion-para-boda/tipos de eventos.txt
 demos/invitacion-para-boda/tecnicas css.txt
 *.txt
+!robots.txt
+!estructura_portafolio.txt

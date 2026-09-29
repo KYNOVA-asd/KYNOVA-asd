@@ -9,6 +9,8 @@ const entries = [
   '404.html',
   '500.html',
   "index.html",
+  "robots.txt",
+  "sitemap.xml",
   "assets",
   "contacto",
   "costos",

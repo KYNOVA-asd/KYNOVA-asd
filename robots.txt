@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Archivos de error fuera de índice
+Disallow: /404.html
+Disallow: /500.html
+
+Sitemap: https://kynova.mx/sitemap.xml

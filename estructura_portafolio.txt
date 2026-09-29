@@ -1,0 +1,409 @@
+RELEVAMIENTO DEL PORTAFOLIO KYNOVA.MX
+====================================
+Fecha del relevamiento: 28 de septiembre de 2026
+Fuente analizada: código local del repositorio KYNOVA-asd
+
+NOTA DE ALCANCE
+---------------
+El sitio activo está implementado como un sitio estático en HTML, CSS y JavaScript modular.
+La carpeta dist/ es la salida generada por npm run build y replica los archivos publicables.
+La carpeta kynova-angular/ contiene un scaffold independiente de Angular y no forma parte del
+flujo de construcción definido en el package.json de la raíz. .git/ y dependencias instaladas
+se omiten del árbol porque no son código funcional del portafolio.
+
+
+1. MAPA DE CARPETAS Y ARCHIVOS
+=============================
+
+KYNOVA-asd/
+|-- index.html                         Página principal del portafolio
+|-- 404.html                           Página de error 404
+|-- 500.html                           Página de error 500
+|-- package.json                       Scripts build, dev y start
+|-- package-lock.json                  Dependencias bloqueadas
+|-- vercel.json                        Configuración de despliegue
+|-- README.md                          Documentación general
+|-- PENDIENTES.txt                     Lista interna de pendientes
+|-- assets/
+|   |-- brand/
+|   |   |-- LOGO-kynova.webp
+|   |   |-- banner-kynova.webp
+|   |   |-- error-404.svg
+|   |   `-- error-oops.svg
+|   |-- projects/
+|   |   |-- README.md
+|   |   |-- clients/
+|   |   |   `-- autocar-logo.jpg
+|   |   |-- dev/
+|   |   |   `-- README.md
+|   |   `-- marketing/
+|   |       `-- README.md
+|   `-- team/
+|       `-- README.md
+|-- contacto/
+|   `-- index.html                     Contacto, WhatsApp, GitHub y agenda
+|-- costos/
+|   `-- index.html                     Opciones de cotización
+|-- nosotros/
+|   `-- index.html                     Presentación del equipo
+|-- proyectos/
+|   `-- index.html                     Catálogo, filtros, búsqueda y modal
+|-- llamanos/
+|   `-- index.html                     Redirección hacia Contacto
+|-- demos/
+|   |-- index.html                     Catálogo de demos
+|   |-- styles.css                     Estilos propios del catálogo
+|   |-- README.md
+|   `-- invitacion-para-boda/demo-1/
+|       |-- README.md
+|       |-- assets/audio/               Audio de la invitación
+|       |-- assets/img/                 Imágenes y recursos gráficos
+|       |-- effects/floral-garden/      Efecto visual (HTML, CSS y JS)
+|       |-- fase-1/pase/                Pase interactivo
+|       |-- fase-1/invitacion/          Pase compacto / invitación
+|       `-- fase-2/                     Landing completa
+|-- linktree/
+|   |-- index.html
+|   |-- angel.couoh.html
+|   |-- jazmin.b.html
+|   |-- yadira.h.html
+|   |-- styles.css
+|   `-- script.js
+|-- scripts/
+|   |-- build-static.js                Copia el sitio publicable a dist/
+|   `-- dev-server.js                  Servidor local
+|-- src/
+|   |-- styles/
+|   |   |-- main.css                   Sistema visual principal
+|   |   `-- error.css                  Estilos de páginas de error
+|   `-- scripts/
+|       |-- app.js                     Inicializa la portada
+|       |-- site.js                    Inicializa páginas interiores
+|       |-- projectPage.js             Catálogo y modal de proyectos
+|       |-- core/dom.js                Utilidades de creación/selección DOM
+|       |-- data/portfolio.js           Contacto, métricas, servicios y skills
+|       |-- data/projects.js            Fuente única de proyectos
+|       `-- features/
+|           |-- calendarBooking.js      Agenda de Google Calendar
+|           |-- canvasScene.js          Recurso visual canvas
+|           |-- contactForm.js          Envío del formulario a WhatsApp
+|           |-- navigation.js           Menú y cabecera
+|           `-- renderPortfolio.js      Render dinámico de la portada/modal
+|-- kynova-angular/                     Scaffold Angular independiente/no activo
+|   |-- angular.json, package*.json, tsconfig*.json
+|   |-- public/favicon.ico
+|   `-- src/                            app, rutas, configuración y estilos Angular
+`-- dist/                               Salida compilada; no debe editarse a mano
+
+
+2. HTML Y COMPONENTES PRINCIPALES
+=================================
+
+ARQUITECTURA GENERAL
+--------------------
+- Documento HTML5 en español y responsive mediante viewport.
+- Header compartido: logotipo circular KYNOVA, botón hamburguesa móvil y navegación a
+  Nosotros, Proyectos, Costos y Contacto.
+- Fuente Google Fonts: Inter, pesos 400, 500, 600, 700 y 800.
+- CSS global: src/styles/main.css.
+- Portada alimentada con datos JS de portfolio.js y projects.js.
+- Tarjetas y modales construidos dinámicamente con createElement; el HTML contiene los
+  contenedores data-* que actúan como puntos de montaje.
+
+PORTADA: /index.html
+--------------------
+Título SEO: KYNOVA | Portafolio
+Descripción: "Portafolio comercial de KYNOVA con proyectos de desarrollo web, marketing
+digital y contacto directo."
+
+1) Header
+   - Logo enlazado a #inicio.
+   - Navegación: Nosotros, Proyectos, Costos y Contacto.
+
+2) Banner de marca
+   - assets/brand/banner-kynova.webp
+   - Alt: "KYNOVA soluciones digitales".
+
+3) Hero (#inicio)
+   - Eyebrow: "Desarrollo web / marketing digital".
+   - H1: "Soluciones digitales para marcas que quieren verse profesionales."
+   - Texto: "Desarrollo web y marketing digital en una experiencia clara: proyectos,
+     imagen y contacto directo."
+   - CTA: "Ver proyectos" y "Contactar".
+   - Resumen de servicios:
+     01 Desarrollo web: sitios, sistemas y portafolios claros, rápidos y listos para crecer.
+     02 Marketing digital: contenido, campañas y presencia visual.
+     03 Contacto directo: ruta simple para iniciar conversación y recibir propuesta.
+
+4) Estadísticas/resumen dinámico (data-stats)
+   - Web: sitios claros para presentar servicios y generar contacto.
+   - Sistemas: herramientas internas para ordenar procesos y datos.
+   - Marketing: presencia visual y mensajes listos para compartir.
+
+5) Proyectos destacados (#proyectos)
+   - Eyebrow: "Trabajo destacado".
+   - H2: "Casos seleccionados."
+   - Muestra projects.slice(0, 3), actualmente: Lunéa Intimates, Pase de boda y
+     Sistema para ganadería.
+   - Cada tarjeta presenta imagen, área/categoría, título, descripción, tags y detalle.
+   - CTA general: "Ver más proyectos".
+
+6) Servicios (#servicios)
+   - H2: "Desarrollo y marketing en un solo lugar."
+   - Páginas para negocios: landings, cartas digitales y sitios con contacto directo.
+   - Portafolios dev: proyectos con imágenes, enlaces y fichas breves.
+   - Prototipos rápidos: interfaces ligeras para probar ideas.
+
+7) Stack y fortalezas (#habilidades)
+   - H2: "Herramientas justas para resolver bien."
+   - Interfaces: CSS Grid, Flexbox y Accesibilidad.
+   - Interactividad: ES Modules, DOM y Modal.
+   - Marketing: CTA, Catálogo y Contacto.
+
+8) Contacto (#contacto)
+   - H2: "Cuéntanos qué quieres construir."
+   - Links generados para teléfono/WhatsApp y GitHub.
+   - Formulario con Nombre y Mensaje (máximo 40 caracteres).
+   - Botón "Cotizar por WhatsApp".
+
+9) Modal de proyecto
+   - Imagen, categoría, título, descripción, entregables, perfil de cliente,
+     confidencialidad y tags.
+   - Acciones independientes: "Ver repositorio" y "Ver sitio" cuando existe.
+
+CATÁLOGO: /proyectos/index.html
+--------------------------------
+- H1: "Casos por área, empresa y objetivo."
+- Texto: "Elige lo que buscas y revisa trabajos con contexto, objetivos y evidencia visual."
+- Filtros: Todos, Solo dev, Solo marketing y Dev + marketing.
+- Buscador por empresa, tipo o tecnología y contador de resultados.
+- Grid generado desde projects.js con imagen, marca, área, categoría, título, descripción,
+  sector, fecha, tags y acciones.
+- Cada tarjeta ofrece "Ver caso", link de sitio/demo si existe y link del proyecto/repositorio.
+- Modal completo: resumen, sector, fecha, referencia, objetivo, reto, solución, resultado,
+  entregables, ajuste de cliente, confidencialidad, tags, repositorio y sitio.
+
+NOSOTROS: /nosotros/index.html
+--------------------------------
+- H1: "Dos perfiles, una misma idea: que tu marca se vea mejor."
+- Presentación de KYNOVA como combinación de desarrollo y marketing.
+- Equipo:
+  - Ángel — Desarrollo / soluciones digitales; sistemas, sitios y herramientas.
+  - Jaz Báez — Marketing / contenido; mensaje, presencia visual y comunicación.
+- Links individuales a Instagram.
+- Sección "Cómo trabajamos": entrada como dev, marketing o ambos.
+
+CONTACTO: /contacto/index.html
+--------------------------------
+- H1: "Cotiza tu proyecto por WhatsApp."
+- Explicación breve del proceso de contacto.
+- CTA directo a WhatsApp: +52 998 744 9856.
+- CTA a https://github.com/KYNOVA-asd.
+- Integración de agenda mediante Google Calendar Scheduling Button.
+
+COSTOS: /costos/index.html
+--------------------------
+- H1: "Cada proyecto se cotiza según su alcance."
+- Tres opciones:
+  - Solo dev: sitios, sistemas internos, formularios, catálogos y estructura web.
+  - Solo marketing: contenido, campañas, piezas visuales y presencia digital.
+  - Dev + marketing: sitio, mensaje, imagen y contacto.
+- Cierre con CTA "Cuéntanos qué tienes en mente" y cotización por WhatsApp.
+
+DEMOS: /demos/index.html
+------------------------
+- H1: "Explora nuestras experiencias digitales."
+- Pase con sobre (fase 1), Pase compacto (fase 1), Invitación completa (fase 2) y
+  una ruta declarada como Boda ejemplo.
+
+PÁGINAS AUXILIARES
+------------------
+- /llamanos/: redirección a /contacto/.
+- /404.html y /500.html: errores con ilustraciones de marca y regreso al sitio.
+- /linktree/: micrositios de enlaces personales.
+
+
+3. PROYECTOS PUBLICADOS
+=======================
+
+Total en src/scripts/data/projects.js: 14 proyectos.
+Base de GitHub utilizada: https://github.com/KYNOVA-asd
+
+01. Lunéa Intimates Cancún | Lencería fina
+    Descripción: Demo e-commerce interactivo de lencería fina en Cancún. Incluye catálogo
+    responsivo, carrito de compras dinámico con persistencia en localStorage y diseño personalizado.
+    Tags: HTML5, CSS3, JavaScript, LocalStorage, E-Commerce, Responsive.
+    Repositorio: https://github.com/KYNOVA-asd/Lun-a-Intimates-Lencer-a-canc-n
+    Demo: https://luna-intimates-cancun.vercel.app/#inicio
+
+02. Pase de boda interactivo o compacto
+    Descripción: Invitación de boda para Alejandro & Fátima con pase de sobre interactivo y
+    landing completa. 28 de noviembre de 2026.
+    Tags: Boda, Invitación digital, Landing, Demo.
+    Pase interactivo: /demos/invitacion-para-boda/demo-1/fase-1/pase/
+    Pase compacto: /demos/invitacion-para-boda/demo-1/fase-1/invitacion/
+
+03. Sistema para ganadería
+    Descripción: Sistema web para ordenar registros y consultas de un negocio ganadero.
+    Tags: Agro, Sistema interno, Demo.
+    Repositorio: https://github.com/KYNOVA-asd/sistema-ganaderia-demo
+    Sitio externo: no definido.
+
+04. Sistema de citas
+    Descripción: Sistema interno para citas y seguimiento de solicitudes de servicio.
+    Tags: Autocar, Citas, Demo.
+    Repositorio: https://github.com/KYNOVA-asd/sistema-citas-autocar
+    Referencia: https://www.facebook.com/SomosAutocarCancun?locale=es_LA
+
+05. Chatbot de apoyo estudiantil
+    Descripción: Demo técnica de chatbot creada como apoyo estudiantil.
+    Tags: Chatbot, Educación, Demo.
+    Repositorio: https://github.com/KYNOVA-asd/chatbot-apoyo-estudiantil
+    Referencia: https://utcancun.edu.mx/
+
+06. Call center tools
+    Descripción: Herramientas internas para apoyar atención y gestión de clientes.
+    Tags: Perome, Herramienta, Operación.
+    Repositorio: https://github.com/KYNOVA-asd/perome-call-center-tools
+    Referencia: https://peromec.com/
+
+07. Hera Hotels Web
+    Descripción: Interfaz web para un flujo hotelero de referencia.
+    Tags: Krystal, Frontend, Hoteles.
+    Repositorio: https://github.com/KYNOVA-asd/krystal-hera-hotels-web
+    Referencia: https://www.krystal-cancun.com/
+
+08. Hera Hotels Backend
+    Descripción: Backend de referencia para gestión hotelera.
+    Tags: Krystal, Backend, API.
+    Repositorio: https://github.com/KYNOVA-asd/krystal-hera-hotels-backend
+    Referencia: https://www.krystal-cancun.com/
+
+09. SAIRA Hotels
+    Descripción: Sistema Automatizado de Incidencias y Respuesta Ágil.
+    Tags: Krystal, Tickets, Soporte.
+    Repositorio: https://github.com/KYNOVA-asd/krystal-saira-hotels
+    Referencia: https://www.krystal-cancun.com/
+
+10. SAIRA API
+    Descripción: API para el sistema SAIRA de incidencias y tickets.
+    Tags: Krystal, API, Tickets.
+    Repositorio: https://github.com/KYNOVA-asd/krystal-saira-api
+    Referencia: https://www.krystal-cancun.com/
+
+11. AutoScreen interno
+    Descripción: Herramienta interna para apoyo operativo y automatización de capturas.
+    Tags: Mindata, Python, Interno.
+    Repositorio: https://github.com/KYNOVA-asd/mindata-autoscreen-interno
+    Referencia: https://mindata.es/
+
+12. GoCity Panel
+    Descripción: Panel web para una propuesta de movilidad urbana.
+    Tags: GoCity, Panel, Concurso.
+    Repositorio: https://github.com/KYNOVA-asd/inmoveqroo-gocity-panel
+    Referencia: https://imoveqroo.qroo.gob.mx/
+
+13. GoCity App
+    Descripción: Aplicación móvil para una propuesta de movilidad urbana.
+    Tags: GoCity, App, Ionic.
+    Repositorio: https://github.com/KYNOVA-asd/inmoveqroo-gocity-app
+    Referencia: https://imoveqroo.qroo.gob.mx/
+
+14. Sitio y presencia digital (Marlen tu coach)
+    Descripción: Sitio web y apoyo de marketing para presentar una marca personal.
+    Tags: Marca, Marketing, Web.
+    Repositorio: https://github.com/KYNOVA-asd/marlen-tu-coach-web-marketing
+    Sitio: https://marlentucoach.com/
+
+4. PALETA, TIPOGRAFÍA Y ESTILOS GENERALES
+==========================================
+
+VARIABLES DE COLOR (src/styles/main.css :root)
+------------------------------------------------
+--bg:             #f4f1ea  Fondo general crema claro.
+--surface:        #fffdf8  Superficies/tarjetas marfil.
+--surface-soft:   #ebe6dc  Fondo secundario beige.
+--surface-strong: #34402f  Verde oliva oscuro; header y áreas de alto contraste.
+--text:           #23261f  Texto principal casi negro con matiz verde.
+--muted:          #777b6d  Texto secundario gris oliva.
+--line:           #ded7ca  Bordes y divisores beige.
+--accent:         #c8a24a  Dorado principal.
+--accent-strong:  #8f6a20  Dorado oscuro para énfasis.
+--teal:           #0f766e  Turquesa de apoyo/proyectos.
+--rose:           #c2415b  Rosa de apoyo/proyectos.
+--blue:           #315b94  Azul de apoyo/proyectos.
+
+Colores adicionales frecuentes:
+- #ffffff: blanco puro en controles y contraste.
+- #f8f4e9 y #e5e0d5: textos claros sobre fondo oscuro.
+- #ece6d8: fondo de tags/chips.
+- rgba(255,253,248,0.84-0.90): tarjetas marfil translúcidas.
+- rgba(35,38,31,...): sombras y backdrops.
+
+Color particular de Lunéa: #b76e79 (rosa viejo), definido como accent del proyecto.
+
+TIPOGRAFÍA
+----------
+- Familia principal: Inter.
+- Fallbacks: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif.
+- Pesos cargados: 400, 500, 600, 700 y 800.
+- Títulos principales fluidos con clamp; H1 del hero entre 2.8rem y 5.4rem.
+- Títulos de sección entre 2rem y 3.15rem.
+- Eyebrows, navegación, botones, tags y datos usan pesos fuertes (700-900), mayúsculas o
+  tracking para jerarquía visual.
+
+SISTEMA DE LAYOUT
+-----------------
+- Ancho máximo del contenido: 1180px.
+- Contenedor: min(100% - 28px, 1180px), centrado.
+- Header sticky superior, ocultable al desplazarse, fondo verde oscuro.
+- Hero de dos columnas; grids principales de tres columnas.
+- Catálogo de proyectos con sidebar/herramientas y grid de cards.
+- CSS Grid y Flexbox como sistemas principales.
+- Breakpoints principales: 1024px, 760px y 560px.
+- En tablet el contenido reduce columnas; en móvil se apila a una columna y aparece el menú
+  hamburguesa.
+
+FORMAS, BORDES Y PROFUNDIDAD
+----------------------------
+- Radio base: 8px.
+- Pills/cápsulas: border-radius 999px para navegación, tags y ciertos controles.
+- Logos y avatares: círculos al 50%.
+- Modales: radio 18px.
+- Borde estándar: 1px solid #ded7ca.
+- Sombra global fuerte: 0 24px 60px rgba(43,49,37,0.14).
+- Tarjetas: sombras suaves de 12-14px de desplazamiento y 32-36px de desenfoque.
+
+COMPONENTES VISUALES
+--------------------
+- Botones primary: fondo verde oliva oscuro, texto claro y sombra.
+- Botones ghost: superficie clara/borde, conservando el color del texto.
+- Cards: fondo marfil semitransparente, borde fino, radio de 8px y sombra suave.
+- Tags: chips beige, texto oscuro, tipografía pequeña y gruesa.
+- Imágenes de proyecto: aspect-ratio controlado, object-fit: cover y fallback remoto.
+- Modales: overlay oscuro, panel claro de gran tamaño y bloqueo del scroll del body.
+- Inputs: fondos blancos, borde beige y focus dorado translúcido.
+- Interacciones: transiciones de 180-220ms para transform, sombras, fondos y color.
+- Scroll suave mediante scroll-behavior: smooth.
+
+TONO VISUAL GENERAL
+-------------------
+La identidad combina una base cálida y editorial (cremas, marfil y dorado) con verde oliva
+oscuro para autoridad y contraste. Las tarjetas limpias, los radios contenidos y las sombras
+suaves generan una presentación profesional sin verse excesivamente corporativa. Los colores
+teal, rose y blue se reservan para acentos de categorías/proyectos. La interfaz prioriza
+legibilidad, llamadas a la acción visibles, responsive design y navegación directa.
+
+
+5. FUENTES DE DATOS Y MANTENIMIENTO
+===================================
+
+- Editar proyectos: src/scripts/data/projects.js.
+- Editar servicios, skills, estadísticas y contacto: src/scripts/data/portfolio.js.
+- Editar estructura de portada: index.html.
+- Editar catálogo/modal: proyectos/index.html y src/scripts/projectPage.js.
+- Editar estilos globales: src/styles/main.css.
+- Generar dist/: npm.cmd run build.
+- Ver localmente: npm.cmd run dev.
+
+FIN DEL RELEVAMIENTO

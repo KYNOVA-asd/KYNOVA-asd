@@ -136,6 +136,7 @@ const createMenuProjectCard = (project) => {
   const card = createElement("article", "project-card menu-project-card");
   const image = createElement("img", "project-card__image");
   const body = createElement("div", "menu-project-card__body");
+  const header = createElement("div", "menu-project-card__header");
   const category = createElement("span", "menu-project-card__category", project.category);
   const trigger = createElement("button", "menu-project-card__trigger", project.title);
 
@@ -163,10 +164,11 @@ const createMenuProjectCard = (project) => {
 
   if (project.isLive) {
     const liveBadge = createElement("span", "badge-live", "Demo disponible");
-    card.append(liveBadge);
+    header.append(liveBadge);
   }
 
-  body.append(category, trigger);
+  header.append(category);
+  body.append(header, trigger);
   card.append(image, body);
   return card;
 };

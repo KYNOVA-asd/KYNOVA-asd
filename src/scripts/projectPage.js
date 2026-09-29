@@ -204,6 +204,7 @@ const renderProjects = () => {
     const card = createElement("article", "case-card");
     const image = createElement("img");
     const body = createElement("div", "case-card__body");
+    const heading = createElement("div", "case-card__heading");
     const brand = createElement("div", "case-card__brand");
     const meta = createElement("div", "project-row__meta");
     const summary = createElement("p", "case-card__summary", project.description);
@@ -214,7 +215,7 @@ const renderProjects = () => {
     if (project.isLive) {
       const liveBadge = createElement("span", "live-badge", "LIVE DEMO");
       liveBadge.prepend(createElement("span", "live-badge__dot"));
-      card.append(liveBadge);
+      heading.append(liveBadge);
     }
     appendBrandMark(brand, project);
     brand.append(createElement("span", "", project.company));
@@ -227,7 +228,8 @@ const renderProjects = () => {
 
     body.append(brand);
     body.append(meta);
-    body.append(createElement("h2", "", project.title));
+    heading.append(createElement("h2", "", project.title));
+    body.append(heading);
     body.append(summary);
     body.append(actions);
     card.append(image, body);

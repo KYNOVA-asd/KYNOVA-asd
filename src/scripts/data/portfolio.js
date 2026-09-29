@@ -5,6 +5,8 @@ export const portfolio = {
     phoneLabel: "+52 998 744 9856",
     whatsapp: "529987449856",
     github: "https://github.com/KYNOVA-asd",
+    instagram: "https://www.instagram.com/kynova.asd/",
+    facebook: "https://www.facebook.com/profile.php?id=61584581761315",
   },
   stats: [
     {

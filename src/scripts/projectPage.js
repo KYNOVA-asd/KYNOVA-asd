@@ -144,10 +144,14 @@ const openCase = (project) => {
   summary.textContent = project.summary;
   fit.textContent = project.clientFit;
   note.textContent = project.confidentiality || "";
-  link.href = project.siteLink || project.link;
-  link.textContent = project.siteLink ? "🔗 Ver demo en vivo" : "🔗 Ver proyecto";
+  link.href = project.demoUrl || project.siteLink || project.link;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.classList.add("button--with-icon", "button--external");
+  link.textContent = project.id === "zazil-events" ? "Ver Plataforma en Vivo" : project.siteLink ? "Ver demo en vivo" : "Ver proyecto";
   site.href = `https://wa.me/529987449856?text=${encodeURIComponent(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`)}`;
-  site.textContent = "💬 Cotizar uno similar";
+  site.classList.add("button--with-icon", "button--message");
+  site.textContent = "Cotizar uno similar";
   site.hidden = false;
 
   appendFacts(facts, [

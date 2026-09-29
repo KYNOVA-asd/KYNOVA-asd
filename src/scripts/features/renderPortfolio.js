@@ -34,9 +34,13 @@ const openProjectModal = (project) => {
   description.textContent = project.summary || project.description;
   fit.textContent = project.clientFit || "";
   note.textContent = project.confidentiality || "";
-  link.href = project.siteLink || project.link;
-  link.textContent = project.siteLink ? "Ver demo en vivo" : "Ver proyecto";
+  link.href = project.demoUrl || project.siteLink || project.link;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.classList.add("button--with-icon", "button--external");
+  link.textContent = project.id === "zazil-events" ? "Ver Plataforma en Vivo" : project.siteLink ? "Ver demo en vivo" : "Ver proyecto";
   site.href = `https://wa.me/529987449856?text=${encodeURIComponent(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`)}`;
+  site.classList.add("button--with-icon", "button--message");
   site.textContent = "Cotizar por WhatsApp";
   site.hidden = false;
   details.replaceChildren();
@@ -79,13 +83,27 @@ const renderContactLinks = (contact) => {
       label: "WhatsApp",
       href: `https://wa.me/${contact.whatsapp}`,
     },
+    {
+      label: "Instagram",
+      href: contact.instagram,
+    },
+    {
+      label: "Facebook",
+      href: contact.facebook,
+    },
   ];
 
   links.forEach((item) => {
     const link = createElement("a", "contact-link", item.label);
     link.href = item.href;
     link.target = "_blank";
-    link.rel = "noreferrer";
+    link.rel = "noopener noreferrer";
+    if (item.label === "Instagram") {
+      link.classList.add("social-link", "social-link--instagram");
+    }
+    if (item.label === "Facebook") {
+      link.classList.add("social-link", "social-link--facebook");
+    }
     if (item.label === "WhatsApp") {
       link.dataset.copyValue = contact.phoneLabel;
     }
@@ -179,7 +197,7 @@ export const renderPortfolio = ({ contact, projects, services }) => {
 
   const featuredProjects = [
     projects.find((project) => project.title.startsWith("Lunéa Intimates")),
-    projects.find((project) => project.title.startsWith("Pase de boda")),
+    projects.find((project) => project.id === "zazil-events"),
     projects.find((project) => project.company === "Marlen tu coach"),
     projects.find((project) => project.title === "Sistema de citas"),
   ].filter(Boolean);

@@ -39,8 +39,8 @@ export const createCalendarBooking = async () => {
     await loadCalendarScript();
     window.calendar.schedulingButton.load({
       url: GOOGLE_CALENDAR_URL,
-      color: "#039BE5",
-      label: "Programar una cita",
+      color: "#355244",
+      label: "Agendar una cita",
       target: container,
     });
   } catch (error) {

@@ -144,9 +144,11 @@ const openCase = (project) => {
   summary.textContent = project.summary;
   fit.textContent = project.clientFit;
   note.textContent = project.confidentiality || "";
-  link.href = project.demoUrl || project.siteLink || project.link;
+  const publicUrl = project.demoUrl || project.siteLink;
+  link.href = publicUrl || "#";
   link.target = "_blank";
   link.rel = "noopener noreferrer";
+  link.hidden = !publicUrl;
   link.classList.add("button--with-icon", "button--external");
   link.textContent = project.id === "zazil-events" ? "Ver Plataforma en Vivo" : project.siteLink ? "Ver demo en vivo" : "Ver proyecto";
   site.href = `https://wa.me/529987449856?text=${encodeURIComponent(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`)}`;

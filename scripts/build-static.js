@@ -10,6 +10,7 @@ const entries = [
   '500.html',
   "index.html",
   "robots.txt",
+  "llms.txt",
   "sitemap.xml",
   "assets",
   "contacto",
@@ -17,6 +18,7 @@ const entries = [
   "llamanos",
   "nosotros",
   "proyectos",
+  "privacidad",
   "src",
 ];
 

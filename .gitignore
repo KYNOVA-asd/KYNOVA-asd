@@ -6,4 +6,5 @@ demos/invitacion-para-boda/tipos de eventos.txt
 demos/invitacion-para-boda/tecnicas css.txt
 *.txt
 !robots.txt
+!llms.txt
 !estructura_portafolio.txt

@@ -2,27 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kynova.mx/</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>1.00</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kynova.mx/proyectos/</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.80</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kynova.mx/nosotros/</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.70</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://kynova.mx/costos/</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.70</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://kynova.mx/contacto/</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.90</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kynova.mx/privacidad/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <priority>0.30</priority>
+    <changefreq>yearly</changefreq>
   </url>
 </urlset>

@@ -26,6 +26,30 @@
           <div id="kynova-posts" class="blog-grid" aria-live="polite"></div>
         </section>
 
+        <section class="blog-section blog-shorts" aria-labelledby="shorts-title">
+          <div class="blog-section__heading">
+            <p class="eyebrow">Videos seleccionados</p>
+            <h2 id="shorts-title">Tech &amp; Mkt Shorts</h2>
+          </div>
+          <div id="youtube-videos" class="video-grid" aria-live="polite" aria-busy="true"></div>
+        </section>
+
+        <section class="blog-section weekly-tool" aria-labelledby="weekly-tool-title">
+          <div class="blog-section__heading">
+            <p class="eyebrow">Stack recomendado</p>
+            <h2 id="weekly-tool-title">Herramienta de la semana</h2>
+          </div>
+          <div id="weekly-tool" aria-live="polite"></div>
+        </section>
+
+        <section class="blog-section blog-selection" aria-labelledby="kynova-selection-title">
+          <div class="blog-section__heading">
+            <p class="eyebrow">Nuestra lectura</p>
+            <h2 id="kynova-selection-title">Selección KYNOVA</h2>
+          </div>
+          <div id="kynova-selection" aria-live="polite" aria-busy="true"></div>
+        </section>
+
         <section class="blog-section blog-radar" aria-labelledby="rss-news-title">
           <div class="blog-section__heading">
             <p class="eyebrow">Selección de medios</p>
@@ -37,12 +61,26 @@
             <button class="news-filters__chip" type="button" data-rss-filter="Genbeta" aria-pressed="false" aria-controls="rss-news">Genbeta</button>
             <button class="news-filters__chip" type="button" data-rss-filter="The Verge" aria-pressed="false" aria-controls="rss-news">The Verge</button>
             <button class="news-filters__chip" type="button" data-rss-filter="Engadget" aria-pressed="false" aria-controls="rss-news">Engadget</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="Tecnología" aria-pressed="false" aria-controls="rss-news">Tecnología</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="Inteligencia Artificial" aria-pressed="false" aria-controls="rss-news">Inteligencia Artificial</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="Marketing" aria-pressed="false" aria-controls="rss-news">Marketing</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="Desarrollo" aria-pressed="false" aria-controls="rss-news">Desarrollo</button>
           </div>
           <div id="rss-news" class="news-grid" aria-live="polite" aria-busy="true"></div>
         </section>
       </main>
       <!-- @include:footer -->
     </div>
+    <dialog class="video-modal" id="video-modal" aria-labelledby="video-modal-title">
+      <div class="video-modal__header">
+        <h2 id="video-modal-title">Video</h2>
+        <button class="video-modal__close" type="button" aria-label="Cerrar video">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" /></svg>
+        </button>
+      </div>
+      <div class="video-modal__frame"><iframe title="Reproductor de YouTube" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+      <a class="video-modal__external" href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">Ver directamente en YouTube</a>
+    </dialog>
     <script type="module" src="/src/scripts/blog.js"></script>
   </body>
 </html>

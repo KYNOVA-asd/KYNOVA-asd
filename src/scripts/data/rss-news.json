@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-10-10T19:00:00Z",
+  "count": 12,
+  "items": [
+    {
+      "id": "engadget-android-auto",
+      "title": "This Android Auto problem is affecting calls on foldable phones",
+      "summary": "Gemini might be causing some issues with Android Auto.",
+      "link": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling",
+      "published": "2026-10-10T18:45:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/this-android-auto-problem-is-affecting-calls-on-foldable-phones/l-intro-1791386416.jpg"
+    },
+    {
+      "id": "engadget-samsung-warranty",
+      "title": "How to quickly check your Samsung Galaxy's warranty info",
+      "summary": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
+      "link": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy",
+      "published": "2026-10-10T18:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-quickly-check-your-samsung-galaxys-warranty-info/l-intro-1791385758.jpg"
+    },
+    {
+      "id": "xataka-megaembalse-quebec",
+      "title": "En 1971, Québec inundó 11.500 km² de bosque para crear un megaembalse y, sin saberlo, envenenó a un pueblo entero",
+      "summary": "Un megaproyecto hidroeléctrico alteró cinco ríos y liberó mercurio natural del suelo, afectando durante décadas al ecosistema y al pueblo indígena Cree.",
+      "link": "https://www.xataka.com/ecologia-y-naturaleza/1971-quebec-inundo-11-500-km2-bosque-para-crear-megaembalse-saberlo-enveneno-a-pueblo-entero",
+      "published": "2026-10-10T18:00:28Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/15afb4/embalse/1024_2000.jpeg"
+    },
+    {
+      "id": "engadget-ray-tracing",
+      "title": "What is ray tracing in gaming and does it really make a difference?",
+      "summary": "Ray tracing makes light's behavior more realistic in supported games, but requires considerable graphics processing power.",
+      "link": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference",
+      "published": "2026-10-10T18:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-is-ray-tracing-in-gaming-and-does-it-really-make-a-difference/l-intro-1791383266.jpg"
+    },
+    {
+      "id": "xataka-casa-residuos",
+      "title": "Tiene dos toneladas de vaqueros y 4.000 cintas VHS en las paredes: esta casa está hecha de residuos",
+      "summary": "La Waste House de la Universidad de Brighton funciona como laboratorio de arquitectura circular y utiliza más de un 85 % de residuos domésticos y de obra.",
+      "link": "https://www.xataka.com/ecologia-y-naturaleza/tiene-dos-toneladas-vaqueros-4-000-cintas-vhs-paredes-parece-adosado-esta-casa-esta-hecha-residuos",
+      "published": "2026-10-10T17:00:27Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/6d4628/waste_house-_university_of_brighton-_grand_parade-_brighton_-september_2015-_-17-/1024_2000.jpeg"
+    },
+    {
+      "id": "verge-ledger-wallet",
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "summary": "Ledger asked a reseller to pause wallet sales while it investigates reports of tampered hardware and stolen cryptocurrency.",
+      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "published": "2026-10-10T16:36:44Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": ""
+    },
+    {
+      "id": "xataka-calendario-1582",
+      "title": "Por qué faltan diez días en el calendario de tu móvil si viajas hasta octubre de 1582",
+      "summary": "El calendario respeta el salto histórico del sistema juliano al gregoriano, cuando diez días fueron eliminados para corregir el desfase astronómico.",
+      "link": "https://www.xataka.com/aplicaciones/que-faltan-diez-dias-calendario-tu-movil-viajas-octubre-1582",
+      "published": "2026-10-10T16:00:28Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/5efbda/calendario-octubre-iphone/1024_2000.jpeg"
+    },
+    {
+      "id": "verge-sunmi-notion",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "summary": "The K-pop artist talks about the technology, applications and online media that form part of her daily routine.",
+      "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "published": "2026-10-10T15:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": ""
+    },
+    {
+      "id": "verge-anthropic-evaluations",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "Anthropic is removing internet access from internal evaluations after reporting unintended actions by AI agents during testing.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "published": "2026-10-10T14:41:16Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": ""
+    },
+    {
+      "id": "genbeta-internet-20-anos",
+      "title": "Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta",
+      "summary": "Un recorrido por el paso de la web de enlaces a los feeds algorítmicos, la degradación de plataformas y el crecimiento del contenido generado automáticamente.",
+      "link": "https://www.genbeta.com/a-fondo/asi-ha-cambiado-internet-20-anos-transcurridos-lanzamiento-genbeta",
+      "published": "2025-12-31T10:01:00Z",
+      "source": "Genbeta",
+      "category": "Tecnología",
+      "imageUrl": ""
+    },
+    {
+      "id": "genbeta-millennials-directivos",
+      "title": "Un jefe boomer no entendía que sus empleados millennials no quisieran cargos directivos",
+      "summary": "Responsabilidad, carga horaria y equilibrio personal explican por qué muchos profesionales ya no consideran atractivo el ascenso tradicional.",
+      "link": "https://www.genbeta.com/laboral/jefe-boomer-no-entendia-que-sus-empleados-millennials-no-quisieran-cargos-directivos-ellos-tienen-claras-razones",
+      "published": "2025-12-31T08:01:00Z",
+      "source": "Genbeta",
+      "category": "Tecnología",
+      "imageUrl": ""
+    },
+    {
+      "id": "genbeta-meta-manus",
+      "title": "Meta se ha puesto a la cabeza de la carrera de los agentes de IA adquiriendo Manus",
+      "summary": "La operación refuerza la apuesta de Meta por agentes capaces de ejecutar tareas complejas y convertir sus modelos en herramientas de trabajo útiles.",
+      "link": "https://www.genbeta.com/inteligencia-artificial/meta-se-ha-puesto-a-cabeza-carrera-agentes-ia-adquiriendo-manus-2-000-millones-dolares",
+      "published": "2025-12-30T14:08:27Z",
+      "source": "Genbeta",
+      "category": "Inteligencia Artificial",
+      "imageUrl": ""
+    }
+  ]
+}

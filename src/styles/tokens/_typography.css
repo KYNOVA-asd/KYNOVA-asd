@@ -1,0 +1,4 @@
+:root { --font-body: "Inter", system-ui, sans-serif; --font-display: "Playfair Display", Georgia, serif; }
+h1, h2, h3 { text-wrap: balance; }
+p { text-wrap: pretty; }
+

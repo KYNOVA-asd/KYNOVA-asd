@@ -1,15 +1,16 @@
 RELEVAMIENTO DEL PORTAFOLIO KYNOVA.MX
 ====================================
-Fecha del relevamiento: 28 de septiembre de 2026
+Fecha del relevamiento: 10 de octubre de 2026
 Fuente analizada: código local del repositorio KYNOVA-asd
 
 NOTA DE ALCANCE
 ---------------
-El sitio activo está implementado como un sitio estático en HTML, CSS y JavaScript modular.
-La carpeta dist/ es la salida generada por npm run build y replica los archivos publicables.
-La carpeta kynova-angular/ contiene un scaffold independiente de Angular y no forma parte del
-flujo de construcción definido en el package.json de la raíz. .git/ y dependencias instaladas
-se omiten del árbol porque no son código funcional del portafolio.
+El sitio activo está implementado como un sitio multipágina estático en HTML, CSS y JavaScript
+modular, compilado y optimizado con Vite. La carpeta dist/ es la salida de npm run build.
+.git/ y las dependencias instaladas se omiten del árbol porque no son código funcional del
+portafolio.
+La implementación de Zazil (antes documentada como demo de boda) vive fuera de este
+repositorio. Aquí solo se conserva su ficha de portafolio, miniatura y enlace público.
 
 
 1. MAPA DE CARPETAS Y ARCHIVOS
@@ -21,17 +22,25 @@ KYNOVA-asd/
 |-- 500.html                           Página de error 500
 |-- package.json                       Scripts build, dev y start
 |-- package-lock.json                  Dependencias bloqueadas
+|-- vite.config.mjs                    Entradas multipágina, layouts y copia de assets
+|-- postcss.config.cjs                 Autoprefixer y purgado CSS de producción
 |-- vercel.json                        Configuración de despliegue
 |-- README.md                          Documentación general
 |-- PENDIENTES.txt                     Lista interna de pendientes
+|-- AUDITORIA_PROPUESTAS_28_SEP.txt    Auditoría interna y propuestas de mejora
+|-- robots.txt                         Directivas para rastreadores
+|-- sitemap.xml                        Mapa de URLs públicas
+|-- llms.txt                           Resumen del sitio para agentes y modelos
 |-- assets/
 |   |-- brand/
 |   |   |-- LOGO-kynova.webp
 |   |   |-- banner-kynova.webp
 |   |   |-- error-404.svg
-|   |   `-- error-oops.svg
+|   |   |-- error-oops.svg
+|   |   `-- logo-kynova-*.png          Variantes del logotipo
 |   |-- projects/
 |   |   |-- README.md
+|   |   |-- boda-demo-thumbnail.jpg    Miniatura de la ficha externa de Zazil
 |   |   |-- clients/
 |   |   |   `-- autocar-logo.jpg
 |   |   |-- dev/
@@ -42,6 +51,16 @@ KYNOVA-asd/
 |       `-- README.md
 |-- contacto/
 |   `-- index.html                     Contacto, WhatsApp, GitHub y agenda
+|-- dev-web/
+|   `-- index.html                     Landing de desarrollo web
+|-- gestion-redes-sociales/
+|   `-- index.html                     Landing de gestión de redes sociales (GRS)
+|-- creacion-contenido/
+|   `-- index.html                     Landing de creación de contenido (CDC)
+|-- campanas-meta/
+|   `-- index.html                     Landing de campañas Meta (CM)
+|-- blog/
+|   `-- index.html                     Índice editorial generado desde posts.js
 |-- costos/
 |   `-- index.html                     Opciones de cotización
 |-- nosotros/
@@ -50,18 +69,8 @@ KYNOVA-asd/
 |   `-- index.html                     Catálogo, filtros, búsqueda y modal
 |-- llamanos/
 |   `-- index.html                     Redirección hacia Contacto
-|-- demos/
-|   |-- index.html                     Catálogo de demos
-|   |-- styles.css                     Estilos propios del catálogo
-|   |-- README.md
-|   `-- README.md
-|-- export-kynova-boda-demo/            Exportación standalone para repositorio/Vercel propio
-|   |-- index.html                      Entrada a las tres experiencias
-|   |-- assets/                         Imágenes y audio exclusivos
-|   |-- effects/floral-garden/          Efecto visual corregido
-|   |-- fase-1/                         Pase interactivo y pase compacto
-|   |-- fase-2/                         Landing completa
-|   `-- vercel.json                     Configuración del despliegue independiente
+|-- privacidad/
+|   `-- index.html                     Aviso de privacidad
 |-- linktree/
 |   |-- index.html
 |   |-- angel.couoh.html
@@ -70,12 +79,18 @@ KYNOVA-asd/
 |   |-- styles.css
 |   `-- script.js
 |-- scripts/
-|   |-- build-static.js                Copia el sitio publicable a dist/
-|   `-- dev-server.js                  Servidor local
+|   |-- build-static.js                Script anterior conservado como referencia
+|   `-- dev-server.js                  Servidor anterior conservado como referencia
 |-- src/
 |   |-- styles/
-|   |   |-- main.css                   Sistema visual principal
+|   |   |-- main.css                   Punto de entrada formado únicamente por @import
+|   |   |-- tokens/                    Variables, colores y tipografía
+|   |   |-- base/                      Reset y reglas globales
+|   |   |-- components/                Botones, tarjetas, modales y header
+|   |   |   `-- _instagram.css         Componente visual de casos de marketing
+|   |   |-- pages/                     Hero, proyectos, contacto, servicios y blog
 |   |   `-- error.css                  Estilos de páginas de error
+|   |-- templates/partials/            Head, header y footer reutilizables en build
 |   `-- scripts/
 |       |-- app.js                     Inicializa la portada
 |       |-- site.js                    Inicializa páginas interiores
@@ -83,16 +98,17 @@ KYNOVA-asd/
 |       |-- core/dom.js                Utilidades de creación/selección DOM
 |       |-- data/portfolio.js           Contacto, métricas, servicios y skills
 |       |-- data/projects.js            Fuente única de proyectos
+|       |-- data/services.js            Contenido tipado de las cuatro landings
+|       |-- data/posts.js               Índice tipado de artículos del blog
+|       |-- service-page.js             Inicialización compartida de servicios/blog
 |       `-- features/
 |           |-- calendarBooking.js      Agenda de Google Calendar
 |           |-- canvasScene.js          Recurso visual canvas
 |           |-- contactForm.js          Envío del formulario a WhatsApp
+|           |-- interactions.js         Animaciones e interacciones compartidas
+|           |-- instagramFeed.js        Render BEM del feed de casos de marketing
 |           |-- navigation.js           Menú y cabecera
 |           `-- renderPortfolio.js      Render dinámico de la portada/modal
-|-- kynova-angular/                     Scaffold Angular independiente/no activo
-|   |-- angular.json, package*.json, tsconfig*.json
-|   |-- public/favicon.ico
-|   `-- src/                            app, rutas, configuración y estilos Angular
 `-- dist/                               Salida compilada; no debe editarse a mano
 
 
@@ -102,8 +118,9 @@ KYNOVA-asd/
 ARQUITECTURA GENERAL
 --------------------
 - Documento HTML5 en español y responsive mediante viewport.
-- Header compartido: logotipo circular KYNOVA, botón hamburguesa móvil y navegación a
-  Nosotros, Proyectos, Costos y Contacto.
+- Head, Header y Footer se generan desde src/templates/partials/ para evitar duplicación.
+- Navegación principal: Desarrollo web, Redes sociales, Contenido, Meta Ads, Blog,
+  Proyectos y Contacto.
 - Fuente Google Fonts: Inter, pesos 400, 500, 600, 700 y 800.
 - CSS global: src/styles/main.css.
 - Portada alimentada con datos JS de portfolio.js y projects.js.
@@ -117,42 +134,41 @@ Descripción: "Portafolio comercial de KYNOVA con proyectos de desarrollo web, m
 digital y contacto directo."
 
 1) Header
-   - Logo enlazado a #inicio.
-   - Navegación: Nosotros, Proyectos, Costos y Contacto.
+   - Logo enlazado al inicio.
+   - Navegación global generada por el layout compartido de Vite.
 
 2) Banner de marca
    - assets/brand/banner-kynova.webp
    - Alt: "KYNOVA soluciones digitales".
 
 3) Hero (#inicio)
-   - Eyebrow: "Desarrollo web / marketing digital".
-   - H1: "Soluciones digitales para marcas que quieren verse profesionales."
-   - Texto: "Desarrollo web y marketing digital en una experiencia clara: proyectos,
-     imagen y contacto directo."
-   - CTA: "Ver proyectos" y "Contactar".
-   - Resumen de servicios:
-     01 Desarrollo web: sitios, sistemas y portafolios claros, rápidos y listos para crecer.
-     02 Marketing digital: contenido, campañas y presencia visual.
-     03 Contacto directo: ruta simple para iniciar conversación y recibir propuesta.
+   - Eyebrow: "SOMOS UNA AGENCIA DE MARKETING EN CANCÚN".
+   - H1: "TU CRECIMIENTO TAMBIÉN ES EL NUESTRO".
+   - Propuesta: colaboración real entre marca y agencia con compromiso, creatividad y estrategia.
+   - Video aéreo urbano temporal de Pexels, overlay verde de marca y fallback estático.
+   - CTA: "Cuéntanos tu proyecto" y "Ver trabajos realizados".
 
-4) Estadísticas/resumen dinámico (data-stats)
-   - Web: sitios claros para presentar servicios y generar contacto.
-   - Sistemas: herramientas internas para ordenar procesos y datos.
-   - Marketing: presencia visual y mensajes listos para compartir.
+4) Dupla KYNOVA (#nosotros)
+   - Ángel: arquitectura, sistemas, velocidad y código limpio.
+   - Jaz: estrategia visual, contenido, mensaje y captación.
+   - Superpoder conjunto: soluciones integrales sin fricción entre diseño y programación.
 
 5) Proyectos destacados (#proyectos)
    - Eyebrow: "Trabajo destacado".
    - H2: "Casos seleccionados."
-   - Muestra projects.slice(0, 3), actualmente: Lunéa Intimates, Pase de boda y
+   - Muestra projects.slice(0, 3), actualmente: Lunéa Intimates, Zazil y
      Sistema para ganadería.
    - Cada tarjeta presenta imagen, área/categoría, título, descripción, tags y detalle.
    - CTA general: "Ver más proyectos".
 
-6) Servicios (#servicios)
-   - H2: "Desarrollo y marketing en un solo lugar."
-   - Páginas para negocios: landings, cartas digitales y sitios con contacto directo.
-   - Portafolios dev: proyectos con imágenes, enlaces y fichas breves.
-   - Prototipos rápidos: interfaces ligeras para probar ideas.
+6) Testimonios y reseñas
+   - Contenedor dinámico alimentado desde portfolio.js.
+   - Mientras no existan reseñas verificadas muestra un estado honesto, sin testimonios inventados.
+
+7) Servicios (#servicios)
+   - Desarrollo Web & Sistemas.
+   - Marketing Digital & Meta Ads.
+   - Pack Lanzamiento Integral (Dev + Marketing).
 
 7) Stack y fortalezas (#habilidades)
    - H2: "Herramientas justas para resolver bien."
@@ -165,6 +181,7 @@ digital y contacto directo."
    - Links generados para teléfono/WhatsApp y GitHub.
    - Formulario con Nombre y Mensaje (máximo 40 caracteres).
    - Botón "Cotizar por WhatsApp".
+   - Integración con agenda de Google Calendar.
 
 9) Modal de proyecto
    - Imagen, categoría, título, descripción, entregables, perfil de cliente,
@@ -175,7 +192,10 @@ CATÁLOGO: /proyectos/index.html
 --------------------------------
 - H1: "Casos por área, empresa y objetivo."
 - Texto: "Elige lo que buscas y revisa trabajos con contexto, objetivos y evidencia visual."
-- Filtros: Todos, Solo dev, Solo marketing y Dev + marketing.
+- Filtros tipo tabs: Todos, Desarrollo Web, Diseño Visual, Marketing & Redes y
+  Proyectos 360.
+- La pestaña Marketing & Redes incorpora una vista estilo Instagram accesible, con
+  highlights, cuadrícula de posts y apertura del modal de caso.
 - Buscador por empresa, tipo o tecnología y contador de resultados.
 - Grid generado desde projects.js con imagen, marca, área, categoría, título, descripción,
   sector, fecha, tags y acciones.
@@ -210,15 +230,25 @@ COSTOS: /costos/index.html
   - Dev + marketing: sitio, mensaje, imagen y contacto.
 - Cierre con CTA "Cuéntanos qué tienes en mente" y cotización por WhatsApp.
 
-DEMOS: /demos/index.html
-------------------------
-- H1: "Explora nuestras experiencias digitales."
-- Pase con sobre (fase 1), Pase compacto (fase 1), Invitación completa (fase 2) y
-  una ruta declarada como Boda ejemplo.
+LANDINGS DE SERVICIO
+--------------------
+- /dev-web/: explica descubrimiento, arquitectura, desarrollo, validación y entregables web.
+- /gestion-redes-sociales/: presenta diagnóstico, estrategia editorial, operación y revisión.
+- /creacion-contenido/: detalla brief, concepto, producción, formatos y entrega de piezas.
+- /campanas-meta/: cubre preparación, estructura, lanzamiento y optimización de Meta Ads.
+- El contenido compartido se modela en src/scripts/data/services.js y Vite genera HTML
+  estático completo durante el build.
+
+BLOG: /blog/index.html
+---------------------
+- Índice editorial para contenidos de desarrollo web y marketing.
+- Los artículos se registran mediante objetos validados con JSDoc en data/posts.js.
+- Las fichas iniciales están marcadas como "Próximamente"; no se inventan publicaciones.
 
 PÁGINAS AUXILIARES
 ------------------
 - /llamanos/: redirección a /contacto/.
+- /privacidad/: aviso de privacidad del sitio.
 - /404.html y /500.html: errores con ilustraciones de marca y regreso al sitio.
 - /linktree/: micrositios de enlaces personales.
 
@@ -236,12 +266,13 @@ Base de GitHub utilizada: https://github.com/KYNOVA-asd
     Repositorio: https://github.com/KYNOVA-asd/Lun-a-Intimates-Lencer-a-canc-n
     Demo: https://luna-intimates-cancun.vercel.app/#inicio
 
-02. Pase de boda interactivo o compacto
-    Descripción: Invitación de boda para Alejandro & Fátima con pase de sobre interactivo y
-    landing completa. 28 de noviembre de 2026.
-    Tags: Boda, Invitación digital, Landing, Demo.
-    Demo externa: https://kynova-boda-demo.vercel.app
+02. Zazil — Pases Digitales & Concierge de Eventos
+    Descripción: Plataforma boutique para invitaciones interactivas, RSVP en tiempo real,
+    mapas GPS y gestión centralizada de invitados.
+    Tags: Invitaciones Web, Pases Digitales, Gestión de Invitados, Vercel.
+    Plataforma externa: https://zazil.vercel.app/
     Miniatura local: /assets/projects/boda-demo-thumbnail.jpg
+    Código fuente: no forma parte de este repositorio.
 
 03. Sistema para ganadería
     Descripción: Sistema web para ordenar registros y consultas de un negocio ganadero.
@@ -400,9 +431,13 @@ legibilidad, llamadas a la acción visibles, responsive design y navegación dir
 
 - Editar proyectos: src/scripts/data/projects.js.
 - Editar servicios, skills, estadísticas y contacto: src/scripts/data/portfolio.js.
+- Editar landings de servicio: src/scripts/data/services.js.
+- Editar el índice del blog: src/scripts/data/posts.js.
+- Editar Head, Header y Footer: src/templates/partials/.
 - Editar estructura de portada: index.html.
 - Editar catálogo/modal: proyectos/index.html y src/scripts/projectPage.js.
 - Editar estilos globales: src/styles/main.css.
+- Añadir estilos: usar tokens/, base/, components/ o pages/ según responsabilidad.
 - Generar dist/: npm.cmd run build.
 - Ver localmente: npm.cmd run dev.
 

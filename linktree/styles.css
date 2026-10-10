@@ -73,6 +73,8 @@ h1 { margin: 0 0 8px; font-size: clamp(2rem, 8vw, 3.1rem); line-height: 1; }
 .links a:hover, .links a:focus-visible, .links button:hover, .links button:focus-visible { border-color: var(--profile); box-shadow: 0 9px 24px #26352b17; transform: translateY(-2px); }
 .links small { color: var(--muted); font-size: .72rem; font-weight: 500; }
 .link-icon { display: grid; width: 42px; height: 42px; place-items: center; border-radius: 11px; background: color-mix(in srgb, var(--profile) 12%, white); color: var(--profile); font-size: 1.2rem; font-weight: 800; }
+.icon-svg { display: inline-block; vertical-align: middle; }
+.link-icon .icon-svg { width: 20px; height: 20px; }
 .links__whatsapp .link-icon { background: #e5f8eb; color: #15833d; }
 .profile-card__footer { margin: 26px 0 0; color: var(--muted); font-size: .78rem; }
 .profile-card__footer a { color: var(--accent-strong); font-weight: 800; }

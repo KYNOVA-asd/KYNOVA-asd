@@ -1,0 +1,2 @@
+.process-card, .blog-card, .service-outcomes article { border: 1px solid var(--line); border-radius: var(--radius-md); background: color-mix(in srgb, var(--surface) 94%, transparent); box-shadow: 0 14px 34px rgba(35, 38, 31, 0.07); }
+

@@ -36,4 +36,34 @@
     <priority>0.30</priority>
     <changefreq>yearly</changefreq>
   </url>
+  <url>
+    <loc>https://kynova.mx/dev-web/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <priority>0.90</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kynova.mx/gestion-redes-sociales/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <priority>0.85</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kynova.mx/creacion-contenido/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <priority>0.85</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kynova.mx/campanas-meta/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <priority>0.85</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kynova.mx/blog/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Artículo | KYNOVA</title>
+    <meta name="description" content="Artículo del blog de KYNOVA sobre marketing y tecnología." />
+    <!-- @include:head -->
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body class="blog-article-page">
+    <div class="page-shell">
+      <!-- @include:header -->
+      <main id="contenido">
+        <article class="article-view" data-article hidden>
+          <header class="article-view__header">
+            <p class="article-view__category" data-post-category></p>
+            <h1 data-post-title></h1>
+            <p class="article-view__meta"><span>Por KYNOVA</span><span data-post-date></span><span data-post-read-time></span></p>
+          </header>
+          <img class="article-view__cover" data-post-cover src="" alt="" />
+          <div class="article-view__content" data-post-content></div>
+          <footer class="article-view__footer"><a class="text-link" href="/blog/">← Volver al blog</a></footer>
+        </article>
+        <section class="article-not-found" data-article-not-found hidden>
+          <p class="eyebrow">404 · Artículo no encontrado</p>
+          <h1>Este artículo no está disponible.</h1>
+          <p>Puede que el enlace haya cambiado o que la publicación todavía no exista.</p>
+          <a class="button button--primary" href="/blog/">Volver al blog</a>
+        </section>
+      </main>
+      <!-- @include:footer -->
+    </div>
+    <script type="module" src="/src/scripts/articlePage.js"></script>
+  </body>
+</html>

@@ -1,0 +1,123 @@
+.faq-section {
+  width: 100vw;
+  margin: clamp(5rem, 10vw, 8rem) calc(50% - 50vw) 0;
+  padding: clamp(4rem, 9vw, 7rem) 20px;
+  background: #ffffff;
+}
+
+.faq-section__inner {
+  width: min(100%, 900px);
+  margin: 0 auto;
+}
+
+.faq-section__eyebrow {
+  margin: 0 0 0.75rem;
+  color: var(--surface-strong);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.faq-section__title {
+  margin: 0 0 clamp(2rem, 5vw, 3.5rem);
+  color: var(--text);
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 5vw, 4.5rem);
+  line-height: 1;
+  text-align: center;
+}
+
+.faq-accordion {
+  border-top: 1px solid var(--line);
+}
+
+.faq-accordion__item {
+  border-bottom: 1px solid var(--line);
+}
+
+.faq-accordion__question {
+  position: relative;
+  display: flex;
+  min-height: 72px;
+  padding: 1.35rem 3.5rem 1.35rem 0;
+  align-items: center;
+  color: var(--text);
+  cursor: pointer;
+  font-size: clamp(1rem, 2vw, 1.18rem);
+  font-weight: 700;
+  line-height: 1.4;
+  list-style: none;
+}
+
+.faq-accordion__question::-webkit-details-marker {
+  display: none;
+}
+
+.faq-accordion__question::before,
+.faq-accordion__question::after {
+  position: absolute;
+  top: 50%;
+  right: 0.35rem;
+  width: 18px;
+  height: 2px;
+  background: var(--surface-strong);
+  content: "";
+  transition: transform 180ms ease;
+}
+
+.faq-accordion__question::after {
+  transform: rotate(90deg);
+}
+
+.faq-accordion__item[open] .faq-accordion__question::after {
+  transform: rotate(0);
+}
+
+.faq-accordion__question:hover {
+  color: var(--surface-strong);
+}
+
+.faq-accordion__question:focus-visible {
+  border-radius: 6px;
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}
+
+.faq-accordion__answer {
+  max-width: 780px;
+  padding: 0 3.5rem 1.5rem 0;
+  color: var(--text);
+  line-height: 1.75;
+}
+
+.faq-accordion__answer p {
+  margin: 0;
+}
+
+.faq-accordion__answer p + p {
+  margin-top: 0.8rem;
+}
+
+@media (max-width: 620px) {
+  .faq-section {
+    padding-inline: 16px;
+  }
+
+  .faq-accordion__question {
+    min-height: 64px;
+    padding-right: 2.75rem;
+  }
+
+  .faq-accordion__answer {
+    padding-right: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .faq-accordion__question::before,
+  .faq-accordion__question::after {
+    transition: none;
+  }
+}

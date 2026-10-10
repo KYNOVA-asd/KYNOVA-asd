@@ -1,0 +1,14 @@
+:root {
+  --container: 1180px;
+  --space-1: 0.5rem;
+  --space-2: 0.75rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2rem;
+  --space-6: 3rem;
+  --radius-sm: 8px;
+  --radius-md: 18px;
+  --radius-pill: 999px;
+  --transition-fast: 180ms ease;
+}
+

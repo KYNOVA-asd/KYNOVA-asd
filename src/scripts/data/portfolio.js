@@ -1,5 +1,16 @@
 import { projects } from "./projects.js";
 
+/**
+ * @typedef {Object} Portfolio
+ * @property {{label: string, value: string}[]} stats
+ * @property {{title: string, description: string}[]} services
+ * @property {{quote: string, author: string, context: string}[]} reviews
+ * @property {{icon: string, title: string, description: string, tags: string[]}[]} skills
+ * @property {import("./projects.js").Project[]} projects
+ * @property {{phoneLabel: string, whatsapp: string, github: string, instagram: string, facebook: string}} contact
+ */
+
+/** @type {Portfolio} */
 export const portfolio = {
   contact: {
     phoneLabel: "+52 998 744 9856",
@@ -25,18 +36,19 @@ export const portfolio = {
   projects,
   services: [
     {
-      title: "Páginas para negocios",
-      description: "Landing pages, cartas digitales y sitios informativos con contacto directo.",
+      title: "Desarrollo Web & Sistemas",
+      description: "Landings, e-commerce y sistemas rápidos, accesibles y preparados para convertir visitas en acciones.",
     },
     {
-      title: "Portafolios dev",
-      description: "Proyectos con imágenes, enlaces y fichas breves para explicar valor.",
+      title: "Marketing Digital & Meta Ads",
+      description: "Estrategia, contenido, redes y campañas para atraer a la audiencia correcta con un mensaje coherente.",
     },
     {
-      title: "Prototipos rápidos",
-      description: "Interfaces ligeras para probar ideas y avanzar rápido.",
+      title: "Pack Lanzamiento Integral",
+      description: "Plataforma, identidad, contenido y captación coordinados por el mismo equipo: Dev + Marketing sin fricción.",
     },
   ],
+  reviews: [],
   skills: [
     {
       icon: "UI",

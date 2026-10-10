@@ -1,5 +1,6 @@
 /.vscode
 dist/
+node_modules/
 /.codex-tmp
 demos/invitacion-para-boda/img/resultado_canva.txt
 demos/invitacion-para-boda/tipos de eventos.txt

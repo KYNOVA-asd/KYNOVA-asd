@@ -1,0 +1,4 @@
+.button { display: inline-flex; align-items: center; justify-content: center; min-height: 46px; padding: 0.75rem 1.1rem; border-radius: var(--radius-pill); text-decoration: none; transition: transform var(--transition-fast), box-shadow var(--transition-fast); }
+.button:hover { transform: translateY(-2px); }
+.button--ghost { color: var(--text); border: 1px solid var(--line); background: var(--surface); }
+

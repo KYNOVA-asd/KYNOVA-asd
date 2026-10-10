@@ -56,22 +56,19 @@
 
         <section class="project-browser" aria-label="Buscador de proyectos">
           <div class="project-tools">
-            <div class="project-filters" aria-label="Filtros de proyectos">
-              <button class="project-filter is-active" type="button" data-project-filter="Todos">
-                <strong>Todos</strong>
-                <span>Vista completa</span>
-              </button>
-              <button class="project-filter" type="button" data-project-filter="Dev">
-                <strong>Solo dev</strong>
-                <span>Sistemas y estructura</span>
-              </button>
-              <button class="project-filter" type="button" data-project-filter="Marketing">
-                <strong>Solo marketing</strong>
-                <span>Campañas y contenido</span>
-              </button>
-              <button class="project-filter" type="button" data-project-filter="Ambos">
-                <strong>Dev + marketing</strong>
-                <span>Sitio, marca y contacto</span>
+            <div class="project-filters" role="tablist" aria-label="Filtrar proyectos por especialidad">
+              <button class="project-filter is-active" role="tab" aria-selected="true" type="button" data-project-filter="Todos"><strong>Todos</strong></button>
+              <button class="project-filter" role="tab" aria-selected="false" type="button" data-project-filter="Desarrollo Web"><strong>Desarrollo Web</strong><span>Sistemas, código y landings</span></button>
+              <button class="project-filter" role="tab" aria-selected="false" type="button" data-project-filter="Diseño Visual"><strong>Diseño Visual</strong><span>Branding, logos y UI/UX</span></button>
+              <button class="project-filter" role="tab" aria-selected="false" type="button" data-project-filter="Marketing & Redes"><strong>Marketing &amp; Redes</strong><span>Campañas, social media y Meta Ads</span></button>
+              <button class="project-filter project-filter--360" role="tab" aria-selected="false" type="button" data-project-filter="Proyectos 360">
+                <strong>
+                  <svg class="project-filter__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+                    <path d="M12 3 14.7 9.3 21 12l-6.3 2.7L12 21l-2.7-6.3L3 12l6.3-2.7L12 3Z" />
+                  </svg>
+                  Proyectos 360
+                </strong>
+                <span>Dev + Marketing + Diseño</span>
               </button>
             </div>
             <label class="project-search">
@@ -81,7 +78,8 @@
             <span class="project-count" data-project-count></span>
           </div>
 
-          <div class="case-grid" data-project-list></div>
+          <section class="instagram-showcase" data-instagram-feed hidden aria-label="Vista de casos de marketing"></section>
+          <div class="case-grid" data-project-list aria-live="polite"></div>
         </section>
       </main>
     </div>

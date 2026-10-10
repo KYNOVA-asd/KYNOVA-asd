@@ -1,16 +1,41 @@
 const githubBase = "https://github.com/KYNOVA-asd";
 
+/**
+ * @typedef {Object} Project
+ * @property {string} title
+ * @property {string} company
+ * @property {"Dev"|"Marketing"|"Ambos"} owner
+ * @property {string} involvement
+ * @property {"Desarrollo Web"|"Diseño Visual"|"Marketing & Redes"|"Proyectos 360"} filterType
+ * @property {string[]} [filterTypes]
+ * @property {string} category
+ * @property {string} sector
+ * @property {string} description
+ * @property {string} deliverables
+ * @property {string} image
+ * @property {string} fallbackImage
+ * @property {string} link
+ * @property {string[]} tags
+ * @property {string} [id]
+ * @property {string} [siteLink]
+ * @property {string} [demoUrl]
+ * @property {string} [logo]
+ */
+
+/** @type {Project[]} */
 export const projects = [
   {
     title: "Lunéa Intimates Cancún | Lencería fina",
     company: "Lunéa Intimates Cancún",
-    owner: "Dev",
-    involvement: "Solo dev",
+    owner: "Ambos",
+    involvement: "Dev + marketing",
+    filterType: "Proyectos 360",
+    filterTypes: ["Proyectos 360", "Marketing & Redes"],
     category: "E-Commerce",
     sector: "Moda / lencería",
     duration: "Demo interactivo",
     startedAt: "2026",
-    deliverables: "Catálogo responsivo, carrito persistente y experiencia de compra personalizada.",
+    deliverables: "Catálogo responsivo, carrito persistente, experiencia de compra y presentación estratégica de marca.",
     description:
       "Demo e-commerce interactivo de lencería fina en Cancún. Incluye catálogo responsivo, carrito de compras dinámico con persistencia en localStorage y diseño personalizado.",
     summary:
@@ -20,7 +45,7 @@ export const projects = [
     challenge:
       "Integrar catálogo y carrito en una experiencia ligera que conserve la selección del usuario sin requerir un backend.",
     solution:
-      "Se desarrolló una interfaz responsiva en HTML5, CSS3 y JavaScript, con un carrito dinámico persistente mediante localStorage.",
+      "Se coordinó la experiencia técnica del e-commerce con una presentación visual y comercial coherente para la marca.",
     result:
       "Un demo e-commerce funcional y personalizado que permite explorar productos y mantener el carrito entre sesiones.",
     details: [
@@ -40,6 +65,17 @@ export const projects = [
     isLive: true,
     accent: "#b76e79",
     tags: ["HTML5", "CSS3", "JavaScript", "LocalStorage", "E-Commerce", "Responsive"],
+    instagram: {
+      handle: "@caso_lunea",
+      bio: "Vista demostrativa del caso KYNOVA: e-commerce, experiencia visual y estrategia de marca.",
+      link: "https://luna-intimates-cancun.vercel.app/#inicio",
+      highlights: ["Branding", "E-commerce", "Contenido"],
+      posts: [
+        { image: "./assets/projects/dev/lunea-intimates.jpg", copy: "Catálogo y experiencia visual creados para presentar la colección con claridad y facilitar la compra.", kpis: {} },
+        { image: "./assets/projects/dev/lunea-intimates.jpg", copy: "Carrito dinámico con persistencia local para mantener la selección entre sesiones.", kpis: {} },
+        { image: "./assets/projects/dev/lunea-intimates.jpg", copy: "Diseño responsive y presentación comercial coordinados para una experiencia consistente en móvil.", kpis: {} },
+      ],
+    },
   },
   {
     id: "zazil-events",
@@ -48,6 +84,7 @@ export const projects = [
     company: "Eventos & Wedding Planners",
     owner: "Ambos",
     involvement: "Dev + diseño",
+    filterType: "Diseño Visual",
     category: "Demos & Eventos",
     sector: "Eventos / wedding planners",
     duration: "Plataforma en vivo",
@@ -90,6 +127,7 @@ export const projects = [
     company: "Gerardo González",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Sistema interno",
     sector: "Agro / operaciones",
     duration: "Nov 2024",
@@ -121,6 +159,7 @@ export const projects = [
     company: "Autocar",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Agenda interna",
     sector: "Automotriz / servicios",
     duration: "Feb 2024",
@@ -150,6 +189,7 @@ export const projects = [
     company: "UT Cancún",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Automatización",
     sector: "Educación / soporte",
     duration: "Nov 2024",
@@ -179,6 +219,7 @@ export const projects = [
     company: "Perome Consultores",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Herramienta interna",
     sector: "Atención a clientes",
     duration: "Ago 2025 / finales de 2025",
@@ -208,6 +249,7 @@ export const projects = [
     company: "Hotel Krystal Cancún",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Frontend web",
     sector: "Hotelería / turismo",
     duration: "Mar 2025",
@@ -237,6 +279,7 @@ export const projects = [
     company: "Hotel Krystal Cancún",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Backend API",
     sector: "Hotelería / administración",
     duration: "Mar 2025",
@@ -266,6 +309,7 @@ export const projects = [
     company: "Hotel Krystal Cancún",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Sistema de tickets",
     sector: "Hotelería / soporte",
     duration: "Abr 2025",
@@ -295,6 +339,7 @@ export const projects = [
     company: "Hotel Krystal Cancún",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "API de tickets",
     sector: "Hotelería / soporte",
     duration: "Abr 2025",
@@ -324,6 +369,7 @@ export const projects = [
     company: "Mindata",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Herramienta interna",
     sector: "Automatización / operación",
     duration: "Feb 2026 - a la fecha",
@@ -353,6 +399,7 @@ export const projects = [
     company: "Inmoveqroo / Cancún",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Panel web",
     sector: "Movilidad / concurso",
     duration: "18 Ago 2023",
@@ -382,6 +429,7 @@ export const projects = [
     company: "Inmoveqroo / Cancún",
     owner: "Dev",
     involvement: "Solo dev",
+    filterType: "Desarrollo Web",
     category: "Aplicación móvil",
     sector: "Movilidad / concurso",
     duration: "18 Ago 2023",
@@ -411,6 +459,8 @@ export const projects = [
     company: "Marlen tu coach",
     owner: "Ambos",
     involvement: "Dev + marketing",
+    filterType: "Proyectos 360",
+    filterTypes: ["Proyectos 360", "Marketing & Redes", "Diseño Visual"],
     category: "Marca personal",
     sector: "Marca personal / servicios",
     duration: "Nov 2025 - a la fecha",
@@ -435,5 +485,16 @@ export const projects = [
     isLive: true,
     accent: "#c2415b",
     tags: ["Marca", "Marketing", "Web"],
+    instagram: {
+      handle: "@caso_marlen",
+      bio: "Vista demostrativa del caso KYNOVA: sitio, mensaje y presencia digital coordinados.",
+      link: "https://marlentucoach.com/",
+      highlights: ["Branding", "Contenido", "Web"],
+      posts: [
+        { image: "./assets/projects/marketing/marlen-brand.jpg", copy: "Sitio y comunicación digital coordinados para presentar una marca personal con mayor claridad.", kpis: {} },
+        { image: "./assets/projects/marketing/marlen-brand.jpg", copy: "Mensajes y llamadas a la acción organizados para explicar servicios y facilitar el contacto.", kpis: {} },
+        { image: "./assets/projects/marketing/marlen-brand.jpg", copy: "Presencia web y apoyo de marketing reunidos en una experiencia de marca coherente.", kpis: {} },
+      ],
+    },
   },
 ];

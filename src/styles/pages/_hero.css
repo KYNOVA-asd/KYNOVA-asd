@@ -1,0 +1,44 @@
+.service-hero h1, .blog-hero h1 { font-family: var(--font-display); }
+.home-page .menu-home { padding-top: 0; }
+.hero { position: relative; display: grid; width: 100vw; min-height: clamp(560px, 72vh, 680px); margin-inline: calc(50% - 50vw); grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: stretch; overflow: hidden; isolation: isolate; background: var(--surface-strong); color: var(--surface); }
+.hero::before { content: none; }
+.hero__content { display: flex; width: 100%; max-width: none; margin: 0; padding: clamp(3.5rem, 6vw, 5rem) clamp(2rem, 4.5vw, 4rem) clamp(3.5rem, 6vw, 5rem) max(32px, calc((100vw - 1180px) / 2)); flex-direction: column; align-items: flex-start; justify-content: center; text-align: left; }
+.hero__media { display: flex; min-width: 0; padding: clamp(2rem, 4vw, 3.5rem) max(32px, calc((100vw - 1180px) / 2)) clamp(2rem, 4vw, 3.5rem) clamp(2rem, 4vw, 3.5rem); align-items: center; justify-content: center; overflow: hidden; }
+.hero__media-frame { position: relative; width: min(100%, 330px); height: min(62vh, 540px); overflow: hidden; border: 1px solid rgba(255, 255, 255, 0.18); border-radius: 28px; box-shadow: 0 24px 60px rgba(21, 31, 25, 0.28); }
+.hero__media-frame::after { position: absolute; inset: 0; background: rgba(21, 31, 25, 0.3); content: ""; pointer-events: none; }
+.hero__media-image { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.hero__eyebrow { display: block; margin: 0 0 1rem; color: var(--surface); font-size: clamp(0.72rem, 1.4vw, 0.82rem); font-weight: 800; letter-spacing: 0.16em; line-height: 1.45; text-transform: uppercase; }
+.hero .hero__title { max-width: 620px; margin: 0; background: none; color: var(--surface); -webkit-text-fill-color: var(--surface); font-family: var(--font-display); font-size: clamp(2.6rem, 3.8vw, 4rem); line-height: 1; letter-spacing: -0.04em; text-wrap: balance; }
+.hero__desc { max-width: 600px; margin: 1.5rem 0 0; color: var(--surface); font-size: clamp(1rem, 1.4vw, 1.12rem); line-height: 1.7; }
+.hero__actions { display: flex; align-items: center; flex-wrap: wrap; gap: 0.8rem; margin-top: 2rem; }
+.hero__actions .btn { display: inline-flex; min-height: 46px; padding: 0.75rem 1.25rem; align-items: center; justify-content: center; border: 1px solid transparent; border-radius: 999px; font-family: var(--font-sans); font-weight: 700; line-height: 1.2; text-align: center; text-decoration: none; transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease, transform 180ms ease; }
+.hero__actions .btn:hover { transform: translateY(-2px); }
+.hero__actions .btn:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.hero__actions .btn--primary { border-color: var(--accent); background: var(--accent); color: var(--text); }
+.hero__actions .btn--primary:hover { border-color: var(--surface); background: var(--surface); }
+.hero__actions .btn--ghost { border-color: var(--surface); background: transparent; color: var(--surface); }
+.hero__actions .btn--ghost:hover { background: var(--surface); color: var(--text); }
+.vision-kynova { display: flex; width: 100vw; min-height: 72vh; margin-inline: calc(50% - 50vw); align-items: center; justify-content: center; background: #ffffff; }
+.vision-kynova__content { display: flex; width: min(calc(100% - 40px), 1100px); max-width: 1100px; padding: clamp(72px, 9vw, 112px) 0; flex-direction: column; align-items: center; gap: clamp(1.5rem, 3vw, 2.25rem); text-align: center; }
+.vision-kynova__logo { display: block; width: min(82vw, 460px); height: auto; margin: 0 auto; object-fit: contain; }
+.vision-kynova__content .vision-kynova__eyebrow,
+.vision-kynova__content .vision-kynova__title,
+.vision-kynova__content .vision-kynova__desc { color: var(--text); -webkit-text-fill-color: currentColor; }
+.vision-kynova__title { max-width: 1000px; margin: 0; background: none; font-family: var(--font-display); font-size: clamp(2.2rem, 4vw, 4rem); font-weight: 800; line-height: 1.08; letter-spacing: -0.025em; text-wrap: balance; }
+.vision-kynova__desc { max-width: 700px; margin: 0; font-size: clamp(1rem, 1.4vw, 1.15rem); font-weight: 400; line-height: 1.7; }
+.vision-kynova__actions { justify-content: center; margin-top: 0.5rem; }
+.vision-kynova .btn--primary { border-color: var(--accent); background: var(--accent); color: var(--text); }
+.vision-kynova .btn--primary:hover { border-color: var(--surface-strong); background: var(--surface-strong); color: #ffffff; }
+.vision-kynova .btn--ghost { border-color: var(--surface-strong); background: transparent; color: var(--surface-strong); }
+.vision-kynova .btn--ghost:hover { background: var(--surface-strong); color: #ffffff; }
+.conversion-team__power { margin: 1.25rem 0 0; padding: 1rem 1.25rem; border-left: 3px solid var(--accent); background: var(--surface); }
+.home-reviews { margin-top: 86px; }
+.reviews-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.review-card { margin: 0; border: 1px solid var(--line); border-radius: 18px; padding: 1.4rem; background: var(--surface); }
+.review-card--empty { grid-column: 1 / -1; }
+.review-card__quote { font-size: 1.05rem; }
+.review-card__author { display: grid; gap: 0.2rem; margin-top: 1rem; }
+.home-booking { margin-top: 1.25rem; }
+@media (max-width: 760px) { .reviews-grid { grid-template-columns: 1fr; } }
+@media (max-width: 760px) { .hero { min-height: auto; grid-template-columns: 1fr; } .hero__content { max-width: none; margin: 0; padding: 72px 24px 40px; } .hero .hero__title { font-size: clamp(2.35rem, 12vw, 3.6rem); } .hero__media { min-height: 0; padding: 16px 24px 72px; } .hero__media-frame { width: min(100%, 340px); height: auto; aspect-ratio: 800 / 1422; } .vision-kynova { min-height: auto; } .vision-kynova__content { width: min(calc(100% - 32px), 1100px); padding: 64px 0; gap: 1.5rem; } .vision-kynova__title { font-size: clamp(2.05rem, 10vw, 3.25rem); } .hero__actions { align-items: stretch; flex-direction: column; } .hero__actions .btn { width: 100%; } }
+@media (prefers-reduced-motion: reduce) { .hero__media-image { animation-play-state: paused; } .hero__actions .btn { transition: none; } }

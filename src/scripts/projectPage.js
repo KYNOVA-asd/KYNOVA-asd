@@ -1,5 +1,7 @@
 import { createElement, select, selectAll } from "./core/dom.js";
+import { createWhatsAppUrl } from "./core/contact.js";
 import { projects } from "./data/projects.js";
+import { renderInstagramFeed } from "./features/instagramFeed.js";
 
 const state = {
   filter: "Todos",
@@ -13,7 +15,8 @@ const resolvePageImage = (image) => {
 
 const filteredProjects = () =>
   projects.filter((project) => {
-    const filterMatches = state.filter === "Todos" || project.owner === state.filter;
+    const projectFilters = project.filterTypes || [project.filterType];
+    const filterMatches = state.filter === "Todos" || projectFilters.includes(state.filter);
     const haystack = [
       project.title,
       project.company,
@@ -103,7 +106,7 @@ const appendSections = (container, sections) => {
     });
 };
 
-const openCase = (project) => {
+const openCase = (project, selectedPost = null) => {
   const modal = select("[data-case-modal]");
   const image = select("[data-case-image]");
   const area = select("[data-case-area]");
@@ -141,7 +144,7 @@ const openCase = (project) => {
   area.textContent = project.involvement || project.owner;
   title.textContent = project.title;
   company.textContent = `${project.company} / ${project.category}`;
-  summary.textContent = project.summary;
+  summary.textContent = selectedPost?.copy || project.summary;
   fit.textContent = project.clientFit;
   note.textContent = project.confidentiality || "";
   const publicUrl = project.demoUrl || project.siteLink;
@@ -151,15 +154,17 @@ const openCase = (project) => {
   link.hidden = !publicUrl;
   link.classList.add("button--with-icon", "button--external");
   link.textContent = project.id === "zazil-events" ? "Ver Plataforma en Vivo" : project.siteLink ? "Ver demo en vivo" : "Ver proyecto";
-  site.href = `https://wa.me/529987449856?text=${encodeURIComponent(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`)}`;
+  site.href = createWhatsAppUrl(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`);
   site.classList.add("button--with-icon", "button--message");
   site.textContent = "Cotizar uno similar";
   site.hidden = false;
 
+  const kpiFacts = Object.entries(selectedPost?.kpis || {}).map(([label, value]) => ({ label, value }));
   appendFacts(facts, [
     { label: "Sector", value: project.sector },
     { label: "Fecha", value: project.duration },
     { label: "Referencia", value: project.startedAt },
+    ...kpiFacts,
   ]);
 
   appendSections(sections, [
@@ -190,6 +195,7 @@ const closeCase = () => {
 const renderProjects = () => {
   const list = select("[data-project-list]");
   const count = select("[data-project-count]");
+  const instagramContainer = select("[data-instagram-feed]");
   const items = filteredProjects();
 
   if (!list || !count) return;
@@ -198,12 +204,25 @@ const renderProjects = () => {
   count.textContent = `${items.length} proyecto${items.length === 1 ? "" : "s"}`;
 
   if (items.length === 0) {
+    if (instagramContainer) instagramContainer.hidden = true;
     list.append(createElement("p", "project-detail__empty", "No hay casos con esa busqueda."));
     return;
   }
 
+  if (state.filter === "Marketing & Redes") {
+    renderInstagramFeed({
+      container: instagramContainer,
+      projects: items,
+      resolveImage: resolvePageImage,
+      onOpen: openCase,
+    });
+  } else if (instagramContainer) {
+    instagramContainer.hidden = true;
+    instagramContainer.replaceChildren();
+  }
+
   items.forEach((project) => {
-    const card = createElement("article", "case-card");
+    const card = createElement("article", "case-card is-entering");
     const image = createElement("img");
     const body = createElement("div", "case-card__body");
     const heading = createElement("div", "case-card__heading");
@@ -223,6 +242,7 @@ const renderProjects = () => {
     brand.append(createElement("span", "", project.company));
     meta.append(createElement("span", "", project.involvement || project.owner));
     meta.append(createElement("span", "", project.category));
+    meta.append(createElement("span", "case-card__filter-chip", project.filterType));
 
     button.type = "button";
     button.addEventListener("click", () => openCase(project));
@@ -236,6 +256,7 @@ const renderProjects = () => {
     body.append(actions);
     card.append(image, body);
     list.append(card);
+    requestAnimationFrame(() => card.classList.remove("is-entering"));
   });
 };
 
@@ -243,8 +264,22 @@ const setupControls = () => {
   selectAll("[data-project-filter]").forEach((button) => {
     button.addEventListener("click", () => {
       state.filter = button.dataset.projectFilter;
-      selectAll("[data-project-filter]").forEach((item) => item.classList.toggle("is-active", item === button));
+      selectAll("[data-project-filter]").forEach((item) => {
+        const selected = item === button;
+        item.classList.toggle("is-active", selected);
+        item.setAttribute("aria-selected", String(selected));
+      });
       renderProjects();
+    });
+  });
+
+  const tabs = selectAll("[data-project-filter]");
+  tabs.forEach((tab, index) => {
+    tab.addEventListener("keydown", (event) => {
+      if (!['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
+      event.preventDefault();
+      const direction = event.key === 'ArrowRight' ? 1 : -1;
+      tabs[(index + direction + tabs.length) % tabs.length].focus();
     });
   });
 

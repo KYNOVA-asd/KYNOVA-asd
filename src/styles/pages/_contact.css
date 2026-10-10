@@ -1,0 +1,26 @@
+.contact-card textarea { resize: vertical; }
+
+/* Partial compartido: conserva el mismo diseño sin depender de la página contenedora. */
+.menu-contact {
+  width: 100%;
+  max-width: min(var(--container), calc(100vw - 40px));
+  margin: 86px auto 0;
+}
+
+.menu-contact__copy .eyebrow {
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+
+.menu-contact__copy h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-wrap: balance;
+}
+
+@media (max-width: 620px) {
+  .menu-contact {
+    max-width: calc(100vw - 32px);
+    margin-top: 64px;
+  }
+}

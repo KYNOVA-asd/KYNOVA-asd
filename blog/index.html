@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Blog de marketing y tecnología | KYNOVA</title>
+    <meta name="description" content="Artículos de KYNOVA sobre marketing, estrategia, desarrollo web y tecnología." />
+    <link rel="canonical" href="https://kynova.mx/blog/" />
+    <!-- @include:head -->
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body class="blog-index-page">
+    <div class="page-shell">
+      <!-- @include:header -->
+      <main class="blog-page" id="contenido">
+        <header class="blog-hero">
+          <p class="eyebrow">Blog KYNOVA</p>
+          <h1>Ideas para construir marcas y productos digitales con intención.</h1>
+          <p>Marketing, estrategia, desarrollo web y tecnología explicados con claridad.</p>
+        </header>
+        <section class="blog-section" aria-labelledby="kynova-posts-title">
+          <div class="blog-section__heading">
+            <p class="eyebrow">Contenido propio</p>
+            <h2 id="kynova-posts-title">Artículos KYNOVA</h2>
+          </div>
+          <div id="kynova-posts" class="blog-grid" aria-live="polite"></div>
+        </section>
+
+        <section class="blog-section blog-radar" aria-labelledby="rss-news-title">
+          <div class="blog-section__heading">
+            <p class="eyebrow">Selección de medios</p>
+            <h2 id="rss-news-title">Radar Tech &amp; Marketing</h2>
+          </div>
+          <div class="news-filters" role="group" aria-label="Filtrar noticias por fuente">
+            <button class="news-filters__chip is-active" type="button" data-rss-filter="Todas" aria-pressed="true" aria-controls="rss-news">Todas</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="Xataka" aria-pressed="false" aria-controls="rss-news">Xataka</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="Genbeta" aria-pressed="false" aria-controls="rss-news">Genbeta</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="The Verge" aria-pressed="false" aria-controls="rss-news">The Verge</button>
+            <button class="news-filters__chip" type="button" data-rss-filter="Engadget" aria-pressed="false" aria-controls="rss-news">Engadget</button>
+          </div>
+          <div id="rss-news" class="news-grid" aria-live="polite" aria-busy="true"></div>
+        </section>
+      </main>
+      <!-- @include:footer -->
+    </div>
+    <script type="module" src="/src/scripts/blog.js"></script>
+  </body>
+</html>

@@ -1,4 +1,5 @@
 import { createElement, select } from "../core/dom.js";
+import { createWhatsAppUrl } from "../core/contact.js";
 
 const appendTags = (container, tags = []) => {
   tags.forEach((tag) => {
@@ -41,7 +42,7 @@ const openProjectModal = (project) => {
   link.hidden = !publicUrl;
   link.classList.add("button--with-icon", "button--external");
   link.textContent = project.id === "zazil-events" ? "Ver Plataforma en Vivo" : project.siteLink ? "Ver demo en vivo" : "Ver proyecto";
-  site.href = `https://wa.me/529987449856?text=${encodeURIComponent(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`)}`;
+  site.href = createWhatsAppUrl(`Hola, me gustaría cotizar un proyecto similar a ${project.title}.`);
   site.classList.add("button--with-icon", "button--message");
   site.textContent = "Cotizar por WhatsApp";
   site.hidden = false;
@@ -69,7 +70,7 @@ const closeProjectModal = () => {
   document.body.classList.remove("has-modal");
 };
 
-const renderContactLinks = (contact) => {
+export const renderContactLinks = (contact) => {
   const container = select("[data-contact-links]");
 
   if (!container) {
@@ -83,7 +84,7 @@ const renderContactLinks = (contact) => {
     },
     {
       label: "WhatsApp",
-      href: `https://wa.me/${contact.whatsapp}`,
+      href: createWhatsAppUrl(),
     },
     {
       label: "Instagram",
@@ -140,6 +141,7 @@ const createMenuProjectCard = (project) => {
   const body = createElement("div", "menu-project-card__body");
   const header = createElement("div", "menu-project-card__header");
   const category = createElement("span", "menu-project-card__category", project.category);
+  const involvement = createElement("span", "project-type-chip", project.involvement || project.owner);
   const trigger = createElement("button", "menu-project-card__trigger", project.title);
 
   image.onerror = () => {
@@ -169,13 +171,37 @@ const createMenuProjectCard = (project) => {
     header.append(liveBadge);
   }
 
-  header.append(category);
+  header.append(category, involvement);
   body.append(header, trigger);
   card.append(image, body);
   return card;
 };
 
-export const renderPortfolio = ({ contact, projects, services }) => {
+const renderReviews = (reviews = []) => {
+  const container = select("[data-reviews]");
+  if (!container) return;
+
+  if (!reviews.length) {
+    const empty = createElement("article", "review-card review-card--empty");
+    empty.setAttribute("role", "status");
+    empty.append(createElement("p", "eyebrow", "Reseñas verificadas"));
+    empty.append(createElement("h3", "", "Estamos documentando las experiencias de nuestros clientes."));
+    empty.append(createElement("p", "", "Publicaremos testimonios únicamente con autorización y contexto verificable."));
+    container.replaceChildren(empty);
+    return;
+  }
+
+  container.replaceChildren(...reviews.map((review) => {
+    const card = createElement("blockquote", "review-card");
+    card.append(createElement("p", "review-card__quote", `“${review.quote}”`));
+    const footer = createElement("footer", "review-card__author");
+    footer.append(createElement("strong", "", review.author), createElement("span", "", review.context));
+    card.append(footer);
+    return card;
+  }));
+};
+
+export const renderPortfolio = ({ contact, projects, services, reviews }) => {
   const projectsContainer = select("[data-projects]");
   const servicesContainer = select("[data-services]");
   const galleryTitle = select("[data-gallery-title]");
@@ -218,6 +244,7 @@ export const renderPortfolio = ({ contact, projects, services }) => {
   );
 
   renderContactLinks(contact);
+  renderReviews(reviews);
 
   document.querySelectorAll("[data-home-category]").forEach((button) => {
     button.addEventListener("click", () => {

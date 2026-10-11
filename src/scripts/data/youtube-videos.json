@@ -1,14 +1,114 @@
 {
-  "generatedAt": "2026-10-10T19:30:00Z",
-  "count": 8,
+  "generatedAt": "2026-10-11T12:56:50.494321Z",
+  "count": 12,
   "items": [
-    {"id":"UXP9MMCpqiw","title":"Three social media automations that take the repetitive work out of your week","channelTitle":"Metricool","published":"2026-10-08T03:57:40Z","category":"Marketing","thumbnailUrl":"https://i.ytimg.com/vi/UXP9MMCpqiw/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=UXP9MMCpqiw"},
-    {"id":"WrCjAAl9okA","title":"A $6.3 billion open-weight model just got embarrassed by the French...","channelTitle":"Fireship","published":"2026-10-07T20:24:27Z","category":"Dev","thumbnailUrl":"https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=WrCjAAl9okA"},
-    {"id":"uSwr2e5kWX0","title":"How to add key dates to your social media calendar in Metricool","channelTitle":"Metricool","published":"2026-10-07T10:00:23Z","category":"Marketing","thumbnailUrl":"https://i.ytimg.com/vi/uSwr2e5kWX0/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=uSwr2e5kWX0"},
-    {"id":"_5p1_TNSWqQ","title":"PewDiePie is setting AI free... and OpenAI is furious","channelTitle":"Fireship","published":"2026-10-05T20:34:44Z","category":"Dev","thumbnailUrl":"https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=_5p1_TNSWqQ"},
-    {"id":"MoGbAPqGkgg","title":"Opus 5.5 es una locura haciendo animaciones. #dotcsv #IA #inteligenciaartificial #Claude #Anthropic","channelTitle":"Dot CSV Lab","published":"2026-10-05T12:34:38Z","category":"IA","thumbnailUrl":"https://i.ytimg.com/vi/MoGbAPqGkgg/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=MoGbAPqGkgg"},
-    {"id":"EpDFdLNu2uk","title":"LIVE OPENAI DEVDAY 2026: nuevos asistentes, modelos y más","channelTitle":"Dot CSV Lab","published":"2026-09-29T18:07:54Z","category":"IA","thumbnailUrl":"https://i.ytimg.com/vi/EpDFdLNu2uk/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=EpDFdLNu2uk"},
-    {"id":"7De0ZWHwAks","title":"Microsoft cocinó","channelTitle":"midulive","published":"2026-06-20T14:48:25Z","category":"Dev","thumbnailUrl":"https://i.ytimg.com/vi/7De0ZWHwAks/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=7De0ZWHwAks"},
-    {"id":"MW2azHUt6_w","title":"Siri AI tiene un secreto","channelTitle":"midulive","published":"2026-06-10T15:52:44Z","category":"Dev","thumbnailUrl":"https://i.ytimg.com/vi/MW2azHUt6_w/hqdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=MW2azHUt6_w"}
+    {
+      "id": "CO46kx0Tfn8",
+      "title": "How to Connect Meta Ads to Claude + 32 Things to Ask",
+      "channelTitle": "Metricool",
+      "published": "2026-10-11T07:45:08Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CO46kx0Tfn8/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=CO46kx0Tfn8"
+    },
+    {
+      "id": "UXP9MMCpqiw",
+      "title": "Three social media automations that take the repetitive work out of your week",
+      "channelTitle": "Metricool",
+      "published": "2026-10-08T03:57:40Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UXP9MMCpqiw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=UXP9MMCpqiw"
+    },
+    {
+      "id": "WrCjAAl9okA",
+      "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
+      "channelTitle": "Fireship",
+      "published": "2026-10-07T20:24:27Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=WrCjAAl9okA"
+    },
+    {
+      "id": "uSwr2e5kWX0",
+      "title": "How to add key dates to your social media calendar in Metricool",
+      "channelTitle": "Metricool",
+      "published": "2026-10-07T10:00:23Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uSwr2e5kWX0/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=uSwr2e5kWX0"
+    },
+    {
+      "id": "_5p1_TNSWqQ",
+      "title": "PewDiePie is setting AI free... and OpenAI is furious",
+      "channelTitle": "Fireship",
+      "published": "2026-10-05T20:34:44Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_5p1_TNSWqQ"
+    },
+    {
+      "id": "MoGbAPqGkgg",
+      "title": "Opus 5.5 es una locura haciendo animaciones. #dotcsv #IA #inteligenciaartificial #Claude #Anthropic",
+      "channelTitle": "Dot CSV Lab",
+      "published": "2026-10-05T12:34:38Z",
+      "category": "IA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MoGbAPqGkgg/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=MoGbAPqGkgg"
+    },
+    {
+      "id": "mpEhpqWbdPs",
+      "title": "Metricool API Tutorial: How to Get Started",
+      "channelTitle": "Metricool",
+      "published": "2026-10-04T07:00:26Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mpEhpqWbdPs/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=mpEhpqWbdPs"
+    },
+    {
+      "id": "Kp-_ymPVLDQ",
+      "title": "Whimsical AI and The Art of Vibe Coding",
+      "channelTitle": "Metricool",
+      "published": "2026-10-02T04:39:33Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kp-_ymPVLDQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=Kp-_ymPVLDQ"
+    },
+    {
+      "id": "No-JPdFvYWU",
+      "title": "The one OpenAI announcement that can actually make you money...",
+      "channelTitle": "Fireship",
+      "published": "2026-10-01T19:34:14Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=No-JPdFvYWU"
+    },
+    {
+      "id": "YprhrH7f4k8",
+      "title": "Turning Email Insights into Social Strategy",
+      "channelTitle": "Metricool",
+      "published": "2026-10-01T17:10:50Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YprhrH7f4k8/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=YprhrH7f4k8"
+    },
+    {
+      "id": "I_KVMFrUtPk",
+      "title": "Did a 50 year old military secret just solve agent prompt injection?",
+      "channelTitle": "Fireship",
+      "published": "2026-09-30T17:16:43Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=I_KVMFrUtPk"
+    },
+    {
+      "id": "PST_p-U82Ng",
+      "title": "How to create automated social media reports with Metricool",
+      "channelTitle": "Metricool",
+      "published": "2026-09-30T10:00:36Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PST_p-U82Ng/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=PST_p-U82Ng"
+    }
   ]
 }

@@ -123,6 +123,51 @@ export const projects = [
     tags: ["Invitaciones Web", "Pases Digitales", "Gestión de Invitados", "Vercel"],
   },
   {
+    id: "sisal-studio",
+    title: "Sisal Studio | Fotografía Fine Art",
+    company: "Sisal Studio",
+    owner: "Dev",
+    involvement: "Desarrollo web + experiencia visual",
+    filterType: "Desarrollo Web",
+    filterTypes: ["Desarrollo Web", "Diseño Visual"],
+    category: "Fotografía Fine Art",
+    sector: "Bodas / eventos / fotografía",
+    duration: "Demo en vivo",
+    startedAt: "2026",
+    deliverables: "Sitio editorial multipágina, portafolio, locaciones, cotización, blog y galerías privadas.",
+    description:
+      "Experiencia web Fine Art para fotografía de bodas y eventos en Yucatán, creada como una plataforma editorial rápida, indexable y preparada para crecer.",
+    summary:
+      "Demo editorial multipágina que combina portafolio visual, comparador Before/After, guía de locaciones, cotización, calculadora de hora dorada, blog y galerías privadas.",
+    clientGoal:
+      "Presentar el trabajo fotográfico con una estética premium y convertir visitas en solicitudes de cotización sin sacrificar rendimiento ni posicionamiento orgánico.",
+    challenge:
+      "Reunir contenido visual, herramientas de conversión y experiencias avanzadas en una arquitectura con URLs reales, metadatos propios y una carga inicial ligera.",
+    solution:
+      "Se planteó una MPA con Vite y JavaScript modular, carga progresiva de galerías y experiencias 3D, endpoints serverless y una estructura editorial preparada para SEO.",
+    result:
+      "Una demostración navegable y escalable para estudios fotográficos de bodas, eventos y destination weddings.",
+    details: [
+      "Arquitectura multipágina con rutas indexables.",
+      "Portafolio Fine Art y comparador Before/After.",
+      "Guía de locaciones y calculadora de hora dorada.",
+      "Flujo de cotización, blog y galerías privadas.",
+    ],
+    clientFit: "Ideal para fotógrafos, estudios creativos y equipos de bodas que necesitan una presencia editorial orientada a conversión.",
+    confidentiality: "Proyecto demostrativo. Las galerías privadas y sus datos utilizan contenido de muestra.",
+    image: "./assets/projects/dev/sisal-studio.jpg",
+    fallbackImage:
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    demoUrl: "https://sisal-studio.vercel.app/",
+    link: "https://sisal-studio.vercel.app/",
+    linkLabel: "Ver demo en vivo",
+    siteLink: "https://sisal-studio.vercel.app/",
+    siteLabel: "Ver demo en vivo",
+    isLive: true,
+    accent: "#9b7355",
+    tags: ["Vite MPA", "JavaScript", "Python Serverless", "Three.js", "SEO", "Vercel"],
+  },
+  {
     title: "Sistema para ganadería",
     company: "Gerardo González",
     owner: "Dev",

@@ -228,8 +228,8 @@ export const renderPortfolio = ({ contact, projects, services, reviews }) => {
   const featuredProjects = [
     projects.find((project) => project.title.startsWith("Lunéa Intimates")),
     projects.find((project) => project.id === "zazil-events"),
+    projects.find((project) => project.id === "sisal-studio"),
     projects.find((project) => project.company === "Marlen tu coach"),
-    projects.find((project) => project.title === "Sistema de citas"),
   ].filter(Boolean);
 
   renderGallery(featuredProjects, "all");

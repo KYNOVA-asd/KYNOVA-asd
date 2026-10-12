@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-11T12:56:50.494321Z",
+  "generatedAt": "2026-10-12T15:34:11.522147Z",
   "count": 12,
   "items": [
+    {
+      "id": "Tfq5MdydWgY",
+      "title": "EXPLOSIÓN de INTELIGENCIA MATEMÁTICA ¡OpenAI resuelve 372 problemas!",
+      "channelTitle": "Dot CSV Lab",
+      "published": "2026-10-12T13:23:59Z",
+      "category": "IA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Tfq5MdydWgY/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=Tfq5MdydWgY"
+    },
     {
       "id": "CO46kx0Tfn8",
       "title": "How to Connect Meta Ads to Claude + 32 Things to Ask",
@@ -100,15 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=I_KVMFrUtPk"
-    },
-    {
-      "id": "PST_p-U82Ng",
-      "title": "How to create automated social media reports with Metricool",
-      "channelTitle": "Metricool",
-      "published": "2026-09-30T10:00:36Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PST_p-U82Ng/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PST_p-U82Ng"
     }
   ]
 }

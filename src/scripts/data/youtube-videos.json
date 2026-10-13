@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-12T15:34:11.522147Z",
+  "generatedAt": "2026-10-13T14:17:32.737292Z",
   "count": 12,
   "items": [
+    {
+      "id": "wajoP_5Cpw8",
+      "title": "Every app on Earth is now open source... whether it likes it or not",
+      "channelTitle": "Fireship",
+      "published": "2026-10-12T19:15:23Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wajoP_5Cpw8/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
+    },
     {
       "id": "Tfq5MdydWgY",
       "title": "EXPLOSIÓN de INTELIGENCIA MATEMÁTICA ¡OpenAI resuelve 372 problemas!",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/YprhrH7f4k8/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=YprhrH7f4k8"
-    },
-    {
-      "id": "I_KVMFrUtPk",
-      "title": "Did a 50 year old military secret just solve agent prompt injection?",
-      "channelTitle": "Fireship",
-      "published": "2026-09-30T17:16:43Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=I_KVMFrUtPk"
     }
   ]
 }

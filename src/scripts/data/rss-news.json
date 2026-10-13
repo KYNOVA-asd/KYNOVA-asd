@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-12T15:34:10.903148Z",
+  "generatedAt": "2026-10-13T14:17:31.459936Z",
   "count": 12,
   "items": [
     {
-      "id": "1b80349f02b90507",
-      "title": "Las aves rapaces en Sevilla han encontrado un refugio y coto de caza insólito: entre paneles solares",
-      "summary": "Puede que la transición energética hacia energías verdes conlleve llenar los campos y montes con aerogeneradores y placas solares pero, qué destrozo visual causal al paisaje (dicho esto, tampoco es que una central nuclear sea bonita). Y no solo visual: sabemos que los aerogeneradores matan a millones de pájaros al…",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/aves-rapaces-sevilla-han-encontrado-refugio-coto-caza-insolito-paneles-solares",
-      "published": "2026-10-12T15:30:26Z",
+      "id": "cb4b47965fb5d2ef",
+      "title": "La NASA cree que las cuevas de la Luna sirven como \"búnkeres\" para astronautas y tiene una misión en marcha",
+      "summary": "La NASA ha seleccionado tres proyectos que se encargarán de analizar el terreno lunar para maximizar la seguridad de los astronautas que viajen en el futuro a nuestro satélite. Los astronautas del programa Apolo pasaron muy poco tiempo en la Luna y aun así se enfrentaron a peligros desconocidos, como el efecto del…",
+      "link": "https://www.xataka.com/espacio/cuevas-luna-podrian-ser-bunker-futuros-astronautas-nasa-tiene-mision-para-comprobarlo",
+      "published": "2026-10-13T14:00:28Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/684b6d/luke-janssen-9trshlob5nu-unsplash/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/d858d2/ciudad-luna/1024_2000.jpeg"
     },
     {
-      "id": "0750cef3316346c5",
-      "title": "Why you shouldn't leave an extension cord plugged in all the time",
-      "summary": "An extension cord may seem like a permanent solution to a problem, but they aren't designed for long-term use, so leaving them plugged in can have consequences.",
-      "link": "https://www.engadget.com/2281476/why-shouldnt-leave-extension-cord-plugged-in-all-the-time",
-      "published": "2026-10-12T15:15:00Z",
+      "id": "e49373db54a62ee5",
+      "title": "El riesgo de la IA no va a parecerse a Terminator. Se parecerá a lo que acaba de pasar en 500 supermercados franceses",
+      "summary": "La noche del domingo al lunes, los frigoríficos de cientos de supermercados franceses se descongelaron a la vez . Alguien activó a distancia los ciclos de desescarche de sus controladores. El ataque alcanzó al menos 300 establecimientos de Intermarché y Netto, más de 100 de Coopérative U y varios de E.Leclerc;…",
+      "link": "https://www.xataka.com/seguridad/riesgo-ia-no-va-a-parecerse-a-terminator-se-parecera-a-que-acaba-pasar-500-supermercados-franceses",
+      "published": "2026-10-13T13:46:26Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/fac51b/magnific__enhance__23907/1024_2000.jpeg"
+    },
+    {
+      "id": "0e3999202c233753",
+      "title": "Apple HomeView hands-on: Siri AI is your new roommate",
+      "summary": "It's more than just an enlarged Apple Watch.",
+      "link": "https://www.engadget.com/2285178/apple-homeview-hands-on-siri-ai",
+      "published": "2026-10-13T13:46:19Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-homeview-hands-on-siri-ai/l-intro-1791900854.jpg"
+    },
+    {
+      "id": "a229d61713704964",
+      "title": "Character.AI just filed for bankruptcy, and former foe Disney may buy it for parts",
+      "summary": "Character.AI, a controversial generative AI startup that lets users create their own chatbot characters, has filed for Chapter 11 bankruptcy",
+      "link": "https://www.engadget.com/2285177/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts",
+      "published": "2026-10-13T13:45:10Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/l-intro-1791899023.jpg"
+    },
+    {
+      "id": "069d0f382beaca54",
+      "title": "How to use a ChatGPT Dot when it rolls out to you",
+      "summary": "OpenAI is hoping that Dots will make automating online tasks a lot easier. Here's what you'll need to use them, how to set them up and what they're capable of.",
+      "link": "https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule",
+      "published": "2026-10-13T13:45:00Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-a-chatgpt-dot-when-it-rolls-out-to-you/l-intro-1791542426.jpg"
+    },
+    {
+      "id": "27d6baaddaec52c6",
+      "title": "Anthropic alerta de una IA capaz de propagarse por los electrodomésticos",
+      "summary": "William Zhou y Daniel Freeman, dos investigadores de Anthropic, han publicado en la página web de este laboratorio un artículo que con toda seguridad va a desencadenar un debate intenso. El título de su texto es muy revelador: \"Los modelos de IA pueden ser capaces de autorreplicarse sin acceder a un centro de datos\".…",
+      "link": "https://www.xataka.com/robotica-e-ia/anthropic-alerta-ia-capaz-propagarse-electrodomesticos",
+      "published": "2026-10-13T13:30:25Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/7df8af/ia-autorreplicante/1024_2000.jpeg"
+    },
+    {
+      "id": "6dfb5ff57228a158",
+      "title": "Aldi lanza el miércoles 21 de octubre (por 9,99 euros) este reloj despertador radiocontrolado con termómetro ideal para el dormitorio",
+      "summary": "Como cada semana, Aldi acaba de renovar su folleto de ofertas con algunas novedades de lo más interesantes. Una de las cuales es este reloj despertador con proyector que, además, se ajusta automáticamente al horario de invierno y verano gracias a que es radiocontrolado. Tiene un precio de 9,99 euros y estará…",
+      "link": "https://www.xataka.com/seleccion/aldi-lanza-miercoles-21-octubre-9-99-euros-este-reloj-despertador-radiocontrolado-termometro-ideal-para-dormitorio",
+      "published": "2026-10-13T13:16:26Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/102794/aldi-reloj-radiocontrol/1024_2000.jpeg"
+    },
+    {
+      "id": "9ce0119d158bcf11",
+      "title": "Why is your phone overheating while using CarPlay or Android Auto?",
+      "summary": "CarPlay and Android Auto do a great job of projecting your phone onto your vehicle's dash. However, certain stresses can cause it to overheat and play up.",
+      "link": "https://www.engadget.com/2281992/why-phone-overheating-while-using-android-auto-carplay",
+      "published": "2026-10-13T13:15:00Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/why-you-shouldnt-leave-an-extension-cord-plugged-in-all-the-time/l-intro-1791481188.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/why-is-your-phone-overheating-while-using-carplay-or-android-auto/l-intro-1791540398.jpg"
     },
     {
-      "id": "e4c694d0e8518c7b",
-      "title": "La CIA tenía una pista aérea secreta para combatir al comunismo. 50 años después, China la está llenando de aviones para la guerra",
-      "summary": "El 30 de septiembre, un satélite comercial fotografió una pista militar en construcción a unos 50 kilómetros de Vientián, la capital de Laos. Las imágenes revelaron ocho aviones de ataque ligero y decenas de vehículos militares en una instalación que China acababa de presentar como un centro conjunto de…",
-      "link": "https://www.xataka.com/magnet/cia-tenia-pista-aerea-secreta-para-combatir-al-comunismo-50-anos-despues-china-esta-llenando-aviones-para-guerra",
-      "published": "2026-10-12T15:00:28Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/31242c/jtavprigpvk4vbmzjgygg5w33e/1024_2000.jpeg"
-    },
-    {
-      "id": "48650331f64d21e9",
-      "title": "Mechanism’s first Switch 2 case is as awesome as I hoped it would be",
-      "summary": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineup of mounts. You could already mount the Switch 2 in…",
-      "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-      "published": "2026-10-12T15:00:00Z",
+      "id": "12c94ec9855173c2",
+      "title": "Watch Apple’s reveal video for the HomeView",
+      "summary": "Apple just announced its long-rumored smart home hub, the HomeView, during its \"Welcome home\" event taking place today. As part of the event, it showed a video featuring the new device, and if you want to see it for yourself, you can watch it right here. The HomeView is a 7-inch square display. It costs […]",
+      "link": "https://www.theverge.com/1008810/apple-homeview-reveal-video-watch",
+      "published": "2026-10-13T13:14:27Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-9.06.28-AM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "5dead8c6e2129a03",
-      "title": "Which accessories actually fit the iPhone Duo?",
-      "summary": "The iPhone Duo's foldable design changes what accessories fit. Here's what to know about cases, chargers, screen protectors, mounts, and more.",
-      "link": "https://www.engadget.com/2281471/iphone-duo-which-accessories-fit",
-      "published": "2026-10-12T14:45:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/iphone-duo-which-accessories-fit/l-intro-1791575956.jpg"
-    },
-    {
-      "id": "7dcac7dc9b0d0031",
-      "title": "Marte gira cada año un poco más rápido y la culpa es de su pasado volcánico, según un estudio",
-      "summary": "En Marte se encuentra el volcán más grande del Sistema Solar, el Monte Olimpo. Su nombre divino encaja a la perfección con su magnificencia, pues tiene ni más ni menos que 600 kilómetros de diámetro y alrededor de 22 kilómetros de altura. Más de dos veces la altura del Everest. Si eso entrase en erupción, los…",
-      "link": "https://www.xataka.com/espacio/marte-gira-cada-ano-poco-rapido-culpa-su-pasado-volcanico-estudio",
-      "published": "2026-10-12T14:30:27Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/5e74fe/monte-olimpo-marte/1024_2000.jpeg"
-    },
-    {
-      "id": "e61ecfa027f77712",
-      "title": "Moto Watch Ultra, análisis: tan bueno para ir al gimnasio como para ir a una boda",
-      "summary": "He probado el reloj inteligente más ambicioso de Motorola hasta la fecha, el Moto Watch Ultra. No es un smartwatch de alta gama como tal. No al menos si buscamos lo mejor de lo mejor en cuanto a seguimiento deportivo y de salud. Sin embargo, no viene cojo de esas funciones precisamente. Además, viene con un diseño…",
-      "link": "https://www.xataka.com/analisis/motorola-moto-watch-ultra-analisis-caracteristicas-precio-especificaciones",
-      "published": "2026-10-12T14:00:27Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/a03132/moto-watch-ultra-gimnasio/1024_2000.jpeg"
-    },
-    {
-      "id": "b64623cd88f61134",
-      "title": "Android is the best and worst thing about Googlebooks",
-      "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my […]",
-      "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-      "published": "2026-10-12T14:00:00Z",
-      "source": "The Verge",
-      "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6d3c2b66f3256447",
-      "title": "No Man’s Sky is coming to the iPhone and iPad",
-      "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of […]",
-      "link": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-      "published": "2026-10-12T14:00:00Z",
+      "id": "64b8ca5d20fab0af",
+      "title": "Getty Images is going private after failed Shutterstock merger",
+      "summary": "Getty Images intends to file for bankruptcy and go private as part of a restructuring agreement after its plans to merge with rival stock platform Shutterstock fell through earlier this year. On Monday, Getty announced it had secured $533 million from the Getty family and Charles Koch's investment firm to cut its…",
+      "link": "https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement",
+      "published": "2026-10-13T13:11:33Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/No-Mans-Sky-iPhone-Screen-1.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "a62d16630d359aa5",
-      "title": "No Man's Sky is coming to iPhone and iPad as the App Store celebrates Indie Games Week",
-      "summary": "Sifu, Vampire Crawlers, Dome Keeper and Little Kitty, Big City are also hitting iOS.",
-      "link": "https://www.engadget.com/2283704/no-mans-sky-is-coming-to-iphone-and-ipad-as-the-app-store-celebrates-indie-games-week",
-      "published": "2026-10-12T14:00:00Z",
-      "source": "Engadget",
-      "category": "Desarrollo",
-      "imageUrl": "https://www.engadget.com/img/gallery/no-mans-sky-is-coming-to-iphone-and-ipad-as-the-app-store-celebrates-indie-games-week/l-intro-1791813051.jpg"
-    },
-    {
-      "id": "f6effaea0408cba9",
-      "title": "The tech behind your car's adaptive cruise control",
-      "summary": "Despite the fact that it functions using a basic camera-and-radar system, adaptive cruise control has proven to have significant influence over driving habits.",
-      "link": "https://www.engadget.com/2281470/tech-behind-adaptive-cruise-control",
-      "published": "2026-10-12T13:45:00Z",
+      "id": "0cd6f8f5ef397e7f",
+      "title": "Everything announced at Apple's 'Welcome Home' event",
+      "summary": "All about the HomeView, Homepod mini, Apple Home Collection and more.",
+      "link": "https://www.engadget.com/2285079/everything-apple-announced-home-view-homepod-mini-2-event",
+      "published": "2026-10-13T13:05:00Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-tech-behind-your-cars-adaptive-cruise-control/l-intro-1791474768.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/everything-apple-announced-home-view-homepod-mini-2-event/l-intro-1791900478.jpg"
     },
     {
-      "id": "c7fd632deb0ad9d6",
-      "title": "El Omoda 4 quiere asaltar la gama de entrada y se ha traído detalles de Lamborghini para ser el nuevo superventas",
-      "summary": "Salón de París de 2026. Este ha sido el lugar elegido por Omoda para enseñar y desvelar su próxima gran esperanza en el mercado. El Omoda 4 llega para tener, en palabras de la compañía, “un verdadero coche de acceso a la gama por primera vez”. No, no tenemos precio confirmado (sólo se ha señalado que llegará a lo…",
-      "link": "https://www.xataka.com/movilidad/omoda-4-caracteristicas-precio-ficha-tecnica",
-      "published": "2026-10-12T13:30:26Z",
+      "id": "766c84c63f790efc",
+      "title": "2026 se ha convertido por derecho propio en el año que perdimos la confianza en los trenes españoles",
+      "summary": "Son las 16:05 del día de la Hispanidad. Este año no sólo es festivo, es lunes y día que cierra el fin de semana lago que se disfruta en España. Miles de viajeros han aprovechado para reservar sus billetes de tren lo más tarde posible y apurar las últimas horas antes de volver a sus casas, la rutina y, por supuesto,…",
+      "link": "https://www.xataka.com/movilidad/peor-incendio-ave-madrid-barcelona-no-incendio-perder-confianza-alta-velocidad-ferroviaria",
+      "published": "2026-10-13T13:00:30Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/cb05fe/img_2895/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/891468/ave_s-102._viaducto_sobre_el_arroyo_de_pedro_gil_-32308646046--3/1024_2000.jpeg"
     }
   ]
 }

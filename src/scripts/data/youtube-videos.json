@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-14T11:58:54.128782Z",
+  "generatedAt": "2026-10-14T17:16:26.693323Z",
   "count": 12,
   "items": [
+    {
+      "id": "crNYWPfObyE",
+      "title": "El mayor hito de la IA aplicada a las matemáticas #dotcsv #IA #openai #chatgpt #matematicas",
+      "channelTitle": "Dot CSV Lab",
+      "published": "2026-10-14T16:30:27Z",
+      "category": "IA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/crNYWPfObyE/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=crNYWPfObyE"
+    },
     {
       "id": "ugvPcDnUGSc",
       "title": "How to connect Canva to Metricool and schedule your designs",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/mpEhpqWbdPs/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=mpEhpqWbdPs"
-    },
-    {
-      "id": "Kp-_ymPVLDQ",
-      "title": "Whimsical AI and The Art of Vibe Coding",
-      "channelTitle": "Metricool",
-      "published": "2026-10-02T04:39:33Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Kp-_ymPVLDQ/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=Kp-_ymPVLDQ"
     }
   ]
 }

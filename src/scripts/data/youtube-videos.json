@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-14T17:16:26.693323Z",
+  "generatedAt": "2026-10-14T21:45:12.682257Z",
   "count": 12,
   "items": [
+    {
+      "id": "QZVzuq28eFw",
+      "title": "OpenAI’s lead engineer was secretly a spy...",
+      "channelTitle": "Fireship",
+      "published": "2026-10-14T17:48:10Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QZVzuq28eFw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=QZVzuq28eFw"
+    },
     {
       "id": "crNYWPfObyE",
       "title": "El mayor hito de la IA aplicada a las matemáticas #dotcsv #IA #openai #chatgpt #matematicas",
@@ -100,15 +109,6 @@
       "category": "IA",
       "thumbnailUrl": "https://i.ytimg.com/vi/MoGbAPqGkgg/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=MoGbAPqGkgg"
-    },
-    {
-      "id": "mpEhpqWbdPs",
-      "title": "Metricool API Tutorial: How to Get Started",
-      "channelTitle": "Metricool",
-      "published": "2026-10-04T07:00:26Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/mpEhpqWbdPs/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=mpEhpqWbdPs"
     }
   ]
 }

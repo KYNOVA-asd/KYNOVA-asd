@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-13T14:17:32.737292Z",
+  "generatedAt": "2026-10-14T11:58:54.128782Z",
   "count": 12,
   "items": [
+    {
+      "id": "ugvPcDnUGSc",
+      "title": "How to connect Canva to Metricool and schedule your designs",
+      "channelTitle": "Metricool",
+      "published": "2026-10-14T10:00:26Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ugvPcDnUGSc/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ugvPcDnUGSc"
+    },
+    {
+      "id": "7-5ePCxcG_c",
+      "title": "we can be doing all the things‍",
+      "channelTitle": "Metricool",
+      "published": "2026-10-13T18:31:45Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7-5ePCxcG_c/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7-5ePCxcG_c"
+    },
     {
       "id": "wajoP_5Cpw8",
       "title": "Every app on Earth is now open source... whether it likes it or not",
@@ -91,24 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/Kp-_ymPVLDQ/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=Kp-_ymPVLDQ"
-    },
-    {
-      "id": "No-JPdFvYWU",
-      "title": "The one OpenAI announcement that can actually make you money...",
-      "channelTitle": "Fireship",
-      "published": "2026-10-01T19:34:14Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=No-JPdFvYWU"
-    },
-    {
-      "id": "YprhrH7f4k8",
-      "title": "Turning Email Insights into Social Strategy",
-      "channelTitle": "Metricool",
-      "published": "2026-10-01T17:10:50Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YprhrH7f4k8/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=YprhrH7f4k8"
     }
   ]
 }

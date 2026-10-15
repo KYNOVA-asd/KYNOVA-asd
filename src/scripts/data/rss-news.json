@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-14T21:45:11.819413Z",
+  "generatedAt": "2026-10-15T11:35:54.741577Z",
   "count": 12,
   "items": [
     {
-      "id": "6abb2f501b02614b",
-      "title": "Ucrania acusa a SpaceX de volver a restringir su uso de Starlink, provocando que misiones de drones no puedan actuar en el frente",
-      "summary": "En una guerra en la que los drones se han convertido en herramientas habituales, no basta con que una aeronave tenga autonomía, alcance y capacidad para cumplir su misión. Cuando depende del control remoto, también necesita mantener una conexión estable con quienes la manejan, y ese vínculo puede ser tan importante…",
-      "link": "https://www.xataka.com/magnet/ucrania-acusa-a-spacex-volver-a-restringir-su-uso-starlink-provocando-que-misiones-drones-no-puedan-actuar-frente",
-      "published": "2026-10-14T21:37:56Z",
+      "id": "65e6cfcebc4eba2e",
+      "title": "Los creadores de 'Fortnite' dicen que \"programar es difícil\", así que han pedido a la IA que les rehaga la Epic Store",
+      "summary": "Me gustaría decir que esa frase es una licencia que me he tomado, pero realmente es algo literal. En un mensaje publicado ayer en la página de novedades de Epic Games, la compañía que ahora es la del 'Fortnite' y la del Unreal Engine 5, pero que ha programado herramientas como Unreal Engine 3 y 4, además de juegos…",
+      "link": "https://www.xataka.com/videojuegos/creadores-fortnite-dicen-que-programar-dificil-asi-que-han-pedido-a-ia-que-les-rehaga-epic-store",
+      "published": "2026-10-15T11:00:25Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/722370/biblioteca-epic-games-en-fondo-ciberpunk/1024_2000.png"
+    },
+    {
+      "id": "c0b77d592a9eb64d",
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where […]",
+      "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "published": "2026-10-15T11:00:00Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "fbcaa7f3d8bd0d8a",
+      "title": "El móvil para quienes no quieran cargar la batería todos los días: es de Xiaomi y cuesta poco más de 300 euros",
+      "summary": "Llevamos ya un tiempo viendo móviles que incorporan batería carbono-silicio con capacidades que se aproximan a los 10.000 mAh, algo que, en lo personal, me parece de lo más práctico, sobre todo viniendo de un móvil que tengo que recargar como mínimo una vez al día. Y una de las propuestas más interesantes es la del…",
+      "link": "https://www.xataka.com/seleccion/movil-para-quienes-no-quieran-cargar-bateria-todos-dias-xiaomi-cuesta-poco-300-euros",
+      "published": "2026-10-15T10:46:26Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/e01d1b/starlink-ucrania/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/9ae256/xiaomi-x8/1024_2000.jpeg"
     },
     {
-      "id": "78eb4754ca94a9ac",
-      "title": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
-      "summary": "The lawsuits cover everything from the design of ChatGPT to the company's recent issues with rogue agents.",
-      "link": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children",
-      "published": "2026-10-14T21:23:27Z",
+      "id": "2f3386117a877f1c",
+      "title": "Apple I 'Hatfield' computer signed by Woz fetches a record $1.15 million at auction",
+      "summary": "The famous Apple I \"Hatfield\" computer signed by Steve Wozniak just sold to an unknown buyer for a record $1,148,200.",
+      "link": "https://www.engadget.com/2287345/apple-i-hatfield-sells-for-1-15-million-at-auction",
+      "published": "2026-10-15T10:34:56Z",
       "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/l-intro-1792012940.jpg"
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-i-hatfield-computer-signed-by-woz-fetches-a-record-1-15-million-at-auction/l-intro-1792060404.jpg"
     },
     {
-      "id": "9194e801adbca278",
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "published": "2026-10-14T21:11:28Z",
-      "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ff3575b97443ae4c",
-      "title": "En 1945 la bomba nuclear se hizo realidad: acto seguido imaginamos los proyectos atómicos más locos posibles",
-      "summary": "En los años cincuenta parecía que la humanidad estaba a las puertas de una nueva revolución industrial. La energía atómica iba a dejar atrás el carbón, el petróleo y el vapor que heredamos de la primera. No todo era de color de rosa, claro, pero la inocencia de la época, y lo poco que se sabía entonces de los…",
-      "link": "https://www.xataka.com/energia/1945-bomba-nuclear-se-hizo-realidad-acto-seguido-imaginamos-proyectos-atomicos-locos-posible",
-      "published": "2026-10-14T20:30:26Z",
+      "id": "8cfaeb8d2eabe4a0",
+      "title": "En silencio, EEUU sigue castigando a los barcos españoles que importan productos con una tasa de 200.000 dólares por buque: el aceite de oliva está en la diana",
+      "summary": "Estados Unidos ha abierto un (nuevo) frente de presión comercial contra España, esta vez desde sus puertos. La Comisión Marítima Federal estadounidense ha propuesto cobrar 200.000 dólares, unos 180.000 euros , por viaje a los buques de bandera española que atraquen en el país. La medida llega acompañada de una…",
+      "link": "https://www.xataka.com/magnet/silencio-eeuu-sigue-castigando-a-barcos-espanoles-que-importan-productos-tasa-180-000-dolares-buque-aceite-oliva-esta-diana",
+      "published": "2026-10-15T10:30:25Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/c24bb4/avion-nuclear-b-36/1024_2000.png"
+      "imageUrl": "https://i.blogs.es/8953de/port_of_algeciras-juan_carlos_i_dock/1024_2000.jpeg"
     },
     {
-      "id": "bdd266cef184b838",
-      "title": "Fitbit Edge vs Fitbit Air: The differences beyond a screen",
-      "summary": "Google's latest wearable seems like a Fitbit Air with a screen, but the two actually have less in common than you might think.",
-      "link": "https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared",
-      "published": "2026-10-14T20:13:18Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/fitbit-edge-vs-fitbit-air-the-differences-beyond-a-screen/l-intro-1792008020.jpg"
+      "id": "e8984865b6d48856",
+      "title": "Asus trae a España sus portátiles ProArt con NVIDIA RTX Spark: IA local y sin suscripciones para creadores",
+      "summary": "El procesamiento de inteligencia artificial en local gana cada vez más peso frente a las herramientas pesadas en servidores remotos. Con el objetivo de eliminar el pago por tokens y proteger la privacidad de los proyectos, Asus ha anunciado la llegada a España de su nueva gama ProArt con plataforma NVIDIA RTX Spark:…",
+      "link": "https://www.xataka.com/seleccion/asus-trae-a-espana-sus-portatiles-proart-nvidia-rtx-spark-ia-local-suscripciones-para-creadores",
+      "published": "2026-10-15T10:16:26Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/b39692/nuevos-portatiles-asus-con-nvidia-rtx-spark/1024_2000.jpeg"
     },
     {
-      "id": "605f7325ba7b7ad4",
-      "title": "NASA explains how it's making batteries for the Moon's extreme temperatures",
-      "summary": "Lithium-ion just isn't cut out for the cosmos.",
-      "link": "https://www.engadget.com/2287038/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures",
-      "published": "2026-10-14T20:07:03Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures/l-intro-1792008359.jpg"
+      "id": "fe7c29f9add8b853",
+      "title": "Para sorpresa de nadie, ASML admite que es incapaz de responder a la brutal demanda de chips para IA entre 2027 y 2028",
+      "summary": "ASML no da abasto. La presión que los centros de datos para inteligencia artificial (IA) están ejerciendo sobre la industria de los semiconductores no afecta solamente a los fabricantes de circuitos integrados; también está impactando de una forma profunda en el negocio de las empresas que producen equipos de…",
+      "link": "https://www.xataka.com/empresas-y-economia/para-sorpresa-nadie-asml-admite-que-incapaz-responder-a-brutal-demanda-chips-para-ia-2027-2028",
+      "published": "2026-10-15T10:16:26Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/680e69/asml-ap/1024_2000.jpeg"
     },
     {
-      "id": "fa361691c0a6800a",
-      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-      "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police…",
-      "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-      "published": "2026-10-14T20:03:43Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318439/akrales_220309_4977_0324.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "2ab10201f4777d63",
-      "title": "Ubisoft plans to close another studio and lay off up to 122 workers",
-      "summary": "Cuts are coming to RedLynx and Ubisoft Singapore.",
-      "link": "https://www.engadget.com/2286986/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers",
-      "published": "2026-10-14T19:31:35Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers/l-intro-1792006137.jpg"
-    },
-    {
-      "id": "4ad14018a9fa480c",
-      "title": "Alguien ha robado 100 millones de dólares en criptomonedas utilizando puertas traseras plantadas de antemano en monederos físicos",
-      "summary": "Cuando hablamos de proteger nuestras criptomonedas, solemos pensar en contraseñas, estafas por Internet o ataques informáticos. Sin embargo, existe otra dimensión de la seguridad que puede pasar más inadvertida: la integridad del dispositivo físico al que confiamos las claves de acceso a nuestros fondos. Podemos…",
-      "link": "https://www.xataka.com/seguridad/alguien-ha-robado-100-millones-dolares-criptomonedas-utilizando-puertas-traseras-plantadas-antemano-monederos-fisicos",
-      "published": "2026-10-14T19:30:26Z",
+      "id": "575e505a54e99422",
+      "title": "MediaMarkt agotó sus Nintendo Switch 2 por 300 euros, pero aquí hemos encontrado otro chollo justo a tiempo para 'Ocarina of Time'",
+      "summary": "Nintendo Switch 2, que lleva entre nosotros algo más de un año, es desde principios del pasado mes de septiembre un poco más cara . Ahora cuesta 499,99 euros y, si valoramos hacernos con alguna, resulta aún más importante estar pendientes de rebajas y ofertas puntuales para ahorrarnos lo máximo posible.…",
+      "link": "https://www.xataka.com/seleccion/mediamarkt-agoto-sus-nintendo-switch-2-300-euros-aqui-hemos-encontrado-otro-chollo-justo-a-tiempo-para-ocarina-of-time",
+      "published": "2026-10-15T10:10:00Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/1e0a84/carteira-hardware-ledger/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/bb927e/oferta-nintendo-switch-2/1024_2000.jpeg"
     },
     {
-      "id": "7f2489791b6b7c1e",
-      "title": "Sony is taking on DJI with its new ECM-W5 wireless microphone kit",
-      "summary": "It'll cost you though.",
-      "link": "https://www.engadget.com/2286975/sony-is-taking-on-dji-with-its-new-ecm-w5-wireless-microphone-kit",
-      "published": "2026-10-14T19:25:28Z",
+      "id": "50bb7c6cb08446bf",
+      "title": "YouTube is reportedly gearing up to offer audiobooks",
+      "summary": "YouTube is already talking to publishers about offering audiobooks on its platform, The Wall Street Journal says.",
+      "link": "https://www.engadget.com/2287331/youtube-audiobook-offering-rumor",
+      "published": "2026-10-15T10:07:37Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/sony-is-taking-on-dji-with-its-new-ecm-w5-wireless-microphone-kit/l-intro-1792005860.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/youtube-is-reportedly-gearing-up-to-offer-audiobooks/l-intro-1792058722.jpg"
     },
     {
-      "id": "0a3035ce11f254c3",
-      "title": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "published": "2026-10-14T19:06:03Z",
+      "id": "4694af143a02ec40",
+      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the…",
+      "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+      "published": "2026-10-15T10:05:07Z",
       "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/BigWalk-GameplayOverview-1.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "45dfe01c4dcdbd6b",
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all…",
-      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "published": "2026-10-14T18:47:54Z",
-      "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100"
+      "id": "2a6e5b35ab5bfd46",
+      "title": "La Ley de Propiedad Horizontal es clara y los expertos coinciden: \"si tu vecino quiere poner un cargador, puede hacer obra en tu plaza\"",
+      "summary": "Parece que fue ayer pero hace ya más de una década que se facilitaron los permisos para instalar un punto de carga de coches eléctricos en las plazas de garaje comunitarias. Desde 2013 es suficiente con avisar a la comunidad de propietarios de que vas a hacer las obras pertinentes y ésta no se puede oponer.  Pero,…",
+      "link": "https://www.xataka.com/movilidad/ley-propiedad-horizontal-clara-expertos-coinciden-tu-vecino-quiere-poner-cargador-puede-hacer-obra-tu-plaza",
+      "published": "2026-10-15T10:00:28Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/1b56c7/michael-fousert-tgpvjz-yw6q-unsplash/1024_2000.jpeg"
+    },
+    {
+      "id": "56d6059bbeaa5011",
+      "title": "En 2022, Madrid regaló una gigantesca osa roja a Miami como símbolo de su hermanamiento: terminó en un restaurante",
+      "summary": "La gran mayoría de regalos institucionales se crean para durar ( salvo que los roben ). Tal vez por esto cueste tanto renombrar ciertas calles y erradicar símbolos arcaicos. La osa de Isabel Díaz Ayuso no corrió la misma suerte. Hablamos de la obra del artista madrileño Eladio de Mora, conocido como dEmo , presentada…",
+      "link": "https://www.xataka.com/magnet/2022-madrid-regalo-gigantesca-osa-roja-a-miami-como-simbolo-su-hermanamiento-termino-restaurante",
+      "published": "2026-10-15T09:30:25Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/b301e1/osita/1024_2000.jpeg"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-14T21:45:12.682257Z",
+  "generatedAt": "2026-10-15T11:35:55.462687Z",
   "count": 12,
   "items": [
+    {
+      "id": "YprhrH7f4k8",
+      "title": "Turning Email Insights into Social Strategy",
+      "channelTitle": "Metricool",
+      "published": "2026-10-14T23:56:17Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YprhrH7f4k8/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=YprhrH7f4k8"
+    },
     {
       "id": "QZVzuq28eFw",
       "title": "OpenAI’s lead engineer was secretly a spy...",
@@ -100,15 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=_5p1_TNSWqQ"
-    },
-    {
-      "id": "MoGbAPqGkgg",
-      "title": "Opus 5.5 es una locura haciendo animaciones. #dotcsv #IA #inteligenciaartificial #Claude #Anthropic",
-      "channelTitle": "Dot CSV Lab",
-      "published": "2026-10-05T12:34:38Z",
-      "category": "IA",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MoGbAPqGkgg/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=MoGbAPqGkgg"
     }
   ]
 }

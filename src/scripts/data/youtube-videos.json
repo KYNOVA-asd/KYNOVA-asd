@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-15T11:35:55.462687Z",
+  "generatedAt": "2026-10-15T21:27:33.997968Z",
   "count": 12,
   "items": [
+    {
+      "id": "J3AaFh4_W7c",
+      "title": "we all do it, right?",
+      "channelTitle": "Metricool",
+      "published": "2026-10-15T18:03:19Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/J3AaFh4_W7c/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=J3AaFh4_W7c"
+    },
+    {
+      "id": "l3L_lETiSzc",
+      "title": "The runtime wars are over... and Node won",
+      "channelTitle": "Fireship",
+      "published": "2026-10-15T17:35:15Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=l3L_lETiSzc"
+    },
     {
       "id": "YprhrH7f4k8",
       "title": "Turning Email Insights into Social Strategy",
@@ -91,24 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=WrCjAAl9okA"
-    },
-    {
-      "id": "uSwr2e5kWX0",
-      "title": "How to add key dates to your social media calendar in Metricool",
-      "channelTitle": "Metricool",
-      "published": "2026-10-07T10:00:23Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/uSwr2e5kWX0/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=uSwr2e5kWX0"
-    },
-    {
-      "id": "_5p1_TNSWqQ",
-      "title": "PewDiePie is setting AI free... and OpenAI is furious",
-      "channelTitle": "Fireship",
-      "published": "2026-10-05T20:34:44Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=_5p1_TNSWqQ"
     }
   ]
 }

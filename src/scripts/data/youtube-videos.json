@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-10-15T21:27:33.997968Z",
+  "generatedAt": "2026-10-18T04:40:01.326544Z",
   "count": 12,
   "items": [
-    {
-      "id": "J3AaFh4_W7c",
-      "title": "we all do it, right?",
-      "channelTitle": "Metricool",
-      "published": "2026-10-15T18:03:19Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/J3AaFh4_W7c/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=J3AaFh4_W7c"
-    },
     {
       "id": "l3L_lETiSzc",
       "title": "The runtime wars are over... and Node won",
@@ -19,15 +10,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=l3L_lETiSzc"
-    },
-    {
-      "id": "YprhrH7f4k8",
-      "title": "Turning Email Insights into Social Strategy",
-      "channelTitle": "Metricool",
-      "published": "2026-10-14T23:56:17Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YprhrH7f4k8/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=YprhrH7f4k8"
     },
     {
       "id": "QZVzuq28eFw",
@@ -39,33 +21,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=QZVzuq28eFw"
     },
     {
-      "id": "crNYWPfObyE",
-      "title": "El mayor hito de la IA aplicada a las matemáticas #dotcsv #IA #openai #chatgpt #matematicas",
-      "channelTitle": "Dot CSV Lab",
-      "published": "2026-10-14T16:30:27Z",
-      "category": "IA",
-      "thumbnailUrl": "https://i.ytimg.com/vi/crNYWPfObyE/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=crNYWPfObyE"
-    },
-    {
-      "id": "ugvPcDnUGSc",
-      "title": "How to connect Canva to Metricool and schedule your designs",
-      "channelTitle": "Metricool",
-      "published": "2026-10-14T10:00:26Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ugvPcDnUGSc/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=ugvPcDnUGSc"
-    },
-    {
-      "id": "7-5ePCxcG_c",
-      "title": "we can be doing all the things‍",
-      "channelTitle": "Metricool",
-      "published": "2026-10-13T18:31:45Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7-5ePCxcG_c/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=7-5ePCxcG_c"
-    },
-    {
       "id": "wajoP_5Cpw8",
       "title": "Every app on Earth is now open source... whether it likes it or not",
       "channelTitle": "Fireship",
@@ -75,33 +30,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
     },
     {
-      "id": "Tfq5MdydWgY",
-      "title": "EXPLOSIÓN de INTELIGENCIA MATEMÁTICA ¡OpenAI resuelve 372 problemas!",
-      "channelTitle": "Dot CSV Lab",
-      "published": "2026-10-12T13:23:59Z",
-      "category": "IA",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Tfq5MdydWgY/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=Tfq5MdydWgY"
-    },
-    {
-      "id": "CO46kx0Tfn8",
-      "title": "How to Connect Meta Ads to Claude + 32 Things to Ask",
-      "channelTitle": "Metricool",
-      "published": "2026-10-11T07:45:08Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CO46kx0Tfn8/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=CO46kx0Tfn8"
-    },
-    {
-      "id": "UXP9MMCpqiw",
-      "title": "Three social media automations that take the repetitive work out of your week",
-      "channelTitle": "Metricool",
-      "published": "2026-10-08T03:57:40Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UXP9MMCpqiw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=UXP9MMCpqiw"
-    },
-    {
       "id": "WrCjAAl9okA",
       "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
       "channelTitle": "Fireship",
@@ -109,6 +37,78 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=WrCjAAl9okA"
+    },
+    {
+      "id": "_5p1_TNSWqQ",
+      "title": "PewDiePie is setting AI free... and OpenAI is furious",
+      "channelTitle": "Fireship",
+      "published": "2026-10-05T20:34:44Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_5p1_TNSWqQ"
+    },
+    {
+      "id": "No-JPdFvYWU",
+      "title": "The one OpenAI announcement that can actually make you money...",
+      "channelTitle": "Fireship",
+      "published": "2026-10-01T19:34:14Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=No-JPdFvYWU"
+    },
+    {
+      "id": "I_KVMFrUtPk",
+      "title": "Did a 50 year old military secret just solve agent prompt injection?",
+      "channelTitle": "Fireship",
+      "published": "2026-09-30T17:16:43Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=I_KVMFrUtPk"
+    },
+    {
+      "id": "OuNKBjuV7A4",
+      "title": "DHH has gone completely off the rails...",
+      "channelTitle": "Fireship",
+      "published": "2026-09-28T19:27:59Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OuNKBjuV7A4/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=OuNKBjuV7A4"
+    },
+    {
+      "id": "c1rPlzxSZ8E",
+      "title": "Meta is pivoting again... everything you missed from Connect 2026",
+      "channelTitle": "Fireship",
+      "published": "2026-09-25T19:22:32Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/c1rPlzxSZ8E/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=c1rPlzxSZ8E"
+    },
+    {
+      "id": "ylO0DQeVEBQ",
+      "title": "The most expensive 33 hours in WordPress history...",
+      "channelTitle": "Fireship",
+      "published": "2026-09-23T17:17:22Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ylO0DQeVEBQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ylO0DQeVEBQ"
+    },
+    {
+      "id": "TbkUKCm3CHQ",
+      "title": "An ex-OpenAI researcher just deleted language from the LLM...",
+      "channelTitle": "Fireship",
+      "published": "2026-09-21T17:52:29Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TbkUKCm3CHQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TbkUKCm3CHQ"
+    },
+    {
+      "id": "LoLYw--s-5w",
+      "title": "Did Google just kickstart the intelligence explosion?",
+      "channelTitle": "Fireship",
+      "published": "2026-09-17T20:33:55Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LoLYw--s-5w/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=LoLYw--s-5w"
     }
   ]
 }

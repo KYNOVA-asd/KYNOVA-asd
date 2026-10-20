@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-20T17:14:07.276060Z",
+  "generatedAt": "2026-10-20T21:40:43.692585Z",
   "count": 12,
   "items": [
+    {
+      "id": "_-sg4P0wT1k",
+      "title": "Set up your DM automation with Flows",
+      "channelTitle": "Metricool",
+      "published": "2026-10-20T18:30:44Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_-sg4P0wT1k/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_-sg4P0wT1k"
+    },
     {
       "id": "b2tjnxX8IHU",
       "title": "Did Google just dethrone OpenAI and Anthropic?",
@@ -100,15 +109,6 @@
       "category": "IA",
       "thumbnailUrl": "https://i.ytimg.com/vi/Tfq5MdydWgY/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=Tfq5MdydWgY"
-    },
-    {
-      "id": "CO46kx0Tfn8",
-      "title": "How to Connect Meta Ads to Claude + 32 Things to Ask",
-      "channelTitle": "Metricool",
-      "published": "2026-10-11T07:45:08Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CO46kx0Tfn8/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=CO46kx0Tfn8"
     }
   ]
 }

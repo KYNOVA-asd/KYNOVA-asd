@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-20T17:14:06.845845Z",
+  "generatedAt": "2026-10-20T21:40:42.524312Z",
   "count": 12,
   "items": [
     {
-      "id": "b3327bcb1007a3f1",
-      "title": "EEUU ordena eliminar DeepSeek de los sistemas de sus agencias civiles federales. El veto va todavía más allá",
-      "summary": "DeepSeek lleva meses en el centro de una disputa que va mucho más allá de quién tiene el modelo de inteligencia artificial más capaz o más barato. Desde que irrumpió con R1 , la compañía china ha quedado bajo el escrutinio de gobiernos, reguladores y empresas estadounidenses en medio de una competición tecnológica…",
-      "link": "https://www.xataka.com/robotica-e-ia/eeuu-ordena-eliminar-deepseek-sistemas-sus-agencias-civiles-federales-veto-va-todavia-alla",
-      "published": "2026-10-20T17:00:00Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/530944/deepseek/1024_2000.jpeg"
-    },
-    {
-      "id": "5d7e540dfcb9dc5f",
-      "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
-      "summary": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system introduced for Chrome file downloads in…",
-      "link": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
-      "published": "2026-10-20T17:00:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "04694384f58fcd04",
-      "title": "Que sea de código abierto es una de las claves de Internxt: una nube europea que almacena tus archivos de forma segura",
-      "summary": "Cuando se trata de buscar almacenamiento en la nube, ya no solo nos preocupa la capacidad que ofrece cada servicio. Ahora también queremos que nuestra información esté lo más segura posible y, sobre todo, que nadie pueda acceder a ella sin nuestro permiso . En ese sentido, Internxt ofrece una garantía de ello por una…",
-      "link": "https://www.xataka.com/seleccion/que-sea-codigo-abierto-claves-internxt-nube-europea-que-almacena-tus-archivos-forma-segura",
-      "published": "2026-10-20T16:45:39Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/e75eee/glenn-carstens-peters-npxxwgq33zq-unsplash/1024_2000.jpeg"
-    },
-    {
-      "id": "903308623db95f2b",
-      "title": "Don't put your phone in the TSA bin — do this instead",
-      "summary": "Let's be honest, TSA bins are just gross.",
-      "link": "https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin",
-      "published": "2026-10-20T16:45:00Z",
+      "id": "162bd0d934c94ce4",
+      "title": "The latest PlayStation firmware may have already been cracked ahead of GTA 6",
+      "summary": "Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit.",
+      "link": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware",
+      "published": "2026-10-20T21:30:57Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg"
     },
     {
-      "id": "1a3b0608fd065ec6",
-      "title": "Creíamos que cuanto más procesado estaba un alimento, peor era. La nutrición está complicando esa idea",
-      "summary": "Durante los últimos años, el término \"ultraprocesado\" se ha convertido en el gran villano de la nutrición moderna. El sistema NOVA , que clasifica los alimentos según su grado de procesamiento industrial, ha calado hondo tanto en las políticas de la salud pública como en la percepción general. Sin embargo, la…",
-      "link": "https://www.xataka.com/medicina-y-salud/hemos-convertido-ultraprocesados-gran-enemigo-dieta-hay-muchos-matices",
-      "published": "2026-10-20T16:31:42Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/7a39e0/ultraprocesados/1024_2000.jpeg"
-    },
-    {
-      "id": "4765d0199e5a406b",
-      "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
-      "summary": "AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as Ryzen AI Max 300 and 400 […]",
-      "link": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
-      "published": "2026-10-20T16:21:18Z",
-      "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "be17078aeccbb4d5",
-      "title": "You can build your own mechanical keyboard, but is it worth the price?",
-      "summary": "If you have both the time and money, building a keyboard can be a fun hobby.",
-      "link": "https://www.engadget.com/2288961/build-keyboard-why-worth-it",
-      "published": "2026-10-20T16:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/you-can-build-your-own-mechanical-keyboard-but-is-it-worth-the-price/l-intro-1792169830.jpg"
-    },
-    {
-      "id": "bcda46886058255e",
-      "title": "La Guardia Civil compra por 2,5 millones un sistema para acceder de forma remota a móviles Android y iPhone",
-      "summary": "La Guardia Civil ha comprado una herramienta diseñada para registrar de forma remota los móviles de las personas que se encuentren bajo investigación, sin necesidad de incautar los dispositivos. El contrato, publicado en el BOE , ofrece pocos detalles técnicos, pero sí revela lo que el sistema es capaz de hacer.…",
-      "link": "https://www.xataka.com/seguridad/guardia-civil-compra-2-5-millones-sistema-para-acceder-forma-remota-a-moviles-android-iphone",
-      "published": "2026-10-20T16:01:37Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/06c786/htfqux_x0aaq9w1/1024_2000.jpeg"
-    },
-    {
-      "id": "e8f7eb6b3db4fd38",
-      "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
-      "summary": "Arturia is adding to its Freak line of proudly weird digital synths with the MiniFreak 49. Under the hood, it's almost identical to the current MiniFreak, but it adds a number of more professional features and some interface improvements. The most noticeable change is that, rather than the MiniFreak's 37 minikeys or…",
-      "link": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer",
-      "published": "2026-10-20T16:00:00Z",
+      "id": "db29f3780b4c0bad",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees have not reached agreement on the terms of any transaction - and that there's no guarantee that…",
+      "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "published": "2026-10-20T21:30:24Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Playful2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "79c68c952c743be2",
-      "title": "The Gospel according to Peter (Thiel)",
-      "summary": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety…",
-      "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
-      "published": "2026-10-20T15:45:00Z",
+      "id": "45f4daf688f47025",
+      "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
+      "summary": "OpenAI has introduced a new \"locked chats\" feature to protect users' more sensitive conversations with ChatGPT.",
+      "link": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin",
+      "published": "2026-10-20T21:05:00Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792530123.jpg"
+    },
+    {
+      "id": "35e0038c68ed5a41",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a […]",
+      "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+      "published": "2026-10-20T21:02:53Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b68cd008d74aa864",
+      "title": "Judge tosses sexual abuse lawsuit from Sam Altman's sister",
+      "summary": "A lawsuit brought by the OpenAI CEO's sister was dismissed after Anne Altman refused a medical exam.",
+      "link": "https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister",
+      "published": "2026-10-20T20:53:25Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/l-intro-1792529383.jpg"
+    },
+    {
+      "id": "747809431b6bced9",
+      "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
+      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming…",
+      "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+      "published": "2026-10-20T20:52:07Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923972/acastro_STK072_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "a75db9db31bf9f49",
+      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
+      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt,…",
+      "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+      "published": "2026-10-20T20:32:09Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "a5f9a1a7145f56be",
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group…",
+      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "published": "2026-10-20T20:26:58Z",
       "source": "The Verge",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/258014_Peter_Thiel_LKantrowitz.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "bcbb6f46d75a9939",
-      "title": "5 ways to make your old iPhone feel faster",
-      "summary": "Your iPhone will slow down over time, but some changes can help it run at its best for longer.",
-      "link": "https://www.engadget.com/2288921/ways-make-old-iphone-feel-faster",
-      "published": "2026-10-20T15:45:00Z",
-      "source": "Engadget",
+      "id": "2e3367f5cde8cd33",
+      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max…",
+      "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+      "published": "2026-10-20T20:26:04Z",
+      "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oura1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "74bafbbb2028eafa",
-      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
-      "summary": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.",
-      "link": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac",
-      "published": "2026-10-20T15:42:45Z",
+      "id": "a6b6ecc8a20261fe",
+      "title": "TikTok has started censoring searches for popular peptides",
+      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include substances like insulin…",
+      "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
+      "published": "2026-10-20T20:16:04Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS538_PEPTIDES2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7352c859365d783d",
+      "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
+      "summary": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
+      "link": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed",
+      "published": "2026-10-20T20:00:43Z",
       "source": "Engadget",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/l-intro-1792526399.jpg"
+    },
+    {
+      "id": "63a38defb647f21a",
+      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
+      "summary": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but haptics. You can grab it refurbished…",
+      "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
+      "published": "2026-10-20T20:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

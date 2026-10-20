@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-18T11:13:58.431796Z",
+  "generatedAt": "2026-10-20T17:14:07.276060Z",
   "count": 12,
   "items": [
+    {
+      "id": "b2tjnxX8IHU",
+      "title": "Did Google just dethrone OpenAI and Anthropic?",
+      "channelTitle": "Fireship",
+      "published": "2026-10-20T16:21:03Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=b2tjnxX8IHU"
+    },
     {
       "id": "PZQFsrgqqhI",
       "title": "How to Grow on YouTube in 2026: We Audited Latasha James's Channel",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/CO46kx0Tfn8/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=CO46kx0Tfn8"
-    },
-    {
-      "id": "UXP9MMCpqiw",
-      "title": "Three social media automations that take the repetitive work out of your week",
-      "channelTitle": "Metricool",
-      "published": "2026-10-08T03:57:40Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UXP9MMCpqiw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=UXP9MMCpqiw"
     }
   ]
 }

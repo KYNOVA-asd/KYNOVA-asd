@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-21T17:16:20.627232Z",
+  "generatedAt": "2026-10-21T21:46:18.829232Z",
   "count": 12,
   "items": [
     {
-      "id": "72bdd21f1ad1713b",
-      "title": "Los expertos lo tienen claro: \"El cerebro está atento a aprender idiomas desde los seis meses a los cinco años\"",
-      "summary": "Cada vez es más común que los niños comiencen a aprender nuevos idiomas desde edades más tempranas en un acto casi de urgencia porque pensamos que los niños son esponjas y que, pasado cierto umbral de edad, dominar una nueva lengua se convierte en una tarea casi titánica.  Lo que se dice. En torno a este tema, el…",
-      "link": "https://www.xataka.com/medicina-y-salud/expertos-tienen-claro-cerebro-esta-atento-a-aprender-idiomas-seis-meses-a-cinco-anos",
-      "published": "2026-10-21T17:01:40Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/9f07ca/ninos-pequenos/1024_2000.jpeg"
-    },
-    {
-      "id": "80e165a4c3a67ee2",
-      "title": "They want your blood",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. It's an overcast Saturday morning when I give my 12th vial of blood for testing in six weeks. It's my…",
-      "link": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
-      "published": "2026-10-21T17:00:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "5b056fc7d8dfec28",
-      "title": "Tech Show Madrid 2026: el 4 y el 5 de noviembre os esperamos en IFEMA en el mayor evento tecnológico para empresas de España",
-      "summary": "Solo quedan dos semanas para la sexta edición del Tech Show Madrid (4 y 5 de noviembre), el mayor encuentro de España dedicado a la tecnología empresarial: cloud, ciberseguridad, big data, IA, centros de datos, marketing digital y, desde el año pasado, RRHH. IFEMA vuelve a acoger esta enorme feria de conocimiento y…",
-      "link": "https://www.xataka.com/xataka/tech-show-madrid-2026-4-5-noviembre-os-esperamos-ifema-mayor-evento-tecnologico-para-empresas-espana",
-      "published": "2026-10-21T16:15:44Z",
+      "id": "88609b81f38a8461",
+      "title": "El último golpe para Meta llega en forma de una sanción de 25.000 millones de dólares por un escándalo de privacidad",
+      "summary": "Hay escándalos tecnológicos que desaparecen de los titulares pero nunca terminan de irse del todo. Cambridge Analytica es uno de ellos. Han pasado años desde que supimos hasta qué punto la arquitectura de Facebook permitía que aplicaciones de terceros accedieran a información de sus usuarios y de sus amigos , pero…",
+      "link": "https://www.xataka.com/empresas-y-economia/ultimo-golpe-para-meta-llega-forma-sancion-25-000-millones-dolares-escandalo-privacidad",
+      "published": "2026-10-21T21:42:17Z",
       "source": "Xataka",
       "category": "Marketing",
-      "imageUrl": "https://i.blogs.es/64fcb3/madrid-tech-show-1-/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/c1047c/mark-zuckerberg/1024_2000.jpeg"
     },
     {
-      "id": "34d331e6ceeca7ff",
-      "title": "Los nuevos Oppo Find X10 ya se pueden reservar con descuentos, la versión de 512 GB a precio de 256 y regalos",
-      "summary": "Habemus nuevos móviles de Oppo y son, posiblemente, de lo más destacado que hemos visto este final de 2026. En este caso, la serie Find X10 está compuesta por dos dispositivos diferentes que, desde hace unos minutos, ya se pueden comprar en varias tiendas. En este artículo nos vamos a centrar en todas las ofertas y…",
-      "link": "https://www.xataka.com/seleccion/nuevos-oppo-find-x10-se-pueden-reservar-descuentos-version-512-gb-a-precio-256-regalos",
-      "published": "2026-10-21T16:15:44Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/0a9510/oppo-find-x10-portada/1024_2000.jpeg"
+      "id": "b71382180a97c343",
+      "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+      "summary": "Anthropic subscribers in the US can join a waitlist to try the company's new agent.",
+      "link": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots",
+      "published": "2026-10-21T21:03:19Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/l-intro-1792616502.jpg"
     },
     {
-      "id": "f743aa5268256cde",
-      "title": "Sony's PlayStation Pulse headset arrives on November 19 for $100",
-      "summary": "Pre-orders open on October 29.",
-      "link": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100",
-      "published": "2026-10-21T16:09:48Z",
+      "id": "219f9c3d7ba93d94",
+      "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+      "summary": "All websites using PHP should update to the latest security patch.",
+      "link": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability",
+      "published": "2026-10-21T20:56:47Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/government-websites-in-eu-and-canada-taken-offline-over-php-vulnerability/l-intro-1792616156.jpg"
     },
     {
-      "id": "b50226f50ba8eaf1",
-      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
-      "summary": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of \"remastered\" workouts and some new ones are available in the new app starting today,…",
-      "link": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
-      "published": "2026-10-21T16:05:51Z",
+      "id": "7471bed793911d4f",
+      "title": "New York’s first microdrama film festival searches for its audience",
+      "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres,…",
+      "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "published": "2026-10-21T20:49:07Z",
       "source": "The Verge",
-      "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6bea3a5c87379674",
-      "title": "Un vecino de Puente Genil denuncia ante la Policía Local una de las primeras estafas en España con el prefijo 400",
-      "summary": "Un vecino de Puente Genil, Córdoba, ha denunciado un intento de estafa telefónica realizado desde un número que empieza por +400. Este nuevo prefijo , una medida del Ministerio para la Transformación Digital, tiene como objetivo reunir a todas las empresas que realizan llamadas comerciales. De esta manera, cuando nos…",
-      "link": "https://www.xataka.com/seguridad/vecino-puente-genil-denuncia-policia-local-primeras-estafas-espana-prefijo-400",
-      "published": "2026-10-21T16:01:38Z",
-      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/770e8a/nordwood-themes-q8u1ygbarqk-unsplash/1024_2000.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300700160.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "509d9a734029c15e",
-      "title": "Supernatural's VR exercise app has relaunched on Meta VR headsets",
-      "summary": "It's in early access and subscriptions cost $20 per month or $200 each year.",
-      "link": "https://www.engadget.com/2293056/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets",
-      "published": "2026-10-21T16:00:00Z",
+      "id": "ae4a4fcac1b8ddb4",
+      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August,…",
+      "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "published": "2026-10-21T20:46:56Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "253c0a6de06aa239",
+      "title": "Meta ordered to cough up $25 billion in New Mexico privacy case",
+      "summary": "The case stemmed from the nearly decade-old Cambridge Analytica scandal.",
+      "link": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case",
+      "published": "2026-10-21T20:43:17Z",
       "source": "Engadget",
-      "category": "Desarrollo",
-      "imageUrl": "https://www.engadget.com/img/gallery/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/l-intro-1792598064.jpg"
-    },
-    {
-      "id": "b413137c7f28346a",
-      "title": "Apple Music has a new logo",
-      "summary": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound composed by British producer Fred Again…",
-      "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
-      "published": "2026-10-21T15:48:12Z",
-      "source": "The Verge",
-      "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "147b49c23d470bc7",
-      "title": "Lidl agota en web la cámara instantánea que imprime fotos al instante, pero la volverá a traer a sus tiendas físicas en dos días",
-      "summary": "Cuando vamos de viaje o en momentos y épocas de celebración, viene bien tener a mano una cámara de fotos, y si es instantánea para imprimir las fotos al instante, mucho mejor. Si además queremos algo bueno, bonito y barato, Lidl volverá a traer este viernes 23 de octubre la cámara instantánea Tronic a sus…",
-      "link": "https://www.xataka.com/seleccion/lidl-agota-web-camara-instantanea-que-imprime-fotos-al-instante-volvera-a-traer-a-sus-tiendas-fisicas-dos-dias",
-      "published": "2026-10-21T15:31:38Z",
-      "source": "Xataka",
-      "category": "Desarrollo",
-      "imageUrl": "https://i.blogs.es/139f97/lidl-y-camara-tronic/1024_2000.jpeg"
-    },
-    {
-      "id": "9a6a4f3262fb9a9e",
-      "title": "Mejor tablet y smartwatch: vota en los Premios Xataka Verisure 2026",
-      "summary": "El próximo 17 de noviembre tienes una cita con la tecnología en los Premios Xataka Verisure 2026 , pero antes de la gran gala los Xatakeros tenéis una misión importantísima: votar los dispositivos que más os han gustado. Esta vez toca elegir las mejores tablets y los mejores smartwatches . Hemos reunido una selección…",
-      "link": "https://www.xataka.com/xataka/mejor-tablet-smartwatch-vota-premios-xataka-verisure-2026",
-      "published": "2026-10-21T15:15:39Z",
-      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/3a616a/vota-tablet-posts/1024_2000.jpeg"
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case/l-intro-1792615292.jpg"
     },
     {
-      "id": "0e17d0674af31b66",
-      "title": "Un fallo crítico en PHP pone en jaque a medio Internet en todo el mundo",
-      "summary": "Internet funciona tan bien la mayor parte del tiempo que apenas pensamos en todo lo que ocurre detrás de una página antes de que aparezca en nuestra pantalla. Simplemente entramos, hacemos lo que necesitamos y seguimos adelante. Pero hoy la experiencia puede ser distinta: una web oficial muestra mantenimiento, otra…",
-      "link": "https://www.xataka.com/seguridad/fallo-critico-php-ha-puesto-jaque-a-medio-internet-gobiernos-organizaciones-apagan-sus-webs-intentan-parchearlo",
-      "published": "2026-10-21T15:12:00Z",
-      "source": "Xataka",
-      "category": "Desarrollo",
-      "imageUrl": "https://i.blogs.es/4bce5d/php-vulnerabilidad-europa/1024_2000.jpeg"
+      "id": "be87164232993d8e",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on…",
+      "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "published": "2026-10-21T20:36:56Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "29c40a9bbcb70687",
+      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4…",
+      "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "published": "2026-10-21T20:22:31Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0766b4fc50a28a52",
+      "title": "Bose acquires Skullcandy to help it reach a wider audience",
+      "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its head-tracking spatial audio and excellent active noise cancellation (ANC) - to…",
+      "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+      "published": "2026-10-21T20:15:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "6641c2ca418268d1",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete tasks that require…",
+      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "published": "2026-10-21T19:54:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "258d5ff776fa8f13",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "published": "2026-10-21T19:53:20Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "67825a85a4c858e7",
+      "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
+      "summary": "Here come new rate limits.",
+      "link": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass",
+      "published": "2026-10-21T19:52:50Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/l-intro-1792612307.jpg"
     }
   ]
 }

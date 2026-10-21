@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-21T11:56:28.622755Z",
+  "generatedAt": "2026-10-21T17:16:20.627232Z",
   "count": 12,
   "items": [
     {
-      "id": "2257ecee6c1916a7",
-      "title": "A critical PHP vulnerability may take websites down today",
-      "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities…",
-      "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
-      "published": "2026-10-21T11:49:17Z",
+      "id": "72bdd21f1ad1713b",
+      "title": "Los expertos lo tienen claro: \"El cerebro está atento a aprender idiomas desde los seis meses a los cinco años\"",
+      "summary": "Cada vez es más común que los niños comiencen a aprender nuevos idiomas desde edades más tempranas en un acto casi de urgencia porque pensamos que los niños son esponjas y que, pasado cierto umbral de edad, dominar una nueva lengua se convierte en una tarea casi titánica.  Lo que se dice. En torno a este tema, el…",
+      "link": "https://www.xataka.com/medicina-y-salud/expertos-tienen-claro-cerebro-esta-atento-a-aprender-idiomas-seis-meses-a-cinco-anos",
+      "published": "2026-10-21T17:01:40Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/9f07ca/ninos-pequenos/1024_2000.jpeg"
+    },
+    {
+      "id": "80e165a4c3a67ee2",
+      "title": "They want your blood",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. It's an overcast Saturday morning when I give my 12th vial of blood for testing in six weeks. It's my…",
+      "link": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
+      "published": "2026-10-21T17:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5b056fc7d8dfec28",
+      "title": "Tech Show Madrid 2026: el 4 y el 5 de noviembre os esperamos en IFEMA en el mayor evento tecnológico para empresas de España",
+      "summary": "Solo quedan dos semanas para la sexta edición del Tech Show Madrid (4 y 5 de noviembre), el mayor encuentro de España dedicado a la tecnología empresarial: cloud, ciberseguridad, big data, IA, centros de datos, marketing digital y, desde el año pasado, RRHH. IFEMA vuelve a acoger esta enorme feria de conocimiento y…",
+      "link": "https://www.xataka.com/xataka/tech-show-madrid-2026-4-5-noviembre-os-esperamos-ifema-mayor-evento-tecnologico-para-empresas-espana",
+      "published": "2026-10-21T16:15:44Z",
+      "source": "Xataka",
+      "category": "Marketing",
+      "imageUrl": "https://i.blogs.es/64fcb3/madrid-tech-show-1-/1024_2000.jpeg"
+    },
+    {
+      "id": "34d331e6ceeca7ff",
+      "title": "Los nuevos Oppo Find X10 ya se pueden reservar con descuentos, la versión de 512 GB a precio de 256 y regalos",
+      "summary": "Habemus nuevos móviles de Oppo y son, posiblemente, de lo más destacado que hemos visto este final de 2026. En este caso, la serie Find X10 está compuesta por dos dispositivos diferentes que, desde hace unos minutos, ya se pueden comprar en varias tiendas. En este artículo nos vamos a centrar en todas las ofertas y…",
+      "link": "https://www.xataka.com/seleccion/nuevos-oppo-find-x10-se-pueden-reservar-descuentos-version-512-gb-a-precio-256-regalos",
+      "published": "2026-10-21T16:15:44Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/0a9510/oppo-find-x10-portada/1024_2000.jpeg"
+    },
+    {
+      "id": "f743aa5268256cde",
+      "title": "Sony's PlayStation Pulse headset arrives on November 19 for $100",
+      "summary": "Pre-orders open on October 29.",
+      "link": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100",
+      "published": "2026-10-21T16:09:48Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg"
+    },
+    {
+      "id": "b50226f50ba8eaf1",
+      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+      "summary": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of \"remastered\" workouts and some new ones are available in the new app starting today,…",
+      "link": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
+      "published": "2026-10-21T16:05:51Z",
       "source": "The Verge",
       "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "655ba3a790218397",
-      "title": "Action tiene (por menos de 40 euros) la solución perfecta para vigilar tu hogar desde el exterior aunque no tengas enchufes",
-      "summary": "Vigilar el perímetro de una casa grande, un garaje independiente, una terraza amplia o el acceso a un chalé suele toparse siempre con el mismo obstáculo: la ausencia de tomas de corriente en el exterior o la pereza de tener que lidiar con instalaciones de cableado complejas. Para solucionar este problema de forma…",
-      "link": "https://www.xataka.com/seleccion/action-tiene-40-euros-solucion-perfecta-para-vigilar-tu-hogar-exterior-no-tengas-enchufes",
-      "published": "2026-10-21T11:31:36Z",
+      "id": "6bea3a5c87379674",
+      "title": "Un vecino de Puente Genil denuncia ante la Policía Local una de las primeras estafas en España con el prefijo 400",
+      "summary": "Un vecino de Puente Genil, Córdoba, ha denunciado un intento de estafa telefónica realizado desde un número que empieza por +400. Este nuevo prefijo , una medida del Ministerio para la Transformación Digital, tiene como objetivo reunir a todas las empresas que realizan llamadas comerciales. De esta manera, cuando nos…",
+      "link": "https://www.xataka.com/seguridad/vecino-puente-genil-denuncia-policia-local-primeras-estafas-espana-prefijo-400",
+      "published": "2026-10-21T16:01:38Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/c64708/action-5-/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/770e8a/nordwood-themes-q8u1ygbarqk-unsplash/1024_2000.jpeg"
     },
     {
-      "id": "a30e2490f619c486",
-      "title": "Two dangerous internet security issues are putting site admins on edge",
-      "summary": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
-      "link": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge",
-      "published": "2026-10-21T11:02:54Z",
+      "id": "509d9a734029c15e",
+      "title": "Supernatural's VR exercise app has relaunched on Meta VR headsets",
+      "summary": "It's in early access and subscriptions cost $20 per month or $200 each year.",
+      "link": "https://www.engadget.com/2293056/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets",
+      "published": "2026-10-21T16:00:00Z",
       "source": "Engadget",
       "category": "Desarrollo",
-      "imageUrl": "https://www.engadget.com/img/gallery/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/l-intro-1792580279.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/l-intro-1792598064.jpg"
     },
     {
-      "id": "6ecdf1afa338a5d2",
-      "title": "Estos auriculares lo tienen (casi) todo: batería de hasta 100 horas y cancelación de ruido por 49,99 euros",
-      "summary": "Durante la Fiesta de Ofertas Prime vimos muy buenos descuentos en algunos auriculares, como es el caso de los CMF Headphone Pro . Y después de estos días, y a falta de unas cuantas semanas para la llegada del Black Friday, ahora los podemos encontrar al mismo precio de 49,99 euros (a mitad de precio). CMF Headphone…",
-      "link": "https://www.xataka.com/seleccion/estos-auriculares-tienen-casi-todo-bateria-100-horas-cancelacion-ruido-49-99-euros",
-      "published": "2026-10-21T11:01:40Z",
+      "id": "b413137c7f28346a",
+      "title": "Apple Music has a new logo",
+      "summary": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound composed by British producer Fred Again…",
+      "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+      "published": "2026-10-21T15:48:12Z",
+      "source": "The Verge",
+      "category": "Desarrollo",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "147b49c23d470bc7",
+      "title": "Lidl agota en web la cámara instantánea que imprime fotos al instante, pero la volverá a traer a sus tiendas físicas en dos días",
+      "summary": "Cuando vamos de viaje o en momentos y épocas de celebración, viene bien tener a mano una cámara de fotos, y si es instantánea para imprimir las fotos al instante, mucho mejor. Si además queremos algo bueno, bonito y barato, Lidl volverá a traer este viernes 23 de octubre la cámara instantánea Tronic a sus…",
+      "link": "https://www.xataka.com/seleccion/lidl-agota-web-camara-instantanea-que-imprime-fotos-al-instante-volvera-a-traer-a-sus-tiendas-fisicas-dos-dias",
+      "published": "2026-10-21T15:31:38Z",
+      "source": "Xataka",
+      "category": "Desarrollo",
+      "imageUrl": "https://i.blogs.es/139f97/lidl-y-camara-tronic/1024_2000.jpeg"
+    },
+    {
+      "id": "9a6a4f3262fb9a9e",
+      "title": "Mejor tablet y smartwatch: vota en los Premios Xataka Verisure 2026",
+      "summary": "El próximo 17 de noviembre tienes una cita con la tecnología en los Premios Xataka Verisure 2026 , pero antes de la gran gala los Xatakeros tenéis una misión importantísima: votar los dispositivos que más os han gustado. Esta vez toca elegir las mejores tablets y los mejores smartwatches . Hemos reunido una selección…",
+      "link": "https://www.xataka.com/xataka/mejor-tablet-smartwatch-vota-premios-xataka-verisure-2026",
+      "published": "2026-10-21T15:15:39Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/9b45f9/cmf-headphone-pro/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/3a616a/vota-tablet-posts/1024_2000.jpeg"
     },
     {
-      "id": "edcc1505548b1388",
-      "title": "Samsung y SK hynix tienen un problema en China: necesitan modernizar sus fábricas chinas para frenar a YMTC",
-      "summary": "YMTC ( Yangtze Memory Technologies ) está creciendo como la espuma en China. Este fabricante de chips NAND ha alcanzado una cuota de mercado del 38,5% en su país de origen durante el segundo trimestre de 2026, según la consultora Omdia . Durante 2025 su cuota fue aproximadamente del 28%, lo que refleja una tendencia…",
-      "link": "https://www.xataka.com/empresas-y-economia/samsung-sk-hynix-tienen-problema-china-necesitan-modernizar-sus-fabricas-chinas-para-frenar-a-ymtc",
-      "published": "2026-10-21T11:01:39Z",
+      "id": "0e17d0674af31b66",
+      "title": "Un fallo crítico en PHP pone en jaque a medio Internet en todo el mundo",
+      "summary": "Internet funciona tan bien la mayor parte del tiempo que apenas pensamos en todo lo que ocurre detrás de una página antes de que aparezca en nuestra pantalla. Simplemente entramos, hacemos lo que necesitamos y seguimos adelante. Pero hoy la experiencia puede ser distinta: una web oficial muestra mantenimiento, otra…",
+      "link": "https://www.xataka.com/seguridad/fallo-critico-php-ha-puesto-jaque-a-medio-internet-gobiernos-organizaciones-apagan-sus-webs-intentan-parchearlo",
+      "published": "2026-10-21T15:12:00Z",
       "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/999633/sknandflash/1024_2000.jpeg"
-    },
-    {
-      "id": "691f1bdc840c289a",
-      "title": "OpenAI's agents disabled their own safety monitoring systems",
-      "summary": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
-      "link": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems",
-      "published": "2026-10-21T10:53:21Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg"
-    },
-    {
-      "id": "80eb8d3349d1d16a",
-      "title": "Vuelve a bajar de precio el Google Pixel 10 Pro: es el móvil Android compacto que me compraría ahora mismo",
-      "summary": "Tenemos varias opciones interesantes si buscamos un móvil Android de gama alta que sea, sobre todo, compacto . Ahora bien, los que se han lanzado este año 2026 tienen precios elevados, incluso con alguna oferta que ha ido apareciendo. Por eso mismo, calidad-precio, merece la pena echar un vistazo a la generación…",
-      "link": "https://www.xataka.com/seleccion/vuelve-a-bajar-precio-google-pixel-10-pro-movil-android-compacto-que-me-compraria-ahora",
-      "published": "2026-10-21T10:45:36Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/5360c2/pixel-10-pro-portada/1024_2000.jpeg"
-    },
-    {
-      "id": "7a6dd69e6745e583",
-      "title": "España no renovará su contrato militar con Palantir y baraja alternativas nacionales como Indra y Telefónica",
-      "summary": "La geopolítica, en general, es un juego complicado. Sobre todo si aquellos países de cuya influencia quieres alejarte son los únicos que controlan una tecnología básica para armar a tus ejércitos. El Ministerio de Defensa de España lo comprobó cuando quiso romper sus vínculos militares con Israel, y ahora lo vuelve a…",
-      "link": "https://www.xataka.com/empresas-y-economia/defensa-quiere-dejar-depender-ia-militar-palantir-alternativa-espanola-que-no-esta-a-altura",
-      "published": "2026-10-21T10:14:00Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/99b207/palantir/1024_2000.jpeg"
-    },
-    {
-      "id": "d2ef149c3a91cd98",
-      "title": "Con el precio de los SSD por las nubes, este SanDisk externo con 1 TB va a contracorriente con su descuento",
-      "summary": "A estas alturas, ya lo hemos repetido un buen montón de veces: el precio de la memoria RAM y el almacenamiento está disparado . Eso nos deja en un escenario donde adquirir cualquiera de estos componentes se traduce en gastar una buena cifra porque, además, no estamos viendo apenas ofertas. Hoy hemos encontrado una…",
-      "link": "https://www.xataka.com/seleccion/precio-ssd-nubes-este-sandisk-externo-1-tb-va-a-contracorriente-su-descuento",
-      "published": "2026-10-21T10:01:40Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/bcc4f9/texto-ofertas_2-22-/1024_2000.jpeg"
-    },
-    {
-      "id": "35406f4925c27310",
-      "title": "Samsung Galaxy S26 FE, análisis: tener una pantalla 'Plus' por 200 euros menos tiene truco (y bastante sentido)",
-      "summary": "La saga Fan Edition nació con una misión sencilla: acercar las bondades de la primera línea de Samsung a un público que no quería, o no podía, romper la barrera de las cuatro cifras. El año pasado, el Galaxy S25 FE demostró que la versatilidad pesaba más que el rendimiento, consolidando una fórmula reconocible. En…",
-      "link": "https://www.xataka.com/analisis/samsung-galaxy-s26-fe-analisis-caracteristicas-precio-especificaciones",
-      "published": "2026-10-21T10:01:40Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/7c3792/img_0350/1024_2000.jpeg"
-    },
-    {
-      "id": "07404ae6557f8def",
-      "title": "Americana en Dinamarca: Lo que aprendí sobre el equilibrio entre el trabajo y la vida",
-      "summary": "Brooke Black pensaba que permanecer trabajando mientras sus colegas se iban de vacaciones demostraría su compromiso. Su elección resultó ser inadecuada en Dinamarca, donde las personas con las que necesitaba hablar estaban ausentes y prácticamente no podía avanzar. La culpa por la productividad que ella consideraba…",
-      "link": "https://www.genbeta.com/a-fondo/americana-dinamarca-que-aprendi-equilibrio-trabajo-vida",
-      "published": "2026-10-21T10:01:40Z",
-      "source": "Genbeta",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/82acd9/brooke-black/1024_2000.jpeg"
-    },
-    {
-      "id": "5c07ce7ac4176358",
-      "title": "El electrodoméstico 2 en 1 de Samsung que soluciona uno de los principales problemas en casa cuando llueve",
-      "summary": "Secar la ropa dentro de casa durante los días de lluvia o frío intenso suele convertirse en un quebradero de cabeza: tiende a acumular humedad en las habitaciones, tarda días en secarse y genera olores desagradables. Para olvidarte del tendedero sin necesidad de buscar hueco para dos electrodomésticos independientes,…",
-      "link": "https://www.xataka.com/seleccion/electrodomestico-2-1-samsung-que-soluciona-uno-principales-problemas-casa-cuando-llueve",
-      "published": "2026-10-21T09:31:41Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/256576/lava-secadora-samsung/1024_2000.jpeg"
+      "category": "Desarrollo",
+      "imageUrl": "https://i.blogs.es/4bce5d/php-vulnerabilidad-europa/1024_2000.jpeg"
     }
   ]
 }

@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-20T21:40:42.524312Z",
+  "generatedAt": "2026-10-21T11:56:28.622755Z",
   "count": 12,
   "items": [
     {
-      "id": "162bd0d934c94ce4",
-      "title": "The latest PlayStation firmware may have already been cracked ahead of GTA 6",
-      "summary": "Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit.",
-      "link": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware",
-      "published": "2026-10-20T21:30:57Z",
+      "id": "2257ecee6c1916a7",
+      "title": "A critical PHP vulnerability may take websites down today",
+      "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities…",
+      "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+      "published": "2026-10-21T11:49:17Z",
+      "source": "The Verge",
+      "category": "Desarrollo",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "655ba3a790218397",
+      "title": "Action tiene (por menos de 40 euros) la solución perfecta para vigilar tu hogar desde el exterior aunque no tengas enchufes",
+      "summary": "Vigilar el perímetro de una casa grande, un garaje independiente, una terraza amplia o el acceso a un chalé suele toparse siempre con el mismo obstáculo: la ausencia de tomas de corriente en el exterior o la pereza de tener que lidiar con instalaciones de cableado complejas. Para solucionar este problema de forma…",
+      "link": "https://www.xataka.com/seleccion/action-tiene-40-euros-solucion-perfecta-para-vigilar-tu-hogar-exterior-no-tengas-enchufes",
+      "published": "2026-10-21T11:31:36Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/c64708/action-5-/1024_2000.jpeg"
+    },
+    {
+      "id": "a30e2490f619c486",
+      "title": "Two dangerous internet security issues are putting site admins on edge",
+      "summary": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
+      "link": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge",
+      "published": "2026-10-21T11:02:54Z",
       "source": "Engadget",
+      "category": "Desarrollo",
+      "imageUrl": "https://www.engadget.com/img/gallery/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/l-intro-1792580279.jpg"
+    },
+    {
+      "id": "6ecdf1afa338a5d2",
+      "title": "Estos auriculares lo tienen (casi) todo: batería de hasta 100 horas y cancelación de ruido por 49,99 euros",
+      "summary": "Durante la Fiesta de Ofertas Prime vimos muy buenos descuentos en algunos auriculares, como es el caso de los CMF Headphone Pro . Y después de estos días, y a falta de unas cuantas semanas para la llegada del Black Friday, ahora los podemos encontrar al mismo precio de 49,99 euros (a mitad de precio). CMF Headphone…",
+      "link": "https://www.xataka.com/seleccion/estos-auriculares-tienen-casi-todo-bateria-100-horas-cancelacion-ruido-49-99-euros",
+      "published": "2026-10-21T11:01:40Z",
+      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg"
+      "imageUrl": "https://i.blogs.es/9b45f9/cmf-headphone-pro/1024_2000.jpeg"
     },
     {
-      "id": "db29f3780b4c0bad",
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees have not reached agreement on the terms of any transaction - and that there's no guarantee that…",
-      "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "published": "2026-10-20T21:30:24Z",
-      "source": "The Verge",
+      "id": "edcc1505548b1388",
+      "title": "Samsung y SK hynix tienen un problema en China: necesitan modernizar sus fábricas chinas para frenar a YMTC",
+      "summary": "YMTC ( Yangtze Memory Technologies ) está creciendo como la espuma en China. Este fabricante de chips NAND ha alcanzado una cuota de mercado del 38,5% en su país de origen durante el segundo trimestre de 2026, según la consultora Omdia . Durante 2025 su cuota fue aproximadamente del 28%, lo que refleja una tendencia…",
+      "link": "https://www.xataka.com/empresas-y-economia/samsung-sk-hynix-tienen-problema-china-necesitan-modernizar-sus-fabricas-chinas-para-frenar-a-ymtc",
+      "published": "2026-10-21T11:01:39Z",
+      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://i.blogs.es/999633/sknandflash/1024_2000.jpeg"
     },
     {
-      "id": "45f4daf688f47025",
-      "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
-      "summary": "OpenAI has introduced a new \"locked chats\" feature to protect users' more sensitive conversations with ChatGPT.",
-      "link": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin",
-      "published": "2026-10-20T21:05:00Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792530123.jpg"
-    },
-    {
-      "id": "35e0038c68ed5a41",
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a […]",
-      "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-      "published": "2026-10-20T21:02:53Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b68cd008d74aa864",
-      "title": "Judge tosses sexual abuse lawsuit from Sam Altman's sister",
-      "summary": "A lawsuit brought by the OpenAI CEO's sister was dismissed after Anne Altman refused a medical exam.",
-      "link": "https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister",
-      "published": "2026-10-20T20:53:25Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/l-intro-1792529383.jpg"
-    },
-    {
-      "id": "747809431b6bced9",
-      "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
-      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming…",
-      "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-      "published": "2026-10-20T20:52:07Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923972/acastro_STK072_01.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a75db9db31bf9f49",
-      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt,…",
-      "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-      "published": "2026-10-20T20:32:09Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a5f9a1a7145f56be",
-      "title": "SpaceX says big AI growth fueled revenue jump",
-      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group…",
-      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "published": "2026-10-20T20:26:58Z",
-      "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "2e3367f5cde8cd33",
-      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max…",
-      "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "published": "2026-10-20T20:26:04Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oura1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a6b6ecc8a20261fe",
-      "title": "TikTok has started censoring searches for popular peptides",
-      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include substances like insulin…",
-      "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-      "published": "2026-10-20T20:16:04Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS538_PEPTIDES2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "7352c859365d783d",
-      "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
-      "summary": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
-      "link": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed",
-      "published": "2026-10-20T20:00:43Z",
+      "id": "691f1bdc840c289a",
+      "title": "OpenAI's agents disabled their own safety monitoring systems",
+      "summary": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
+      "link": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems",
+      "published": "2026-10-21T10:53:21Z",
       "source": "Engadget",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/l-intro-1792526399.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg"
     },
     {
-      "id": "63a38defb647f21a",
-      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-      "summary": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but haptics. You can grab it refurbished…",
-      "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-      "published": "2026-10-20T20:00:00Z",
-      "source": "The Verge",
+      "id": "80eb8d3349d1d16a",
+      "title": "Vuelve a bajar de precio el Google Pixel 10 Pro: es el móvil Android compacto que me compraría ahora mismo",
+      "summary": "Tenemos varias opciones interesantes si buscamos un móvil Android de gama alta que sea, sobre todo, compacto . Ahora bien, los que se han lanzado este año 2026 tienen precios elevados, incluso con alguna oferta que ha ido apareciendo. Por eso mismo, calidad-precio, merece la pena echar un vistazo a la generación…",
+      "link": "https://www.xataka.com/seleccion/vuelve-a-bajar-precio-google-pixel-10-pro-movil-android-compacto-que-me-compraria-ahora",
+      "published": "2026-10-21T10:45:36Z",
+      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://i.blogs.es/5360c2/pixel-10-pro-portada/1024_2000.jpeg"
+    },
+    {
+      "id": "7a6dd69e6745e583",
+      "title": "España no renovará su contrato militar con Palantir y baraja alternativas nacionales como Indra y Telefónica",
+      "summary": "La geopolítica, en general, es un juego complicado. Sobre todo si aquellos países de cuya influencia quieres alejarte son los únicos que controlan una tecnología básica para armar a tus ejércitos. El Ministerio de Defensa de España lo comprobó cuando quiso romper sus vínculos militares con Israel, y ahora lo vuelve a…",
+      "link": "https://www.xataka.com/empresas-y-economia/defensa-quiere-dejar-depender-ia-militar-palantir-alternativa-espanola-que-no-esta-a-altura",
+      "published": "2026-10-21T10:14:00Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/99b207/palantir/1024_2000.jpeg"
+    },
+    {
+      "id": "d2ef149c3a91cd98",
+      "title": "Con el precio de los SSD por las nubes, este SanDisk externo con 1 TB va a contracorriente con su descuento",
+      "summary": "A estas alturas, ya lo hemos repetido un buen montón de veces: el precio de la memoria RAM y el almacenamiento está disparado . Eso nos deja en un escenario donde adquirir cualquiera de estos componentes se traduce en gastar una buena cifra porque, además, no estamos viendo apenas ofertas. Hoy hemos encontrado una…",
+      "link": "https://www.xataka.com/seleccion/precio-ssd-nubes-este-sandisk-externo-1-tb-va-a-contracorriente-su-descuento",
+      "published": "2026-10-21T10:01:40Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/bcc4f9/texto-ofertas_2-22-/1024_2000.jpeg"
+    },
+    {
+      "id": "35406f4925c27310",
+      "title": "Samsung Galaxy S26 FE, análisis: tener una pantalla 'Plus' por 200 euros menos tiene truco (y bastante sentido)",
+      "summary": "La saga Fan Edition nació con una misión sencilla: acercar las bondades de la primera línea de Samsung a un público que no quería, o no podía, romper la barrera de las cuatro cifras. El año pasado, el Galaxy S25 FE demostró que la versatilidad pesaba más que el rendimiento, consolidando una fórmula reconocible. En…",
+      "link": "https://www.xataka.com/analisis/samsung-galaxy-s26-fe-analisis-caracteristicas-precio-especificaciones",
+      "published": "2026-10-21T10:01:40Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/7c3792/img_0350/1024_2000.jpeg"
+    },
+    {
+      "id": "07404ae6557f8def",
+      "title": "Americana en Dinamarca: Lo que aprendí sobre el equilibrio entre el trabajo y la vida",
+      "summary": "Brooke Black pensaba que permanecer trabajando mientras sus colegas se iban de vacaciones demostraría su compromiso. Su elección resultó ser inadecuada en Dinamarca, donde las personas con las que necesitaba hablar estaban ausentes y prácticamente no podía avanzar. La culpa por la productividad que ella consideraba…",
+      "link": "https://www.genbeta.com/a-fondo/americana-dinamarca-que-aprendi-equilibrio-trabajo-vida",
+      "published": "2026-10-21T10:01:40Z",
+      "source": "Genbeta",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/82acd9/brooke-black/1024_2000.jpeg"
+    },
+    {
+      "id": "5c07ce7ac4176358",
+      "title": "El electrodoméstico 2 en 1 de Samsung que soluciona uno de los principales problemas en casa cuando llueve",
+      "summary": "Secar la ropa dentro de casa durante los días de lluvia o frío intenso suele convertirse en un quebradero de cabeza: tiende a acumular humedad en las habitaciones, tarda días en secarse y genera olores desagradables. Para olvidarte del tendedero sin necesidad de buscar hueco para dos electrodomésticos independientes,…",
+      "link": "https://www.xataka.com/seleccion/electrodomestico-2-1-samsung-que-soluciona-uno-principales-problemas-casa-cuando-llueve",
+      "published": "2026-10-21T09:31:41Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/256576/lava-secadora-samsung/1024_2000.jpeg"
     }
   ]
 }

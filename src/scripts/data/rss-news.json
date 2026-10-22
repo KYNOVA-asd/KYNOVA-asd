@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-22T17:14:53.784959Z",
+  "generatedAt": "2026-10-22T21:40:27.463982Z",
   "count": 12,
   "items": [
     {
-      "id": "721aded8b6079303",
-      "title": "Arc browser is shutting down",
-      "summary": "The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. The shutdown is happening in a […]",
-      "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
-      "published": "2026-10-22T17:03:37Z",
+      "id": "c2e4b9e500abf8ef",
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low.…",
+      "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "published": "2026-10-22T21:30:39Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "11a8b0255171931f",
-      "title": "Michael O'Leary, CEO de Ryanair: \"Vamos a ver las mayores subidas de precio de la historia. Hasta un 20%\"",
-      "summary": "Un crecimiento disparado de los precios de los vuelos. Es, según Michael O'Leary, CEO de Ryanair, lo que vamos a ver en los próximos 12 meses como consecuencia del encarecimiento del precio del combustible. El aviso llega aprovechando que la compañía va a recortar más rutas comerciales en Europa, en lo que es un…",
-      "link": "https://www.xataka.com/movilidad/michael-leary-ceo-ryanair-vamos-a-ver-mayores-subidas-precio-historia-20",
-      "published": "2026-10-22T17:00:09Z",
+      "id": "4c79065f7a0398d5",
+      "title": "Apagar el móvil cinco minutos al día: el consejo que recibió Pedro Sánchez en Moncloa para protegerlo de amenazas",
+      "summary": "Hay pocas cosas aparentemente más sencillas que apagar un móvil. Otra muy distinta es pensar que mantenerlo apagado durante cinco minutos puede ayudar a protegerlo de los virus, especialmente en un momento en el que nuestros dispositivos pueden enfrentarse a ataques extremadamente sofisticados. Esa es, sin embargo,…",
+      "link": "https://www.xataka.com/seguridad/apagar-movil-cinco-minutos-al-dia-consejo-que-recibio-pedro-sanchez-moncloa-para-protegerlo-amenazas",
+      "published": "2026-10-22T21:23:00Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/6df964/ryanair-oleary/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/7165c7/pedro-sanchez-en-la-revuelta/1024_2000.png"
     },
     {
-      "id": "27f1297776bb07f8",
-      "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
-      "summary": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a…",
-      "link": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
-      "published": "2026-10-22T16:49:48Z",
+      "id": "f7509caa6c98a7eb",
+      "title": "Fall 2026 earnings watch",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+      "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "published": "2026-10-22T21:15:16Z",
       "source": "The Verge",
-      "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "c2935b837d9b488c",
-      "title": "Castilla y León acaba de ponerle un precio a la energía solar: hasta 2.000 euros por hectárea que ocupe",
-      "summary": "A poco más de un mes para las generales, Castilla y León quiere que los grandes parques solares paguen por el terreno que ocupan. La Junta ha incluido en su proyecto de medidas tributarias para 2027 una ampliación del Impuesto sobre la Afección Medioambiental que afectará a las instalaciones fotovoltaicas de más de…",
-      "link": "https://www.xataka.com/energia/castilla-leon-acaba-ponerle-precio-a-energia-solar-2-000-euros-hectarea-que-ocupe",
-      "published": "2026-10-22T16:46:06Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/827f89/pexels-anonim-zero-549194817-16659262/1024_2000.jpeg"
-    },
-    {
-      "id": "200b5c54e7a61646",
-      "title": "DAZN tira el precio de su plan fútbol (por tiempo limitado) para ver el Clásico y más partidos esta temporada. Solo 9,99 euros al mes",
-      "summary": "Este fin de semana más tenemos, posiblemente, uno de los partidos de fútbol más importantes que se puede ver en todo el mundo. Nos estamos refiriendo al Clásico, partido que enfrenta al Barcelona FC y al Real Madrid el próximo domingo, 25 de octubre. Con motivo de este evento, DAZN ha bajado (y mucho) el precio de su…",
-      "link": "https://www.xataka.com/seleccion/dazn-tira-precio-su-plan-futbol-tiempo-limitado-para-ver-clasico-partidos-esta-temporada-solo-9-99-euros-al-mes",
-      "published": "2026-10-22T16:46:06Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/fe4538/gemini_generated_image_6uzabx6uzabx6uza/1024_2000.jpeg"
-    },
-    {
-      "id": "2845a0c292d69b4e",
-      "title": "Hacienda obliga a tributar por las propinas que reciben los trabajadores, pero cotizarán si lo recoge el convenio o las gestiona la empresa",
-      "summary": "Dejar un par de euros sobre la barra, redondear la cuenta a mano alzada o pulsar un 10% al pagar con el datáfono: la propina es un gesto cotidiano en bares y restaurantes, y para muchos trabajadores de la hostelería supone un complemento importante del sueldo base. Lo que no está claro es qué ocurre con ese dinero…",
-      "link": "https://www.xataka.com/magnet/hacienda-obliga-a-tributar-propinas-que-reciben-trabajadores-cotizaran-recoge-convenio-gestiona-empresa",
-      "published": "2026-10-22T16:30:11Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/0abb6c/tacanos/1024_2000.jpeg"
-    },
-    {
-      "id": "ea9644e63b2bba7b",
-      "title": "Sundar Pichai (allegedly) draws the line at oceans",
-      "summary": "President Trump claimed that the Google CEO refused to rename the Atlantic Ocean in Maps.",
-      "link": "https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans",
-      "published": "2026-10-22T16:22:50Z",
+      "id": "c17378555676fa4f",
+      "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
+      "summary": "Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.",
+      "link": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games",
+      "published": "2026-10-22T20:57:17Z",
       "source": "Engadget",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/sundar-pichai-allegedly-draws-the-line-at-oceans/l-intro-1792685934.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg"
     },
     {
-      "id": "6d8c30677ef69bab",
-      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a […]",
-      "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "published": "2026-10-22T16:16:15Z",
+      "id": "32b3170e24109d9a",
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would…",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "published": "2026-10-22T20:32:05Z",
       "source": "The Verge",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "7266f65b1d736a35",
-      "title": "La frontera de Ceuta y Melilla en Google Maps lleva años siendo una línea de puntos. Ahora Bruselas decidirá si incumple la DSA",
-      "summary": "En un mapa, el tipo de línea con el que se dibuja una frontera es una cuestión política . Durante siglos han estado bien delimitadas en papel, y esto se mantuvo con la llegada de apps de navegación. Sin embargo, ahora mismo esas fronteras son dinámicas en función de lo que esté ocurriendo y Google tomó una curiosa…",
-      "link": "https://www.xataka.com/magnet/frontera-ceuta-melilla-google-maps-lleva-anos-siendo-linea-puntos-ahora-bruselas-decidira-incumple-dsa",
-      "published": "2026-10-22T16:16:11Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/627a2a/mapa-costero-de-ceuta-con-frontera-destacada/1024_2000.png"
-    },
-    {
-      "id": "61c628361a995baf",
-      "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
-      "summary": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would \"probably pass\" on renaming the Atlantic after…",
-      "link": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
-      "published": "2026-10-22T16:00:29Z",
+      "id": "50dd0c98f11d38b5",
+      "title": "Meta turns Muse sharing back on",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported…",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "published": "2026-10-22T20:24:04Z",
       "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "category": "Marketing",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "e7093534481b2324",
-      "title": "A SpaceX no le gusta que China le pise los talones, así que va a hacer lo que nadie ha hecho: recuperar y reutilizar las dos etapas de un cohete",
-      "summary": "Parece que a Elon Musk no le gusta sentir que alguien le pisa los talones. Hace tiempo que la compañía china Deep Blue Aerospace publicó su interés en recuperar un cohete mediante un sistema de torre con palillos, como Mechazilla. Ahora, además, ha anunciado que las primeras piezas del cohete están saliendo de la…",
-      "link": "https://www.xataka.com/espacio/a-spacex-no-le-gusta-que-china-le-pise-talones-asi-que-va-a-hacer-que-nadie-ha-hecho-recuperar-reutilizar-dos-etapas-cohete",
-      "published": "2026-10-22T16:00:09Z",
-      "source": "Xataka",
+      "id": "f6922dc8b925b717",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\"…",
+      "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "published": "2026-10-22T20:23:48Z",
+      "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/7550e0/recuperacion-starship/1024_2000.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "4a5e1b2e8bcd1fac",
-      "title": "Madrid encara el reto más complicado de la A-5 con el corte total del tráfico para alcanzar \"el punto de no retorno\"",
-      "summary": "No pasará ningún coche por la A-5. Es el planteamiento que se ha puesto encima de la mesa ante uno de los momentos más importantes en las obras que se están llevando a cabo para enterrar la carretera en su entrada a Madrid. Llega uno de los momentos clave. Por el paso que se dará y por las molestias que se pueden…",
-      "link": "https://www.xataka.com/movilidad/madrid-encara-reto-complicado-a-5-corte-total-trafico-para-alcanzar-punto-no-retorno",
-      "published": "2026-10-22T16:00:08Z",
-      "source": "Xataka",
+      "id": "1ec4d9691b53d8ff",
+      "title": "Spotify's Family plan QR code could cost you Premium access",
+      "summary": "Spotify is trying to make some Premium Family members prove they live at the same address.",
+      "link": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access",
+      "published": "2026-10-22T20:19:19Z",
+      "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/4b760e/img_1757/1024_2000.jpeg"
+      "imageUrl": "https://www.engadget.com/img/gallery/spotifys-family-plan-qr-code-could-cost-you-premium-access/l-intro-1792700036.jpg"
+    },
+    {
+      "id": "e066f554c8e25e49",
+      "title": "Rhode Island sues Meta over its approach to scam ads",
+      "summary": "It's the first state to sue the social media company on these allegations.",
+      "link": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads",
+      "published": "2026-10-22T20:05:26Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/rhode-island-sues-meta-over-its-approach-to-scam-ads/l-intro-1792699351.jpg"
+    },
+    {
+      "id": "73f2863f724a1068",
+      "title": "The trailer for Mass Effect 5 has leaked and unfortunately it looks good",
+      "summary": "'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni.",
+      "link": "https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good",
+      "published": "2026-10-22T19:55:13Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/l-intro-1792698450.jpg"
+    },
+    {
+      "id": "1c3f6e8b2704e3fb",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "published": "2026-10-22T19:45:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7c0720e50a86584f",
+      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+      "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You…",
+      "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+      "published": "2026-10-22T19:44:51Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

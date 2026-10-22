@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-22T17:14:54.409745Z",
+  "generatedAt": "2026-10-22T21:40:28.012688Z",
   "count": 12,
   "items": [
+    {
+      "id": "ADxt15xiepw",
+      "title": "Brains Over Bots: The Human Side of AI",
+      "channelTitle": "Metricool",
+      "published": "2026-10-22T20:40:00Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ADxt15xiepw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ADxt15xiepw"
+    },
+    {
+      "id": "MZU6JyZRT_A",
+      "title": "Claude Just Told Me If My YouTube Numbers Are Any Good with This Skill",
+      "channelTitle": "Metricool",
+      "published": "2026-10-22T20:04:21Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MZU6JyZRT_A/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=MZU6JyZRT_A"
+    },
     {
       "id": "zv6B6PQOuHE",
       "title": "The last real programmers are dying out...",
@@ -91,24 +109,6 @@
       "category": "IA",
       "thumbnailUrl": "https://i.ytimg.com/vi/crNYWPfObyE/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=crNYWPfObyE"
-    },
-    {
-      "id": "ugvPcDnUGSc",
-      "title": "How to connect Canva to Metricool and schedule your designs",
-      "channelTitle": "Metricool",
-      "published": "2026-10-14T10:00:26Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ugvPcDnUGSc/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=ugvPcDnUGSc"
-    },
-    {
-      "id": "7-5ePCxcG_c",
-      "title": "we can be doing all the things‍",
-      "channelTitle": "Metricool",
-      "published": "2026-10-13T18:31:45Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7-5ePCxcG_c/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=7-5ePCxcG_c"
     }
   ]
 }

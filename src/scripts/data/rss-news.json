@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-23T11:44:51.807315Z",
+  "generatedAt": "2026-10-23T17:13:01.455545Z",
   "count": 12,
   "items": [
     {
-      "id": "0c971a68684d0e22",
-      "title": "Mientras Amazon cierra la puerta a los agentes de IA, la mayor cadena de supermercados de EEUU la abre de par en par",
-      "summary": "Vamos a tener que acostumbrarnos a los agentes de IA . En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y completar la compra. Sin embargo, su mayor obstáculo ya no es técnico: son las tiendas las que…",
-      "link": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
-      "published": "2026-10-23T11:30:11Z",
+      "id": "1bb40ddffcb6c2ab",
+      "title": "The iPhone Duo should have been an iPad",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "published": "2026-10-23T17:00:18Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b6ad6acb34d2f352",
+      "title": "Las obras del metro de Málaga han destapado una de las mayores necrópolis romanas de España: ya van más de 1.000 cuerpos enterrados",
+      "summary": "Continúan las obras del metro de Málaga para expandir una nueva línea hacia el Hospital Civil y el futuro nuevo hospital y, ante su avance, nuevos hallazgos en la excavación del túnel que desembocó en el descubrimiento de toda una necrópolis romana. De hecho, una de las más grandes y mejor conservadas de España,…",
+      "link": "https://www.xataka.com/magnet/obras-metro-malaga-han-destapado-mayores-necropolis-romanas-espana-van-1-000-cuerpos-enterrados",
+      "published": "2026-10-23T17:00:11Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/0974e5/necropolis-romana---cultura-clasica-/1024_2000.jpeg"
+    },
+    {
+      "id": "a9526976eeebfbfe",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads.…",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "published": "2026-10-23T16:52:55Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "78beb7d4f0fc9b71",
+      "title": "The first broken iPhone Duos are here",
+      "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]",
+      "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "published": "2026-10-23T16:37:03Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "f15cf1a9389e3dbb",
+      "title": "Meta is charging government and nonprofit pages to post links on Facebook",
+      "summary": "The new restrictions are a test which is explicitly not supposed to impact these entities.",
+      "link": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook",
+      "published": "2026-10-23T16:09:39Z",
+      "source": "Engadget",
+      "category": "Marketing",
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg"
+    },
+    {
+      "id": "f00918364e7d8f22",
+      "title": "300 glaciares han desaparecido del oeste americano desde mediados del siglo XX. Los supervivientes tienen algunas cosas en común",
+      "summary": "Nuestros paisajes están cambiando radicalmente con el paso de los años, y las altas cumbres estadounidenses no han sido una excepción, puesto que el oeste de Estados Unidos siempre ha sido un referente por la cantidad de glaciares con los que cuenta. Y hablamos en pasado porque un artículo publicado en la revista…",
+      "link": "https://www.xataka.com/ecologia-y-naturaleza/300-glaciares-han-desaparecido-oeste-americano-mediados-siglo-xx-supervivientes-tienen-algunas-cosas-comun",
+      "published": "2026-10-23T16:00:07Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/799628/glaciarr/1024_2000.jpeg"
+    },
+    {
+      "id": "32e3822fd124d9f1",
+      "title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
+      "summary": "Time to dust off the click wheel.",
+      "link": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary",
+      "published": "2026-10-23T15:47:03Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/l-intro-1792770156.jpg"
+    },
+    {
+      "id": "24257eb08dcdecc9",
+      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+      "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No.…",
+      "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+      "published": "2026-10-23T15:24:45Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390349/22C0157_053.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "49ed1c1053b02f84",
+      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+      "summary": "SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX…",
+      "link": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+      "published": "2026-10-23T15:16:24Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "89f4529722a9f62d",
+      "title": "Hoy en Lidl (y rebajada) esta batidora de vaso en color pastel con 600 W y 1,75 litros de capacidad",
+      "summary": "Renovar los pequeños electrodomésticos de la cocina buscando un equilibrio entre la funcionalidad diaria y una estética cuidada que no desentone con la encimera suele significar contar con un presupuesto elevado. Sin embargo, para quienes buscan equipar su cocina sin gastar de más, Lidl tiene hoy rebajada esta…",
+      "link": "https://www.xataka.com/seleccion/hoy-lidl-rebajada-esta-batidora-vaso-color-pastel-600-w-1-75-litros-capacidad",
+      "published": "2026-10-23T15:00:11Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/2d708d/lidl-13-/1024_2000.jpeg"
+    },
+    {
+      "id": "99f7409b283244e4",
+      "title": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
+      "summary": "Unitree Robotics quiere que la IA haga gran parte del trabajo que sus ingenieros hacen hoy en día, ya sea buscar investigaciones, escribir código de control, probarlo y aprender de los resultados. El fundador de la empresa, Wang Xingxing, presentó la idea como un sistema de desarrollo de robots \"autoevolutivo\" en la…",
+      "link": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
+      "published": "2026-10-23T15:00:11Z",
       "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/7e7237/upscalemedia-transformed-1-/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/7342ec/unitree/1024_2000.png"
     },
     {
-      "id": "ab7a8cddd3c666ed",
-      "title": "GuliKit TT Pro review: The ideal Switch 2 controller for players on the go",
-      "summary": "A protective case and an accessory box make it easy to travel with the TT Pro.",
-      "link": "https://www.engadget.com/2294411/gulikit-tt-pro-review",
-      "published": "2026-10-23T11:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go/l-intro-1792685476.jpg"
-    },
-    {
-      "id": "9fbeaa53772ebc16",
-      "title": "Tesla says it will no longer release the Cybertruck in Australia and New Zealand",
-      "summary": "People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there.",
-      "link": "https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand",
-      "published": "2026-10-23T11:26:04Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg"
-    },
-    {
-      "id": "ce6c1c5e52bfaa8d",
-      "title": "Lidl vuelve a arrasar con la máquina doble de De'Longhi que prepara dos tipos de café con solo pulsar un botón",
-      "summary": "Entrar en la página web de Lidl es encontrarse con todo tipo de electrodomésticos, especialmente para la cocina. Además, suelen ser muy populares: se agotan rápidamente, aunque en ocasiones la tienda acaba por reponer stock. Eso es justo lo que ha ocurrido con esta cafetera combinada De'Longhi : combina una cafetera…",
-      "link": "https://www.xataka.com/seleccion/lidl-vuelve-a-arrasar-maquina-doble-longhi-que-prepara-dos-tipos-cafe-solo-pulsar-boton",
-      "published": "2026-10-23T11:16:08Z",
-      "source": "Xataka",
-      "category": "Desarrollo",
-      "imageUrl": "https://i.blogs.es/673c1c/cafetera-doble-delonghi-lidl-portada/1024_2000.jpeg"
-    },
-    {
-      "id": "4b1fc0d9484cb4bf",
-      "title": "El Gobierno vasco ha comprado 510 viviendas ubicadas en Donosti a Blackstone para mantenerlas en alquiler protegido de forma indefinida",
-      "summary": "En España, es demasiado común reconocer el guion de la vivienda protegida: se construye sobre suelo público, se protege durante unas décadas y, cuando vence el plazo, el piso pasa al mercado libre, momento que aprovechan las sociedades y fondos de inversión para adquirir a precio base. En Donostia, el Gobierno vasco…",
-      "link": "https://www.xataka.com/magnet/gobierno-vasco-ha-comprado-510-viviendas-ubicadas-donosti-a-blackstone-para-mantenerlas-alquiler-protegido-forma-indefinida",
-      "published": "2026-10-23T11:00:14Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/0e5d46/bloque/1024_2000.jpeg"
-    },
-    {
-      "id": "23569ccbc4af09aa",
-      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
-      "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying…",
-      "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-      "published": "2026-10-23T10:58:03Z",
+      "id": "7aa6acbd35f79e1a",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to…",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "published": "2026-10-23T14:47:41Z",
       "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Warhound-Palmer-Luckey-startup-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "51cdac368b174094",
-      "title": "Carrefour tiene la solución perfecta para uno de los principales problemas en casa en los días de lluvia",
-      "summary": "Secar la ropa durante los meses más fríos y lluviosos del año se convierte en uno de los retos en el hogar durante la temporada otoño-invierno. Colgar las prendas en tendederos (incluso ya hay tendederos eléctricos que agilizan el secado de la ropa) en el salón o las habitaciones no solo tarda días en secar la…",
-      "link": "https://www.xataka.com/seleccion/carrefour-tiene-solucion-perfecta-para-uno-principales-problemas-casa-dias-lluvia",
-      "published": "2026-10-23T10:46:09Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/0023f3/carrefour-prensa/1024_2000.jpeg"
-    },
-    {
-      "id": "cf3f6bcaf7940b83",
-      "title": "Por qué el boom de Ozempic y compañía está disparando las ventas de cosmética",
-      "summary": "Los fármacos agonistas de la GLP-1, como el famoso Ozempic, tienen varios efectos secundarios , como cualquier medicamento. No obstante, hay uno bastante visible que preocupa mucho a quienes los usan: la flacidez de la piel . En realidad, es lógico. Cuando perdemos peso muy deprisa, la piel se ve flácida, tanto en el…",
-      "link": "https://www.xataka.com/medicina-y-salud/que-boom-ozempic-compania-esta-disparando-ventas-cosmetica",
-      "published": "2026-10-23T10:17:46Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/46c0c6/cosmetica-ozempic/1024_2000.jpeg"
-    },
-    {
-      "id": "d2c8bf5f9281211b",
-      "title": "La compañía de gafas neerlandesa es el primer minorista en retirar las gafas inteligentes Ray-Ban de Meta de más de 400 tiendas debido a “preguntas que se han planteado” sobre la…",
-      "summary": "Hans Anders ha detenido la venta de las gafas inteligentes Ray-Ban de Meta en los Países Bajos y Bélgica . Quieren esperar hasta que se aclare cómo se pueden utilizar estos dispositivos que pueden captar a las personas que les rodean sin que estas se den cuenta, ha declarado un portavoz de la empresa, citando “las…",
-      "link": "https://www.genbeta.com/actualidad/compania-gafas-neerlandesa-primer-minorista-retirar-gafas-inteligentes-ray-ban-meta-400-tiendas-debido-a-preguntas-que-se-han-planteado-tecnologia",
-      "published": "2026-10-23T10:00:12Z",
-      "source": "Genbeta",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/30a63f/hans-anders-y-meta/1024_2000.jpeg"
-    },
-    {
-      "id": "b942f0399e0eb8df",
-      "title": "No, the iPhone Duo isn’t a small phone",
-      "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. […]",
-      "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-      "published": "2026-10-23T10:00:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "543e2fdc7d50cb7c",
-      "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
-      "summary": "Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.",
-      "link": "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro",
-      "published": "2026-10-23T09:59:15Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/oura-sues-ultrahuman-again-to-block-its-latest-smart-ring-from-the-us-market/l-intro-1792749492.jpg"
-    },
-    {
-      "id": "91deae12641d9e84",
-      "title": "'La Revuelta' descubre que no hay mayor entretenimiento que un político con un 33% de share en su entrevista a Pedro Sánchez",
-      "summary": "En sus tres temporadas, 'La Revuelta' solo ha recibido a un político en activo en sus tres temporadas. Ayer sentó a Pedro Sánchez en plena precampaña y superó la mejor marca que ' El Hormiguero ' (el programa que lleva una década exprimiendo las campañas electorales y ha depurado el uso de la política en un programa…",
-      "link": "https://www.xataka.com/cine-y-tv/revuelta-descubre-que-no-hay-mayor-entretenimiento-que-politico-33-share-su-entrevista-a-pedro-sanchez",
-      "published": "2026-10-23T09:35:42Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/45ba38/descarga-1-/1024_2000.jpeg"
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

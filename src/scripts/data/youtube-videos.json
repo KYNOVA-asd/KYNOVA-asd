@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-22T21:40:28.012688Z",
+  "generatedAt": "2026-10-23T21:27:49.301463Z",
   "count": 12,
   "items": [
+    {
+      "id": "SMGg7iisHmc",
+      "title": "The most vulnerable week in internet history...",
+      "channelTitle": "Fireship",
+      "published": "2026-10-23T18:19:58Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=SMGg7iisHmc"
+    },
     {
       "id": "ADxt15xiepw",
       "title": "Brains Over Bots: The Human Side of AI",
@@ -100,15 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/QZVzuq28eFw/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=QZVzuq28eFw"
-    },
-    {
-      "id": "crNYWPfObyE",
-      "title": "El mayor hito de la IA aplicada a las matemáticas #dotcsv #IA #openai #chatgpt #matematicas",
-      "channelTitle": "Dot CSV Lab",
-      "published": "2026-10-14T16:30:27Z",
-      "category": "IA",
-      "thumbnailUrl": "https://i.ytimg.com/vi/crNYWPfObyE/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=crNYWPfObyE"
     }
   ]
 }

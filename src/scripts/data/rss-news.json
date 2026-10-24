@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-24T11:08:25.295039Z",
+  "generatedAt": "2026-10-24T16:00:38.009462Z",
   "count": 12,
   "items": [
     {
-      "id": "7c128a60c8719b31",
-      "title": "Ned Curic, jefe de desarrollo de producto de Stellantis: \"Estamos aprendiendo de Leapmotor para crear el Citroën 2 CV en dos años\"",
-      "summary": "En 1976 Mercedes dio los primeros pasos para poner en la calle el Mercedes W124. El coche, ejemplo de vehículo indestructible, tardó ocho años en llegar al concesionario. El motivo es extraordinariamente sencillo: fiabilidad. Durante ocho años , Mercedes buscó los límites de resistencia a la fatiga de sus…",
-      "link": "https://www.xataka.com/movilidad/ned-curic-jefe-desarrollo-producto-stellantis-estamos-aprendiendo-leapmotor-para-crear-citroen-2-cv-dos-anos",
-      "published": "2026-10-24T11:00:10Z",
+      "id": "95c9c0c9345f54de",
+      "title": "'La bola negra' ha conseguido algo que parecía imposible: que Netflix haga pública su taquilla por primera vez en diez años",
+      "summary": "'La bola negra', de Javier Calvo y Javier Ambrossi, recaudó 277.500 dólares entre el 16 y el 18 de octubre en cuatro salas de Nueva York y Los Ángeles . El dato lo facilitó Netflix, que hasta ese domingo nunca había publicado la taquilla de una de sus películas . Pero en este caso, la plataforma ha considerado que ha…",
+      "link": "https://www.xataka.com/cine-y-tv/bola-negra-ha-conseguido-algo-que-parecia-imposible-que-netflix-haga-publica-su-taquilla-primera-vez-diez-anos",
+      "published": "2026-10-24T15:30:13Z",
       "source": "Xataka",
-      "category": "Desarrollo",
-      "imageUrl": "https://i.blogs.es/bd7065/stellantis-coche-electrico-leapmotor/1024_2000.jpeg"
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/dce398/captura-de-pantalla-2026-10-23-a-las-12.49.44/1024_2000.jpeg"
     },
     {
-      "id": "6d2b2fb610204e78",
-      "title": "\"¿Podrías votar por Eliska?\" El mensaje inocente que puede robarte el WhatsApp",
-      "summary": "Si estos días uno de tus contactos quiere pedirte un favorcito por WhatsApp, mejor que le digas: gracias pero no, gracias. Cuando alguien nos pide dinero es fácil desconfiar, incluso aunque se haga pasar por nuestro hijo y supuestamente su teléfono se haya roto (que no tengas descendencia simplifica mucho el asunto),…",
-      "link": "https://www.xataka.com/seguridad/podrias-votar-eliska-mensaje-inocente-que-puede-robarte-whatsapp",
-      "published": "2026-10-24T10:56:56Z",
-      "source": "Xataka",
-      "category": "Desarrollo",
-      "imageUrl": "https://i.blogs.es/45aadf/mensaje-sospechoso-en-un-paraiso-neon-1-/1024_2000.jpeg"
-    },
-    {
-      "id": "6d0d2818cffbf2a0",
-      "title": "En Galicia hay casas de piedra por 10.000 euros y pueblos que ofrecen exenciones fiscales. Pero no buscan compradores, sino emprendedores",
-      "summary": "Hay quien busca casa en el pueblo para jubilarse y quien, quizá hasta las narices del frenesí urbano, quiere montar allí una bodega, una panadería o un albergue y vivir a otro ritmo. Para los segundos existe Holapueblo, una web que pone en contacto a emprendedores con concellos que necesitan que alguien reabra el…",
-      "link": "https://www.xataka.com/magnet/galicia-hay-casas-piedra-10-000-euros-pueblos-que-ofrecen-exenciones-fiscales-no-buscan-compradores-sino-emprendedores",
-      "published": "2026-10-24T10:30:10Z",
-      "source": "Xataka",
-      "category": "Desarrollo",
-      "imageUrl": "https://i.blogs.es/ce1515/carlos-portela/1024_2000.jpeg"
-    },
-    {
-      "id": "64455b0e03b14f42",
-      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
-      "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
-      "link": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns",
-      "published": "2026-10-24T10:18:15Z",
+      "id": "d016d14f0f3da094",
+      "title": "What is Theater Mode on your Apple Watch and when should you use it?",
+      "summary": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.",
+      "link": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch",
+      "published": "2026-10-24T15:30:00Z",
       "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg"
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg"
     },
     {
-      "id": "7ccfd30d28018d05",
-      "title": "Según Pangram, 'Donde el agua trabaja' de David Silva Rojas es IA al 99%. El problema es el de siempre: que una IA no es infalible",
-      "summary": "La novela ' Donde el agua trabaja ' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat , dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En sus bases , una condición meridianamente clara: participar implicaba declarar que la obra no se…",
-      "link": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
-      "published": "2026-10-24T10:00:00Z",
+      "id": "96f2e1b510d5c4b5",
+      "title": "GTA VI no tendrá formato físico pero sí un vinilo porque tener algo en tus manos se está convirtiendo en un lujo",
+      "summary": "GTA se ha convertido en el símbolo perfecto de una contradicción. El 19 de noviembre llegará ' Grand Theft Auto VI ' y algunos jugadores podrán comprarlo en un formato físico … llamémoslo curioso. Tendremos una caja, un cartón y un código impreso en él para descargar el juego, pero podemos olvidarnos de encontrar el…",
+      "link": "https://www.xataka.com/videojuegos/gta-vi-no-tendra-formato-fisico-vinilo-porque-tener-algo-tus-manos-se-esta-convirtiendo-lujo",
+      "published": "2026-10-24T15:16:14Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/ce503f/gta-vi-formato-fisico/1024_2000.jpeg"
+    },
+    {
+      "id": "09a4cd771e1acf6a",
+      "title": "Elon Musk contra Jeff Bezos: \"Hasta los planes futuros de los rivales de SpaceX van por detrás de Starship\"",
+      "summary": "2026 está siendo un gran año para SpaceX. Su cohete Starship ha alcanzado la órbita terrestre por primera vez cargado con 26 satélites para la nueva megaconstelación V3 de Starlink, su fusión con xAI disparó su valor económico, salió a Bolsa con muy buenos resultados , Starlink superó la marca de los 10.000 satélites…",
+      "link": "https://www.xataka.com/espacio/elon-musk-jeff-bezos-planes-futuros-rivales-spacex-van-detras-starship",
+      "published": "2026-10-24T15:00:11Z",
       "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/c48e40/novela-corta-escrita-a-mano/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/3f65c2/bezos-y-musk/1024_2000.jpeg"
     },
     {
-      "id": "d821d38870976465",
-      "title": "Puy du Fou España gana a Disneyland París y es el mejor parque de Europa. Pero hay una colina de la que nadie quiere hablar",
-      "summary": "Es de noche y el suelo del lago central se rasga como una cortina. Un barco entero emerge ante los ojos, perfectamente iluminado, y miles de personas dejan de respirar a la vez. ‘El Sueño de Toledo ’ lleva desde 2019 ejecutando ese truco ante unos 4.000 espectadores por función. Yo he sido uno de ellos y recuerdo…",
-      "link": "https://www.xataka.com/magnet/puy-du-fou-espana-gana-a-disneyland-paris-mejor-parque-europa-hay-colina-que-nadie-quiere-hablar",
-      "published": "2026-10-24T09:30:09Z",
+      "id": "e802392f2f096dfe",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was…",
+      "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "published": "2026-10-24T15:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "d31f8fa997636f36",
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]",
+      "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "published": "2026-10-24T15:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/TV-OLED55C6PUA-Brilliant-oled-pictures_features_900x600.avif?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "1e745f20ba114954",
+      "title": "Here's how to test a CR2032 battery to see if it's good",
+      "summary": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.",
+      "link": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good",
+      "published": "2026-10-24T15:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg"
+    },
+    {
+      "id": "5b7823f7829af27c",
+      "title": "He probado la Dolce Gusto NEO Latte y ahora entiendo por qué las cafeteras de cápsulas quieren parecerse cada vez menos a las de siempre",
+      "summary": "Mi crisis de los treintaypico está pasando por refinar mi paladar a un café de cada vez mejor calidad. Sin embargo, he sido (y sigo siendo) de los que también disfruta de la comodidad de tener una máquina de cápsulas en la que conseguir un café más que decente en menos de un minuto . Y bajo esa premisa he podido…",
+      "link": "https://www.xataka.com/analisis/nescafe-dolce-gusto-neo-latte-analisis-caracteristicas-precio-especificaciones",
+      "published": "2026-10-24T14:30:10Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/7c7423/page/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/8428c8/dolce-gusto-neo-latte/1024_2000.jpeg"
     },
     {
-      "id": "06a6fe3a812e39ec",
-      "title": "Las cartas de Pokémon han conseguido un hito inesperado equiparándose a Nvidia como el activo con mejor rendimiento del mundo",
-      "summary": "El oro, las obras de arte de artistas consagrados e incluso los bolsos más exclusivos son las alternativas de inversión a los valores de los índices bursátiles como el S&P500 más conocidas. Sin embargo, uno de los activos más rentables en la actualidad no cotiza en bolsa ni se expone en galerías de arte , sino que…",
-      "link": "https://www.xataka.com/empresas-y-economia/cartas-pokemon-podrian-superar-pronto-a-nvidia-como-activo-mejor-rendimiento-mundo",
-      "published": "2026-10-24T09:02:06Z",
+      "id": "f21cdcbe07d69da8",
+      "title": "Why your Ring camera is still useful without a subscription",
+      "summary": "Modern smart home cameras and security systems put a lot of features behind a subscription. Here are a few reasons why you don't always need to pay.",
+      "link": "https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription",
+      "published": "2026-10-24T14:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-your-ring-camera-is-still-useful-without-a-subscription/l-intro-1791283019.jpg"
+    },
+    {
+      "id": "113d21fe355362b4",
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. […]",
+      "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "published": "2026-10-24T14:15:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "127e2ef89161b207",
+      "title": "Estaba cultivando pepinos cuando encontró una piedra rosa. Debajo había una escultura de Ramsés II de hace 3.200 años",
+      "summary": "Ponte en situación: imagínate que estás en tu huerto, azada en mano, con los menesteres habituales de la labor agrícola, como sacar unos pepinos o remover la tierra. En ese momento das con algo verdaderamente duro y acabas destapando los restos de una estatua colosal de un faraón. Suena a película, pero es real: le…",
+      "link": "https://www.xataka.com/magnet/estaba-cultivando-pepinos-cuando-encontro-piedra-rosa-debajo-habia-escultura-ramses-ii-hace-3-200-anos",
+      "published": "2026-10-24T14:00:17Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/6f1f8c/4210717415_89403310d8_o/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/cb5f30/ramses/1024_2000.jpeg"
     },
     {
-      "id": "7ebe93509d890aa6",
-      "title": "Ahórrate el IVA en Carrefour: cinco teles para aprovechar la nueva campaña de ofertas con modelo LG, Samsung y más",
-      "summary": "Carrefour está celebrando una vez más su campaña Ahórrate el IVA. Con la compra de una gran selección de productos, el importe correspondiente al IVA se traslada a un cupón que podemos canjear en futuras compras , algo interesante si solemos comprar en sus supermercados con cierta frecuencia. Hay bastantes…",
-      "link": "https://www.xataka.com/seleccion/ahorrate-iva-carrefour-cinco-teles-para-aprovechar-nueva-campana-ofertas-modelo-lg-samsung",
-      "published": "2026-10-24T08:16:07Z",
-      "source": "Xataka",
+      "id": "79912674b2ceb123",
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]",
+      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "published": "2026-10-24T14:00:00Z",
+      "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/e0e814/carrefour/1024_2000.jpeg"
-    },
-    {
-      "id": "fbdbc1a5f6f5f830",
-      "title": "Qué parte de tu sueldo se va en alquilar un piso en Europa, en tres mapas que sacan los colores a España",
-      "summary": "Si hay un tema que es una patata caliente para la ciudadanía y los gobiernos, ese es el de la vivienda y sino, que lo pregunten en Sol. Y es que los precios se han disparado como nunca en los últimos años, pero el drama, aunque generalizado, va por barrios: no es lo mismo comprar una casa en Madrid que en Soria. O…",
-      "link": "https://www.xataka.com/empresas-y-economia/que-parte-tu-sueldo-se-va-alquilar-piso-europa-tres-mapas-que-sacan-colores-a-espana",
-      "published": "2026-10-24T08:00:11Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/689cee/captura-de-pantalla-2026-10-23-a-las-10.14.04/1024_2000.jpeg"
-    },
-    {
-      "id": "1d38cc8e46dff876",
-      "title": "Elon Musk dice que Tesla está trabajando para evitar que los robotaxis atropellen gatos grises en la carretera",
-      "summary": "Tesla está trabajando para que sus taxis robóticos sean capaces de detectar mejor a los animales durante la noche . Elon Musk, director ejecutivo de la empresa, dio a conocer el avance al anunciar una ampliación del horario del servicio nocturno en Austin (Texas). Musk utilizó gatitos como ejemplo de un animal que…",
-      "link": "https://www.genbeta.com/actualidad/elon-musk-dice-que-tesla-esta-trabajando-para-evitar-que-robotaxis-atropellen-gatos-grises-carretera",
-      "published": "2026-10-24T08:00:11Z",
-      "source": "Genbeta",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/215f6f/ielon-musk/1024_2000.jpeg"
-    },
-    {
-      "id": "24e7e3a90b037eb7",
-      "title": "\"Señora, que si quiere bolsa\": no, lo que quiero es pagar la compra con Bizum y Mercadona está a punto de dejarme",
-      "summary": "Hace tanto que pago con el móvil que ya no llevo la tarjeta en la cartera porque mi realidad es que mi teléfono lo mismo me sirve para liquidar esas compras que para ajustar cuentas con mis amigas cuando tomamos algo. Bendito Bizum. Pues bien, la posibilidad de pagar con el móvil pero sin tarjeta se está fraguando en…",
-      "link": "https://www.xataka.com/empresas-y-economia/senora-que-quiere-bolsa-no-que-quiero-pagar-bizum-mercadona-esta-probando-algunas-tiendas",
-      "published": "2026-10-24T07:16:10Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/231ed8/mercadona/1024_2000.jpeg"
-    },
-    {
-      "id": "5de495defd2f5657",
-      "title": "Hay una paradójica razón por la que millones de discos duros perfectamente funcionales se desechan cada año",
-      "summary": "La idea de “tirar a la basura” componentes informáticos totalmente operativos y con alrededor de media década de antigüedad puede tener muy poco sentido si pensamos en los mercados de segunda mano e incluso en reducir los desechos electrónicos. Para muchas compañías, sin embargo, tiene sentido, al menos cuando de…",
-      "link": "https://www.xataka.com/componentes/hay-paradojica-razon-que-millones-discos-duros-perfectamente-funcionales-se-desechan-cada-ano",
-      "published": "2026-10-24T07:00:09Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/e28d64/pexels-photo-37605911/1024_2000.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

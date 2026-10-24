@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-23T21:27:48.668186Z",
+  "generatedAt": "2026-10-24T11:08:25.295039Z",
   "count": 12,
   "items": [
     {
-      "id": "a6d2d5fdb7657f8a",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "published": "2026-10-23T21:11:07Z",
-      "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3be5f2059474b551",
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a…",
-      "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "published": "2026-10-23T19:35:15Z",
-      "source": "The Verge",
+      "id": "7c128a60c8719b31",
+      "title": "Ned Curic, jefe de desarrollo de producto de Stellantis: \"Estamos aprendiendo de Leapmotor para crear el Citroën 2 CV en dos años\"",
+      "summary": "En 1976 Mercedes dio los primeros pasos para poner en la calle el Mercedes W124. El coche, ejemplo de vehículo indestructible, tardó ocho años en llegar al concesionario. El motivo es extraordinariamente sencillo: fiabilidad. Durante ocho años , Mercedes buscó los límites de resistencia a la fatiga de sus…",
+      "link": "https://www.xataka.com/movilidad/ned-curic-jefe-desarrollo-producto-stellantis-estamos-aprendiendo-leapmotor-para-crear-citroen-2-cv-dos-anos",
+      "published": "2026-10-24T11:00:10Z",
+      "source": "Xataka",
       "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://i.blogs.es/bd7065/stellantis-coche-electrico-leapmotor/1024_2000.jpeg"
     },
     {
-      "id": "60b56cc3037dbda3",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "published": "2026-10-23T19:32:39Z",
-      "source": "The Verge",
+      "id": "6d2b2fb610204e78",
+      "title": "\"¿Podrías votar por Eliska?\" El mensaje inocente que puede robarte el WhatsApp",
+      "summary": "Si estos días uno de tus contactos quiere pedirte un favorcito por WhatsApp, mejor que le digas: gracias pero no, gracias. Cuando alguien nos pide dinero es fácil desconfiar, incluso aunque se haga pasar por nuestro hijo y supuestamente su teléfono se haya roto (que no tengas descendencia simplifica mucho el asunto),…",
+      "link": "https://www.xataka.com/seguridad/podrias-votar-eliska-mensaje-inocente-que-puede-robarte-whatsapp",
+      "published": "2026-10-24T10:56:56Z",
+      "source": "Xataka",
+      "category": "Desarrollo",
+      "imageUrl": "https://i.blogs.es/45aadf/mensaje-sospechoso-en-un-paraiso-neon-1-/1024_2000.jpeg"
+    },
+    {
+      "id": "6d0d2818cffbf2a0",
+      "title": "En Galicia hay casas de piedra por 10.000 euros y pueblos que ofrecen exenciones fiscales. Pero no buscan compradores, sino emprendedores",
+      "summary": "Hay quien busca casa en el pueblo para jubilarse y quien, quizá hasta las narices del frenesí urbano, quiere montar allí una bodega, una panadería o un albergue y vivir a otro ritmo. Para los segundos existe Holapueblo, una web que pone en contacto a emprendedores con concellos que necesitan que alguien reabra el…",
+      "link": "https://www.xataka.com/magnet/galicia-hay-casas-piedra-10-000-euros-pueblos-que-ofrecen-exenciones-fiscales-no-buscan-compradores-sino-emprendedores",
+      "published": "2026-10-24T10:30:10Z",
+      "source": "Xataka",
+      "category": "Desarrollo",
+      "imageUrl": "https://i.blogs.es/ce1515/carlos-portela/1024_2000.jpeg"
+    },
+    {
+      "id": "64455b0e03b14f42",
+      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
+      "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
+      "link": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns",
+      "published": "2026-10-24T10:18:15Z",
+      "source": "Engadget",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg"
     },
     {
-      "id": "a2e7032a313c68fc",
-      "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
-      "summary": "La carrera por la inteligencia artificial lleva tiempo girando alrededor de una pregunta: quién tiene el modelo más capaz. Cada nueva generación busca resolver tareas más complejas, mientras las comparaciones suelen mirar hacia lo más alto de las clasificaciones. Pero hay otra pregunta que empieza a cobrar…",
-      "link": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
-      "published": "2026-10-23T19:30:07Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/52f9cc/arvind-krishna-ceo-de-ibm/1024_2000.jpeg"
-    },
-    {
-      "id": "75c55b9c071dc270",
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at…",
-      "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-      "published": "2026-10-23T18:43:30Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "f8cbcb2ea14b6f30",
-      "title": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
-      "summary": "Pocas veces nos preguntamos qué tiene que suceder para que una transferencia llegue a su destino, un documento permanezca privado o nadie más pueda acceder a nuestras cuentas. Simplemente abrimos el móvil y seguimos adelante , porque hemos incorporado esos servicios a nuestra rutina con la naturalidad de quien…",
-      "link": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
-      "published": "2026-10-23T18:32:14Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/2b284a/jason-clinton/1024_2000.jpeg"
-    },
-    {
-      "id": "47db4fbadfca6663",
-      "title": "Cuándo es el Black Friday 2026 y qué tiendas han comenzado ya con sus descuentos",
-      "summary": "Como sucede cada año, a finales de noviembre de 2026 tendrá lugar una nueva edición del Black Friday . Un día que se espera que sea el de mayores descuentos de los últimos doce meses, así como una gran oportunidad de ahorrarnos un pellizco a la par que adelantamos las compras navideñas o nos damos ese capricho que…",
-      "link": "https://www.xataka.com/seleccion/cuando-black-friday-2026-que-tiendas-han-comenzado-sus-descuentos",
-      "published": "2026-10-23T18:16:08Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/c39429/black-friday-2026-xataka-seleccion/1024_2000.jpeg"
-    },
-    {
-      "id": "98a5b1cbfc396d5f",
-      "title": "La DGT tiene cámaras que multan con 200 euros por saltarse la línea continua. El problema es que no lo pueden demostrar",
-      "summary": "“No respetar una marca longitudinal continua, sin causa justificada. Infracción captada por cámara de control” Es el texto que llega con cada multa de la DGT en el que se hace referencia a que se ha saltado una línea continua y, por tanto, ha realizado un cambio de carril ilegal. El problema es que el método…",
-      "link": "https://www.xataka.com/movilidad/dgt-tiene-unas-camaras-que-multan-200-euros-saltarse-linea-continua-unico-problema-que-no-pueden-demostrar",
-      "published": "2026-10-23T18:00:07Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/8dffde/fabricio-sakai-p3n-uwyn7gk-unsplash/1024_2000.jpeg"
-    },
-    {
-      "id": "af25e18e067870e7",
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down…",
-      "link": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "published": "2026-10-23T17:55:03Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fi-Ultra-Dog-Collar-roundup.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "24c8b8c3e7a4bc87",
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it…",
-      "link": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "published": "2026-10-23T17:35:15Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "507bb46b51d96f17",
-      "title": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
-      "summary": "Cuando hacemos una búsqueda en Google, lo primero que nos aparece es un resumen generado por IA relacionado con esa búsqueda. Este resumen, denominado AI Overviews , generalmente comparte también una serie de enlaces para que nosotros podamos comprobar de dónde ha sacado la información. ¿Pero qué pasa cuando no hay…",
-      "link": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
-      "published": "2026-10-23T17:30:08Z",
+      "id": "7ccfd30d28018d05",
+      "title": "Según Pangram, 'Donde el agua trabaja' de David Silva Rojas es IA al 99%. El problema es el de siempre: que una IA no es infalible",
+      "summary": "La novela ' Donde el agua trabaja ' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat , dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En sus bases , una condición meridianamente clara: participar implicaba declarar que la obra no se…",
+      "link": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
+      "published": "2026-10-24T10:00:00Z",
       "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/a4dbaf/shutter-speed-0umu42urw28-unsplash/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/c48e40/novela-corta-escrita-a-mano/1024_2000.jpeg"
     },
     {
-      "id": "1bb40ddffcb6c2ab",
-      "title": "The iPhone Duo should have been an iPad",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
-      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "published": "2026-10-23T17:00:18Z",
-      "source": "The Verge",
+      "id": "d821d38870976465",
+      "title": "Puy du Fou España gana a Disneyland París y es el mejor parque de Europa. Pero hay una colina de la que nadie quiere hablar",
+      "summary": "Es de noche y el suelo del lago central se rasga como una cortina. Un barco entero emerge ante los ojos, perfectamente iluminado, y miles de personas dejan de respirar a la vez. ‘El Sueño de Toledo ’ lleva desde 2019 ejecutando ese truco ante unos 4.000 espectadores por función. Yo he sido uno de ellos y recuerdo…",
+      "link": "https://www.xataka.com/magnet/puy-du-fou-espana-gana-a-disneyland-paris-mejor-parque-europa-hay-colina-que-nadie-quiere-hablar",
+      "published": "2026-10-24T09:30:09Z",
+      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://i.blogs.es/7c7423/page/1024_2000.jpeg"
+    },
+    {
+      "id": "06a6fe3a812e39ec",
+      "title": "Las cartas de Pokémon han conseguido un hito inesperado equiparándose a Nvidia como el activo con mejor rendimiento del mundo",
+      "summary": "El oro, las obras de arte de artistas consagrados e incluso los bolsos más exclusivos son las alternativas de inversión a los valores de los índices bursátiles como el S&P500 más conocidas. Sin embargo, uno de los activos más rentables en la actualidad no cotiza en bolsa ni se expone en galerías de arte , sino que…",
+      "link": "https://www.xataka.com/empresas-y-economia/cartas-pokemon-podrian-superar-pronto-a-nvidia-como-activo-mejor-rendimiento-mundo",
+      "published": "2026-10-24T09:02:06Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/6f1f8c/4210717415_89403310d8_o/1024_2000.jpeg"
+    },
+    {
+      "id": "7ebe93509d890aa6",
+      "title": "Ahórrate el IVA en Carrefour: cinco teles para aprovechar la nueva campaña de ofertas con modelo LG, Samsung y más",
+      "summary": "Carrefour está celebrando una vez más su campaña Ahórrate el IVA. Con la compra de una gran selección de productos, el importe correspondiente al IVA se traslada a un cupón que podemos canjear en futuras compras , algo interesante si solemos comprar en sus supermercados con cierta frecuencia. Hay bastantes…",
+      "link": "https://www.xataka.com/seleccion/ahorrate-iva-carrefour-cinco-teles-para-aprovechar-nueva-campana-ofertas-modelo-lg-samsung",
+      "published": "2026-10-24T08:16:07Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/e0e814/carrefour/1024_2000.jpeg"
+    },
+    {
+      "id": "fbdbc1a5f6f5f830",
+      "title": "Qué parte de tu sueldo se va en alquilar un piso en Europa, en tres mapas que sacan los colores a España",
+      "summary": "Si hay un tema que es una patata caliente para la ciudadanía y los gobiernos, ese es el de la vivienda y sino, que lo pregunten en Sol. Y es que los precios se han disparado como nunca en los últimos años, pero el drama, aunque generalizado, va por barrios: no es lo mismo comprar una casa en Madrid que en Soria. O…",
+      "link": "https://www.xataka.com/empresas-y-economia/que-parte-tu-sueldo-se-va-alquilar-piso-europa-tres-mapas-que-sacan-colores-a-espana",
+      "published": "2026-10-24T08:00:11Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/689cee/captura-de-pantalla-2026-10-23-a-las-10.14.04/1024_2000.jpeg"
+    },
+    {
+      "id": "1d38cc8e46dff876",
+      "title": "Elon Musk dice que Tesla está trabajando para evitar que los robotaxis atropellen gatos grises en la carretera",
+      "summary": "Tesla está trabajando para que sus taxis robóticos sean capaces de detectar mejor a los animales durante la noche . Elon Musk, director ejecutivo de la empresa, dio a conocer el avance al anunciar una ampliación del horario del servicio nocturno en Austin (Texas). Musk utilizó gatitos como ejemplo de un animal que…",
+      "link": "https://www.genbeta.com/actualidad/elon-musk-dice-que-tesla-esta-trabajando-para-evitar-que-robotaxis-atropellen-gatos-grises-carretera",
+      "published": "2026-10-24T08:00:11Z",
+      "source": "Genbeta",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/215f6f/ielon-musk/1024_2000.jpeg"
+    },
+    {
+      "id": "24e7e3a90b037eb7",
+      "title": "\"Señora, que si quiere bolsa\": no, lo que quiero es pagar la compra con Bizum y Mercadona está a punto de dejarme",
+      "summary": "Hace tanto que pago con el móvil que ya no llevo la tarjeta en la cartera porque mi realidad es que mi teléfono lo mismo me sirve para liquidar esas compras que para ajustar cuentas con mis amigas cuando tomamos algo. Bendito Bizum. Pues bien, la posibilidad de pagar con el móvil pero sin tarjeta se está fraguando en…",
+      "link": "https://www.xataka.com/empresas-y-economia/senora-que-quiere-bolsa-no-que-quiero-pagar-bizum-mercadona-esta-probando-algunas-tiendas",
+      "published": "2026-10-24T07:16:10Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/231ed8/mercadona/1024_2000.jpeg"
+    },
+    {
+      "id": "5de495defd2f5657",
+      "title": "Hay una paradójica razón por la que millones de discos duros perfectamente funcionales se desechan cada año",
+      "summary": "La idea de “tirar a la basura” componentes informáticos totalmente operativos y con alrededor de media década de antigüedad puede tener muy poco sentido si pensamos en los mercados de segunda mano e incluso en reducir los desechos electrónicos. Para muchas compañías, sin embargo, tiene sentido, al menos cuando de…",
+      "link": "https://www.xataka.com/componentes/hay-paradojica-razon-que-millones-discos-duros-perfectamente-funcionales-se-desechan-cada-ano",
+      "published": "2026-10-24T07:00:09Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/e28d64/pexels-photo-37605911/1024_2000.jpeg"
     }
   ]
 }

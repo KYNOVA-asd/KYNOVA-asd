@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-10-24T20:53:50.218673Z",
+  "generatedAt": "2026-10-25T04:48:28.524483Z",
   "count": 12,
   "items": [
+    {
+      "id": "eca65b85b672b19e",
+      "title": "Here's what you need to know before buying a wireless CarPlay adapter",
+      "summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.",
+      "link": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying",
+      "published": "2026-10-25T00:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter/l-intro-1792599334.jpg"
+    },
+    {
+      "id": "07776144e1112bd2",
+      "title": "What is the cheapest new gaming console you can buy in 2026?",
+      "summary": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option.",
+      "link": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026",
+      "published": "2026-10-25T00:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026/l-intro-1792596898.jpg"
+    },
+    {
+      "id": "a04566332ce6f589",
+      "title": "How to extend the battery life of your Apple AirTags",
+      "summary": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.",
+      "link": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags",
+      "published": "2026-10-24T23:45:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-extend-the-battery-life-of-your-apple-airtags/l-intro-1792593493.jpg"
+    },
+    {
+      "id": "54fc64bd2be54dd2",
+      "title": "Common mistakes you should avoid when setting up your home network",
+      "summary": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.",
+      "link": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network",
+      "published": "2026-10-24T23:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg"
+    },
+    {
+      "id": "d38c7f0015def55b",
+      "title": "Why your EV battery still loses charge while it's parked",
+      "summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
+      "link": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked",
+      "published": "2026-10-24T23:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg"
+    },
+    {
+      "id": "42cf08f7be36a31a",
+      "title": "What kind of cooling system do EV batteries use and how does it work?",
+      "summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+      "link": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works",
+      "published": "2026-10-24T22:45:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg"
+    },
+    {
+      "id": "cc04fed74008da9f",
+      "title": "What are the different types of digital wallets?",
+      "summary": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
+      "link": "https://www.engadget.com/2292582/different-types-digital-wallet-explained",
+      "published": "2026-10-24T22:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg"
+    },
+    {
+      "id": "579c976f92bd3212",
+      "title": "The pros and cons of using an eSIM over a physical SIM card",
+      "summary": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.",
+      "link": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons",
+      "published": "2026-10-24T22:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card/l-intro-1792520369.jpg"
+    },
+    {
+      "id": "36111d6bc6b4991f",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "published": "2026-10-24T21:29:12Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "94e31f97065b3309",
       "title": "Google is quietly linking your phone number to other Android accounts",
@@ -31,96 +121,6 @@
       "source": "Xataka",
       "category": "Tecnología",
       "imageUrl": "https://i.blogs.es/a3abea/osa-y-oseznos-en-la-ladera-rocosa/1024_2000.jpeg"
-    },
-    {
-      "id": "18bd765983251f8d",
-      "title": "Why the wires in your ethernet cables are twisted",
-      "summary": "There's a good reason for that arrangement.",
-      "link": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained",
-      "published": "2026-10-24T18:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/why-the-wires-in-your-ethernet-cables-are-twisted/l-intro-1790877005.jpg"
-    },
-    {
-      "id": "72085d2e5a959176",
-      "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
-      "summary": "You can try out the new feature on the Steam store's homepage.",
-      "link": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games",
-      "published": "2026-10-24T18:09:54Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg"
-    },
-    {
-      "id": "5ea690196fa5800b",
-      "title": "El eslabón perdido de Beringia: los cazadores de bisontes que cruzaron de Asia a América hace 13.800 años",
-      "summary": "El mapamundi de hace 35.000 años era diferente al de ahora. Un ejemplo: existía Beringia , un territorio que hacía de puente entre Siberia y Alaska que conectaba Asia y América por el mar de Bering. Ese puente se hundió hace 12.000 años pero dejó pistas de su existencia, incluso de los humanos que lo habitaban, como…",
-      "link": "https://www.xataka.com/magnet/eslabon-perdido-beringia-cazadores-bisontes-que-cruzaron-asia-a-america-hace-13-800-anos",
-      "published": "2026-10-24T18:00:09Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/c5a89d/gemini_generated_image_sjul5esjul5esjul/1024_2000.jpeg"
-    },
-    {
-      "id": "f36f1007d533a3af",
-      "title": "Xbox Game Pass could let you pick which features you pay for",
-      "summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
-      "link": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features",
-      "published": "2026-10-24T18:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg"
-    },
-    {
-      "id": "0f1a913631389281",
-      "title": "En Aldi (por 14,99 euros) desde el miércoles 28 de octubre, la batería externa 2 en 1 con luz, panel solar y protección IP44",
-      "summary": "Como cada siete días, Aldi renovó el pasado lunes su folleto de novedades y ofertas con bajadas de precios en algunos productos y la llegada de otros tantos a sus tiendas físicas. Y entre estas últimas, una de las más interesantes es esta batería externa con carga solar , a la venta desde el miércoles 28 de octubre a…",
-      "link": "https://www.xataka.com/seleccion/aldi-14-99-euros-miercoles-28-octubre-bateria-externa-2-1-luz-panel-solar-proteccion-ip44",
-      "published": "2026-10-24T17:46:06Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/cdfe92/aldi-powerbank/1024_2000.jpeg"
-    },
-    {
-      "id": "c5f51b9ac125f6cf",
-      "title": "Cucarachas cyborg con \"mochilas\" de sensores y pilotadas por IA: la promesa de una startup alemana choca con la realidad científica",
-      "summary": "Para muchos, las cucarachas no deberían existir por el gran rechazo que les genera simplemente pensar en ellas, pero para una empresa alemana estas pueden ser espías cyborgs de primera . Y para reclutarlas como agentes han llegado al punto de equiparlas con mochilas en miniatura repletas de sensores y controladas con…",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/cucarachas-cyborg-mochilas-sensores-pilotadas-ia-promesa-startup-alemana-choca-realidad-cientifica",
-      "published": "2026-10-24T17:00:08Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/d277b3/cucaracha/1024_2000.jpeg"
-    },
-    {
-      "id": "1024a71bf3a321de",
-      "title": "Capcom confirms data breach that affected 11.7 million users",
-      "summary": "Capcom ID is still available to use, but users may see more phishing scam emails.",
-      "link": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users",
-      "published": "2026-10-24T16:40:45Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg"
-    },
-    {
-      "id": "d86ec7dbaba28c36",
-      "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
-      "summary": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artificial está reescribiendo esas reglas, puesto que los modelos basados en machine learning ya no son…",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
-      "published": "2026-10-24T16:30:10Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/5a79b9/meteorologia/1024_2000.jpeg"
-    },
-    {
-      "id": "6a3f9b50492cf6eb",
-      "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
-      "summary": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.",
-      "link": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port",
-      "published": "2026-10-24T16:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg"
     }
   ]
 }

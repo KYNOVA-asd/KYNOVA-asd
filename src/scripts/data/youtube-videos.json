@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:27:49.301463Z",
+  "generatedAt": "2026-10-25T04:48:29.010635Z",
   "count": 12,
   "items": [
     {
@@ -12,24 +12,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=SMGg7iisHmc"
     },
     {
-      "id": "ADxt15xiepw",
-      "title": "Brains Over Bots: The Human Side of AI",
-      "channelTitle": "Metricool",
-      "published": "2026-10-22T20:40:00Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ADxt15xiepw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=ADxt15xiepw"
-    },
-    {
-      "id": "MZU6JyZRT_A",
-      "title": "Claude Just Told Me If My YouTube Numbers Are Any Good with This Skill",
-      "channelTitle": "Metricool",
-      "published": "2026-10-22T20:04:21Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MZU6JyZRT_A/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=MZU6JyZRT_A"
-    },
-    {
       "id": "zv6B6PQOuHE",
       "title": "The last real programmers are dying out...",
       "channelTitle": "Fireship",
@@ -37,24 +19,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=zv6B6PQOuHE"
-    },
-    {
-      "id": "vT5y6Ieyx0w",
-      "title": "How to design and edit post visuals with Adobe Express in Metricool",
-      "channelTitle": "Metricool",
-      "published": "2026-10-21T10:00:20Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vT5y6Ieyx0w/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=vT5y6Ieyx0w"
-    },
-    {
-      "id": "_-sg4P0wT1k",
-      "title": "Set up your DM automation with Flows",
-      "channelTitle": "Metricool",
-      "published": "2026-10-20T18:30:44Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_-sg4P0wT1k/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=_-sg4P0wT1k"
     },
     {
       "id": "b2tjnxX8IHU",
@@ -66,24 +30,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=b2tjnxX8IHU"
     },
     {
-      "id": "PZQFsrgqqhI",
-      "title": "How to Grow on YouTube in 2026: We Audited Latasha James's Channel",
-      "channelTitle": "Metricool",
-      "published": "2026-10-18T07:45:38Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PZQFsrgqqhI/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PZQFsrgqqhI"
-    },
-    {
-      "id": "J3AaFh4_W7c",
-      "title": "we all do it, right?",
-      "channelTitle": "Metricool",
-      "published": "2026-10-15T18:03:19Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/J3AaFh4_W7c/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=J3AaFh4_W7c"
-    },
-    {
       "id": "l3L_lETiSzc",
       "title": "The runtime wars are over... and Node won",
       "channelTitle": "Fireship",
@@ -93,15 +39,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=l3L_lETiSzc"
     },
     {
-      "id": "YprhrH7f4k8",
-      "title": "Turning Email Insights into Social Strategy",
-      "channelTitle": "Metricool",
-      "published": "2026-10-14T23:56:17Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YprhrH7f4k8/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=YprhrH7f4k8"
-    },
-    {
       "id": "QZVzuq28eFw",
       "title": "OpenAI’s lead engineer was secretly a spy...",
       "channelTitle": "Fireship",
@@ -109,6 +46,69 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/QZVzuq28eFw/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=QZVzuq28eFw"
+    },
+    {
+      "id": "wajoP_5Cpw8",
+      "title": "Every app on Earth is now open source... whether it likes it or not",
+      "channelTitle": "Fireship",
+      "published": "2026-10-12T19:15:23Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wajoP_5Cpw8/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
+    },
+    {
+      "id": "WrCjAAl9okA",
+      "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
+      "channelTitle": "Fireship",
+      "published": "2026-10-07T20:24:27Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=WrCjAAl9okA"
+    },
+    {
+      "id": "_5p1_TNSWqQ",
+      "title": "PewDiePie is setting AI free... and OpenAI is furious",
+      "channelTitle": "Fireship",
+      "published": "2026-10-05T20:34:44Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_5p1_TNSWqQ"
+    },
+    {
+      "id": "No-JPdFvYWU",
+      "title": "The one OpenAI announcement that can actually make you money...",
+      "channelTitle": "Fireship",
+      "published": "2026-10-01T19:34:14Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=No-JPdFvYWU"
+    },
+    {
+      "id": "I_KVMFrUtPk",
+      "title": "Did a 50 year old military secret just solve agent prompt injection?",
+      "channelTitle": "Fireship",
+      "published": "2026-09-30T17:16:43Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=I_KVMFrUtPk"
+    },
+    {
+      "id": "OuNKBjuV7A4",
+      "title": "DHH has gone completely off the rails...",
+      "channelTitle": "Fireship",
+      "published": "2026-09-28T19:27:59Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OuNKBjuV7A4/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=OuNKBjuV7A4"
+    },
+    {
+      "id": "c1rPlzxSZ8E",
+      "title": "Meta is pivoting again... everything you missed from Connect 2026",
+      "channelTitle": "Fireship",
+      "published": "2026-09-25T19:22:32Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/c1rPlzxSZ8E/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=c1rPlzxSZ8E"
     }
   ]
 }

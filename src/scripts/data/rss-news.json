@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-25T16:28:22.588378Z",
+  "generatedAt": "2026-10-25T20:54:56.164913Z",
   "count": 12,
   "items": [
     {
-      "id": "3c551004440e0c57",
-      "title": "Now you can watch Instagram Reels on your Apple TV",
-      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]",
-      "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "published": "2026-10-25T16:20:17Z",
+      "id": "f1bdc0fa3bc12975",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in…",
+      "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "published": "2026-10-25T20:16:19Z",
       "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b5f6973dfb634880",
+      "title": "En Europa existe un museo dedicado a grandes productos fallidos. Detrás está un antiguo empleado de Google",
+      "summary": "Estamos acostumbrados a entrar en un museo para encontrarnos con aquello que merece ser recordado. En España basta pensar en el Prado, el Reina Sofía o el Guggenheim Bilbao, pero también tenemos espacios dedicados a historias mucho más recientes, como OXO Museo del Videojuego Madrid o el Museo de Historia de la…",
+      "link": "https://www.xataka.com/magnet/europa-existe-museo-dedicado-a-grandes-productos-fallidos-detras-esta-antiguo-empleado-google",
+      "published": "2026-10-25T20:00:10Z",
+      "source": "Xataka",
       "category": "Marketing",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://i.blogs.es/8b4c08/museo-fracasos-portada/1024_2000.jpeg"
     },
     {
-      "id": "5e3d0fcaeebb8277",
-      "title": "The internet needs IPv6 and so does your home network",
-      "summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
-      "link": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6",
-      "published": "2026-10-25T16:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg"
+      "id": "2a0fff49437a2a00",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]",
+      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "published": "2026-10-25T19:24:50Z",
+      "source": "The Verge",
+      "category": "Desarrollo",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "27bf89a73881af99",
-      "title": "Llevamos años viendo como los viñedos españoles desaparecen sin que podamos hacer nada. Ha llegado el turno de la ingeniería genética",
-      "summary": "El 6 de agosto, entre Aldeanueva de Ebro y Alfaro, varios viñedos cortaron los primeros racimos de tempranillo blanco. Era la vendimia más temprana de la historia de la Rioja . Y no es algo extraordinario: en la DO Valencia empezaron el 3 de agosto; en Jerez, el 29 de julio ; y en Jumilla, el 27. En julio y…",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica",
-      "published": "2026-10-25T16:00:11Z",
+      "id": "5ac7ee44459b13d9",
+      "title": "Lidl soluciona (por 7,99 euros) un problema cotidiano en casa cuando llega el frío, vuelven las lluvias y sube la humedad",
+      "summary": "Hace ya más de un mes que entró en España el otoño y, con él, han llegado las primeras borrascas y lluvias generalizadas. Algo que, sumado a la bajada de las temperaturas, hace que suba la humedad interior (sobre todo, en zonas costeras) de casas y pisos . Un aspecto que deberíamos tener bajo control si no queremos…",
+      "link": "https://www.xataka.com/seleccion/lidl-soluciona-7-99-euros-problema-cotidiano-casa-cuando-llega-frio-vuelven-lluvias-sube-humedad",
+      "published": "2026-10-25T19:16:09Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/abeb47/mika-baumeister-4gen9bddbwq-unsplash-1-/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/196559/lidl-solucion-humedad/1024_2000.jpeg"
     },
     {
-      "id": "eb6bb76095ca8f3a",
-      "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
-      "summary": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
-      "link": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026",
-      "published": "2026-10-25T15:45:00Z",
+      "id": "956f54a189760219",
+      "title": "He probado el Honor Robot Phone con su cámara robotizada y estas son las ocho cosas donde más se diferencia del resto",
+      "summary": "El Honor Robot Phone es un móvil normal. Al menos en apariencia. Lo especial comienza cuando uno abre la app de cámara, pulsa el botón de desplegar el gimbal y de repente sale una cámara mecánica de la parte trasera . Una de 200 megapíxeles y con funciones de seguimiento automático. Mi compañera Eva ya pudo probar…",
+      "link": "https://www.xataka.com/moviles/he-probado-honor-robot-phone-su-camara-robotizada-estas-ocho-cosas-donde-se-diferencia-resto",
+      "published": "2026-10-25T19:02:08Z",
+      "source": "Xataka",
+      "category": "Desarrollo",
+      "imageUrl": "https://i.blogs.es/a68dbd/honor-robot-phone/1024_2000.jpeg"
+    },
+    {
+      "id": "e008c28f8a4d38eb",
+      "title": "What does the bell icon mean on your CarPlay screen?",
+      "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
+      "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature",
+      "published": "2026-10-25T18:45:00Z",
       "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg"
+      "category": "Desarrollo",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-does-the-bell-icon-mean-on-your-carplay-screen/l-intro-1792672048.jpg"
     },
     {
-      "id": "500874b68da8c154",
-      "title": "El 'boom' de la solar tiene un efecto inesperado: la electricidad barata amenaza la rentabilidad de los nuevos parques",
-      "summary": "Aunque recientemente los precios de la luz están al alza por diversas razones, estos últimos meses hemos vivido una situación que cada vez se repite con más asiduidad: los precios a cero. O no solo a cero, a veces, incluso, negativos.  A primera vista, podría parecer una buena noticia: significa que las renovables…",
-      "link": "https://www.xataka.com/energia/boom-solar-tiene-efecto-inesperado-electricidad-barata-amenaza-rentabilidad-nuevos-parques",
-      "published": "2026-10-25T15:32:07Z",
+      "id": "a5ac88f95dc93020",
+      "title": "Ocho años después de abrirla, una tumba de 55 metros con \"antenas\" en pleno desierto del Sáhara revela por fin su edad",
+      "summary": "En una llanura de grava del norte del Sáhara Occidental, a unos 600 metros de altura, hay un montículo ovalado de piedra del que nacen dos hileras de losas hacia el este, en un lugar tan seco e inhóspito que los pastores solo acuden allí si hay lluvias intensas, cuenta Archaeology Magazine . Está junto al Wadi Lawash…",
+      "link": "https://www.xataka.com/magnet/ocho-anos-despues-abrirla-tumba-55-metros-antenas-pleno-desierto-sahara-revela-fin-su-edad",
+      "published": "2026-10-25T18:30:12Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/823bcd/mariana-proenca-mg8sgwkmhcy-unsplash/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/c5a982/tumba/1024_2000.jpeg"
     },
     {
-      "id": "091c89ad6e6390a0",
-      "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
-      "summary": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
-      "link": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing",
-      "published": "2026-10-25T15:15:00Z",
+      "id": "154d541edae7b30d",
+      "title": "The most unexpected everyday tool can be found on your phone",
+      "summary": "If you have an iPhone, that is.",
+      "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone",
+      "published": "2026-10-25T18:30:00Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg"
     },
     {
-      "id": "fad7907659721a7d",
-      "title": "Lo nuevo de MrBeast: apoyar con un cuarto de millón de dólares una bola inteligente controlada con IA",
-      "summary": "Jimmy Donaldson, MrBeast, debutó como tiburón invitado en el estreno de la temporada 18 de 'Shark Tank ', reality de la estadounidense ABC en el que emprendedores presentan su negocio ante un panel de inversores millonarios, los “tiburones”. Estos pueden ofrecerles dinero a cambio de una participación en la empresa,…",
-      "link": "https://www.xataka.com/literatura-comics-y-juegos/nuevo-mrbeast-apoyar-cuarto-millon-dolares-bola-inteligente-controlada-ia",
-      "published": "2026-10-25T15:00:11Z",
+      "id": "7b29e4f51c09b27f",
+      "title": "En 1518, cientos de personas empezaron a bailar sin control en Estrasburgo. La historia real es mucho más extraña",
+      "summary": "Si hay una epidemia que ha pasado a la historia, es la que ocurrió en Estrasburgo en 1518. En este punto, las leyendas que nos han llegado hasta nuestros días cuentan que entre 50 y 400 personas bailaron sin control durante días por las calles de la ciudad. Pero los relatos más dramáticos, apoyados en crónicas…",
+      "link": "https://www.xataka.com/medicina-y-salud/1518-cientos-personas-empezaron-a-bailar-control-estrasburgo-historia-real-mucho-extrana",
+      "published": "2026-10-25T18:00:09Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/55cbd3/baile-de-san-vito/1024_2000.jpeg"
+    },
+    {
+      "id": "0c545b592cdb44bd",
+      "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+      "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
+      "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable",
+      "published": "2026-10-25T18:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg"
+    },
+    {
+      "id": "f94f576c55d3253b",
+      "title": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
+      "summary": "Ante un futuro donde la IA tengo un papel esencial en la mayoría de procesos productivos, ¿dónde querría tener una empresa europea sus datos? Joe Tsai, presidente y cofundador de Alibaba, lo tiene claro: no en una API cerrada probablemente suministrada por una empresa externa, sino en un modelo abierto que puedan…",
+      "link": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
+      "published": "2026-10-25T17:30:11Z",
       "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/0b8c43/captura-de-pantalla-2026-10-21-a-las-9.44.08/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/11c6aa/retrato-pop-art-con-estrellas-europeas/1024_2000.jpeg"
     },
     {
-      "id": "10670eff8c2a0652",
-      "title": "Get the ultimate security for your MacBook by changing these privacy settings",
-      "summary": "Your Mac comes with a fairly robust suite of built-in privacy tools.",
-      "link": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately",
-      "published": "2026-10-25T14:45:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg"
-    },
-    {
-      "id": "36efdbe4e6a2c83c",
-      "title": "Vivimos más que nunca y nos sentimos peor: la salud percibida cae a niveles de 1987",
-      "summary": "Los avances médicos que vamos conociendo están haciendo que podamos vivir muchos más años, puesto que ya podemos dar respuesta a enfermedades que antes era casi imposible de abordar. Esto es algo que debería hacer que la gente valorara mejor su salud, pero la realidad es que los últimos datos publicados por el INE y…",
-      "link": "https://www.xataka.com/medicina-y-salud/vivimos-que-nunca-nos-sentimos-peor-salud-percibida-cae-a-niveles-1987",
-      "published": "2026-10-25T14:30:08Z",
+      "id": "ffdabe89ead4167d",
+      "title": "Pionero de la arqueología, la intuición de este vecino gaditano le llevó en 1793 a comprar unas tierras para luego descubrir todo un yacimiento romano",
+      "summary": "La simple idea de adquirir un cerro entero porque sospechas que debajo hay una ciudad oculta es un poco locura, es como andar excavando porque una vaga pista te dice que por ahí se esconde el Santo Grial. Pero eso es justo lo que hizo Juan Vicente Vegazo Montes de Oca, un hacendado de Ubrique (Cádiz) que, según esta…",
+      "link": "https://www.xataka.com/magnet/pionero-arqueologia-intuicion-este-vecino-gaditano-le-llevo-1793-a-comprar-unas-tierras-para-luego-descubrir-todo-yacimiento-romano",
+      "published": "2026-10-25T17:00:10Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/a45d10/percepcion-salud/1024_2000.jpeg"
-    },
-    {
-      "id": "5dc99dae07326cfa",
-      "title": "La supervivencia de los coleccionables de inicio de curso: \"Es algo que no comprarías directamente, pero son una joya cómo quedan\"",
-      "summary": "Durante años, había dos constantes que se repetían en el mes de septiembre . Era el momento de la vuelta al curso y era también en el que los quioscos se llenaban de coleccionables. Los envases de cartón gigantes que anunciaban a precio competitivo la primera entrega se agolpaban al lado de las revistas y…",
-      "link": "https://www.xataka.com/magnet/supervivencia-coleccionables-inicio-curso-algo-que-no-comprarias-directamente-joya-como-quedan",
-      "published": "2026-10-25T14:16:12Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/919994/photo-1474866585491-c646d51dc360/1024_2000.jpeg"
-    },
-    {
-      "id": "33666aeb7cf0c6e7",
-      "title": "Why are earbuds usually cheaper than headphones?",
-      "summary": "Earbuds tend to be smaller and less complex to build than headphones.",
-      "link": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones",
-      "published": "2026-10-25T14:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg"
-    },
-    {
-      "id": "ebd46e27fd3f641d",
-      "title": "Ladrillos, tuberías y una turbina: un hombre construye su propia central hidroeléctrica en casa",
-      "summary": "Aprovechando el caudal de un arroyo cercano a su casa, el creador de contenido vietnamita (y obviamente también ingeniero) Chien-Tran ha construido una pequeña central hidroeléctrica de pasada, que, según muestra, genera electricidad a 220 voltios. La hazaña ha quedado documentada al detalle en su canal de YouTube…",
-      "link": "https://www.xataka.com/energia/ladrillos-tuberias-turbina-hombre-construye-su-propia-central-hidroelectrica-casa",
-      "published": "2026-10-25T14:00:14Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/a30897/captura-de-pantalla-2026-10-21-a-las-10.57.32/1024_2000.png"
+      "imageUrl": "https://i.blogs.es/cefdd0/portada/1024_2000.jpeg"
     }
   ]
 }

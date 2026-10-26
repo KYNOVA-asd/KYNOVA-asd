@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-25T11:38:07.573283Z",
+  "generatedAt": "2026-10-26T22:43:14.707731Z",
   "count": 12,
   "items": [
+    {
+      "id": "BQ0YgdX6S1c",
+      "title": "Build a marketing performance dashboard without a spreadsheet",
+      "channelTitle": "Metricool",
+      "published": "2026-10-26T20:31:29Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BQ0YgdX6S1c/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=BQ0YgdX6S1c"
+    },
+    {
+      "id": "G_em1hHPnXY",
+      "title": "China just dropped a new frontier model... and nobody can explain how",
+      "channelTitle": "Fireship",
+      "published": "2026-10-26T18:55:29Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=G_em1hHPnXY"
+    },
     {
       "id": "U6YfVCKPuMQ",
       "title": "How to Connect LinkedIn to ChatGPT + 3 Ways to Use It",
@@ -91,24 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/J3AaFh4_W7c/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=J3AaFh4_W7c"
-    },
-    {
-      "id": "l3L_lETiSzc",
-      "title": "The runtime wars are over... and Node won",
-      "channelTitle": "Fireship",
-      "published": "2026-10-15T17:35:15Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=l3L_lETiSzc"
-    },
-    {
-      "id": "YprhrH7f4k8",
-      "title": "Turning Email Insights into Social Strategy",
-      "channelTitle": "Metricool",
-      "published": "2026-10-14T23:56:17Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YprhrH7f4k8/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=YprhrH7f4k8"
     }
   ]
 }

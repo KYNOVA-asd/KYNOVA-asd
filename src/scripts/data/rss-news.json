@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-28T13:01:41.468937Z",
+  "generatedAt": "2026-10-28T22:38:42.031143Z",
   "count": 12,
   "items": [
     {
-      "id": "0da41f6543d00a56",
-      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
-      "summary": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature uses videos and […]",
-      "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
-      "published": "2026-10-28T13:00:00Z",
+      "id": "b6ad05727112179f",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection…",
+      "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "published": "2026-10-28T21:57:45Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "03ad1a6b270f0ca2",
+      "title": "He probado el nuevo MacBook Pro táctil: no tenía claro para qué querría tocar su pantalla. He encontrado las primeras respuestas",
+      "summary": "Hay un gesto que llevamos años haciendo en el iPhone y en el iPad que ahora llega al Mac: tocar aquello con lo que queremos interactuar. Parece una explicación demasiado sencilla para una de las mayores novedades del MacBook Pro , pero después de probarlo en el evento especial de Apple en Los Ángeles, es la que mejor…",
+      "link": "https://www.xataka.com/eventos/apple-macbook-pro-tactil-opiniones-toma-contacto-fotos",
+      "published": "2026-10-28T21:43:57Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/e6ea96/macbook-pro-tactil-xataka-24/1024_2000.jpeg"
+    },
+    {
+      "id": "cf0b445a13fca74c",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It…",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "published": "2026-10-28T21:34:04Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "411e81e2de54ba41",
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later.…",
+      "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "published": "2026-10-28T21:16:18Z",
       "source": "The Verge",
       "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "2d8822539395d640",
-      "title": "Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price",
-      "summary": "$320 is a lot to pay for a well-balanced device in an aluminum case with pogo pins.",
-      "link": "https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review",
-      "published": "2026-10-28T13:00:00Z",
+      "id": "a2396b28d8559404",
+      "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+      "summary": "With all the fuss about Apple finally releasing a touchscreen MacBook Pro, you may have forgotten about the OLED part.",
+      "link": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs",
+      "published": "2026-10-28T20:31:43Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg"
     },
     {
-      "id": "37918bc06b0a1f65",
-      "title": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places",
-      "summary": "Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.",
-      "link": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review",
-      "published": "2026-10-28T13:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg"
-    },
-    {
-      "id": "cabf1f9cf6ae46ea",
-      "title": "El sistema LZB que ha fallado en el accidente de Toledo debería haber sido sustituido en su totalidad por ERTMS-2 en 2026",
-      "summary": "El 21 de abril de 1992, España asiste al primer viaje comercial en una línea de alta velocidad. Es el Madrid-Sevilla construido, entre otras cosas, para dar servicio a la Expo 1992 que se va a vivir en la ciudad andaluza. Quedan 11 años para que se abra la siguiente línea de alta velocidad española, el tramo…",
-      "link": "https://www.xataka.com/movilidad/sistema-lzb-que-ha-fallado-accidente-toledo-deberia-haber-sido-sustituido-su-totalidad-ertms-2-2026",
-      "published": "2026-10-28T12:50:43Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/1cb66c/captura-de-pantalla-2026-10-28-a-las-13.23.49-p.-m./1024_2000.jpeg"
-    },
-    {
-      "id": "699df48053edab04",
-      "title": "Inside Amazon’s Echo hardware event",
-      "summary": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K cameras. Then this…",
-      "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
-      "published": "2026-10-28T12:46:42Z",
+      "id": "7ce2c248469b55d0",
+      "title": "Google says its investments in AI are driving more searches",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year…",
+      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "published": "2026-10-28T20:22:26Z",
       "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9c8bfec78a66d42c",
-      "title": "El Consejo de la UE propone un \"ligero\" matiz al RGPD: que se pueda entrenar la IA con tus datos sin pedir permiso",
-      "summary": "Aunque estemos todo el día con la palabra \"IA\" en la boca, en Europa hay ciertas aplicaciones y servicios a los que la Unión les había dado con la puerta en las narices. Sin embargo, una propuesta para reformar el RGPD (Reglamento General de Protección de Datos) permitiría que esas empresas entrenen y operen modelos…",
-      "link": "https://www.xataka.com/legislacion-y-derechos/consejo-ue-propone-ligero-matiz-al-rgpd-que-se-pueda-entrenar-ia-tus-datos-pedir-permiso",
-      "published": "2026-10-28T12:45:26Z",
-      "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/8ed058/b3da5de2-c6af-a449-bd21-99ab2e8acbf4/1024_2000.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "5381e0e445eb2d51",
-      "title": "\"Es un principio básico de respeto\": el veto al burka se cuela en las escuelas españolas por la Comunidad Valenciana",
-      "summary": "La Comunidad Valenciana ha abierto uno de los melones más espinosos a los que se enfrenta el sistema de educación español: ¿qué hacer con las alumnas (o maestras) que acudan a las aulas con el rostro cubierto por un burka o niqab? Es una cuestión relevante porque, aunque a día de hoy no parece que se den con…",
-      "link": "https://www.xataka.com/magnet/comunidad-valenciana-ha-abierto-melon-espinoso-educacion-espanola-veto-al-burka-escuelas",
-      "published": "2026-10-28T12:31:00Z",
-      "source": "Xataka",
+      "id": "2c03ddb418ae55de",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]",
+      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "published": "2026-10-28T20:20:00Z",
+      "source": "The Verge",
+      "category": "Desarrollo",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "63133c945866b0d7",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple…",
+      "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+      "published": "2026-10-28T20:12:44Z",
+      "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/b0115c/michael-wave-zuvpcreve80-unsplash-1-/1024_2000.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "70587e8891b6a85c",
-      "title": "\"La IA no va a meterse debajo de las casas para instalar tuberías\": en EEUU y Francia los oficios manuales están al alza",
-      "summary": "En las últimas décadas, el mensaje para millones de jóvenes fue el mismo: estudiar una carrera universitaria era la mejor forma de asegurarse un buen futuro laboral. La irrupción de la inteligencia artificial está empezando a cuestionar esa promesa . En Estados Unidos  crecen las matriculaciones en formación técnica…",
-      "link": "https://www.xataka.com/magnet/ia-no-va-a-meterse-debajo-casas-para-instalar-tuberias-eeuu-francia-oficios-manuales-estan-al-alza",
-      "published": "2026-10-28T12:30:00Z",
-      "source": "Xataka",
+      "id": "7b5653451a244c2d",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing…",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "published": "2026-10-28T20:03:00Z",
+      "source": "The Verge",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/7fa514/wood-carpenter-log-cabin-house-lumber-architecture-1563627-pxhere.com/1024_2000.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "934ec8850cbd526f",
-      "title": "Apple's Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen",
-      "summary": "Reports indicate that a \"MacBook Ultra\" with a touch-sensitive display is likely on the agenda today.",
-      "link": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog",
-      "published": "2026-10-28T12:30:00Z",
+      "id": "cfa9b1b46952e259",
+      "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
+      "summary": "The company says it won't make \"policy changes\" until it consults with publishers.",
+      "link": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows",
+      "published": "2026-10-28T19:42:27Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-touch-screen/l-intro-1793153611.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg"
     },
     {
-      "id": "56eda3ab69364e04",
-      "title": "Almost all of Amazon’s new Echo gear is available now",
-      "summary": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product with its own launch. The latest round of launches focuses on Echo products, including speakers, smart displays, as well as…",
-      "link": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
-      "published": "2026-10-28T12:29:52Z",
+      "id": "3e9a002d6f5edbfc",
+      "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
+      "summary": "Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media.",
+      "link": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player",
+      "published": "2026-10-28T19:39:47Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg"
+    },
+    {
+      "id": "c39e9244b74dfd62",
+      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just…",
+      "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+      "published": "2026-10-28T19:37:31Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0012.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "4f0122f23f7d3197",
-      "title": "Everything announced at Amazon’s October 2026 hardware launch",
-      "summary": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is screens: devices with big, beautiful ones, and those that lack them entirely. There’s the […]",
-      "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
-      "published": "2026-10-28T12:20:40Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Show_16_JTuohy_0046.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "cf7e79d97da3b250",
-      "title": "Doblete de descuentos en el robot aspirador de Xiaomi, un Robot Vacuum H50 con base de autovaciado y navegación láser",
-      "summary": "Los robots aspirador son dispositivos muy prácticos para mantener una buena limpieza diaria en casa, sobre todo si tenemos un modelo completo con varias funciones de limpieza. Estos últimos suelen tener precios bastante altos, pero no tanto cuando los encontramos de oferta. Ahora mismo Xiaomi tiene en su tienda…",
-      "link": "https://www.xataka.com/seleccion/doblete-descuentos-robot-aspirador-xiaomi-robot-vacuum-h50-base-autovaciado-navegacion-laser",
-      "published": "2026-10-28T12:08:24Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/7f2b03/xiaomi-robot-vacuum-h50/1024_2000.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

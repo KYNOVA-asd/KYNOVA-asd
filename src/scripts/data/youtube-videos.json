@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-27T12:18:54.924002Z",
+  "generatedAt": "2026-10-28T13:01:42.106743Z",
   "count": 12,
   "items": [
+    {
+      "id": "_KqimpE_inQ",
+      "title": "How to add a post to your SmartLink while scheduling it in Metricool",
+      "channelTitle": "Metricool",
+      "published": "2026-10-28T11:00:16Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_KqimpE_inQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_KqimpE_inQ"
+    },
     {
       "id": "BQ0YgdX6S1c",
       "title": "How to build a Marketing Dashboard in a matter of clicks",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/PZQFsrgqqhI/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=PZQFsrgqqhI"
-    },
-    {
-      "id": "J3AaFh4_W7c",
-      "title": "we all do it, right?",
-      "channelTitle": "Metricool",
-      "published": "2026-10-15T18:03:19Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/J3AaFh4_W7c/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=J3AaFh4_W7c"
     }
   ]
 }

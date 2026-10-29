@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-28T22:38:42.483398Z",
+  "generatedAt": "2026-10-29T13:08:56.553301Z",
   "count": 12,
   "items": [
+    {
+      "id": "7zDO7d4cVtw",
+      "title": "Is Instagram Plus Worth $3.99 a Month?",
+      "channelTitle": "Metricool",
+      "published": "2026-10-28T20:32:08Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7zDO7d4cVtw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7zDO7d4cVtw"
+    },
     {
       "id": "nEaJMdM1djM",
       "title": "Did the AI bubble just pop?",
@@ -10,6 +19,24 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=nEaJMdM1djM"
+    },
+    {
+      "id": "_KqimpE_inQ",
+      "title": "How to add a post to your SmartLink while scheduling it in Metricool",
+      "channelTitle": "Metricool",
+      "published": "2026-10-28T11:00:16Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_KqimpE_inQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_KqimpE_inQ"
+    },
+    {
+      "id": "BQ0YgdX6S1c",
+      "title": "How to build a Marketing Dashboard in a matter of clicks",
+      "channelTitle": "Metricool",
+      "published": "2026-10-26T20:31:29Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BQ0YgdX6S1c/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=BQ0YgdX6S1c"
     },
     {
       "id": "G_em1hHPnXY",
@@ -21,6 +48,15 @@
       "videoUrl": "https://www.youtube.com/watch?v=G_em1hHPnXY"
     },
     {
+      "id": "U6YfVCKPuMQ",
+      "title": "How to Connect LinkedIn to ChatGPT + 3 Ways to Use It",
+      "channelTitle": "Metricool",
+      "published": "2026-10-25T08:45:28Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U6YfVCKPuMQ/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=U6YfVCKPuMQ"
+    },
+    {
       "id": "SMGg7iisHmc",
       "title": "The most vulnerable week in internet history...",
       "channelTitle": "Fireship",
@@ -28,6 +64,24 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=SMGg7iisHmc"
+    },
+    {
+      "id": "ADxt15xiepw",
+      "title": "Brains Over Bots: The Human Side of AI",
+      "channelTitle": "Metricool",
+      "published": "2026-10-22T20:40:00Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ADxt15xiepw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ADxt15xiepw"
+    },
+    {
+      "id": "MZU6JyZRT_A",
+      "title": "Claude Just Told Me If My YouTube Numbers Are Any Good with This Skill",
+      "channelTitle": "Metricool",
+      "published": "2026-10-22T20:04:21Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MZU6JyZRT_A/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=MZU6JyZRT_A"
     },
     {
       "id": "zv6B6PQOuHE",
@@ -39,76 +93,22 @@
       "videoUrl": "https://www.youtube.com/watch?v=zv6B6PQOuHE"
     },
     {
-      "id": "b2tjnxX8IHU",
-      "title": "Did Google just dethrone OpenAI and Anthropic?",
-      "channelTitle": "Fireship",
-      "published": "2026-10-20T16:21:03Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=b2tjnxX8IHU"
+      "id": "vT5y6Ieyx0w",
+      "title": "How to design and edit post visuals with Adobe Express in Metricool",
+      "channelTitle": "Metricool",
+      "published": "2026-10-21T10:00:20Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vT5y6Ieyx0w/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=vT5y6Ieyx0w"
     },
     {
-      "id": "l3L_lETiSzc",
-      "title": "The runtime wars are over... and Node won",
-      "channelTitle": "Fireship",
-      "published": "2026-10-15T17:35:15Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=l3L_lETiSzc"
-    },
-    {
-      "id": "QZVzuq28eFw",
-      "title": "OpenAI’s lead engineer was secretly a spy...",
-      "channelTitle": "Fireship",
-      "published": "2026-10-14T17:48:10Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QZVzuq28eFw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=QZVzuq28eFw"
-    },
-    {
-      "id": "wajoP_5Cpw8",
-      "title": "Every app on Earth is now open source... whether it likes it or not",
-      "channelTitle": "Fireship",
-      "published": "2026-10-12T19:15:23Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wajoP_5Cpw8/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
-    },
-    {
-      "id": "WrCjAAl9okA",
-      "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
-      "channelTitle": "Fireship",
-      "published": "2026-10-07T20:24:27Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=WrCjAAl9okA"
-    },
-    {
-      "id": "_5p1_TNSWqQ",
-      "title": "PewDiePie is setting AI free... and OpenAI is furious",
-      "channelTitle": "Fireship",
-      "published": "2026-10-05T20:34:44Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=_5p1_TNSWqQ"
-    },
-    {
-      "id": "No-JPdFvYWU",
-      "title": "The one OpenAI announcement that can actually make you money...",
-      "channelTitle": "Fireship",
-      "published": "2026-10-01T19:34:14Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=No-JPdFvYWU"
-    },
-    {
-      "id": "I_KVMFrUtPk",
-      "title": "Did a 50 year old military secret just solve agent prompt injection?",
-      "channelTitle": "Fireship",
-      "published": "2026-09-30T17:16:43Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=I_KVMFrUtPk"
+      "id": "_-sg4P0wT1k",
+      "title": "Set up your DM automation with Flows",
+      "channelTitle": "Metricool",
+      "published": "2026-10-20T18:30:44Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_-sg4P0wT1k/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_-sg4P0wT1k"
     }
   ]
 }

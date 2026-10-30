@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-29T13:08:55.646462Z",
+  "generatedAt": "2026-10-30T13:01:55.117774Z",
   "count": 12,
   "items": [
     {
-      "id": "c7ae8748a4184d9e",
-      "title": "Los Mossos piden ayuda al Ministerio del Interior para que cierre todas las cuentas de Blocus, mientras detienen al creador de \"Blocus VLC\"",
-      "summary": "Blocus, el movimiento que usa sus redes sociales como herramienta de movilización, sigue creciendo mientras ya llegan las primeras detenciones. Así ha sido con el joven de 17 años detenido en Valencia , creador de \"Blocus VLC\" y presunto instigador de saqueos y pillajes previstos para el 31 de octubre. Entender este…",
-      "link": "https://www.xataka.com/magnet/mossos-piden-ayuda-al-ministerio-interior-cierre-todas-cuentas-blocus-detienen-al-creador-blocus-vlc",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "Xataka",
-      "category": "Marketing",
-      "imageUrl": "https://i.blogs.es/f4274c/cartel/1024_2000.jpeg"
+      "id": "1c953c6f303dffb2",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "83c305795f6c47f6",
-      "title": "Del MacBook Pro M5 al nuevo modelo táctil: ¿cuánto cambia realmente y cuál compensa comprar?",
-      "summary": "Durante años, la negativa de Apple a incluir pantallas táctiles en sus ordenadores fue una de las líneas rojas más firmes de la compañía de Cupertino. Sin embargo, la llegada del nuevo MackBook Pro táctil (con tecnología OLED y precios que superan ampliamente la barrera de entrada habitual) lo cambia todo. Frente a…",
-      "link": "https://www.xataka.com/seleccion/macbook-pro-m5-al-nuevo-modelo-tactil-cuanto-cambia-realmente-cual-compensa-comprar",
-      "published": "2026-10-29T12:45:27Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/bcbb1c/macbook-pro-tactil-vs-macbook-pro-m5-pro/1024_2000.jpeg"
-    },
-    {
-      "id": "3bc94150397ce5b4",
-      "title": "Un crucero de lujo ofreció a sus pasajeros dar la vuelta al mundo. Se han quedado varados en Camboya por el precio del combustible",
-      "summary": "“Imagina despertar cada día ante un nuevo horizonte”. Así, con una frase sugerente , potente, sexy, anunciaba en 2024 la compañía Villa Vie Residences uno de sus servicios más ambiciosos:  un crucero ‘infinito’ que permitiría a sus pasajeros circunnavegar el mundo durante años, recorriendo puertos a bordo de un buque…",
-      "link": "https://www.xataka.com/magnet/crucero-lujo-ofrecio-a-sus-pajeros-dar-vuelta-al-mundo-se-han-quedado-varados-camboya-precio-combustible",
-      "published": "2026-10-29T12:37:00Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/c7c315/odyssey-glacier/1024_2000.jpeg"
-    },
-    {
-      "id": "acc993fad1f6968e",
-      "title": "El prime time es el espacio de comunicación política obligatorio para los candidatos desde hace tiempo, y La Revuelta lo confirma",
-      "summary": "Cinco días después del récord de Pedro Sánchez, Gabriel Rufián e Irene Montero dieron a ‘La Revuelta’ su segunda mejor cuota. A un mes del 29N, el sofá de Broncano reúne más público que el último debate electoral de RTVE, y además el tema deja una cuestión sobre la mesa: Feijóo y Abascal quizás no deban resistirse a…",
-      "link": "https://www.xataka.com/cine-y-tv/prime-time-espacio-comunicacion-politica-obligatorio-para-candidatos-hace-tiempo-revuelta-confirma",
-      "published": "2026-10-29T12:31:27Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/d6e4e8/06685126-4362-4acc-9e28-fc60fddef93e_16-9-discover-aspect-ratio_default_0/1024_2000.jpeg"
-    },
-    {
-      "id": "823bf77a03a7d6fe",
-      "title": "DoorDash acquires Instacart in $17 billion delivery service merger",
-      "summary": "The deal combines the two largest grocery delivery platforms in the US.",
-      "link": "https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger",
-      "published": "2026-10-29T12:24:06Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/doordash-acquires-instacart-in-17-billion-delivery-service-merger/l-intro-1793276637.jpg"
-    },
-    {
-      "id": "7598c20483dc3565",
-      "title": "He cambiado mi cartera del móvil por Bizum Pay durante un mes: la app funciona, las tiendas todavía no",
-      "summary": "Empezó sin hacer ruido y ha terminado por convertirse en el estándar a la hora de enviar dinero a los colegas. Porque ¿quién no tiene Bizum ? Es casi tan omnipresente como WhatsApp: Bizum suma 31,5 millones de usuarios . Y poco a poco está colonizando el espacio que le faltaba a la plataforma: los pagos físicos en…",
-      "link": "https://www.xataka.com/servicios/he-cambiado-mi-cartera-movil-bizum-pay-durante-mes-app-funciona-tiendas-todavia-no",
-      "published": "2026-10-29T12:01:28Z",
-      "source": "Xataka",
-      "category": "Desarrollo",
-      "imageUrl": "https://i.blogs.es/7ac7e0/pagos-bizum-pay-portada-2/1024_2000.jpeg"
-    },
-    {
-      "id": "ef55ea7eab368741",
-      "title": "EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate",
-      "summary": "EasySMX is using Elizabeth Holmes levels of pedantry with this faceplate situation.",
-      "link": "https://www.engadget.com/2294413/easysmx-s10-lite-review",
-      "published": "2026-10-29T12:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate/l-intro-1792686295.jpg"
-    },
-    {
-      "id": "44c951ac92ba2ea0",
-      "title": "Descuento del 54% en esta tele Philips con 65 pulgadas, Dolby Atmos y Ambilight",
-      "summary": "Hay marcas de televisores que cuentan con tecnologías propias que logran abrirse camino hacia algo diferente, y una de las más interesantes es Philips con su tecnología Ambilight, presente en muchas de sus teles. Algunos modelos suelen encontrarse muy bien de precio, como es el caso del Philips 65PUS8010 que ahora…",
-      "link": "https://www.xataka.com/seleccion/descuento-54-esta-tele-philips-65-pulgadas-dolby-atmos-ambilight",
-      "published": "2026-10-29T11:57:06Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/37203d/philips-65pus8010/1024_2000.jpeg"
-    },
-    {
-      "id": "7b13a13aa99910ae",
-      "title": "DoorDash is acquiring Instacart for $17 billion",
-      "summary": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established grocery marketplace and retailer partnerships, with Instacart CEO Chris Rogers saying the deal will make…",
-      "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
-      "published": "2026-10-29T11:56:35Z",
+      "id": "ceac93c5f2da00ea",
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]",
+      "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "published": "2026-10-30T13:00:00Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255805905.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "39060047a100996c",
-      "title": "El iPad ha pasado diez años intentando convertirse en un Mac. Al final es el Mac quien se ha quedado con lo único que tenía el iPad",
-      "summary": "En noviembre de 2017, Apple emitió uno de los anuncios más recordados de su historia reciente. Una niña se estaba pasando el día entero con un iPad Pro. Con él hacía los deberes, sacaba fotos, chateaba con sus amigos y dibujaba tumbada en el césped. Al final, una vecina le pregunta qué hacía con el ordenador. Ella…",
-      "link": "https://www.xataka.com/ordenadores/ipad-ha-pasado-diez-anos-intentando-convertirse-mac-al-final-mac-quien-se-ha-quedado-unico-que-tenia-ipad",
-      "published": "2026-10-29T11:45:32Z",
-      "source": "Xataka",
+      "id": "c702431833db6df0",
+      "title": "Josep Albors, experto en ciberseguridad, sobre apagar el móvil como aconseja Sánchez: “Para la mayoría de los usuarios sirve de poco”",
+      "summary": "Pedro Sánchez ha hablado de apagar el móvil 5 minutos cada día. Fue en La Revuelta donde lo comentaba en el momento en que hablaba sobre el tema del espionaje con Pegasus. Josep Albors, responsable de Investigación y Concienciación de ESET España , comenta: “Para la mayoría de los usuarios, que nos enfrentamos a…",
+      "link": "https://www.genbeta.com/seguridad/josep-albors-experto-ciberseguridad-apagar-movil-como-aconseja-sanchez-para-mayoria-usuarios-sirve-poco",
+      "published": "2026-10-30T12:31:27Z",
+      "source": "Genbeta",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/e5006a/apple-macbook-pro-with-proled-xdr-display-lifestyle-anti-reflective-coating-261028/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/d713af/descarga/1024_2000.jpeg"
     },
     {
-      "id": "1fd0d347a5900736",
-      "title": "En 2004, el creador de Minecraft le quitó una mansión a Beyoncé y Jay-Z por 70 millones. 12 años después, tiene un problema para venderla",
-      "summary": "En 2014, el creador de Minecraft protagonizó una de las operaciones inmobiliarias más extravagantes de Beverly Hills: pagó 70 millones de dólares por una mansión después de superar en la puja a Beyoncé y Jay-Z. Doce años después, Markus Persson ha decidido vender aquella propiedad por exactamente el mismo precio que…",
-      "link": "https://www.xataka.com/magnet/2004-creador-minecraft-le-quito-mansion-a-beyonce-jay-z-70-millones-12-anos-despues-tiene-problema-para-venderla",
-      "published": "2026-10-29T11:31:27Z",
+      "id": "d2dd776fc827913d",
+      "title": "\"El modo de IA no genera tráfico. Ni para nosotros ni para nadie\": El CEO de Reddit dice adiós a la web abierta",
+      "summary": "Hubo un tiempo en el que escribías una duda en Google, añadías la etiqueta \"reddit\" al final y casi siempre aparecía un hilo con la respuesta a tu problema explicada por alguien que ya había pasado por lo mismo y lo había solucionado. El CEO de Reddit ha anunciado que ese atajo va a estar cerrado a partir de ahora.…",
+      "link": "https://www.xataka.com/servicios/modo-ia-no-genera-trafico-para-nosotros-para-nadie-ceo-reddit-dice-adios-a-web-abierta",
+      "published": "2026-10-30T12:31:26Z",
       "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/2f137f/mansion-moderna-al-atardecer-con-piscina/1024_2000.png"
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/84152c/steve-huffman/1024_2000.jpeg"
     },
     {
-      "id": "6f2c5dfd16b8d887",
-      "title": "La huelga de maquinistas paraliza Renfe en Madrid: líneas cerradas y servicios mínimos en duda",
-      "summary": "Un día después del accidente en Urda (Toledo) que ha provocado la muerte de 69 personas, los maquinistas se han mantenido firmes en su jornada de huelga. Reclamando mayores medidas de seguridad, consideran que hay más motivos que nunca para realizar estos paros. Unos paros que, especialmente en Madrid, han provocado…",
-      "link": "https://www.xataka.com/movilidad/huelga-maquinistas-paraliza-renfe-madrid-lineas-cerradas-servicios-minimos-duda",
-      "published": "2026-10-29T11:26:00Z",
+      "id": "7167f26dad4219f5",
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David Sedaris in […]",
+      "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "published": "2026-10-30T12:30:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ed94231a9b877510",
+      "title": "Una operación de espionaje de China tiene como objetivos a Jensen Huang y Nvidia, según The New York Times",
+      "summary": "La disputa por la supremacía mundial que están librando EEUU y China se sostiene ante todo sobre la inteligencia artificial (IA). En la base de este conflicto residen los chips que se utilizan para entrenar los modelos de lenguaje y ejecutar la inferencia, así como los recursos necesarios para producir estos…",
+      "link": "https://www.xataka.com/robotica-e-ia/operacion-espionaje-china-tiene-como-objetivos-a-jensen-huang-nvidia-the-new-york-times",
+      "published": "2026-10-30T12:15:27Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/24ae09/jensenhuang/1024_2000.jpeg"
+    },
+    {
+      "id": "587daea9d6796bdc",
+      "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
+      "summary": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand.",
+      "link": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes",
+      "published": "2026-10-30T12:05:36Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg"
+    },
+    {
+      "id": "f26e1a7eb9c10a79",
+      "title": "\"Estará al fondo del jardín\": compraron una casa a las afueras de París y ahora tendrán un centro de datos que consume cuatro veces lo que Disneyland",
+      "summary": "A las afueras de París, una familia lleva 26 años viviendo en una casa con jardín. Ahora, al otro lado de su valla, todo apunta a que va a levantarse un gigantesco centro de datos de 27 metros de altura, con decenas de sistemas de refrigeración y generadores eléctricos. La instalación tendría capacidad para consumir…",
+      "link": "https://www.xataka.com/robotica-e-ia/estara-al-fondo-jardin-compraron-casa-a-afueras-paris-ahora-paris-le-quiere-construir-centro-datos-que-devora-cuatro-veces-energia-disneyland",
+      "published": "2026-10-30T12:00:00Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/ec24cc/32330683847_7e7bf7a290_o/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/60f680/la_tour_eiffel_vue_de_la_tour_saint-jacques-_paris_aout_2014_-2-/1024_2000.jpeg"
+    },
+    {
+      "id": "98d19a5ea846ff44",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The […]",
+      "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "published": "2026-10-30T12:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "570dc12cb2fe46b8",
+      "title": "Lenovo Googlebook 15 review: Your Android phone's new best friend",
+      "summary": "Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards.",
+      "link": "https://www.engadget.com/2301498/lenovo-googlebook-15-review",
+      "published": "2026-10-30T12:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg"
+    },
+    {
+      "id": "93a83e5e65687c67",
+      "title": "Meta, Google y Amazon podían permitirse derrochar en IA cuando el negocio iba bien. Google acaba de descubrir qué pasa cuando no",
+      "summary": "Tres de las empresas más rentables del mundo acaban de pasar por una temporada de resultados floja, flojísima. Y precisamente los negocios que las hicieron ricas no son el verdadero problema. Alphabet (matriz de Google) lleva perdidos más de 500.000 millones de dólares en valor de mercado en un solo día, y Meta y…",
+      "link": "https://www.xataka.com/empresas-y-economia/meta-google-amazon-podian-permitirse-gasto-colosal-ia-negocio-iba-bien-google-acaba-descubrir-que-pasa-cuando-no",
+      "published": "2026-10-30T11:45:00Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/43af27/gasto-ia/1024_2000.jpeg"
+    },
+    {
+      "id": "87d27a9f8a0972f5",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been […]",
+      "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "published": "2026-10-30T11:44:53Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-10-30T13:01:55.117774Z",
+  "generatedAt": "2026-10-30T22:25:23.536430Z",
   "count": 12,
   "items": [
     {
-      "id": "1c953c6f303dffb2",
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "published": "2026-10-30T13:01:14Z",
-      "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ceac93c5f2da00ea",
-      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]",
-      "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-      "published": "2026-10-30T13:00:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c702431833db6df0",
-      "title": "Josep Albors, experto en ciberseguridad, sobre apagar el móvil como aconseja Sánchez: “Para la mayoría de los usuarios sirve de poco”",
-      "summary": "Pedro Sánchez ha hablado de apagar el móvil 5 minutos cada día. Fue en La Revuelta donde lo comentaba en el momento en que hablaba sobre el tema del espionaje con Pegasus. Josep Albors, responsable de Investigación y Concienciación de ESET España , comenta: “Para la mayoría de los usuarios, que nos enfrentamos a…",
-      "link": "https://www.genbeta.com/seguridad/josep-albors-experto-ciberseguridad-apagar-movil-como-aconseja-sanchez-para-mayoria-usuarios-sirve-poco",
-      "published": "2026-10-30T12:31:27Z",
-      "source": "Genbeta",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/d713af/descarga/1024_2000.jpeg"
-    },
-    {
-      "id": "d2dd776fc827913d",
-      "title": "\"El modo de IA no genera tráfico. Ni para nosotros ni para nadie\": El CEO de Reddit dice adiós a la web abierta",
-      "summary": "Hubo un tiempo en el que escribías una duda en Google, añadías la etiqueta \"reddit\" al final y casi siempre aparecía un hilo con la respuesta a tu problema explicada por alguien que ya había pasado por lo mismo y lo había solucionado. El CEO de Reddit ha anunciado que ese atajo va a estar cerrado a partir de ahora.…",
-      "link": "https://www.xataka.com/servicios/modo-ia-no-genera-trafico-para-nosotros-para-nadie-ceo-reddit-dice-adios-a-web-abierta",
-      "published": "2026-10-30T12:31:26Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/84152c/steve-huffman/1024_2000.jpeg"
-    },
-    {
-      "id": "7167f26dad4219f5",
-      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David Sedaris in […]",
-      "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
-      "published": "2026-10-30T12:30:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ed94231a9b877510",
-      "title": "Una operación de espionaje de China tiene como objetivos a Jensen Huang y Nvidia, según The New York Times",
-      "summary": "La disputa por la supremacía mundial que están librando EEUU y China se sostiene ante todo sobre la inteligencia artificial (IA). En la base de este conflicto residen los chips que se utilizan para entrenar los modelos de lenguaje y ejecutar la inferencia, así como los recursos necesarios para producir estos…",
-      "link": "https://www.xataka.com/robotica-e-ia/operacion-espionaje-china-tiene-como-objetivos-a-jensen-huang-nvidia-the-new-york-times",
-      "published": "2026-10-30T12:15:27Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/24ae09/jensenhuang/1024_2000.jpeg"
-    },
-    {
-      "id": "587daea9d6796bdc",
-      "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
-      "summary": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand.",
-      "link": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes",
-      "published": "2026-10-30T12:05:36Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg"
-    },
-    {
-      "id": "f26e1a7eb9c10a79",
-      "title": "\"Estará al fondo del jardín\": compraron una casa a las afueras de París y ahora tendrán un centro de datos que consume cuatro veces lo que Disneyland",
-      "summary": "A las afueras de París, una familia lleva 26 años viviendo en una casa con jardín. Ahora, al otro lado de su valla, todo apunta a que va a levantarse un gigantesco centro de datos de 27 metros de altura, con decenas de sistemas de refrigeración y generadores eléctricos. La instalación tendría capacidad para consumir…",
-      "link": "https://www.xataka.com/robotica-e-ia/estara-al-fondo-jardin-compraron-casa-a-afueras-paris-ahora-paris-le-quiere-construir-centro-datos-que-devora-cuatro-veces-energia-disneyland",
-      "published": "2026-10-30T12:00:00Z",
+      "id": "1af0156bbf64e2ee",
+      "title": "Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal",
+      "summary": "Cuando hablamos de los grandes centros de datos, solemos pensar en edificios repletos de servidores, sistemas de refrigeración y enormes cantidades de electricidad. Sin embargo, todo empieza bastante antes, en un terreno que debe prepararse para recibir una infraestructura de estas dimensiones. Esa primera etapa…",
+      "link": "https://www.xataka.com/empresas-y-economia/google-queria-levantar-centro-datos-finlandia-empezo-talando-330-hectareas-acabo-investigacion-penal",
+      "published": "2026-10-30T22:01:27Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/60f680/la_tour_eiffel_vue_de_la_tour_saint-jacques-_paris_aout_2014_-2-/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/250cce/google/1024_2000.jpeg"
     },
     {
-      "id": "98d19a5ea846ff44",
-      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-      "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The […]",
-      "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-      "published": "2026-10-30T12:00:00Z",
+      "id": "dc3df6c4fc2a74b6",
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of […]",
+      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "published": "2026-10-30T21:01:32Z",
       "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "570dc12cb2fe46b8",
-      "title": "Lenovo Googlebook 15 review: Your Android phone's new best friend",
-      "summary": "Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards.",
-      "link": "https://www.engadget.com/2301498/lenovo-googlebook-15-review",
-      "published": "2026-10-30T12:00:00Z",
+      "id": "05a1378ae455d54d",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "published": "2026-10-30T20:48:43Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7a24eca35f77e86d",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them…",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "a3d201069ae57d58",
+      "title": "Meta settles another social media addiction case just before trial",
+      "summary": "Snap is now the only defendant in the case.",
+      "link": "https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial",
+      "published": "2026-10-30T20:21:28Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg"
     },
     {
-      "id": "93a83e5e65687c67",
-      "title": "Meta, Google y Amazon podían permitirse derrochar en IA cuando el negocio iba bien. Google acaba de descubrir qué pasa cuando no",
-      "summary": "Tres de las empresas más rentables del mundo acaban de pasar por una temporada de resultados floja, flojísima. Y precisamente los negocios que las hicieron ricas no son el verdadero problema. Alphabet (matriz de Google) lleva perdidos más de 500.000 millones de dólares en valor de mercado en un solo día, y Meta y…",
-      "link": "https://www.xataka.com/empresas-y-economia/meta-google-amazon-podian-permitirse-gasto-colosal-ia-negocio-iba-bien-google-acaba-descubrir-que-pasa-cuando-no",
-      "published": "2026-10-30T11:45:00Z",
+      "id": "d7844361176bb094",
+      "title": "Bluesky now has a dedicated 'moderation inbox'",
+      "summary": "The beta feature makes it easier to stay on top of reports and account strikes.",
+      "link": "https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox",
+      "published": "2026-10-30T20:07:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg"
+    },
+    {
+      "id": "02af2311553565c0",
+      "title": "Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes",
+      "summary": "En la carrera por la inteligencia artificial, Anthropic se ha convertido en una de las grandes promesas del sector. La compañía detrás de Claude ha conseguido atraer inversiones multimillonarias y se prepara para dar uno de los pasos más importantes de su historia: salir a bolsa . Sin embargo, hay algo que no debemos…",
+      "link": "https://www.xataka.com/empresas-y-economia/blackstone-advierte-que-anthropic-se-arriesga-a-salir-a-bolsa-buena-calificacion-crediticia-golpe-para-sus-planes",
+      "published": "2026-10-30T19:41:00Z",
       "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/43af27/gasto-ia/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/968d89/dario-amodei-anthropic-bolsa/1024_2000.jpeg"
     },
     {
-      "id": "87d27a9f8a0972f5",
-      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been […]",
-      "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-      "published": "2026-10-30T11:44:53Z",
-      "source": "The Verge",
+      "id": "06a3e7aa1fac1b1a",
+      "title": "Por qué el dolor de espalda crónico se siente tan personal: el cerebro lo trata como parte de quiénes somos",
+      "summary": "Las personas que conviven con el dolor de espalda crónico saben bien que, de un modo u otro, se ha convertido en parte de su personalidad. Despiertan cada mañana atentos a las sensaciones del nuevo día, cancelan planes por los dolores, dejan de practicar deportes que adoraban o incluso de coger en brazos a sus…",
+      "link": "https://www.xataka.com/medicina-y-salud/que-dolor-espalda-cronico-se-siente-personal-cerebro-trata-como-parte-quienes-somos",
+      "published": "2026-10-30T19:31:27Z",
+      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://i.blogs.es/1853aa/dolor-de-espalda/1024_2000.jpeg"
+    },
+    {
+      "id": "c378167969741c51",
+      "title": "Hemos normalizado el uso del móvil en los estadios de fútbol. En Alemania, Vodafone está consiguiendo lo contrario",
+      "summary": "Hace tiempo que el móvil se convirtió en una extensión de nuestro cuerpo hasta el punto de que, en muchas ocasiones, vivimos las experiencias a través de su pantalla en vez de verlas con nuestros propios ojos. Si no sabéis a lo que me refiero, echad un vistazo a vuestro alrededor en un concierto o en cualquier otro…",
+      "link": "https://www.xataka.com/aplicaciones/hemos-normalizado-uso-movil-estadios-futbol-alemania-vodafone-esta-consiguiendo-contrario",
+      "published": "2026-10-30T19:01:27Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/adf68f/sabitzer-4-bvb/1024_2000.jpeg"
+    },
+    {
+      "id": "2a5279909cfde7c8",
+      "title": "Everything you need to know about Googlebooks",
+      "summary": "Despite good initial hardware, the Googlebook OS still needs a lot of work.",
+      "link": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks",
+      "published": "2026-10-30T19:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg"
+    },
+    {
+      "id": "b5935068d3af7397",
+      "title": "Corea del Norte se ha convertido en una superpotencia del ciberataque y lo está utilizando para autofinanciarse",
+      "summary": "Es uno de los países más aislados y herméticos del planeta. Su comercio exterior se limita a unos pocos países afines, arrastra sanciones desde hace años y casi nadie sabe qué ocurre realmente más allá de las fronteras . Aun así, Corea del Norte se ha revelado como una auténtica superpotencia en el cibercrimen.…",
+      "link": "https://www.xataka.com/seguridad/corea-norte-se-ha-convertido-superpotencia-ciberataque-esta-utilizando-para-autofinanciarse",
+      "published": "2026-10-30T18:30:00Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/f84af1/kim-jong-un/1024_2000.jpeg"
+    },
+    {
+      "id": "b9ee8bb30716fa37",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below…",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "published": "2026-10-30T18:21:38Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

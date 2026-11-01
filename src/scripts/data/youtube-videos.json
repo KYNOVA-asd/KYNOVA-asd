@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-29T13:08:56.553301Z",
+  "generatedAt": "2026-11-01T13:35:40.765945Z",
   "count": 12,
   "items": [
+    {
+      "id": "TrrwFXZK8vc",
+      "title": "How to Use Claude for Social Media: Full Tutorial",
+      "channelTitle": "Metricool",
+      "published": "2026-11-01T08:00:17Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TrrwFXZK8vc/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TrrwFXZK8vc"
+    },
     {
       "id": "7zDO7d4cVtw",
       "title": "Is Instagram Plus Worth $3.99 a Month?",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/vT5y6Ieyx0w/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=vT5y6Ieyx0w"
-    },
-    {
-      "id": "_-sg4P0wT1k",
-      "title": "Set up your DM automation with Flows",
-      "channelTitle": "Metricool",
-      "published": "2026-10-20T18:30:44Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_-sg4P0wT1k/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=_-sg4P0wT1k"
     }
   ]
 }

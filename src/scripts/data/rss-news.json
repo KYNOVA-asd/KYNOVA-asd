@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-11-01T13:35:40.047673Z",
+  "generatedAt": "2026-11-01T22:05:54.795953Z",
   "count": 12,
   "items": [
     {
-      "id": "ab46f189563499df",
-      "title": "Tesla is ditching its solar roof tiles for a good reason",
-      "summary": "Tesla was making solar roof panels that were designed to look like typical roof shingles if you saw them from the street, but they were transparent from above.",
-      "link": "https://www.engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason",
-      "published": "2026-11-01T13:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/tesla-is-ditching-its-solar-roof-tiles-for-a-good-reason/l-intro-1792787873.jpg"
-    },
-    {
-      "id": "fee10c81b169697a",
-      "title": "How to clear the cache on your Android device",
-      "summary": "Your apps and browsers may be overdue for some tidying up.",
-      "link": "https://www.engadget.com/2300269/how-to-clear-cache-android",
-      "published": "2026-11-01T13:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-android-device/l-intro-1792951353.jpg"
-    },
-    {
-      "id": "7d6c66bdb76199f1",
-      "title": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
-      "summary": "Antes descargabas una aplicación para algo muy concreto que necesitabas y debías aguantar el resto de funciones extra. Para competir, los desarrolladores fueron engordando sus apps hasta niveles a menudo absurdos. Así que ahí estabas tú, con una aplicación que te servía para una cosa específica y que añadía otras mil…",
-      "link": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
-      "published": "2026-11-01T13:01:28Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/e09b24/vibecoding-personalizar-apps-portada/1024_2000.jpeg"
-    },
-    {
-      "id": "9faae96f95a036e8",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two biggest games of […]",
-      "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "published": "2026-11-01T13:00:00Z",
+      "id": "dd8ec44c2a87c5d0",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]",
+      "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "published": "2026-11-01T21:09:21Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_TheLegendofZeldaOcarinaofTime_scrn_01.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "0b023320d1e6c259",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and…",
-      "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "published": "2026-11-01T13:00:00Z",
+      "id": "b305dc8ef62c91cd",
+      "title": "Anthropic updates Claude to stop it from recreating existing video games",
+      "summary": "Users can still lean on Claude to help with designing original or genre games.",
+      "link": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games",
+      "published": "2026-11-01T21:08:32Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg"
+    },
+    {
+      "id": "775282c46a7e151d",
+      "title": "Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina",
+      "summary": "En muchos cajones hay móviles que no volveremos a utilizar como teléfonos. Los guardamos después de estrenar otro, quizá por si algún día hacen falta, y ahí se quedan aunque sigan teniendo una cámara , un procesador, sensores de movimiento y conexión inalámbrica. Nos hemos acostumbrado a medir su utilidad por lo bien…",
+      "link": "https://www.xataka.com/robotica-e-ia/unos-investigadores-han-decidido-ponerle-patas-a-telefono-movil-resultado-ha-sido-robot-que-camina",
+      "published": "2026-11-01T21:01:27Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/ff4de1/phone-robot-portada/1024_2000.jpeg"
+    },
+    {
+      "id": "04be5b4547e069a1",
+      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+      "summary": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
+      "link": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability",
+      "published": "2026-11-01T21:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg"
+    },
+    {
+      "id": "26639abed2820e0b",
+      "title": "La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción",
+      "summary": "La mayoría de misiones no tripuladas comparten un mismo hándicap: las muestras o los datos deben enviarse a la Tierra para su análisis. Esto es algo que se está solucionando poco a poco. Ya existen rovers dotados con laboratorios internos que realizan todo tipo de pruebas in situ. Sin embargo, con el procesado…",
+      "link": "https://www.xataka.com/espacio/luna-tendra-su-propio-superordenador-procesar-datos-tierra-no-opcion",
+      "published": "2026-11-01T20:01:27Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/8dd4b8/ordenador-lunar/1024_2000.jpeg"
+    },
+    {
+      "id": "4a99cf1d3abdfdbf",
+      "title": "How to know if a USB-C cable is waterproof",
+      "summary": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
+      "link": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof",
+      "published": "2026-11-01T20:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg"
+    },
+    {
+      "id": "4c7805da92c2787a",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained…",
+      "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "published": "2026-11-01T19:58:02Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "b2823bb8d19788a4",
-      "title": "Hemos llenado las ciudades de árboles para combatir el calor. Un nuevo estudio advierte que a veces pueden lograr exactamente lo contrario",
-      "summary": "Durante los últimos años hemos escuchado de manera reiterada que plantar árboles era una de las soluciones para combatir el cambio climático y el aumento de las temperaturas en los entornos urbanos. Algo que es bastante necesario, puesto que los datos apuntan a que en 93 ciudades europeas, el 4,33% de las muertes…",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/hemos-llenado-ciudades-arboles-para-combatir-calor-nuevo-estudio-advierte-que-a-veces-pueden-lograr-exactamente-contrario",
-      "published": "2026-11-01T12:45:26Z",
-      "source": "Xataka",
+      "id": "5fb8f62824ba0fd5",
+      "title": "5 ways to get Amazon Prime for free (or way cheaper)",
+      "summary": "Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee",
+      "link": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper",
+      "published": "2026-11-01T19:45:00Z",
+      "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/1c439c/arboles-ciudad/1024_2000.jpeg"
+      "imageUrl": "https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg"
     },
     {
-      "id": "7a72007caabfa82f",
-      "title": "Antes se marcaba estatus con tonos pastel y sobriedad: ahora hemos entrado en la era de la purpurina y el brilli brilli",
-      "summary": "El otro día decidí desconectar de las redes sociales porque últimamente parece que no hay forma de escapar de las gemas de colores . Me aparecían cubriendo vasos, botes de crema, piernas e incluso comida. Y, aunque estaba a punto de sucumbir porque mi nostalgia millenial me incitaba a hacer un pedido de piedrecitas y…",
-      "link": "https://www.xataka.com/magnet/antes-se-marcaba-estatus-tonos-pastel-sobriedad-ahora-hemos-entrado-era-purpurina-brilli-brilli",
-      "published": "2026-11-01T12:15:27Z",
-      "source": "Xataka",
-      "category": "Marketing",
-      "imageUrl": "https://i.blogs.es/3508ae/photo-1779400882876-cfb35dc7088f/1024_2000.jpeg"
-    },
-    {
-      "id": "3b95662adf8ceab4",
-      "title": "El problema de los hogares no es que la inflación arrastre la cesta de la compra, es que los salarios no han seguido su ritmo",
-      "summary": "Aunque España no se ha librado de la inflación y la guerra de Irán sigue dibujando incógnitas en el horizonte, el escenario actual está lejos de parecerse al de las alzas disparatadas que siguieron a la guerra de Ucrania, en 2022. Llegan dos datos para comprobarlo: en septiembre alimentos y bebidas no alcohólicas se…",
-      "link": "https://www.xataka.com/magnet/problema-hogares-no-que-inflacion-arrastre-cesta-compra-que-salarios-no-han-seguido-su-ritmo",
-      "published": "2026-11-01T12:01:29Z",
-      "source": "Xataka",
+      "id": "7a04c214164796c0",
+      "title": "How to turn on the flashlight on your Android phone without unlocking it",
+      "summary": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.",
+      "link": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking",
+      "published": "2026-11-01T19:30:00Z",
+      "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/409c38/karsten-winegeart-cztk_e89omo-unsplash/1024_2000.jpeg"
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg"
     },
     {
-      "id": "45b04d1bc9042485",
-      "title": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
-      "summary": "Pocas veces me ha parecido tan útil un agente como cuando lo he utilizado para que me resolviera tareas que a mí me resultan imposibles. Dar de baja mi moto antigua, por ejemplo, la que tiene dos dedos de polvo y lleva sin usarse desde que Perdidos estaba en antena. Es inexplicable, lo sé, como la propia Perdidos.…",
-      "link": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
-      "published": "2026-11-01T11:01:26Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/b5aeca/instinct-portada-2/1024_2000.jpeg"
-    },
-    {
-      "id": "282f10321e07a274",
-      "title": "Un investigador de IA advierte ante el Ayuntamiento de Nueva York: \"Estamos compitiendo por crear y desarrollar a nuestro propio adversario\"",
-      "summary": "La carrera por desarrollar sistemas de IA cada vez más avanzados está preocupando a una parte importante de los investigadores que trabajaron en dicha tecnología. Mientras las Big Tech compiten por mejorar sus modelos, varias voces de la industria aprovechan el foco de atención de este sector para advertir de un…",
-      "link": "https://www.genbeta.com/inteligencia-artificial/investigador-ia-advierte-ayuntamiento-nueva-york-estamos-compitiendo-crear-desarrollar-a-nuestro-propio-adversario",
-      "published": "2026-11-01T11:01:25Z",
-      "source": "Genbeta",
+      "id": "170fecee8f048681",
+      "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+      "summary": "The legal battle revolves around the AI company's operations in southern Memphis.",
+      "link": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution",
+      "published": "2026-11-01T19:19:22Z",
+      "source": "Engadget",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/1a8271/inteligencia-artificial-genbeta-3/1024_2000.jpeg"
+      "imageUrl": "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg"
     },
     {
-      "id": "773b3f75bef2ea87",
-      "title": "Un nuevo aceite enriquecido promete frenar el daño renal en diabéticos: por qué es una buena noticia y por qué no sirve tu aceite del supermercado",
-      "summary": "Tener diabetes tipo 2 no es un simple problema de azúcar, sino que conlleva una importante repercusión sobre diferentes órganos de nuestro cuerpo, como por ejemplo el ojo o los riñones. Es por ello que la investigación ahora mismo está centrada en tener lo mejores tratamientos posibles para poder frenar el daño que…",
-      "link": "https://www.xataka.com/medicina-y-salud/nuevo-aceite-enriquecido-promete-frenar-dano-renal-diabeticos-que-buena-noticia-que-no-sirve-tu-aceite-supermercado",
-      "published": "2026-11-01T10:31:30Z",
+      "id": "ff1cc7db67700414",
+      "title": "Hace casi mil años en un lago italiano sucedió algo impensable: dos tsunamis. Ahora sabemos quién lo provocó",
+      "summary": "El tres de enero de 1117, un fuerte terremoto sacudió el norte de Italia. Poco más de 100 años después, en 1222, hubo otro terremoto allí. Del de 1117 lo sabemos gracias a un manuscrito latino del siglo XII conservado en la Biblioteca Apostólica Vaticana, que dice \"Lacus quoque adeo excreverunt ut in villis iuxta…",
+      "link": "https://www.xataka.com/ecologia-y-naturaleza/hace-casi-mil-anos-lago-italiano-sucedio-algo-impensable-dos-tsunamis-ahora-sabemos-quien-provoco",
+      "published": "2026-11-01T19:01:27Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/560764/aceite-de-oliva/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/438e75/chris-weiher-j3i3cfivbli-unsplash/1024_2000.jpeg"
     },
     {
-      "id": "a382e3726a0ce635",
-      "title": "El negocio que Anthropic promete a sus inversores vale 40 billones. Es lo que cobramos quienes hacemos lo que quiere hacer su IA",
-      "summary": "Los folletos de salida a bolsa AKA \" prospectos\" en España, S-1 en Estados Unidos, son un peñazo porque deben serlo. Al menos para cualquiera que no sea abogado, economista o un simple entusiasta de las páginas salmón. Al mismo tiempo ese tedio de cientos de páginas es lo que los hace más interesantes, porque en lo…",
-      "link": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
-      "published": "2026-11-01T10:01:31Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/8905d1/aa/1024_2000.jpeg"
+      "id": "c01fe05c30667d0a",
+      "title": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
+      "summary": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
+      "link": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting",
+      "published": "2026-11-01T19:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg"
     }
   ]
 }

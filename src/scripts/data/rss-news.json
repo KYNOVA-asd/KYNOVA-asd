@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-11-01T22:05:54.795953Z",
+  "generatedAt": "2026-11-02T16:15:45.405291Z",
   "count": 12,
   "items": [
     {
-      "id": "dd8ec44c2a87c5d0",
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]",
-      "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "published": "2026-11-01T21:09:21Z",
+      "id": "e2fd05f71d93cf3f",
+      "title": "What to do if your smart home devices keep disconnecting from Wi-Fi",
+      "summary": "Smart home devices usually won't work properly when they lose Wi-Fi signal, so it's frustrating when they keep disconnecting. Here's why it might be happening.",
+      "link": "https://www.engadget.com/2300349/smart-home-devices-disconnecting-wifi",
+      "published": "2026-11-02T16:15:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-to-do-if-your-smart-home-devices-keep-disconnecting-from-wi-fi/l-intro-1793217315.jpg"
+    },
+    {
+      "id": "1ab48e8b4cd71129",
+      "title": "Nagoshi Studio, from the creator of the Yakuza series, officially shuts down",
+      "summary": "It's unclear what will happen to the studio's work on Gang of Dragon.",
+      "link": "https://www.engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down",
+      "published": "2026-11-02T16:03:12Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/l-intro-1793635351.jpg"
+    },
+    {
+      "id": "de3b44566cbab127",
+      "title": "Un militar australiano subió a la gran fragata española y se quedó a cuadros: era un calco del diseño de su propio destructor",
+      "summary": "Que un militar australiano suba a una fragata española durante unas maniobras internacionales no es noticia. Que cuando lo haga se encuentre con un diseño calcado a su propio buque de guerra, ya es otra cosa. El oficial del destructor HMAS Sydney descubrió que la estructura de la fragata Álvaro de Bazán era…",
+      "link": "https://www.xataka.com/magnet/militar-australiano-subio-a-fragata-espanola-se-quedo-a-cuadros-era-calco-diseno-su-propio-destructor",
+      "published": "2026-11-02T16:01:30Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/79a101/fragata_f-101_-22alvaro_de_bazan-22_fondeada_en_la_ria_de_pontevedra_-14694192716-/1024_2000.jpeg"
+    },
+    {
+      "id": "ba4ff958bbe3b48b",
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait. First, […]",
+      "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "published": "2026-11-02T16:00:00Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "b305dc8ef62c91cd",
-      "title": "Anthropic updates Claude to stop it from recreating existing video games",
-      "summary": "Users can still lean on Claude to help with designing original or genre games.",
-      "link": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games",
-      "published": "2026-11-01T21:08:32Z",
+      "id": "c1adb697a3e27cb0",
+      "title": "Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible",
+      "summary": "Turn the clock back to 1998, when the internet was a little more functional.",
+      "link": "https://www.engadget.com/2303943/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible",
+      "published": "2026-11-02T15:51:36Z",
       "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg"
+    },
+    {
+      "id": "92fa13f384d690ed",
+      "title": "48 GB de RAM DDR5, Ryzen 7 y RTX 5070: así es el PC gaming rebajado por Black Friday que destaca en Coolmod",
+      "summary": "Teniendo en cuenta la crisis que está viviendo el sector del hardware derivada del auge de la IA durante este 2026, el Black Friday que está al caer cobra mayor importancia que nunca si llevábamos tiempo esperando el mejor momento para estrenar PC sin dejarnos un ojo de la cara . Pero ni siquiera hace falta esperar…",
+      "link": "https://www.xataka.com/seleccion/48-gb-ram-ddr5-ryzen-7-rtx-5070-asi-pc-gaming-rebajado-black-friday-que-destaca-coolmod",
+      "published": "2026-11-02T15:45:26Z",
+      "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg"
+      "imageUrl": "https://i.blogs.es/504062/black-friday-coolmod-pc/1024_2000.jpeg"
     },
     {
-      "id": "775282c46a7e151d",
-      "title": "Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina",
-      "summary": "En muchos cajones hay móviles que no volveremos a utilizar como teléfonos. Los guardamos después de estrenar otro, quizá por si algún día hacen falta, y ahí se quedan aunque sigan teniendo una cámara , un procesador, sensores de movimiento y conexión inalámbrica. Nos hemos acostumbrado a medir su utilidad por lo bien…",
-      "link": "https://www.xataka.com/robotica-e-ia/unos-investigadores-han-decidido-ponerle-patas-a-telefono-movil-resultado-ha-sido-robot-que-camina",
-      "published": "2026-11-01T21:01:27Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/ff4de1/phone-robot-portada/1024_2000.jpeg"
-    },
-    {
-      "id": "04be5b4547e069a1",
-      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-      "summary": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
-      "link": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability",
-      "published": "2026-11-01T21:00:00Z",
+      "id": "69d56e85ef24da5a",
+      "title": "The Fitbit Edge lacks a useful contactless feature",
+      "summary": "It's handy, but most people likely won't miss it.",
+      "link": "https://www.engadget.com/2300348/why-fitbit-edge-lacks-nfc-contactless-payment-feature",
+      "published": "2026-11-02T15:45:00Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/the-fitbit-edge-lacks-a-useful-contactless-feature/l-intro-1792612257.jpg"
     },
     {
-      "id": "26639abed2820e0b",
-      "title": "La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción",
-      "summary": "La mayoría de misiones no tripuladas comparten un mismo hándicap: las muestras o los datos deben enviarse a la Tierra para su análisis. Esto es algo que se está solucionando poco a poco. Ya existen rovers dotados con laboratorios internos que realizan todo tipo de pruebas in situ. Sin embargo, con el procesado…",
-      "link": "https://www.xataka.com/espacio/luna-tendra-su-propio-superordenador-procesar-datos-tierra-no-opcion",
-      "published": "2026-11-01T20:01:27Z",
+      "id": "127dd7b80f379674",
+      "title": "Hace 50 años, Viking 2 grabó dos misteriosas señales. Hoy unos científicos apuntan a la grabación más antigua de un terremoto marciano",
+      "summary": "En 1975, la NASA envió a Marte las sondas Viking 1 y Viking 2 con el objetivo de buscar posibles signos de vida. Para saber si es o fue en algún momento un planeta habitable, era importante estudiar tanto su composición geológica como la posible aparición de terremotos. Para esto último, ambas sondas contaban con un…",
+      "link": "https://www.xataka.com/espacio/hace-50-anos-viking-2-grabo-dos-misteriosas-senales-hoy-unos-cientificos-apuntan-a-grabacion-antigua-terremoto-marciano",
+      "published": "2026-11-02T15:31:28Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/8dd4b8/ordenador-lunar/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/ac52cc/viking2lander1/1024_2000.jpeg"
     },
     {
-      "id": "4a99cf1d3abdfdbf",
-      "title": "How to know if a USB-C cable is waterproof",
-      "summary": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
-      "link": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof",
-      "published": "2026-11-01T20:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg"
-    },
-    {
-      "id": "4c7805da92c2787a",
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained…",
-      "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "published": "2026-11-01T19:58:02Z",
+      "id": "aa4b344ef0bb9646",
+      "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+      "summary": "When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most capable ultrawide in any phone worldwide. You won't find either in the new X500 Pro […]",
+      "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+      "published": "2026-11-02T15:15:00Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vivo-x500-pro-max-03.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "5fb8f62824ba0fd5",
-      "title": "5 ways to get Amazon Prime for free (or way cheaper)",
-      "summary": "Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee",
-      "link": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper",
-      "published": "2026-11-01T19:45:00Z",
-      "source": "Engadget",
+      "id": "86046d79603c58ae",
+      "title": "José Navarro, fontanero autónomo: \"Si a mí me ofrecieran hoy un trabajo asalariado y me pagaran 4.000 euros al mes, no aceptaría\"",
+      "summary": "Al valorar un cambio de trabajo, el sueldo suele ser una de las primeras cosas que miramos. También miramos el horario, aunque no siempre es fácil saber hasta qué punto nos permitirá organizar el día a nuestra manera. Para José Navarro, esa libertad acabó pesando mucho en la decisión de volver al oficio que había…",
+      "link": "https://www.genbeta.com/laboral/jose-navarro-fontanero-autonomo-a-mi-me-ofrecieran-hoy-trabajo-asalariado-me-pagaran-4-000-euros-al-mes-no-aceptaria",
+      "published": "2026-11-02T15:11:28Z",
+      "source": "Genbeta",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg"
+      "imageUrl": "https://i.blogs.es/a2e464/experto/1024_2000.jpeg"
     },
     {
-      "id": "7a04c214164796c0",
-      "title": "How to turn on the flashlight on your Android phone without unlocking it",
-      "summary": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.",
-      "link": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking",
-      "published": "2026-11-01T19:30:00Z",
-      "source": "Engadget",
+      "id": "3c7c5685222a3b86",
+      "title": "Could data center backlash flip Florida?",
+      "summary": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My ballot is all mixed up,\" she says. She's voting for some Republicans, some independents, and even a few Democrats.…",
+      "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+      "published": "2026-11-02T15:05:00Z",
+      "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_FLORIDA_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "170fecee8f048681",
-      "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
-      "summary": "The legal battle revolves around the AI company's operations in southern Memphis.",
-      "link": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution",
-      "published": "2026-11-01T19:19:22Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg"
-    },
-    {
-      "id": "ff1cc7db67700414",
-      "title": "Hace casi mil años en un lago italiano sucedió algo impensable: dos tsunamis. Ahora sabemos quién lo provocó",
-      "summary": "El tres de enero de 1117, un fuerte terremoto sacudió el norte de Italia. Poco más de 100 años después, en 1222, hubo otro terremoto allí. Del de 1117 lo sabemos gracias a un manuscrito latino del siglo XII conservado en la Biblioteca Apostólica Vaticana, que dice \"Lacus quoque adeo excreverunt ut in villis iuxta…",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/hace-casi-mil-anos-lago-italiano-sucedio-algo-impensable-dos-tsunamis-ahora-sabemos-quien-provoco",
-      "published": "2026-11-01T19:01:27Z",
+      "id": "7359927daa129fb0",
+      "title": "El nuevo cuello de botella de la IA no son los chips ni la energía: es el dinero barato",
+      "summary": "Los inversores se han vuelto mucho más exigentes a la hora de prestar dinero a la IA , según el WSJ . Las más afectadas son empresas como CoreWeave, Nebius y Nscale, que se endeudan para construir centros de datos y alquilar su potencia de cálculo. Llevan varias semanas casi sin poder vender bonos, una de sus grandes…",
+      "link": "https://www.xataka.com/empresas-y-economia/nuevo-cuello-botella-ia-no-chips-energia-dinero-barato",
+      "published": "2026-11-02T15:01:27Z",
       "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/438e75/chris-weiher-j3i3cfivbli-unsplash/1024_2000.jpeg"
-    },
-    {
-      "id": "c01fe05c30667d0a",
-      "title": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
-      "summary": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
-      "link": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting",
-      "published": "2026-11-01T19:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg"
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/53541f/as/1024_2000.jpeg"
     }
   ]
 }

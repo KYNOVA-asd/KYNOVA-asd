@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-11-03T14:23:23.851576Z",
+  "generatedAt": "2026-11-04T19:49:54.704257Z",
   "count": 12,
   "items": [
     {
-      "id": "f5b6253c4dce1f2d",
-      "title": "5 iPhone features you should be using after updating to iOS 27",
-      "summary": "iOS 27 brings several improvements to the iPhone, from useful quality-of-life changes to a range of new Apple Intelligence-powered features.",
-      "link": "https://www.engadget.com/2303526/iphones-ios-27-features-you-should-use",
-      "published": "2026-11-03T14:15:00Z",
-      "source": "Engadget",
+      "id": "ca38ff2dc51369c0",
+      "title": "Hay físicos empeñados en demostrar que Einstein se equivocó y los neutrinos del Mediterráneo, de momento, no les dan la razón",
+      "summary": "La ciencia lleva muchos años estudiando la teoría de la relatividad de Einstein y analizando si todos los pilares sobre los que se sostiene son suficientemente sólidos. De vez en cuando, alguno se tambalea , mientras que otros cobran aún más fuerza con cada nuevo descubrimiento . Uno de los que están todavía en duda…",
+      "link": "https://www.xataka.com/espacio/einstein-a-prueba-fondo-mediterraneo-neutrinos-no-encuentran-grietas-teoria-relatividad-momento",
+      "published": "2026-11-04T19:01:24Z",
+      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/5-iphone-features-you-should-be-using-after-updating-to-ios-27/l-intro-1793592703.jpg"
+      "imageUrl": "https://i.blogs.es/877e58/detecor-neutrinos-mar-mediterraneo/1024_2000.jpeg"
     },
     {
-      "id": "9b1ad7271fd7f412",
-      "title": "La llegada de las IA con \"automejora recursiva\": qué significa que Astra haya ayudado a modificar otro modelo de IA y qué riesgos y beneficios conlleva",
-      "summary": "El pasado 12 de septiembre Dario Amodei, el director general de Anthropic, publicó uno de sus ensayos más controvertidos. Lo tituló 'Debemos marcar el ritmo de la frontera' ( We Must Pace the Frontier ), y en su texto defiende la necesidad de ralentizar el desarrollo de los modelos de inteligencia artificial (IA) de…",
-      "link": "https://www.xataka.com/robotica-e-ia/llegada-ia-automejora-recursiva-que-significa-que-astra-haya-ayudado-a-modificar-otro-modelo-ia-que-riesgos-beneficios-conlleva",
-      "published": "2026-11-03T14:01:27Z",
+      "id": "29a25dce3d8ef197",
+      "title": "El creador de 'Minecraft' pide 70 millones de dólares por una mansión en Beverly Hills con 15 baños y discoteca privada",
+      "summary": "Markus Persson ha puesto a la venta su mansión de Beverly Hills por 70 millones de dólares (unos 62,9 millones de euros). En 2014, el creador de “Minecraft” (conocido como “Notch”) pagó igualmente esta cantidad en dólares por la vivienda. El chalet cuenta con ocho habitaciones y 15 baños. La superficie total es de…",
+      "link": "https://www.genbeta.com/actualidad/creador-minecraft-pide-70-millones-dolares-mansion-beverly-hills-15-banos-discoteca-privada",
+      "published": "2026-11-04T19:01:24Z",
+      "source": "Genbeta",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/a0d7c6/mansion-de-markus-persson/1024_2000.jpeg"
+    },
+    {
+      "id": "fd24d29ec5f4b503",
+      "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+      "summary": "This is potentially terrible news for those who love physical media.",
+      "link": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business",
+      "published": "2026-11-04T18:39:08Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/l-intro-1793817497.jpg"
+    },
+    {
+      "id": "536d153581a64258",
+      "title": "Los centros de datos también se presentaban a las elecciones de EEUU y han perdido estrepitosamente",
+      "summary": "Estados Unidos celebró anoche una de las elecciones más impactantes de su historia reciente. El Partido Demócrata recuperó el control del Congreso y del Senado, bloqueando cualquier vía legislativa para el Gobierno de Donald Trump, y colocó a varios gobernadores en regiones hasta ahora republicanas. Lo que es más…",
+      "link": "https://www.xataka.com/robotica-e-ia/centros-datos-tambien-se-presentaban-a-elecciones-eeuu-han-perdido-estrepitosamente",
+      "published": "2026-11-04T18:31:00Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/e44155/photo-1772695648965-1abdf9eb6b85/1024_2000.jpeg"
+    },
+    {
+      "id": "56101ee27feec703",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "published": "2026-11-04T18:26:07Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "68bc701759f26a6f",
+      "title": "Apple will check shared iCloud links for ‘harmful content’",
+      "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that […]",
+      "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+      "published": "2026-11-04T18:23:37Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "f762962d4e70678a",
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and […]",
+      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "published": "2026-11-04T18:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7e4f7adddfbaac34",
+      "title": "ChatGPT will now make you animated GIFs",
+      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "published": "2026-11-04T18:00:00Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "e732fa19709ce6ae",
+      "title": "God of War Laufey is delayed until May 20",
+      "summary": "Santa Monica Studio will use the extra time to push the game \"to its fullest potential.\"",
+      "link": "https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20",
+      "published": "2026-11-04T17:50:47Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/god-of-war-laufey-is-delayed-until-may-20/l-intro-1793814603.jpg"
+    },
+    {
+      "id": "d5eacc7ba79a4666",
+      "title": "Bandas organizadas roban camiones cargados de componentes para centros de datos: ya suman 100 millones de dólares",
+      "summary": "La fiebre del oro de la IA está replicando una especie de \"lejano oeste americano del siglo XXI\" con todos los ingredientes de un buen western. Hay minas de oro , que son los centros de datos, buscadores de fortuna con los bolsillos llenos de dinero dispuestos a comprar palas y todo el material que necesitan para…",
+      "link": "https://www.xataka.com/empresas-y-economia/bandas-organizadas-roban-camiones-cargados-componentes-para-centros-datos-suman-100-millones-dolares",
+      "published": "2026-11-04T17:31:22Z",
       "source": "Xataka",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/092a94/gpt-6-astra_-esfera-orbital-de-ia/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/ee0870/nishat-samadzai-rxvtdbr00cg-unsplash/1024_2000.jpeg"
     },
     {
-      "id": "d8fb28d63e4e8aee",
-      "title": "Peak Design expands its collection of wireless charging accessories",
-      "summary": "Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on pairing premium materials with innovative functionality. \"Somewhere along the way, we accepted that the electronics we…",
-      "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
-      "published": "2026-11-03T14:00:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pd4.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "df88ed1b1ee1eeaf",
-      "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
-      "summary": "Three years ago, I told you how home 3D printers had evolved for speed, producing parts in minutes that used to take hours or days. Now, the next evolution is here: printers that can swap between materials on the fly, mix different colors to produce nearly the full rainbow, mix soft and hard materials, and […]",
-      "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
-      "published": "2026-11-03T14:00:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-h3c.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "20ae367a190a3846",
-      "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
-      "summary": "The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in bed or gaming on the subway. As most of the rest of the iPad line has tilted ever […]",
-      "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
-      "published": "2026-11-03T14:00:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "1ca107908546abd6",
-      "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
-      "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this partnership, but Adobe said it will include \"popular songs\" from \"leading artists,\" and enable Premiere mobile…",
-      "link": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
-      "published": "2026-11-03T14:00:00Z",
-      "source": "The Verge",
-      "category": "Desarrollo",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Premiere-mobile-UMG-WMG.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b6fb6d42948b3be8",
-      "title": "iPad mini (A20 Pro) review: Apple's tiny tablet gets a big update",
-      "summary": "Apple made significant improvements to the iPad mini this year, but they don't come cheap.",
-      "link": "https://www.engadget.com/2304616/apple-ipad-mini-a20-pro-review",
-      "published": "2026-11-03T14:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/ipad-mini-a20-pro-review-apples-tiny-tablet-gets-a-big-update/l-intro-1793652645.jpg"
-    },
-    {
-      "id": "e0fcb839ee5f1bad",
-      "title": "Peak Design launches premium charging accessories to complement its bags and tripods",
-      "summary": "Peak Design fans, rejoice. The company is now ready to show off its debut collection of smartphone chargers, cables and batteries.",
-      "link": "https://www.engadget.com/2305009/peak-design-premium-chargers-batteries-cables-accessories",
-      "published": "2026-11-03T14:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/peak-design-launches-premium-charging-accessories-to-go-with-its-premium-tripods-and-bags/l-intro-1793700205.jpg"
-    },
-    {
-      "id": "9865ba2a6ee710cb",
-      "title": "Un delantero del Tenerife ha muerto tras un rodillazo. La pregunta ahora es si Jesús Owono afronta responsabilidades penales",
-      "summary": "La secuencia hiela la sangre . Jesús de Miguel, delantero del CD Tenerife, recibe un despeje durante un partido contra el Andorra, pero antes incluso de controlar el balón sufre un golpe brutal del guardameta del equipo contrario, Jesús Owono. El choque es tremendo. Terrible. Owono parece golpear el pecho y rostro de…",
-      "link": "https://www.xataka.com/magnet/delantero-tenerife-ha-muerto-rodillazo-pregunta-ahora-jesus-owono-afronta-responsabilidades-penales",
-      "published": "2026-11-03T13:45:27Z",
+      "id": "cdf46f6b9a64df10",
+      "title": "Samsung suma a un nuevo integrante a su catálogo de auriculares: así son los Galaxy Buds On orientados a tener un mejor confort",
+      "summary": "Este ha sido un año en el que Samsung ha presentado varios auriculares. Primero tuvimos los Galaxy Buds4 y Galaxy Buds4 Pro y ahora ha llegado un nuevo integrante a la familia: los Samsung Galaxy Buds On , que además se distancian del formato que veníamos viendo en anteriores auriculares de la marca. Un diseño…",
+      "link": "https://www.xataka.com/seleccion/samsung-suma-a-nuevo-integrante-a-su-catalogo-auriculares-asi-galaxy-buds-on-orientados-a-tener-mejor-confort",
+      "published": "2026-11-04T17:15:26Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/2c5d64/portada/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/68c405/samsung-galaxy-on/1024_2000.jpeg"
     },
     {
-      "id": "42d99a86f2c1fdb1",
-      "title": "El Internet de las Cosas parecía una gran idea en 2013: los supermercados de Europa están descubriendo que con la IA no lo era tanto",
-      "summary": "La noche del 11 al 12 de octubre, unos ciberdelincuentes tomaron el control de los sistemas de refrigeración de cientos de supermercados en Francia. Las temperaturas en las neveras y congeladores ascendieron hasta los 50 °C, lo que estropeó alimentos y provocó hasta incendios en varios establecimientos. Tres semanas…",
-      "link": "https://www.xataka.com/seguridad/internet-cosas-parecia-gran-idea-2013-supermercados-europa-estan-descubriendo-que-ia-no-era",
-      "published": "2026-11-03T13:45:27Z",
-      "source": "Xataka",
+      "id": "ade36ed7f27b5e08",
+      "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+      "summary": "The TVPort project is another example of people using Claude Code to bring software to other platforms",
+      "link": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv",
+      "published": "2026-11-04T17:15:09Z",
+      "source": "Engadget",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/e25ff4/sandra-tan-ot_id6pyvom-unsplash/1024_2000.jpeg"
-    },
-    {
-      "id": "26e2dff1c2583b1c",
-      "title": "The reason why some USB ports are black",
-      "summary": "USB ports come in multiple colors, from eye-catching ones like orange and purple to plain old black ports. Here's what the latter signifies.",
-      "link": "https://www.engadget.com/2303524/reason-why-usb-ports-black",
-      "published": "2026-11-03T13:45:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-reason-why-some-usb-ports-are-black/l-intro-1793589556.jpg"
-    },
-    {
-      "id": "1af3381a37268694",
-      "title": "Lidl tiene rebajada (a menos de 30 euros) la solución para decirle adiós a los microcortes de Internet en casa",
-      "summary": "Ampliar la cobertura del router a todas las esquinas del hogar suele requerir configuraciones complejas o la instalación de costosos sistemas de red en malla (WiFi Mesh). Sin embargo, en el bazar online de Lidl hemos localizado un dispositivo ideal para acabar con las zonas muertas de forma económica. Se trata del…",
-      "link": "https://www.xataka.com/seleccion/lidl-tiene-rebajada-a-30-euros-solucion-para-decirle-adios-a-microcortes-internet-casa",
-      "published": "2026-11-03T13:31:30Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/ac2907/img_3112/1024_2000.jpeg"
+      "imageUrl": "https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg"
     }
   ]
 }

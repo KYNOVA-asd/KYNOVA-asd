@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-04T19:49:55.511545Z",
+  "generatedAt": "2026-11-05T20:00:15.434573Z",
   "count": 12,
   "items": [
+    {
+      "id": "ADxt15xiepw",
+      "title": "Brains Over Bots: The Human Side of AI",
+      "channelTitle": "Metricool",
+      "published": "2026-11-05T06:03:41Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ADxt15xiepw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ADxt15xiepw"
+    },
     {
       "id": "4NskDvWA4nU",
       "title": "How to duplicate posts across brands with Metricool",
@@ -100,15 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=SMGg7iisHmc"
-    },
-    {
-      "id": "ADxt15xiepw",
-      "title": "Brains Over Bots: The Human Side of AI",
-      "channelTitle": "Metricool",
-      "published": "2026-10-22T20:40:00Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ADxt15xiepw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=ADxt15xiepw"
     }
   ]
 }

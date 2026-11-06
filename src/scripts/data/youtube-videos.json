@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-11-05T20:00:15.434573Z",
+  "generatedAt": "2026-11-06T19:27:48.542442Z",
   "count": 12,
   "items": [
+    {
+      "id": "iw9SZgyahqg",
+      "title": "The one thing holding theoretical CS together just broke... kinda",
+      "channelTitle": "Fireship",
+      "published": "2026-11-06T16:42:38Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=iw9SZgyahqg"
+    },
+    {
+      "id": "POXkkU3xjfM",
+      "title": "How to Delete a Pinterest Board",
+      "channelTitle": "Metricool",
+      "published": "2026-11-05T21:31:40Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/POXkkU3xjfM/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=POXkkU3xjfM"
+    },
     {
       "id": "ADxt15xiepw",
       "title": "Brains Over Bots: The Human Side of AI",
@@ -91,24 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=G_em1hHPnXY"
-    },
-    {
-      "id": "U6YfVCKPuMQ",
-      "title": "How to Connect LinkedIn to ChatGPT + 3 Ways to Use It",
-      "channelTitle": "Metricool",
-      "published": "2026-10-25T08:45:28Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/U6YfVCKPuMQ/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=U6YfVCKPuMQ"
-    },
-    {
-      "id": "SMGg7iisHmc",
-      "title": "The most vulnerable week in internet history...",
-      "channelTitle": "Fireship",
-      "published": "2026-10-23T18:19:58Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=SMGg7iisHmc"
     }
   ]
 }

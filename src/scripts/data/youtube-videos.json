@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-06T19:27:48.542442Z",
+  "generatedAt": "2026-11-08T13:31:12.891023Z",
   "count": 12,
   "items": [
+    {
+      "id": "v0KF3faqa7o",
+      "title": "How to Plan a Black Friday Social Media Campaign (We Analyzed 100+ Posts)",
+      "channelTitle": "Metricool",
+      "published": "2026-11-08T08:15:00Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v0KF3faqa7o/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=v0KF3faqa7o"
+    },
     {
       "id": "iw9SZgyahqg",
       "title": "The one thing holding theoretical CS together just broke... kinda",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/BQ0YgdX6S1c/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=BQ0YgdX6S1c"
-    },
-    {
-      "id": "G_em1hHPnXY",
-      "title": "China just dropped a new frontier model... and nobody can explain how",
-      "channelTitle": "Fireship",
-      "published": "2026-10-26T18:55:29Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=G_em1hHPnXY"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-08T13:31:12.891023Z",
+  "generatedAt": "2026-11-09T22:25:47.578590Z",
   "count": 12,
   "items": [
+    {
+      "id": "pf5tXJZM1Rw",
+      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
+      "channelTitle": "Fireship",
+      "published": "2026-11-09T21:04:16Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=pf5tXJZM1Rw"
+    },
     {
       "id": "v0KF3faqa7o",
       "title": "How to Plan a Black Friday Social Media Campaign (We Analyzed 100+ Posts)",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/_KqimpE_inQ/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=_KqimpE_inQ"
-    },
-    {
-      "id": "BQ0YgdX6S1c",
-      "title": "How to build a Marketing Dashboard in a matter of clicks",
-      "channelTitle": "Metricool",
-      "published": "2026-10-26T20:31:29Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/BQ0YgdX6S1c/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=BQ0YgdX6S1c"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-09T22:25:47.578590Z",
+  "generatedAt": "2026-11-10T19:48:00.409884Z",
   "count": 12,
   "items": [
+    {
+      "id": "1FurWDiK9A4",
+      "title": "Did Anthropic just save its $1 trillion IPO?",
+      "channelTitle": "Fireship",
+      "published": "2026-11-10T18:19:55Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=1FurWDiK9A4"
+    },
     {
       "id": "pf5tXJZM1Rw",
       "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
@@ -100,15 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=nEaJMdM1djM"
-    },
-    {
-      "id": "_KqimpE_inQ",
-      "title": "How to add a post to your SmartLink while scheduling it in Metricool",
-      "channelTitle": "Metricool",
-      "published": "2026-10-28T11:00:16Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_KqimpE_inQ/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=_KqimpE_inQ"
     }
   ]
 }

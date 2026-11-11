@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-10T19:48:00.409884Z",
+  "generatedAt": "2026-11-11T19:39:21.966867Z",
   "count": 12,
   "items": [
+    {
+      "id": "91HFNjV5HYo",
+      "title": "We put together the full routine of a social media manager who stays on top of it",
+      "channelTitle": "Metricool",
+      "published": "2026-11-10T21:31:42Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/91HFNjV5HYo/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=91HFNjV5HYo"
+    },
     {
       "id": "1FurWDiK9A4",
       "title": "Did Anthropic just save its $1 trillion IPO?",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/7zDO7d4cVtw/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=7zDO7d4cVtw"
-    },
-    {
-      "id": "nEaJMdM1djM",
-      "title": "Did the AI bubble just pop?",
-      "channelTitle": "Fireship",
-      "published": "2026-10-28T13:31:29Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=nEaJMdM1djM"
     }
   ]
 }

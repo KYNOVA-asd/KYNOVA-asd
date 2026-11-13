@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-11-11T19:39:21.966867Z",
+  "generatedAt": "2026-11-13T19:46:59.917274Z",
   "count": 12,
   "items": [
+    {
+      "id": "SOwUWPtXQ9I",
+      "title": "Jensen Huang just pulled out of Nvidia...",
+      "channelTitle": "Fireship",
+      "published": "2026-11-12T21:17:10Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SOwUWPtXQ9I/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=SOwUWPtXQ9I"
+    },
+    {
+      "id": "TvzZsWh4OhY",
+      "title": "How to Beat Social Media Burnout as a Creator",
+      "channelTitle": "Metricool",
+      "published": "2026-11-12T21:05:29Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TvzZsWh4OhY/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TvzZsWh4OhY"
+    },
     {
       "id": "91HFNjV5HYo",
       "title": "We put together the full routine of a social media manager who stays on top of it",
@@ -91,24 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=k2ruCf_z75I"
-    },
-    {
-      "id": "TrrwFXZK8vc",
-      "title": "How to Use Claude for Social Media: Full Tutorial",
-      "channelTitle": "Metricool",
-      "published": "2026-11-01T08:00:17Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TrrwFXZK8vc/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=TrrwFXZK8vc"
-    },
-    {
-      "id": "7zDO7d4cVtw",
-      "title": "Is Instagram Plus Worth $3.99 a Month?",
-      "channelTitle": "Metricool",
-      "published": "2026-10-28T20:32:08Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7zDO7d4cVtw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=7zDO7d4cVtw"
     }
   ]
 }

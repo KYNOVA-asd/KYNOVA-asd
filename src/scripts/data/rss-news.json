@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-11-14T22:29:31.808043Z",
+  "generatedAt": "2026-11-15T18:54:33.926361Z",
   "count": 12,
   "items": [
     {
-      "id": "ee18a1a4e0db9e59",
-      "title": "How to get better results from Google Gemini",
-      "summary": "These tips and tricks will help you prompt Gemini better.",
-      "link": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini",
-      "published": "2026-11-14T22:15:00Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-get-better-results-from-google-gemini/l-intro-1794346807.jpg"
-    },
-    {
-      "id": "36188c8efdd13df9",
-      "title": "Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?",
-      "summary": "This Pro upgrade is messier than the typical year-over-year refresh, but the new flagship does give us a pretty good idea of where Honor put its priorities.",
-      "link": "https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison",
-      "published": "2026-11-14T22:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/honor-magic8-pro-vs-magic9-pro-max-whats-been-upgraded/l-intro-1793827245.jpg"
-    },
-    {
-      "id": "f715fb776cb135cd",
-      "title": "Here's when a dedicated graphics card is worth it",
-      "summary": "Modern iGPUs are surprisingly capable, but they aren't without limitations.",
-      "link": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it",
-      "published": "2026-11-14T21:45:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/heres-when-a-dedicated-graphics-card-is-worth-it/l-intro-1794342731.jpg"
-    },
-    {
-      "id": "c319b12e1cc2fac3",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the…",
-      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "published": "2026-11-14T21:44:44Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "20b9ab65b5ed5095",
-      "title": "The reasons why your TV soundbar has an audio delay",
-      "summary": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
-      "link": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay",
-      "published": "2026-11-14T21:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg"
-    },
-    {
-      "id": "7d710894f2f11493",
-      "title": "Why some USB ports are yellow (and less common than others)",
-      "summary": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
-      "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common",
-      "published": "2026-11-14T21:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/why-some-usb-ports-are-yellow-and-less-common-than-others/l-intro-1794332281.jpg"
-    },
-    {
-      "id": "6321cbfa67f4df98",
-      "title": "How to clear the cache on your Samsung TV",
-      "summary": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out – and how.",
-      "link": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv",
-      "published": "2026-11-14T21:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-samsung-tv/l-intro-1794330105.jpg"
-    },
-    {
-      "id": "a6a42d340b6454c1",
-      "title": "SpaceX successfully catches Starship after launch for the first time",
-      "summary": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship.",
-      "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time",
-      "published": "2026-11-14T20:54:14Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/l-intro-1794693469.jpg"
-    },
-    {
-      "id": "2a60713e3954ae78",
-      "title": "How to clear the cache on your Xbox Series X",
-      "summary": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
-      "link": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x",
-      "published": "2026-11-14T20:45:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-xbox-series-x/l-intro-1794327413.jpg"
-    },
-    {
-      "id": "6fedbaa789efb8ce",
-      "title": "Is your car tracking your location? Here's how to check and opt out",
-      "summary": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
-      "link": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out",
-      "published": "2026-11-14T20:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/is-your-car-tracking-your-location-heres-how-to-check-and-opt-out/l-intro-1794245169.jpg"
-    },
-    {
-      "id": "96923b6b0966a4c7",
-      "title": "This built-in Windows tool can diagnose your PC's battery health",
-      "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report. We'll show you how to use it.",
-      "link": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg",
-      "published": "2026-11-14T20:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/this-built-in-windows-tool-can-diagnose-your-pcs-battery-health/l-intro-1794326458.jpg"
-    },
-    {
-      "id": "499978c248e882ad",
-      "title": "El Schlörwagen, el superaerodinámico y peligrosísimo coche alemán que intentó revolucionar el mundo en 1939",
-      "summary": "En la década de 1930 casi todos los coches seguían el mismo patrón : grandes partes delanteras —los motores eran enormes— y habitáculos reducidos. Las líneas no eran especialmente curvas y la aerodinámica parecía ser un factor secundario. Y entonces llegó el Schlörwagen . Lo hizo en 1939 de la mano de Karl Schlör, un…",
-      "link": "https://www.xataka.com/movilidad/schlorwagen-superaerodinamico-peligrosisimo-coche-aleman-que-intento-revolucionar-mundo-1939",
-      "published": "2026-11-14T20:01:21Z",
+      "id": "4050c3a18d5e113c",
+      "title": "Tatooine no es tan descabellado: en un sistema con dos soles a 16 años luz es posible que existan planetas habitables",
+      "summary": "Hace mucho tiempo que sabemos que Tatooine es mucho más que ciencia ficción . Los planetas con dos soles existen, es cierto. Ahora bien, ¿podría haber vida en ellos, igual que en Star Wars? Exactamente como en la película sería bastante más complicado, pero si no nos ceñimos a la vida compleja la cosa cambia. Según…",
+      "link": "https://www.xataka.com/espacio/otros-estudios-habian-encontrado-tatooine-vida-real-solo-este-apunta-a-planeta-masa-terrestre",
+      "published": "2026-11-15T18:31:22Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/3c0390/schlorwagen_with_a_russian_aircraft_power_unit/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/2579b5/planeta-con-dos-soles/1024_2000.jpeg"
+    },
+    {
+      "id": "21f0c4088a6d4ff8",
+      "title": "The camera sensor cleaning mistake you don't want to make",
+      "summary": "A speck of dust on your camera's sensor can negatively affect your photos, but it's important to avoid this cleaning mistake so you don't damage your camera.",
+      "link": "https://www.engadget.com/2313770/camera-sensor-cleaning-mistake-to-avoid",
+      "published": "2026-11-15T18:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/the-camera-sensor-cleaning-mistake-you-dont-want-to-make/l-intro-1794336026.jpg"
+    },
+    {
+      "id": "0c779b7fff644026",
+      "title": "Sleep vs. shutdown: When to use these modes on your mini PC",
+      "summary": "Here's how to determine if you should choose the sleep or shutdown mode on your mini PC. We'll also discuss the meaning of hibernation mode.",
+      "link": "https://www.engadget.com/2313768/when-to-use-sleep-vs-shutdown-mini-pc",
+      "published": "2026-11-15T18:15:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/sleep-vs-shutdown-when-to-use-these-modes-on-your-mini-pc/l-intro-1794322204.jpg"
+    },
+    {
+      "id": "06a8da09503d387d",
+      "title": "Llevamos años llamando \"superalimento al arándano, pero ya hemos encontrado un problema en muchos de los estudios que lo alaban",
+      "summary": "El arándano lleva años coronando las listas de \"superalimentos\" con promesas que abarcan desde la prevención de infartos hasta mejoras milagrosas en la memoria, haciendo que mucha gente lo lleve en su carro de la compra. Pero la pregunta que debemos hacernos en estos casos es si de verdad hay evidencias sólidas que…",
+      "link": "https://www.xataka.com/medicina-y-salud/arandano-lleva-anos-acumulando-promesas-nuestra-salud-ciencia-empieza-a-separar-que-funciona-que-puro-marketing",
+      "published": "2026-11-15T18:01:21Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/379abb/arandanos/1024_2000.jpeg"
+    },
+    {
+      "id": "49bef6dc27f8419c",
+      "title": "Un propietario es obligado a retirar la cubierta de madera que había instalado en la pérgola porque la comunidad solo le dio permiso para poner un toldo de tela",
+      "summary": "El propietario deberá retirar la cubierta de madera que ha colocado sobre la pérgola de su patio. El dueño de la casa había solicitado el correspondiente permiso a la comunidad para instalar una estructura desmontable con toldos beige (como en los otros patios). Así fue aprobado el proyecto de la obra. Sin embargo,…",
+      "link": "https://www.genbeta.com/vivienda/propietario-obligado-a-retirar-cubierta-madera-que-habia-instalado-pergola-porque-comunidad-solo-le-dio-permiso-para-poner-toldo-tela",
+      "published": "2026-11-15T18:01:21Z",
+      "source": "Genbeta",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/62c8ca/pergola/1024_2000.jpeg"
+    },
+    {
+      "id": "499a3bbab0121029",
+      "title": "Don't throw away your old TV - Here's what to do instead",
+      "summary": "Your used TV could be well-qualified for a new job, and if it is time to retire the ol' telly, you'll want to make sure you do so the right way.",
+      "link": "https://www.engadget.com/2313763/dont-throw-away-your-old-tv-without-checking-first",
+      "published": "2026-11-15T18:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-tv-heres-what-to-do-instead/l-intro-1794325462.jpg"
+    },
+    {
+      "id": "2ae520be70cc90da",
+      "title": "Open-ear vs. in-ear earbuds: Which is actually better for your ears?",
+      "summary": "Open-ear and in-ear earbuds are designed differently, but those differences can have a bigger impact on daily listening than many people realize.",
+      "link": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better",
+      "published": "2026-11-15T17:45:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/open-ear-vs-in-ear-earbuds-which-is-actually-better-for-your-ears/l-intro-1794009893.jpg"
+    },
+    {
+      "id": "d138bbb5dc2a31e9",
+      "title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
+      "summary": "Meta is reportedly planning to appeal the fine.",
+      "link": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos",
+      "published": "2026-11-15T17:44:06Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/l-intro-1794764033.jpg"
+    },
+    {
+      "id": "592727e10d378d36",
+      "title": "Your phone's 'Airplane Mode' can save you from unexpected charges on cruise ships",
+      "summary": "Maritime cellular networks can rack up roaming fees on your cruise without a single call or text. Here's how to stay connected and avoid the bill.",
+      "link": "https://www.engadget.com/2313758/phone-airplane-mode-save-unexpected-charges-cruise-ships",
+      "published": "2026-11-15T17:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/your-phones-airplane-mode-can-save-you-from-unexpected-charges-on-cruise-ships/l-intro-1793996591.jpg"
+    },
+    {
+      "id": "5e58e6550af7034c",
+      "title": "Should you keep your smart home gadgets on a separate home network?",
+      "summary": "A dedicated network for smart home devices may sound excessive, but there may be reasons to separate those gadgets from everything else on your network.",
+      "link": "https://www.engadget.com/2313757/should-smart-devices-use-separate-wifi",
+      "published": "2026-11-15T17:15:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/should-you-keep-your-smart-home-gadgets-on-a-separate-home-network/l-intro-1794011186.jpg"
+    },
+    {
+      "id": "be913f563d4717bb",
+      "title": "EEUU mira al fondo del agua para montar sus centros de datos y los Grandes Lagos tienen todas las papeletas",
+      "summary": "Los centros de datos para la IA generan rechazo a lo largo y ancho del planeta y Estados Unidos, uno de los lugares donde más datacenters hay, ya les ha dicho que no hasta en referéndums . Da igual, siguen siendo esenciales para el despegue de la inteligencia artificial y hay mucho dinero encima de la mesa como para…",
+      "link": "https://www.xataka.com/robotica-e-ia/eeuu-mira-al-fondo-agua-para-montar-sus-centros-datos-grandes-lagos-tienen-todas-papeletas",
+      "published": "2026-11-15T17:01:24Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/e752ab/gemini_generated_image_aqf5vtaqf5vtaqf5/1024_2000.jpeg"
+    },
+    {
+      "id": "691fdaebdd0d8147",
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limited time. Fanttik’s…",
+      "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "published": "2026-11-15T17:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

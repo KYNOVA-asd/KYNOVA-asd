@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-14T22:29:32.358581Z",
+  "generatedAt": "2026-11-15T18:54:34.943619Z",
   "count": 12,
   "items": [
+    {
+      "id": "bd5iCwPSfwM",
+      "title": "Notion Social Media Planner: Schedule a Month of Posts with Claude (Free Template)",
+      "channelTitle": "Metricool",
+      "published": "2026-11-15T08:45:16Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bd5iCwPSfwM/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=bd5iCwPSfwM"
+    },
     {
       "id": "SOwUWPtXQ9I",
       "title": "Jensen Huang just pulled out of Nvidia...",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/MM2lC70RYUo/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=MM2lC70RYUo"
-    },
-    {
-      "id": "k2ruCf_z75I",
-      "title": "The worst week in cybersecurity history... so far",
-      "channelTitle": "Fireship",
-      "published": "2026-11-03T19:47:10Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=k2ruCf_z75I"
     }
   ]
 }

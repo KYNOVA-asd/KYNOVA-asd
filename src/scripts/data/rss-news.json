@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-11-15T18:54:33.926361Z",
+  "generatedAt": "2026-11-16T22:10:57.009082Z",
   "count": 12,
   "items": [
     {
-      "id": "4050c3a18d5e113c",
-      "title": "Tatooine no es tan descabellado: en un sistema con dos soles a 16 años luz es posible que existan planetas habitables",
-      "summary": "Hace mucho tiempo que sabemos que Tatooine es mucho más que ciencia ficción . Los planetas con dos soles existen, es cierto. Ahora bien, ¿podría haber vida en ellos, igual que en Star Wars? Exactamente como en la película sería bastante más complicado, pero si no nos ceñimos a la vida compleja la cosa cambia. Según…",
-      "link": "https://www.xataka.com/espacio/otros-estudios-habian-encontrado-tatooine-vida-real-solo-este-apunta-a-planeta-masa-terrestre",
-      "published": "2026-11-15T18:31:22Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/2579b5/planeta-con-dos-soles/1024_2000.jpeg"
-    },
-    {
-      "id": "21f0c4088a6d4ff8",
-      "title": "The camera sensor cleaning mistake you don't want to make",
-      "summary": "A speck of dust on your camera's sensor can negatively affect your photos, but it's important to avoid this cleaning mistake so you don't damage your camera.",
-      "link": "https://www.engadget.com/2313770/camera-sensor-cleaning-mistake-to-avoid",
-      "published": "2026-11-15T18:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-camera-sensor-cleaning-mistake-you-dont-want-to-make/l-intro-1794336026.jpg"
-    },
-    {
-      "id": "0c779b7fff644026",
-      "title": "Sleep vs. shutdown: When to use these modes on your mini PC",
-      "summary": "Here's how to determine if you should choose the sleep or shutdown mode on your mini PC. We'll also discuss the meaning of hibernation mode.",
-      "link": "https://www.engadget.com/2313768/when-to-use-sleep-vs-shutdown-mini-pc",
-      "published": "2026-11-15T18:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/sleep-vs-shutdown-when-to-use-these-modes-on-your-mini-pc/l-intro-1794322204.jpg"
-    },
-    {
-      "id": "06a8da09503d387d",
-      "title": "Llevamos años llamando \"superalimento al arándano, pero ya hemos encontrado un problema en muchos de los estudios que lo alaban",
-      "summary": "El arándano lleva años coronando las listas de \"superalimentos\" con promesas que abarcan desde la prevención de infartos hasta mejoras milagrosas en la memoria, haciendo que mucha gente lo lleve en su carro de la compra. Pero la pregunta que debemos hacernos en estos casos es si de verdad hay evidencias sólidas que…",
-      "link": "https://www.xataka.com/medicina-y-salud/arandano-lleva-anos-acumulando-promesas-nuestra-salud-ciencia-empieza-a-separar-que-funciona-que-puro-marketing",
-      "published": "2026-11-15T18:01:21Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/379abb/arandanos/1024_2000.jpeg"
-    },
-    {
-      "id": "49bef6dc27f8419c",
-      "title": "Un propietario es obligado a retirar la cubierta de madera que había instalado en la pérgola porque la comunidad solo le dio permiso para poner un toldo de tela",
-      "summary": "El propietario deberá retirar la cubierta de madera que ha colocado sobre la pérgola de su patio. El dueño de la casa había solicitado el correspondiente permiso a la comunidad para instalar una estructura desmontable con toldos beige (como en los otros patios). Así fue aprobado el proyecto de la obra. Sin embargo,…",
-      "link": "https://www.genbeta.com/vivienda/propietario-obligado-a-retirar-cubierta-madera-que-habia-instalado-pergola-porque-comunidad-solo-le-dio-permiso-para-poner-toldo-tela",
-      "published": "2026-11-15T18:01:21Z",
-      "source": "Genbeta",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/62c8ca/pergola/1024_2000.jpeg"
-    },
-    {
-      "id": "499a3bbab0121029",
-      "title": "Don't throw away your old TV - Here's what to do instead",
-      "summary": "Your used TV could be well-qualified for a new job, and if it is time to retire the ol' telly, you'll want to make sure you do so the right way.",
-      "link": "https://www.engadget.com/2313763/dont-throw-away-your-old-tv-without-checking-first",
-      "published": "2026-11-15T18:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-tv-heres-what-to-do-instead/l-intro-1794325462.jpg"
-    },
-    {
-      "id": "2ae520be70cc90da",
-      "title": "Open-ear vs. in-ear earbuds: Which is actually better for your ears?",
-      "summary": "Open-ear and in-ear earbuds are designed differently, but those differences can have a bigger impact on daily listening than many people realize.",
-      "link": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better",
-      "published": "2026-11-15T17:45:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/open-ear-vs-in-ear-earbuds-which-is-actually-better-for-your-ears/l-intro-1794009893.jpg"
-    },
-    {
-      "id": "d138bbb5dc2a31e9",
-      "title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
-      "summary": "Meta is reportedly planning to appeal the fine.",
-      "link": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos",
-      "published": "2026-11-15T17:44:06Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/l-intro-1794764033.jpg"
-    },
-    {
-      "id": "592727e10d378d36",
-      "title": "Your phone's 'Airplane Mode' can save you from unexpected charges on cruise ships",
-      "summary": "Maritime cellular networks can rack up roaming fees on your cruise without a single call or text. Here's how to stay connected and avoid the bill.",
-      "link": "https://www.engadget.com/2313758/phone-airplane-mode-save-unexpected-charges-cruise-ships",
-      "published": "2026-11-15T17:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/your-phones-airplane-mode-can-save-you-from-unexpected-charges-on-cruise-ships/l-intro-1793996591.jpg"
-    },
-    {
-      "id": "5e58e6550af7034c",
-      "title": "Should you keep your smart home gadgets on a separate home network?",
-      "summary": "A dedicated network for smart home devices may sound excessive, but there may be reasons to separate those gadgets from everything else on your network.",
-      "link": "https://www.engadget.com/2313757/should-smart-devices-use-separate-wifi",
-      "published": "2026-11-15T17:15:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/should-you-keep-your-smart-home-gadgets-on-a-separate-home-network/l-intro-1794011186.jpg"
-    },
-    {
-      "id": "be913f563d4717bb",
-      "title": "EEUU mira al fondo del agua para montar sus centros de datos y los Grandes Lagos tienen todas las papeletas",
-      "summary": "Los centros de datos para la IA generan rechazo a lo largo y ancho del planeta y Estados Unidos, uno de los lugares donde más datacenters hay, ya les ha dicho que no hasta en referéndums . Da igual, siguen siendo esenciales para el despegue de la inteligencia artificial y hay mucho dinero encima de la mesa como para…",
-      "link": "https://www.xataka.com/robotica-e-ia/eeuu-mira-al-fondo-agua-para-montar-sus-centros-datos-grandes-lagos-tienen-todas-papeletas",
-      "published": "2026-11-15T17:01:24Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/e752ab/gemini_generated_image_aqf5vtaqf5vtaqf5/1024_2000.jpeg"
-    },
-    {
-      "id": "691fdaebdd0d8147",
-      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limited time. Fanttik’s…",
-      "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
-      "published": "2026-11-15T17:00:00Z",
+      "id": "a27a4257daf04b16",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like…",
+      "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+      "published": "2026-11-16T21:41:57Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&strip=all&crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228"
+    },
+    {
+      "id": "288de4854b95a32b",
+      "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
+      "summary": "You won't need to wait for TouchID on your $2,000 foldable.",
+      "link": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta",
+      "published": "2026-11-16T21:17:24Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/the-iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/l-intro-1794863293.jpg"
+    },
+    {
+      "id": "45e3b08d71077302",
+      "title": "Every Xbox console generation sorted by release date",
+      "summary": "Microsoft debuted the Xbox in 2001, and there's quite a lot to look back on from the quarter-century since the company got into gaming.",
+      "link": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date",
+      "published": "2026-11-16T21:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/every-xbox-console-generation-sorted-by-release-date/l-intro-1794499952.jpg"
+    },
+    {
+      "id": "4a2e2b8dae4627a1",
+      "title": "Customers at major banks report difficulty accessing accounts online",
+      "summary": "Representatives from the companies say this is a technical problem and not a cyberattack.",
+      "link": "https://www.engadget.com/2318431/customers-at-major-banks-report-difficulty-accessing-accounts-online",
+      "published": "2026-11-16T20:49:32Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/customers-at-major-banks-report-difficulty-accessing-accounts-online/l-intro-1794862115.jpg"
+    },
+    {
+      "id": "5eb97c34dc0bb017",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "published": "2026-11-16T20:46:01Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0f46466adfdb934e",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "published": "2026-11-16T20:41:28Z",
+      "source": "The Verge",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "9d2982d2f42f3ef3",
+      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of…",
+      "link": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+      "published": "2026-11-16T20:36:14Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ea2b45bbfe30aab1",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue…",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "published": "2026-11-16T20:29:37Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "616d362bf0f56a20",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "published": "2026-11-16T20:27:58Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "f009ea9e3636afc9",
+      "title": "La guerra de Ucrania está teniendo un beneficiado inesperado: la minería ilegal de ámbar",
+      "summary": "Si nada cambia ( y parece difícil ) en febrero la guerra de Ucrania cumplirá cinco años, un lustro de enfrentamientos que se ha saldado con decenas de miles de fallecidos en ambos bandos, un gasto millonario en armamento y ayuda humanitaria y, en general, un tensionamiento en la geopolítica mundial que parece lejos…",
+      "link": "https://www.xataka.com/magnet/guerra-ucrania-esta-teniendo-beneficiado-inesperado-mineria-ilegal-ambar",
+      "published": "2026-11-16T20:01:25Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/95f43f/52006326315_033c5bcb63_k-1-/1024_2000.jpeg"
+    },
+    {
+      "id": "4a8b0cdbe94ed789",
+      "title": "California sues OpenAI after that Hugging Face rogue hacking incident",
+      "summary": "State AG Rob Bonta has accused the company of making AI agents \"without the safeguards and monitoring necessary to adequately protect\" users.",
+      "link": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident",
+      "published": "2026-11-16T19:52:24Z",
+      "source": "Engadget",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://www.engadget.com/img/gallery/california-sues-openai-after-that-hugging-face-rogue-hacking-incident/l-intro-1794858677.jpg"
+    },
+    {
+      "id": "8e84e3770e7a4477",
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day […]",
+      "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "published": "2026-11-16T19:50:47Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ]
 }

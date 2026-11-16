@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-15T18:54:34.943619Z",
+  "generatedAt": "2026-11-16T22:10:58.115008Z",
   "count": 12,
   "items": [
+    {
+      "id": "ytmawkPTP24",
+      "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+      "channelTitle": "Fireship",
+      "published": "2026-11-16T20:18:59Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ytmawkPTP24/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ytmawkPTP24"
+    },
     {
       "id": "bd5iCwPSfwM",
       "title": "Notion Social Media Planner: Schedule a Month of Posts with Claude (Free Template)",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/4NskDvWA4nU/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=4NskDvWA4nU"
-    },
-    {
-      "id": "MM2lC70RYUo",
-      "title": "This Claude agent designs and schedules your carousels",
-      "channelTitle": "Metricool",
-      "published": "2026-11-03T21:32:01Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MM2lC70RYUo/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=MM2lC70RYUo"
     }
   ]
 }

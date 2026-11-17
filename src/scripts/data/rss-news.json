@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-11-17T07:59:51.948008Z",
+  "generatedAt": "2026-11-17T20:59:10.364714Z",
   "count": 12,
   "items": [
     {
-      "id": "225ff272cde59391",
-      "title": "Hoy es uno de los desiertos más inhóspitos del planeta. Hace 125.000 años, Arabia Saudí tenía lagos, hipopótamos y humanos con armas",
-      "summary": "Hoy el Rub' al-Khali, el célebre Cuarto Vacío del sur de Arabia Saudí, es uno de los mares de arena más áridos e inhóspitos del planeta. Sin embargo, hace 125.000 años, en su margen suroccidental se extendía un lago de agua dulce de 340 kilómetros cuadrados rodeado de pastizales y palmeras. Ahora un nuevo estudio…",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/hoy-uno-desiertos-inhospitos-planeta-hace-125-000-anos-arabia-saudi-tenia-lagos-hipopotamos-humanos-armas",
-      "published": "2026-11-17T07:01:24Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/bb9922/dunas-arabias/1024_2000.jpeg"
-    },
-    {
-      "id": "20b32bc10151119b",
-      "title": "Apple adds new disk controls to prevent AI agents from running amok",
-      "summary": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
-      "link": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok",
-      "published": "2026-11-17T06:22:11Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/l-intro-1794896472.jpg"
-    },
-    {
-      "id": "3f08e672f957dc74",
-      "title": "En Oviedo han montado un cowork en mitad de la naturaleza y no faltan ni ayudas ni wifi de alta velocidad",
-      "summary": "Hay coworkings con unas vistas fantásticas en plantas de torres de oficinas, o en naves industriales reconvertidas. También los hay que son bajos y locales con humedades que da miedo verlos. Y luego está el que han montado en un bosque de Ribera de Arriba, a poco más de cinco minutos de Oviedo, con contenedores…",
-      "link": "https://www.xataka.com/magnet/oviedo-han-montado-cowork-mitad-naturaleza-no-faltan-ayudas-wifi-alta-velocidad",
-      "published": "2026-11-17T06:01:23Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/b828c1/hero-forest/1024_2000.jpeg"
-    },
-    {
-      "id": "d9bc270f23c478fa",
-      "title": "El chollo del día, hoy 17 de noviembre, en Lidl es esta solución sin obras para usar los enchufes desaprovechados tras los muebles o el sofá",
-      "summary": "Aunque el Black Friday de este año llegará oficialmente el viernes de la próxima semana, muchas tiendas ya han adelantado sus ofertas ya sea en forma de chollos anticipados o de Black Friday como tal. Una de ellas es Lidl que, con su Black Week , tiene con descuento parte de su popular catálogo. Y entre sus chollos…",
-      "link": "https://www.xataka.com/seleccion/chollo-dia-lidl-hoy-17-noviembre-esta-solucion-obras-para-usar-enchufes-desaprovechados-sofa-muebles",
-      "published": "2026-11-17T05:15:00Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/c9c35f/lidl-chollo-del-dia/1024_2000.jpeg"
-    },
-    {
-      "id": "1613d5268997498d",
-      "title": "Buying a used phone? Make sure to check the IMEI first",
-      "summary": "One of the most important parts of buying a used phone involves the device's IMEI number - which can reveal whether it has sketchy history and more.",
-      "link": "https://www.engadget.com/2315183/buying-used-phone-check-imei-first",
-      "published": "2026-11-17T01:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/buying-a-used-phone-make-sure-to-check-the-imei-first/l-intro-1794344192.jpg"
-    },
-    {
-      "id": "afa429bc714b3c7d",
-      "title": "Meta is testing Direct, a standalone messaging app for Instagram",
-      "summary": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
-      "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram",
-      "published": "2026-11-17T01:00:00Z",
-      "source": "Engadget",
+      "id": "73f3c396c073fda1",
+      "title": "Instagram is helping creators crack down on copycat videos",
+      "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match…",
+      "link": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+      "published": "2026-11-17T20:46:31Z",
+      "source": "The Verge",
       "category": "Marketing",
-      "imageUrl": "https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "27e60cf7f819f9e9",
-      "title": "The important Gmail security settings you should be using",
-      "summary": "If you haven't taken steps to secure your Gmail account recently, it's time to log in and make sure these settings are squared away.",
-      "link": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use",
-      "published": "2026-11-17T00:30:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-important-gmail-security-settings-you-should-be-using/l-intro-1794508364.jpg"
-    },
-    {
-      "id": "b5ec5468aaac155c",
-      "title": "Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts",
-      "summary": "Hoping the Jensen Huang fallout means cheap RTX cards this Black Friday? Here's what's really driving GPU prices and why deals may be hard to find.",
-      "link": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal",
-      "published": "2026-11-17T00:00:00Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/whether-its-black-friday-or-a-ceo-scandal-nvidia-gpus-just-dont-get-deep-discounts/l-intro-1794856807.jpg"
-    },
-    {
-      "id": "e242ad74e03e30b6",
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in…",
-      "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "published": "2026-11-16T23:35:58Z",
+      "id": "5c0fd4f636c9f470",
+      "title": "Democrats try to figure out how not to get swept away by the blue wave",
+      "summary": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so others had just left \"What's Next,\" a conference organized by Majority Democrats, a group dedicated to…",
+      "link": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
+      "published": "2026-11-17T20:30:00Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304463879.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "1824f95d987ae493",
-      "title": "How to put your iPad in recovery mode (with and without a home button)",
-      "summary": "A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it's worth trying as a last resort.",
-      "link": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode",
-      "published": "2026-11-16T23:30:00Z",
-      "source": "Engadget",
+      "id": "b8f294a8e482f632",
+      "title": "Los 30 FPS de 'GTA VI' en todas las consolas es un fastidio. También el compromiso para que se vea como se ve",
+      "summary": "'GTA VI' está al caer y, superada la polémica por la ausencia de un formato físico de verdad y por lo que puede ocupar en consolas con un almacenamiento tan comprometido como Xbox Series S , la pregunta es por qué el juego más caro y ambicioso de la historia sólo va a 30 frames por segundo en todas las consolas,…",
+      "link": "https://www.xataka.com/videojuegos/30-fps-gta-vi-todas-consolas-fastidio-tambien-compromiso-se-vea-como-se-ve",
+      "published": "2026-11-17T20:01:24Z",
+      "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-put-your-ipad-in-recovery-mode-with-and-without-a-home-button/l-intro-1794505141.jpg"
+      "imageUrl": "https://i.blogs.es/388e1d/captura-de-pantalla-2026-11-17-a-las-14.59.03/1024_2000.png"
     },
     {
-      "id": "ae3d9685f670ac12",
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against…",
-      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "published": "2026-11-16T23:17:34Z",
+      "id": "84fed3ccbd810835",
+      "title": "Framework’s better couch keyboard is now available for preorder",
+      "summary": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Hollister who went hands-on with Framework's new all-in-one keyboard and touchpad last April, the company has succeeded in that…",
+      "link": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
+      "published": "2026-11-17T19:38:42Z",
       "source": "The Verge",
       "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/framework1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "9ae3fc8f6333419e",
-      "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
-      "summary": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid",
-      "link": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery",
-      "published": "2026-11-16T23:00:00Z",
+      "id": "9e54fdd9e48f441c",
+      "title": "California just banned Waymo from all state freeways",
+      "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th after two recent high-profile Bay Area incidents, in which Waymo robotaxis drove…",
+      "link": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
+      "published": "2026-11-17T19:38:05Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25211546/Waymo_One_I_PACE_on_Freeway_.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "649fb85c774271d6",
+      "title": "Google Wallet is launching on iOS",
+      "summary": "In case you, for some reason, don't want to use the nearly identical Apple Wallet.",
+      "link": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios",
+      "published": "2026-11-17T19:33:27Z",
       "source": "Engadget",
       "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-charging-mistakes-that-could-ruin-your-nintendo-switchs-battery/l-intro-1794501086.jpg"
+      "imageUrl": "https://www.engadget.com/img/gallery/google-wallet-is-launching-on-ios/l-intro-1794943971.jpg"
+    },
+    {
+      "id": "20fe0d851e57013b",
+      "title": "El Black Friday de PlayStation desploma el precio de casi todos sus DualSense: hay disponibles hasta ediciones limitadas con descuento",
+      "summary": "El Black Friday de PlayStation ha empezado con varios descuentos interesantes. Ya os contamos ayer la oferta que hay en PlayStation Plus , pero en esta ocasión nos vamos a centrar en los mandos. Porque sí, este mes de noviembre también es un buen momento para comprar un nuevo DualSense, ya sea para jugar con…",
+      "link": "https://www.xataka.com/seleccion/black-friday-playstation-desploma-precio-casi-todos-sus-dualsense-hay-disponibles-ediciones-limitadas-descuento",
+      "published": "2026-11-17T19:31:24Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/529af5/dualsense-playstation-black-friday/1024_2000.jpeg"
+    },
+    {
+      "id": "d0c147f44e8c0a80",
+      "title": "La testosterona es apta para tratar el deseo sexual femenino, pero se receta con geles pensados para hombres",
+      "summary": "Paula Vázquez estuvo el pasado lunes 16 de noviembre en La Revuelta junto a Carolina Iglesias y Dulceida para hablar de los premios Ídolo. Sin embargo, como es habitual en este programa, hablaron de otros muchos temas que poco tienen que ver con el certamen y terminaron la jugada hablando de sexo. En ese momento,…",
+      "link": "https://www.xataka.com/medicina-y-salud/testosterona-apta-para-tratar-deseo-sexual-femenino-se-receta-geles-pensados-para-hombres",
+      "published": "2026-11-17T19:31:24Z",
+      "source": "Xataka",
+      "category": "Marketing",
+      "imageUrl": "https://i.blogs.es/d7e45b/deseo-sexual/1024_2000.jpeg"
+    },
+    {
+      "id": "5343d0ac68839653",
+      "title": "3 Body Problem finally returns to Netflix on January 14",
+      "summary": "It's been nearly three years since the sci-fi adaptation first premiered.",
+      "link": "https://www.engadget.com/2319667/3-body-problem-finally-returns-to-netflix-on-january-14",
+      "published": "2026-11-17T19:30:34Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/3-body-problem-finally-returns-to-netflix-on-january-14/l-intro-1794943797.jpg"
+    },
+    {
+      "id": "b10da6a6f01ab98d",
+      "title": "Can you use a keyboard and mouse with an Xbox Series X?",
+      "summary": "Learn how to up your Xbox game with keyboard and mouse controls.",
+      "link": "https://www.engadget.com/2315395/use-keyboard-mouse-with-xbox-series-x",
+      "published": "2026-11-17T19:30:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/can-you-use-a-keyboard-and-mouse-with-an-xbox-series-x/l-intro-1794505611.jpg"
+    },
+    {
+      "id": "eb129a00d755ed24",
+      "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
+      "summary": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The deal is so good that my colleague John Higgins, The Verge’s audio and TV […]",
+      "link": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
+      "published": "2026-11-17T19:19:10Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25819374/jbl2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "aff9231f37acb848",
+      "title": "Los neandertales desaparecieron hace miles de años, pero una pequeña parte de ellos sigue trabajando dentro de nuestro cerebro",
+      "summary": "Hace decenas de miles de años, cuando el Homo sapiens salió de África y se cruzó con los neandertales en Eurasia, incorporó en su genética pequeños fragmentos de ADN de aquellos parientes extintos. Hoy sabemos que entre el 1 y el 2% del genoma de las poblaciones no africanas procede de aquellos encuentros y ahora…",
+      "link": "https://www.xataka.com/medicina-y-salud/neandertales-desaparecieron-hace-miles-anos-pequena-parte-ellos-sigue-trabajando-dentro-nuestro-cerebro",
+      "published": "2026-11-17T19:01:23Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/615ba4/pexels-ranjit-pradhan-943095-12520333/1024_2000.jpeg"
     }
   ]
 }

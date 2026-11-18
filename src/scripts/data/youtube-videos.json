@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-16T22:10:58.115008Z",
+  "generatedAt": "2026-11-18T20:37:19.582361Z",
   "count": 12,
   "items": [
+    {
+      "id": "YZZ9kOSko04",
+      "title": "How to edit images and videos in the Metricool planner",
+      "channelTitle": "Metricool",
+      "published": "2026-11-18T11:00:13Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YZZ9kOSko04/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=YZZ9kOSko04"
+    },
     {
       "id": "ytmawkPTP24",
       "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/ADxt15xiepw/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=ADxt15xiepw"
-    },
-    {
-      "id": "4NskDvWA4nU",
-      "title": "How to duplicate posts across brands with Metricool",
-      "channelTitle": "Metricool",
-      "published": "2026-11-04T11:00:02Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4NskDvWA4nU/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=4NskDvWA4nU"
     }
   ]
 }

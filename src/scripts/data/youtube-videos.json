@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-11-18T20:37:19.582361Z",
+  "generatedAt": "2026-11-19T20:42:36.715183Z",
   "count": 12,
   "items": [
+    {
+      "id": "IxOHdMoS7LY",
+      "title": "ASTRA 6.2 vs FABLE 5.2 vs GEMINI 4 NEON ¿Cuál es EL MEJOR MODELO?",
+      "channelTitle": "Dot CSV Lab",
+      "published": "2026-11-19T18:34:44Z",
+      "category": "IA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IxOHdMoS7LY/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=IxOHdMoS7LY"
+    },
+    {
+      "id": "Qxor6jpfSiU",
+      "title": "The only software that didn’t break this week...",
+      "channelTitle": "Fireship",
+      "published": "2026-11-19T17:40:33Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Qxor6jpfSiU/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=Qxor6jpfSiU"
+    },
     {
       "id": "YZZ9kOSko04",
       "title": "How to edit images and videos in the Metricool planner",
@@ -91,24 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=iw9SZgyahqg"
-    },
-    {
-      "id": "POXkkU3xjfM",
-      "title": "How to Delete a Pinterest Board",
-      "channelTitle": "Metricool",
-      "published": "2026-11-05T21:31:40Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/POXkkU3xjfM/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=POXkkU3xjfM"
-    },
-    {
-      "id": "ADxt15xiepw",
-      "title": "Brains Over Bots: The Human Side of AI",
-      "channelTitle": "Metricool",
-      "published": "2026-11-05T06:03:41Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ADxt15xiepw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=ADxt15xiepw"
     }
   ]
 }

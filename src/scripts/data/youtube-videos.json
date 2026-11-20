@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-19T20:42:36.715183Z",
+  "generatedAt": "2026-11-20T20:26:45.949707Z",
   "count": 12,
   "items": [
+    {
+      "id": "rMaMe32qQkA",
+      "title": "If you’ve deployed anything since 2015, I have bad news...",
+      "channelTitle": "Fireship",
+      "published": "2026-11-20T19:49:02Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rMaMe32qQkA/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=rMaMe32qQkA"
+    },
     {
       "id": "IxOHdMoS7LY",
       "title": "ASTRA 6.2 vs FABLE 5.2 vs GEMINI 4 NEON ¿Cuál es EL MEJOR MODELO?",
@@ -100,15 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/v0KF3faqa7o/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=v0KF3faqa7o"
-    },
-    {
-      "id": "iw9SZgyahqg",
-      "title": "The one thing holding theoretical CS together just broke... kinda",
-      "channelTitle": "Fireship",
-      "published": "2026-11-06T16:42:38Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=iw9SZgyahqg"
     }
   ]
 }

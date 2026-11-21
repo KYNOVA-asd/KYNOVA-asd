@@ -1,7 +1,107 @@
 {
-  "generatedAt": "2026-11-20T20:26:45.379432Z",
+  "generatedAt": "2026-11-21T07:15:53.772340Z",
   "count": 12,
   "items": [
+    {
+      "id": "cb7c69d3d526dc9a",
+      "title": "En 1919, un zaragozano patentó algo que revolucionó las cocinas de todo el mundo: la historia de la olla exprés",
+      "summary": "En una de las charlas TED más emblemáticas de la historia, Hans Rosling se plantó en el escenario con una lavadora . Así, como suena. El médico sueco contó que tenía cuatro años cuando vio a su madre poner, por primera vez en toda su vida, una lavadora. Contó cómo su abuela fue al primer uso de la máquina con un…",
+      "link": "https://www.xataka.com/magnet/1919-zaragozano-patento-algo-que-revoluciono-cocinas-todo-mundo-historia-olla-expres-1",
+      "published": "2026-11-21T06:30:27Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/f6acf2/photo-1740684431519-a7cc682834b2/1024_2000.jpeg"
+    },
+    {
+      "id": "32d3e8f25343bff8",
+      "title": "Pasó 680 días en Marruecos y siguió cobrando su pensión en España. La Justicia confirma las consecuencias: devolver 32.857 euros",
+      "summary": "Una pensionista de 77 años viajaba a Marruecos con frecuencia. Se quedaba semanas, a veces meses, y volvía cuando le convenía. Durante todo ese tiempo, la mujer recibía puntualmente su pensión y, durante años, nadie en la Administración puso el foco en esos viajes. Hasta que alguien sí lo hizo. El Tribunal Superior…",
+      "link": "https://www.xataka.com/empresas-y-economia/paso-680-dias-marruecos-siguio-cobrando-su-pension-espana-justicia-confirma-consecuencias-devolver-32-857-euros",
+      "published": "2026-11-21T06:02:20Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/2465ce/pexels-moe-magners-5336160/1024_2000.jpeg"
+    },
+    {
+      "id": "0218aefa3137263d",
+      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 21 de noviembre",
+      "summary": "Un fin de semana más entra en operación el calendario del Hoy No Circula sabatino, la estrategia ambiental mediante la cual la Secretaría de Medio Ambiente de la Ciudad de México ( SEDEMA ) restringe el tránsito de determinados automóviles para reducir los niveles de polución en el Valle de México.  Como cada sábado,…",
+      "link": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-21-noviembre",
+      "published": "2026-11-21T04:00:27Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/0c1356/armands-brants-o36exbgkd1g-unsplash/1024_2000.jpeg"
+    },
+    {
+      "id": "f429a070880c9de8",
+      "title": "Why you shouldn't depend on GTA 6 to auto-save",
+      "summary": "We explain how GTA 6's auto-save system works, so you don't accidentally lose progress in the massive game.",
+      "link": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save",
+      "published": "2026-11-20T23:48:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-you-shouldnt-depend-on-gta-6-to-auto-save/l-intro-1795168337.jpg"
+    },
+    {
+      "id": "657a619d6a0ba629",
+      "title": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts",
+      "summary": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.",
+      "link": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts",
+      "published": "2026-11-20T23:40:10Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/l-intro-1795217872.jpg"
+    },
+    {
+      "id": "96e921c4c8760dae",
+      "title": "The Internet Archive's workers are unionizing",
+      "summary": "None of their asks are radical: better pay, additional benefits that apply to everyone and paths for career development and promotion.",
+      "link": "https://www.engadget.com/2323828/the-internet-archives-workers-are-unionizing",
+      "published": "2026-11-20T22:15:03Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/the-internet-archives-workers-are-unionizing/l-intro-1795212757.jpg"
+    },
+    {
+      "id": "3d5d84f664cc966e",
+      "title": "How to stream GTA 6 on your iPhone, iPad or Mac",
+      "summary": "If you're excited about GTA 6, chances are you'll want to keep playing it when you're away from your console.",
+      "link": "https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac",
+      "published": "2026-11-20T21:50:12Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-stream-gta-6-on-your-iphone-ipad-or-mac/l-intro-1795210531.jpg"
+    },
+    {
+      "id": "bd271598618c4a3c",
+      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
+      "summary": "The historic launch is happening while Rockstar workers vote on union recognition.",
+      "link": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security",
+      "published": "2026-11-20T21:02:54Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/gta-6-made-3-79-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/l-intro-1795208536.jpg"
+    },
+    {
+      "id": "28a72b175fa002be",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would…",
+      "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "published": "2026-11-20T20:43:52Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "35f068ca468c21a7",
+      "title": "Germany seems to be serious about a TikTok Europe takeover",
+      "summary": "The company has called the idea \"nonsense.\"",
+      "link": "https://www.engadget.com/2323606/germany-seems-to-be-serious-about-a-tiktok-europe-takeover",
+      "published": "2026-11-20T20:35:35Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/l-intro-1795206896.jpg"
+    },
     {
       "id": "427b5464a7860dd6",
       "title": "Signal now blocks screenshots by default to stymie AI agents",
@@ -21,106 +121,6 @@
       "source": "Engadget",
       "category": "Tecnología",
       "imageUrl": "https://www.engadget.com/img/gallery/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/l-intro-1795204938.jpg"
-    },
-    {
-      "id": "2882a543aae6dc43",
-      "title": "This GTA 6 fast travel trick comes at a price",
-      "summary": "There are no shortage of travel options in GTA 6, but which one gets you there the quickest?",
-      "link": "https://www.engadget.com/2323486/gta-6-fast-travel-trick-price",
-      "published": "2026-11-20T19:32:34Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/this-gta-6-fast-travel-trick-comes-at-a-price/l-intro-1795169133.jpg"
-    },
-    {
-      "id": "b1cc63f9c3db7d29",
-      "title": "Freidora de aire y olla multifunción: este electrodoméstico 10 en 1 de Ninja es perfecto para cocinas pequeñas y un chollo hoy",
-      "summary": "Tener poco espacio en la encimera suele obligar a elegir entre una freidora de aire, una olla de cocción o una plancha eléctrica. Sin embargo, los robots de cocina compactos permiten reunir todo en un único aparato sin llenar la cocina de cacharros. Con las ofertas del Black Friday de Amazon, uno de los modelos más…",
-      "link": "https://www.xataka.com/seleccion/freidora-aire-olla-multifuncion-este-electrodomestico-10-1-ninja-perfecto-para-cocinas-pequenas-chollo-hoy",
-      "published": "2026-11-20T19:30:22Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/5ced4d/ninja-speedi-1-/1024_2000.jpeg"
-    },
-    {
-      "id": "7fb40abee5825fd2",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy […]",
-      "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "published": "2026-11-20T19:15:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b9c0bcc84455f2cb",
-      "title": "Muchas empresas firman el paro a un trabajador que se marcha voluntariamente: el SEPE tiene un mensaje para ellos",
-      "summary": "El trabajador sale de la empresa. Ha acumulado cotización suficiente para poder acceder al paro, pero por el tipo de salida no tiene derecho. Entonces puede pedir que la empresa “arregle los papeles”. Es decir, que conste que su salida fue un despido. El SEPE advierte que no puede ser la empresa quien otorgue este…",
-      "link": "https://www.genbeta.com/laboral/muchas-empresas-firman-paro-a-trabajador-que-se-marcha-voluntariamente-sepe-tiene-mensaje-para-ellos",
-      "published": "2026-11-20T19:00:26Z",
-      "source": "Genbeta",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/2b828f/trabajando/1024_2000.jpeg"
-    },
-    {
-      "id": "7b7a6e2f3d7f9989",
-      "title": "Teenage Engineering's first CD player kind of looks like a turntable",
-      "summary": "The EP/BC-1 costs $329 and marks the start of a new line of \"broadcast\" audio equipment.",
-      "link": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable",
-      "published": "2026-11-20T18:53:49Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg"
-    },
-    {
-      "id": "3afdf5a7b1a6fd8a",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said…",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "published": "2026-11-20T18:50:19Z",
-      "source": "The Verge",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "afac253b26b2273d",
-      "title": "Solo durante este fin de semana: Dyson tira el precio de varios de sus dispositivos estrella",
-      "summary": "Este fin de semana no somos pocos los que vamos a aprovechar nuestro tiempo libre para revisar las mejores ofertas del Black Friday . Tenemos descuentos en prácticamente todas las tiendas, por lo que toca buscar aquello que queremos o necesitamos. Ahora bien, cuidado: hay ofertas temporales que duran muy poco , como…",
-      "link": "https://www.xataka.com/seleccion/solo-durante-este-fin-semana-dyson-tira-precio-varios-sus-dispositivos-estrella",
-      "published": "2026-11-20T18:46:21Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/aa3ac7/ofertas-dyson-fin-de-semana-black-friday/1024_2000.jpeg"
-    },
-    {
-      "id": "6b63369bee458e80",
-      "title": "Here's everything GTA+ gets you in GTA 6: Is it worth $8 a month?",
-      "summary": "A GTA+ membership adds a few extras to GTA 6 for $8 a month. Here's what's included and which players are most likely to get their money's worth.",
-      "link": "https://www.engadget.com/2323323/gta-plus-benefits-gta-6-is-it-worth-it",
-      "published": "2026-11-20T18:27:59Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/heres-everything-gta-gets-you-in-gta-6-is-it-worth-8month/l-intro-1795197527.jpg"
-    },
-    {
-      "id": "502ba4456945bd31",
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has…",
-      "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "published": "2026-11-20T18:15:00Z",
-      "source": "The Verge",
-      "category": "Tecnología",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "574c9ec42463fa9c",
-      "title": "El chollo del Black Friday de Lidl (por menos de 20 euros): una máquina de palomitas ideal para las tardes de peli, sofá y manta",
-      "summary": "Uno de los planes favoritos para muchos en la temporada de otoño-invierno es montarse una buena sesión de cine en el salón. Y si hay un complemento imprescindible para acompañar una película o maratón de series sin gastar de más, son unas palomitas recién hechas. Dentro de la Black Week de Lidl, hemos encontrado…",
-      "link": "https://www.xataka.com/seleccion/chollo-black-friday-lidl-20-euros-maquina-palomitas-ideal-para-tardes-peli-sofa-manta",
-      "published": "2026-11-20T18:00:24Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/2c549e/lidl-13-/1024_2000.jpeg"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-22T19:45:32.429032Z",
+  "generatedAt": "2026-11-23T23:57:48.246421Z",
   "count": 12,
   "items": [
+    {
+      "id": "jP9yjEDlc4k",
+      "title": "Opus just lost to the last company you'd expect...",
+      "channelTitle": "Fireship",
+      "published": "2026-11-23T19:14:30Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jP9yjEDlc4k/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=jP9yjEDlc4k"
+    },
     {
       "id": "BshJxCaAJwE",
       "title": "Does Scheduling Instagram Posts Affect Your Engagement or Reach?",
@@ -100,15 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=1FurWDiK9A4"
-    },
-    {
-      "id": "pf5tXJZM1Rw",
-      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
-      "channelTitle": "Fireship",
-      "published": "2026-11-09T21:04:16Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=pf5tXJZM1Rw"
     }
   ]
 }

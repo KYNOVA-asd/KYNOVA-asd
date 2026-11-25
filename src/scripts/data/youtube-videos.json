@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-11-23T23:57:48.246421Z",
+  "generatedAt": "2026-11-25T21:45:16.813077Z",
   "count": 12,
   "items": [
+    {
+      "id": "Jatwf_XOncE",
+      "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
+      "channelTitle": "Fireship",
+      "published": "2026-11-25T17:19:51Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jatwf_XOncE/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=Jatwf_XOncE"
+    },
+    {
+      "id": "NABDvjO5fDw",
+      "title": "How to schedule threads on X, Threads and Bluesky in Metricool",
+      "channelTitle": "Metricool",
+      "published": "2026-11-25T11:00:13Z",
+      "category": "Marketing",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NABDvjO5fDw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=NABDvjO5fDw"
+    },
     {
       "id": "jP9yjEDlc4k",
       "title": "Opus just lost to the last company you'd expect...",
@@ -91,24 +109,6 @@
       "category": "Marketing",
       "thumbnailUrl": "https://i.ytimg.com/vi/TvzZsWh4OhY/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=TvzZsWh4OhY"
-    },
-    {
-      "id": "91HFNjV5HYo",
-      "title": "our social media routine",
-      "channelTitle": "Metricool",
-      "published": "2026-11-10T21:31:42Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/91HFNjV5HYo/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=91HFNjV5HYo"
-    },
-    {
-      "id": "1FurWDiK9A4",
-      "title": "Did Anthropic just save its $1 trillion IPO?",
-      "channelTitle": "Fireship",
-      "published": "2026-11-10T18:19:55Z",
-      "category": "Dev",
-      "thumbnailUrl": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=1FurWDiK9A4"
     }
   ]
 }

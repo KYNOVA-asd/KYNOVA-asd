@@ -1,126 +1,126 @@
 {
-  "generatedAt": "2026-11-26T08:27:08.156960Z",
+  "generatedAt": "2026-11-26T21:38:33.071358Z",
   "count": 12,
   "items": [
     {
-      "id": "bdba018ad4c92b05",
-      "title": "Hay un modelo de IA local que está causando furor. Se llama Inkling 2 Mini y tenemos sorpresa: no es chino",
-      "summary": "El pasado 5 de noviembre Thinking Machines Lab , la startup de Mira Murati, presentaba su modelo Inkling 2 Mini sin demasiada fanfarria. En tan solo tres semanas el modelo se ha convertido en una de las sensaciones de los expertos en IA, y hay buenas razones para ello. Es bueno, es bonito, es barato, y además es muy,…",
-      "link": "https://www.xataka.com/robotica-e-ia/hay-modelo-ia-local-que-esta-causando-furor-se-llama-inkling-2-mini-tenemos-sorpresa-no-chino",
-      "published": "2026-11-26T08:15:38Z",
-      "source": "Xataka",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://i.blogs.es/8da5ad/murati/1024_2000.jpeg"
-    },
-    {
-      "id": "8111b052368d679f",
-      "title": "En 2014, EEUU envió a sus marines al Pirineo español. Su capitán regresó con una revelación: \"Son auténticos expertos en guerra de montaña\"",
-      "summary": "Estados Unidos dispone de centros de entrenamiento militar repartidos por todo el planeta y de algunos de los escenarios naturales más exigentes del mundo. Sin embargo, en 2014, cuando un grupo de marines quiso perfeccionar sus conocimientos sobre la guerra de montaña, puso rumbo a una estación de esquí del Pirineo…",
-      "link": "https://www.xataka.com/magnet/2014-eeuu-envio-a-sus-marines-al-pirineo-espanol-su-capitan-regreso-revelacion-autenticos-expertos-guerra-montana",
-      "published": "2026-11-26T08:12:00Z",
+      "id": "ac4542b4d5cc5c97",
+      "title": "Países Bajos se planta ante EEUU por las restricciones a las máquinas de ASML",
+      "summary": "Durante los últimos años hemos visto cómo Estados Unidos ha intentado limitar el acceso de China a determinadas tecnologías de fabricación de semiconductores. Es una estrategia en la que ha necesitado la colaboración de otros países, porque no todo el conocimiento ni todos los equipos necesarios para fabricar chips…",
+      "link": "https://www.xataka.com/empresas-y-economia/paises-bajos-se-planta-eeuu-restricciones-a-maquinas-asml",
+      "published": "2026-11-26T21:30:26Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/a014cd/candanchu_enfocada/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/b28925/asml_euv_nxe3800e_source_main_module_floor_subfab_0286/1024_2000.jpeg"
     },
     {
-      "id": "f64d50828814066c",
-      "title": "Según los psicólogos, las personas que crecieron en los años 60 y 70 desarrollaron fortalezas mentales que la Generación Z está perdiendo",
-      "summary": "Tenían que esperar unos días para recibir una carta, para que revelaran el carrete de fotos para poder ver las vacaciones, los programas de televisión eran en horario fijo… Una hipótesis sobre quienes crecieron en los años 60 y 70 es que, al crecer con menos inmediatez, aprendieron a ser más pacientes . Además,…",
-      "link": "https://www.genbeta.com/actualidad/psicologos-personas-que-crecieron-anos-60-70-desarrollaron-fortalezas-mentales-que-generacion-z-esta-perdiendo",
-      "published": "2026-11-26T08:00:28Z",
+      "id": "6e319c9cb5558aab",
+      "title": "Backloggd urges users to change their passwords after a breach",
+      "summary": "If you use Backloggd, you might need to log in again and reset your password.",
+      "link": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset",
+      "published": "2026-11-26T21:26:47Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/backloggd-urges-users-to-change-their-passwords-after-a-breach/l-intro-1795728014.jpg"
+    },
+    {
+      "id": "ab796c00b49ebd07",
+      "title": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
+      "summary": "Mantener en funcionamiento los servicios digitales que utilizamos a diario exige encontrar un equilibrio entre dos necesidades: proteger los sistemas frente a posibles ataques y garantizar que las intervenciones destinadas a mejorar su seguridad no comprometan su funcionamiento. La llegada de herramientas de…",
+      "link": "https://www.xataka.com/seguridad/tenemos-que-prepararnos-para-proximos-meses-presidente-microsoft-alerta-riesgo-caidas-ligado-a-ia",
+      "published": "2026-11-26T21:00:29Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/5dca5f/brad-smith-president-microsoft-/1024_2000.jpeg"
+    },
+    {
+      "id": "db806ae0be60040d",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]",
+      "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "published": "2026-11-26T21:00:00Z",
+      "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "cde11f207edff7e8",
+      "title": "1Password says it was hacked but users' vaults are safe",
+      "summary": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+      "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe",
+      "published": "2026-11-26T20:00:00Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/1password-says-it-was-hacked-but-users-vaults-are-safe/l-intro-1795678680.jpg"
+    },
+    {
+      "id": "78a8a74658c3005f",
+      "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+      "summary": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.",
+      "link": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday",
+      "published": "2026-11-26T19:44:49Z",
+      "source": "Engadget",
+      "category": "Tecnología",
+      "imageUrl": "https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795728490.jpg"
+    },
+    {
+      "id": "20927d5a576d0165",
+      "title": "Paula, 23 años: \"He durado un día en el trabajo. Tanto tiempo buscando, por fin consigo empleo y al final no me gusta\"",
+      "summary": "Paula tiene 23 años y llevaba bastante tiempo buscando trabajo hasta que, por fin, consiguió que la contrataran. El problema llegó cuando empezó a conocer el puesto y se dio cuenta de que no era lo que esperaba. Solo necesitó un día para decidir que no quería volver , una experiencia que ha compartido en su cuenta de…",
+      "link": "https://www.genbeta.com/actualidad/paula-23-anos-he-durado-dia-trabajo-tiempo-buscando-fin-consigo-empleo-al-final-no-me-gusta",
+      "published": "2026-11-26T19:00:23Z",
       "source": "Genbeta",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/ac1dd1/jovenes/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/910905/genbeta-2-joven-trabajo/1024_2000.jpeg"
     },
     {
-      "id": "bef6692625a3ade6",
-      "title": "Un oso pardo ha muerto de un disparo durante una batida de jabalíes en Picos de Europa. Ahora hay una investigación abierta",
-      "summary": "El viernes 20 de noviembre se rastreó la zona y no apareció ningún indicio de oso. Sin embargo, al día siguiente, en Posada de Valdeón, dentro del Parque Nacional de los Picos de Europa, un disparo mataba a un oso pardo durante una batida de jabalíes. Este es uno de los grandes refugios del oso pardo en la cordillera…",
-      "link": "https://www.xataka.com/magnet/oso-pardo-ha-muerto-disparo-durante-batida-jabalies-picos-europa-ahora-hay-investigacion-abierta",
-      "published": "2026-11-26T08:00:27Z",
+      "id": "e2a1f362c5dac84d",
+      "title": "Podíais elegir cualquier producto para el premio de la comunidad. El ganador ha sido el Xiaomi 17 Ultra",
+      "summary": "Con la resaca de la gala de los Premios Xataka Verisure 2026 todavía reciente, toca mirar los resultados con calma. Y hay uno que merece una explicación aparte: el Premio de la Comunidad, que ha ido a parar a un móvil que no quedó el primero en su categoría: Xiaomi 17 Ultra . Puede parecer paradójico, pero el Xiaomi…",
+      "link": "https://www.xataka.com/telefono-movil/podiais-elegir-cualquier-producto-para-premio-comunidad-ganador-ha-sido-xiaomi-17-ultra",
+      "published": "2026-11-26T19:00:17Z",
       "source": "Xataka",
       "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/99229f/53521371534_4819649487_k/1024_2000.jpeg"
+      "imageUrl": "https://i.blogs.es/c06ece/premio-de-la-comunidad-xataka/1024_2000.jpeg"
     },
     {
-      "id": "7162d24f712cbaa5",
-      "title": "Moritz Schularick, economista alemán: \"Deberíamos vender Volkswagen a los chinos mientras consigamos algo\"",
-      "summary": "Sin medias tintas. Moritz Schularick, presidente del Instituto de Economía Mundial de Kiel (centro de investigación y asesoramiento económico con gran renombre en Alemania) apuesta por vender \"cierta marca de Wolfsburgo\" a China. Las declaraciones las ha pronunciado en la conferencia industrial del Ministerio Federal…",
-      "link": "https://www.xataka.com/movilidad/moritz-schularick-economista-aleman-deberiamos-vender-volkswagen-a-chinos-consigamos-algo",
-      "published": "2026-11-26T07:52:30Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/fd865e/vw/1024_2000.jpeg"
-    },
-    {
-      "id": "1e52601c74885c64",
-      "title": "Las gangas del día hoy, 26 de noviembre en Amazon, PcComponentes y más",
-      "summary": "Aunque el Black Friday oficial de 2026 tendrá lugar mañana, viernes 27 de noviembre, muchas tiendas tienen aplicadas cientos de descuentos desde hace semanas. Y estas son algunas de las mejores (y mayores) rebajas que encontramos hoy, jueves 26: roborock Qrevo 2 Pro Set Hoy en Amazon — 299,00 € PcComponentes — 299,00…",
-      "link": "https://www.xataka.com/seleccion/gangas-dia-hoy-26-noviembre-amazon-pccomponentes",
-      "published": "2026-11-26T07:46:18Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/734531/gangas-hoy/1024_2000.jpeg"
-    },
-    {
-      "id": "f167ae115a18432d",
-      "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
-      "summary": "Elon Musk's Neuralink has received FDA permission to launch the first trial for its brain-computer interface.",
-      "link": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients",
-      "published": "2026-11-26T07:28:21Z",
-      "source": "Engadget",
-      "category": "Tecnología",
-      "imageUrl": "https://www.engadget.com/img/gallery/neuralink-receives-fda-approval-for-pivotal-brain-implant-trial-in-als-patients/l-intro-1795677911.jpg"
-    },
-    {
-      "id": "c63ffc7ff8716463",
-      "title": "Rusia acaba de conseguir que Corea del Sur haga algo inédito: mandar a toda una isla a los refugios antiaéreos",
-      "summary": "Una pequeña isla volcánica situada frente a la costa oriental de Corea del Sur se ha convertido en el escenario de un incidente militar sin precedentes. Lo ocurrido el martes ilustra hasta qué punto las tensiones entre Rusia y los aliados de Estados Unidos han trascendido las fronteras de Europa. Tres minutos de…",
-      "link": "https://www.xataka.com/magnet/rusia-acaba-conseguir-que-corea-sur-haga-algo-inedito-mandar-a-toda-isla-a-refugios-antiaereos",
-      "published": "2026-11-26T07:00:28Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/a4d811/tu160-restaurada/1024_2000.jpeg"
-    },
-    {
-      "id": "764e80dffb2d8fc8",
-      "title": "El calefactor retro y de colores que querrás para tu casa este invierno está rebajado en el Black Friday",
-      "summary": "El Black Friday es uno de esos momentos del año en el que solemos esperar para comprar muchas de las cosas que llevamos queriendo desde hace tiempo, los regalos de Navidad o incluso equipar nuestro hogar de cara al frío del invierno.  Para esto último, en Amazon hemos encontrado un calefactor de bajo consumo que…",
-      "link": "https://www.xataka.com/seleccion/calefactor-retro-colores-que-querras-para-tu-casa-este-invierno-esta-rebajado-black-friday",
-      "published": "2026-11-26T06:57:00Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/bca3ef/create-warm-handy/1024_2000.jpeg"
-    },
-    {
-      "id": "9c2b9c81d13bfdfd",
-      "title": "New York state bans AI chatbot toys for kids",
-      "summary": "New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.",
-      "link": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids",
-      "published": "2026-11-26T06:02:48Z",
-      "source": "Engadget",
-      "category": "Inteligencia Artificial",
-      "imageUrl": "https://www.engadget.com/img/gallery/new-york-state-bans-ai-chatbot-toys-for-kids/l-intro-1795672791.jpg"
-    },
-    {
-      "id": "11be3f94f8a7f3c3",
-      "title": "En Jerez, un hombre con tres órdenes judiciales para ir a prisión aparece haciendo ejercicio tranquilamente en el gimnasio de un polígono",
-      "summary": "Dos años en paradero desconocido. Tres órdenes de ingreso en prisión. Y, aun así, la Policía lo encontró en ese lugar donde cualquiera puede entrar con mochila e ir a su bola: el gimnasio de un polígono. Esconderse de la justicia suena a vida de película pero, en la práctica, suele ser una cuestión de rutinas. En…",
-      "link": "https://www.xataka.com/magnet/jerez-hombre-tres-ordenes-judiciales-para-ir-a-prision-aparece-haciendo-ejercicio-tranquilamente-gimnasio-poligono",
-      "published": "2026-11-26T06:02:20Z",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "imageUrl": "https://i.blogs.es/f8af02/poli/1024_2000.jpeg"
-    },
-    {
-      "id": "54e67f56863fdec1",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home…",
-      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "published": "2026-11-26T00:04:34Z",
+      "id": "b7095d70f93168da",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]",
+      "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "published": "2026-11-26T19:00:00Z",
       "source": "The Verge",
+      "category": "Tecnología",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "72ac4db0c6d85bb4",
+      "title": "El Black Friday de FRITZ! es la oportunidad perfecta para comprar un router o un sistema mesh de calidad al mejor precio",
+      "summary": "El esperadísimo día está a punto de llegar. Mañana mismo será el Black Friday , el día más importante del año para hacer cualquier tipo de compra. Aunque lo más popular durante estas fechas suelen ser móviles, televisores, electrodomésticos y similares, lo cierto es que hay otro tipo de dispositivos que deberían ser…",
+      "link": "https://www.xataka.com/seleccion/black-friday-fritz-oportunidad-perfecta-para-comprar-router-sistema-mesh-calidad-al-mejor-precio",
+      "published": "2026-11-26T18:18:20Z",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "imageUrl": "https://i.blogs.es/759376/article_cover-image_1350x900px_blackweek-txt/1024_2000.jpeg"
+    },
+    {
+      "id": "ea88a7ef654da80f",
+      "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+      "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+      "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia",
+      "published": "2026-11-26T18:09:18Z",
+      "source": "Engadget",
       "category": "Inteligencia Artificial",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://www.engadget.com/img/gallery/nvidia-reportedly-halts-ai-chip-shipments-to-southeast-asia/l-intro-1795716287.jpg"
+    },
+    {
+      "id": "06df2f7426158dc3",
+      "title": "SpaceX tiene luz verde para desplegar un millón de satélites con centros de datos: no es por la IA es por la energía",
+      "summary": "La Comisión Federal de Comunicaciones (FCC) concedió a SpaceX un permiso sin precedentes: puede lanzar hasta un millón de satélites para construir una constelación de pequeños centros de datos en órbita conectados entre sí. El proyecto se llama Starmind y el regulador lo presentó como la primera autorización de este…",
+      "link": "https://www.xataka.com/espacio/spacex-tiene-luz-verde-para-desplegar-millon-satelites-centros-datos-no-ia-energia",
+      "published": "2026-11-26T17:33:44Z",
+      "source": "Xataka",
+      "category": "Inteligencia Artificial",
+      "imageUrl": "https://i.blogs.es/6cbaf6/satelites-starmind/1024_2000.jpeg"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-25T21:45:16.813077Z",
+  "generatedAt": "2026-11-27T21:22:40.340466Z",
   "count": 12,
   "items": [
+    {
+      "id": "sPGzM3ktJVE",
+      "title": "The wild world of tech in 2027...",
+      "channelTitle": "Fireship",
+      "published": "2026-11-27T16:08:25Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sPGzM3ktJVE/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=sPGzM3ktJVE"
+    },
     {
       "id": "Jatwf_XOncE",
       "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
@@ -100,15 +109,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/SOwUWPtXQ9I/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=SOwUWPtXQ9I"
-    },
-    {
-      "id": "TvzZsWh4OhY",
-      "title": "How to Beat Social Media Burnout as a Creator",
-      "channelTitle": "Metricool",
-      "published": "2026-11-12T21:05:29Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TvzZsWh4OhY/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=TvzZsWh4OhY"
     }
   ]
 }

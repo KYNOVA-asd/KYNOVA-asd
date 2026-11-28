@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:22:40.340466Z",
+  "generatedAt": "2026-11-28T07:55:38.336855Z",
   "count": 12,
   "items": [
     {
@@ -21,15 +21,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=Jatwf_XOncE"
     },
     {
-      "id": "NABDvjO5fDw",
-      "title": "How to schedule threads on X, Threads and Bluesky in Metricool",
-      "channelTitle": "Metricool",
-      "published": "2026-11-25T11:00:13Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NABDvjO5fDw/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=NABDvjO5fDw"
-    },
-    {
       "id": "jP9yjEDlc4k",
       "title": "Opus just lost to the last company you'd expect...",
       "channelTitle": "Fireship",
@@ -37,15 +28,6 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/jP9yjEDlc4k/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=jP9yjEDlc4k"
-    },
-    {
-      "id": "BshJxCaAJwE",
-      "title": "Does Scheduling Instagram Posts Affect Your Engagement or Reach?",
-      "channelTitle": "Metricool",
-      "published": "2026-11-22T08:45:34Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/BshJxCaAJwE/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=BshJxCaAJwE"
     },
     {
       "id": "rMaMe32qQkA",
@@ -75,15 +57,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=Qxor6jpfSiU"
     },
     {
-      "id": "YZZ9kOSko04",
-      "title": "How to edit images and videos in the Metricool planner",
-      "channelTitle": "Metricool",
-      "published": "2026-11-18T11:00:13Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YZZ9kOSko04/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=YZZ9kOSko04"
-    },
-    {
       "id": "ytmawkPTP24",
       "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
       "channelTitle": "Fireship",
@@ -93,15 +66,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=ytmawkPTP24"
     },
     {
-      "id": "bd5iCwPSfwM",
-      "title": "Notion Social Media Planner: Schedule a Month of Posts with Claude (Free Template)",
-      "channelTitle": "Metricool",
-      "published": "2026-11-15T08:45:16Z",
-      "category": "Marketing",
-      "thumbnailUrl": "https://i.ytimg.com/vi/bd5iCwPSfwM/hqdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=bd5iCwPSfwM"
-    },
-    {
       "id": "SOwUWPtXQ9I",
       "title": "Jensen Huang just pulled out of Nvidia...",
       "channelTitle": "Fireship",
@@ -109,6 +73,42 @@
       "category": "Dev",
       "thumbnailUrl": "https://i.ytimg.com/vi/SOwUWPtXQ9I/hqdefault.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=SOwUWPtXQ9I"
+    },
+    {
+      "id": "1FurWDiK9A4",
+      "title": "Did Anthropic just save its $1 trillion IPO?",
+      "channelTitle": "Fireship",
+      "published": "2026-11-10T18:19:55Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=1FurWDiK9A4"
+    },
+    {
+      "id": "pf5tXJZM1Rw",
+      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
+      "channelTitle": "Fireship",
+      "published": "2026-11-09T21:04:16Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=pf5tXJZM1Rw"
+    },
+    {
+      "id": "iw9SZgyahqg",
+      "title": "The one thing holding theoretical CS together just broke... kinda",
+      "channelTitle": "Fireship",
+      "published": "2026-11-06T16:42:38Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=iw9SZgyahqg"
+    },
+    {
+      "id": "k2ruCf_z75I",
+      "title": "The worst week in cybersecurity history... so far",
+      "channelTitle": "Fireship",
+      "published": "2026-11-03T19:47:10Z",
+      "category": "Dev",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=k2ruCf_z75I"
     }
   ]
 }
